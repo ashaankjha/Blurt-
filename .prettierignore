@@ -1,0 +1,4 @@
+content/packs/*.json
+node_modules
+.expo
+dist
