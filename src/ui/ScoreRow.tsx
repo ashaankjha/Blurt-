@@ -81,7 +81,7 @@ export function ScoreRow({ team, score, target, highlight, delta, testID }: Scor
       </View>
 
       <View style={{ flex: 1, gap: spacing.xs }}>
-        <AppText variant="heading" numberOfLines={1} accessibilityRole="text">
+        <AppText variant="heading" numberOfLines={2} accessibilityRole="text">
           {highlight ? `👑 ${team.name}` : team.name}
         </AppText>
         {target <= MAX_PIPS ? (
