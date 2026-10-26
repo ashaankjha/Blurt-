@@ -1,11 +1,11 @@
 /**
  * Tiny synchronous key-value store used by the content runtime and the settings store.
  *
- * The app uses `expo-sqlite/kv-store` (SQLite-backed, sync API). Tests inject `createMemoryKV()`;
+ * The app uses `expo-sqlite/kv-store` (SQLite-backed, sync API; localStorage on web, see kvBackend.web.ts). Tests inject `createMemoryKV()`;
  * `src/content/jest.setup.ts` also mocks `expo-sqlite/kv-store` globally so code that uses the
  * default `kv` works under Jest without native modules.
  */
-import { Storage } from 'expo-sqlite/kv-store';
+import { defaultStorage, type SyncStorage } from './kvBackend';
 
 export interface KV {
   get(key: string): string | null;
@@ -44,9 +44,7 @@ function warn(op: string, key: string, error: unknown) {
  * KV over expo-sqlite/kv-store. Failures are swallowed (and logged in dev): losing a write must
  * never crash a party game mid-round.
  */
-export function createSqliteKV(
-  storage: Pick<typeof Storage, 'getItemSync' | 'setItemSync' | 'removeItemSync' | 'getAllKeysSync'> = Storage,
-): KV {
+export function createSqliteKV(storage: SyncStorage = defaultStorage): KV {
   return {
     get(key) {
       try {
