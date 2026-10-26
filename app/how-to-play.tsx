@@ -36,7 +36,7 @@ const STEPS: Step[] = [
     art: '💣💥',
     bg: '#D9478F',
     title: "Don't get caught",
-    body: `A hidden fuse ticks faster and faster. Whoever holds the phone when it blows gives every other team a point. First to ${DEFAULTS.targetScore} wins!`,
+    body: `A hidden fuse ticks faster and faster. Whoever holds the phone when it blows gives every other team a point. First to ${DEFAULTS.targetScore} wins! Tied at the top? Sudden death: play on until one team pulls ahead.`,
   },
 ];
 

@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState } from 'react';
 import { AccessibilityInfo, Animated, Platform, StyleSheet, View } from 'react-native';
 
+import { suddenDeath } from '../src/engine';
 import { useGame } from '../src/store/game';
 import { AppText, Button, Card, findTeamColor, palette, Screen, ScoreRow, spacing, useTheme } from '../src/ui';
 
@@ -21,6 +22,7 @@ export default function Caught() {
       : caughtTeam.name
     : 'Someone';
   const headline = `${who} got caught!`;
+  const tied = game ? suddenDeath(game) !== null : false;
 
   // Full-screen flash, then settle on the caught team's color.
   useEffect(() => {
@@ -31,12 +33,13 @@ export default function Caught() {
   }, [flash, reduceMotion]);
 
   useEffect(() => {
-    AccessibilityInfo.announceForAccessibility?.(headline);
-  }, [headline]);
+    AccessibilityInfo.announceForAccessibility?.(tied ? `${headline} Tied at the top: sudden death!` : headline);
+  }, [headline, tied]);
 
   if (!game) return null;
 
   const target = game.settings.targetScore;
+  const best = Math.max(...game.settings.teams.map((t) => game.scores[t.id] ?? 0));
 
   return (
     <Screen
@@ -62,6 +65,11 @@ export default function Caught() {
           <AppText variant="body" align="center" color={dark.text}>
             {game.settings.teams.length === 2 ? 'The other team scores!' : 'Every other team scores!'}
           </AppText>
+          {tied ? (
+            <AppText variant="heading" align="center" color={dark.text} testID="caught-sudden-death">
+              🔥 Tied at the top: sudden death!
+            </AppText>
+          ) : null}
         </View>
 
         <Card>
@@ -74,7 +82,7 @@ export default function Caught() {
                   team={team}
                   score={game.scores[team.id] ?? 0}
                   target={target}
-                  highlight={!scored}
+                  highlight={best > 0 && (game.scores[team.id] ?? 0) === best}
                   delta={scored && last ? 1 : undefined}
                   testID={`caught-score-${team.id}`}
                 />
