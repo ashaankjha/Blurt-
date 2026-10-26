@@ -48,8 +48,13 @@ function StepButton({
 }
 
 /**
- * Label + [−] value [+]. Clamps to [min, max]; the buttons disable at the ends. For screen
- * readers the whole row is one "adjustable" element (swipe up/down to change).
+ * Label + [−] value [+]. Clamps to [min, max]; the buttons disable at the ends.
+ *
+ * Accessibility: the label is one "adjustable" element (`testID`) that announces the value and
+ * takes increment/decrement actions (VoiceOver/TalkBack swipe up/down). The −/+ buttons
+ * (`${testID}-dec` / `-inc`) and the value (`${testID}-value`) stay separate accessible elements,
+ * like a native UIStepper, so Voice Control, Switch Control and UI automation (XCUITest/Maestro,
+ * which hides the children of an accessible element) can reach them.
  */
 export function Stepper({ label, value, min, max, step = 1, onChange, format, testID }: StepperProps) {
   const { colors } = useTheme();
@@ -61,17 +66,17 @@ export function Stepper({ label, value, min, max, step = 1, onChange, format, te
     if (e.nativeEvent.actionName === 'decrement' && dec !== value) onChange(dec);
   };
   return (
-    <View
-      testID={testID}
-      accessible
-      accessibilityRole="adjustable"
-      accessibilityLabel={label}
-      accessibilityValue={{ min, max, now: value, text }}
-      accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
-      onAccessibilityAction={onAction}
-      style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm, flexWrap: 'wrap' }}
-    >
-      <View style={{ flex: 1, minWidth: 120 }}>
+    <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm, flexWrap: 'wrap' }}>
+      <View
+        testID={testID}
+        accessible
+        accessibilityRole="adjustable"
+        accessibilityLabel={label}
+        accessibilityValue={{ min, max, now: value, text }}
+        accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
+        onAccessibilityAction={onAction}
+        style={{ flex: 1, minWidth: 120, minHeight: minTouch, justifyContent: 'center' }}
+      >
         <AppText variant="label">{label}</AppText>
       </View>
       <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm }}>

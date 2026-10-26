@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from '@testing-library/react-native';
+import { fireEvent, render, screen, within } from '@testing-library/react-native';
 import { useState } from 'react';
 import { Text } from 'react-native';
 
@@ -206,6 +206,25 @@ describe('Stepper', () => {
     expect(screen.getByLabelText('Decrease Points')).toBeDisabled();
     await fireEvent(row, 'accessibilityAction', a11yAction('increment'));
     expect(screen.getByTestId('st-value')).toHaveTextContent('4');
+  });
+
+  it('is one adjustable element for screen readers, with the buttons outside it for automation', async () => {
+    await render(<Harness start={5} />);
+    const adjustable = screen.getByRole('adjustable', { name: 'Points' });
+    expect(adjustable).toBe(screen.getByTestId('st'));
+    expect(adjustable).toHaveAccessibilityValue({ now: 5, text: '5' });
+    // XCUITest hides every descendant of an accessible element, so no control may sit inside one.
+    for (const id of ['st-dec', 'st-inc', 'st-value']) {
+      const el = screen.getByTestId(id);
+      expect(within(adjustable).queryByTestId(id)).toBeNull();
+      let parent = el.parent;
+      while (parent) {
+        expect(parent.props.accessible).not.toBe(true);
+        parent = parent.parent;
+      }
+    }
+    expect(screen.getByRole('button', { name: 'Decrease Points' })).toBeTruthy();
+    expect(screen.getByRole('button', { name: 'Increase Points' })).toBeTruthy();
   });
 });
 
