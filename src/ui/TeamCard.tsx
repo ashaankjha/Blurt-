@@ -1,6 +1,7 @@
 import { Pressable, Text, TextInput, View } from 'react-native';
 
 import { AppText } from './AppText';
+import { ariaProps } from './a11y';
 import { Button, IconButton } from './Button';
 import { Card } from './Card';
 import { readableTextOn } from './color';
@@ -113,6 +114,7 @@ export function TeamCard({
                   accessibilityRole="radio"
                   accessibilityLabel={taken ? `${c.name}, taken by another team` : c.name}
                   accessibilityState={{ checked: selected, selected, disabled: taken }}
+                  {...ariaProps({ checked: selected, selected, disabled: taken })}
                   style={{
                     width: minTouch,
                     height: minTouch,

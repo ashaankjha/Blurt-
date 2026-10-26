@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 
 import { AppText } from './AppText';
+import { ariaProps } from './a11y';
 import { moveThumb, nearestThumb, fromFraction, toFraction, type Thumb } from './rangeMath';
 import { chunkyShadow, fonts, fontSizes, minTouch, radii, spacing } from './tokens';
 import { useTheme } from './theme';
@@ -103,6 +104,7 @@ export function RangeSlider({ label, min, max, step, low, high, onChange, format
         accessibilityRole="adjustable"
         accessibilityLabel={`${label}, ${thumb === 'low' ? 'minimum' : 'maximum'}`}
         accessibilityValue={{ min, max, now: v, text: f(v) }}
+        {...ariaProps(null, { min, max, now: v, text: f(v) })}
         accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
         onAccessibilityAction={onThumbAction(thumb)}
         style={{

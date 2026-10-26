@@ -50,7 +50,7 @@ export default function Caught() {
       <StatusBar style="light" />
       <View style={{ flex: 1, justifyContent: 'center', gap: spacing.lg }}>
         <View style={{ alignItems: 'center', gap: spacing.sm }}>
-          <AppText variant="display" align="center" color={dark.text}>
+          <AppText variant="display" align="center" color={dark.text} decorative>
             💥
           </AppText>
           <AppText

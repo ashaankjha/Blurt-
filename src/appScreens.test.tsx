@@ -2,14 +2,19 @@
  * Screen tests for app/ routes. They live in src/ because Expo Router turns every file under app/
  * (tests included) into a route.
  */
-import { act, render, screen } from '@testing-library/react-native';
+import { act, fireEvent, render, screen } from '@testing-library/react-native';
+import { AccessibilityInfo, Alert } from 'react-native';
 
 import Caught from '../app/caught';
+import Home from '../app/index';
 import Scoreboard from '../app/scoreboard';
+import Settings from '../app/settings';
+import Setup from '../app/setup';
 import Win from '../app/win';
 import { createGame, reduce, type GameSettings, type GameState } from './engine';
 import { useGame } from './store/game';
 import { REVIEW_PROMPT_DELAY_MS, reviewPrompt } from './store/review';
+import { useSettings } from './store/settings';
 import { TEAM_COLORS } from './ui';
 
 const teams = (n: number) =>
@@ -103,9 +108,90 @@ describe('Caught', () => {
   });
 });
 
+describe('Accessibility (F11): Home, Setup and Settings', () => {
+  const INTERACTIVE = new Set(['button', 'switch', 'radio', 'checkbox', 'adjustable', 'search', 'link']);
+
+  /**
+   * Every interactive host element has an accessible name. (The aria-* mirrors that react-native-web
+   * needs are folded back into accessibilityState by RN's host components, so they are checked in
+   * src/ui/components.test.tsx and by the Playwright snapshot instead.)
+   */
+  function auditInteractive() {
+    type Node = { type: unknown; props: Record<string, unknown>; children: (Node | string)[] };
+    const hosts: Node[] = [];
+    const walk = (n: Node | string) => {
+      if (typeof n === 'string') return;
+      const role = (n.props.accessibilityRole ?? n.props.role) as string | undefined;
+      if (typeof n.type === 'string' && role && INTERACTIVE.has(role)) hosts.push(n);
+      n.children.forEach(walk);
+    };
+    walk(screen.container as unknown as Node);
+    expect(hosts.length).toBeGreaterThan(3);
+    for (const n of hosts) {
+      const role = n.props.accessibilityRole ?? n.props.role;
+      const name = n.props.accessibilityLabel ?? n.props['aria-label'];
+      expect({ role, testID: n.props.testID, named: typeof name === 'string' && name.trim().length > 0 }).toEqual({
+        role,
+        testID: n.props.testID,
+        named: true,
+      });
+      if (role === 'adjustable') expect(typeof (n.props.accessibilityValue as { now?: unknown })?.now).toBe('number');
+    }
+  }
+
+  beforeEach(() => {
+    useSettings.getState().set('hasSeenTutorial', true);
+  });
+
+  it('Home: named buttons and a header', async () => {
+    await render(<Home />);
+    auditInteractive();
+    expect(screen.getByRole('header', { name: 'Blurt!' })).toBeTruthy();
+    expect(screen.getByRole('button', { name: 'Quick Play' })).toBeTruthy();
+  });
+
+  it('Setup: every control is named; sections are headers; steppers and sliders are adjustable', async () => {
+    await render(<Setup />);
+    auditInteractive();
+    for (const h of ['Custom Game', 'Teams', 'Seating', 'Rules', 'Packs']) {
+      expect(screen.getByRole('header', { name: h })).toBeTruthy();
+    }
+    expect(screen.getByRole('adjustable', { name: 'Points to win' })).toBeTruthy();
+    expect(screen.getByRole('adjustable', { name: /fuse length.*minimum/ })).toBeTruthy();
+  });
+
+  it('Settings: every control is named; toggles expose checked; notices are announced', async () => {
+    const announce = jest.spyOn(AccessibilityInfo, 'announceForAccessibility');
+    await render(<Settings />);
+    auditInteractive();
+    for (const h of ['Settings', 'Sound & haptics', 'Buzzer', 'Default rules', 'Content', 'Help']) {
+      expect(screen.getByRole('header', { name: h })).toBeTruthy();
+    }
+    const sound = screen.getByRole('switch', { name: 'Sound' });
+    expect(sound).toBeChecked();
+    // Volume is disabled (not just dimmed) while sound is off.
+    await fireEvent.press(sound);
+    expect(screen.getByRole('radio', { name: '50%' })).toBeDisabled();
+    await fireEvent.press(screen.getByRole('switch', { name: 'Sound' }));
+    // Confirm the native alert by pressing its destructive button.
+    jest.spyOn(Alert, 'alert').mockImplementation((_t, _m, buttons) => {
+      buttons?.find((b) => b.style === 'destructive')?.onPress?.();
+    });
+    await fireEvent.press(screen.getByRole('button', { name: /Reset phrase history/ }));
+    expect(announce).toHaveBeenCalledWith('Phrase history cleared.');
+    jest.restoreAllMocks();
+  });
+});
+
+// Last on purpose: it runs under fake timers, which can stall the cleanup of later tests.
 describe('Win: review prompt', () => {
   beforeEach(() => jest.useFakeTimers());
-  afterEach(() => jest.useRealTimers());
+  afterEach(async () => {
+    // Flush timers queued under fake time (animations, React scheduling) before going back to
+    // real time, or the next test's cleanup waits on them forever.
+    await act(() => jest.runOnlyPendingTimers());
+    jest.useRealTimers();
+  });
 
   it('asks the review prompt after the confetti, and not if the screen is left first', async () => {
     const ask = jest.spyOn(reviewPrompt, 'maybeRequestReview').mockResolvedValue(false);

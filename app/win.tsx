@@ -71,7 +71,7 @@ export default function Win() {
       <Confetti active />
       <View style={{ gap: spacing.lg, paddingVertical: spacing.lg }}>
         <View style={{ alignItems: 'center', gap: spacing.xs }}>
-          <AppText variant="display" align="center">
+          <AppText variant="display" align="center" decorative>
             🏆
           </AppText>
           <AppText variant="display" align="center" accessibilityRole="header" testID="win-headline">

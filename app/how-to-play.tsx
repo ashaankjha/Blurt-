@@ -41,7 +41,7 @@ const STEPS: Step[] = [
 ];
 
 export default function HowToPlay() {
-  const { colors, spacing, radii } = useTheme();
+  const { colors, spacing, radii, reduceMotion } = useTheme();
   const [page, setPage] = useState(0);
   const [width, setWidth] = useState(0);
   const scroller = useRef<ScrollViewInstance>(null);
@@ -60,7 +60,7 @@ export default function HowToPlay() {
     setTimeout(() => {
       if (scrollingTo.current === i) scrollingTo.current = null;
     }, 800);
-    scroller.current?.scrollTo({ x: i * width, animated: true });
+    scroller.current?.scrollTo({ x: i * width, animated: !reduceMotion });
   };
 
   const onScroll = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
@@ -113,8 +113,9 @@ export default function HowToPlay() {
                   accessible={false}
                   importantForAccessibility="no-hide-descendants"
                   accessibilityElementsHidden
+                  aria-hidden
                 >
-                  <AppText variant="display" align="center">
+                  <AppText variant="display" align="center" decorative>
                     {step.art}
                   </AppText>
                 </View>

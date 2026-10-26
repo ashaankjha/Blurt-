@@ -3,6 +3,7 @@ import { Pressable, Text, View, type AccessibilityActionEvent } from 'react-nati
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
 import { AppText } from './AppText';
+import { ariaProps } from './a11y';
 import { ChunkyPressable } from './Chunky';
 import { shade } from './color';
 import { stepValue } from './rangeMath';
@@ -73,6 +74,7 @@ export function Stepper({ label, value, min, max, step = 1, onChange, format, te
         accessibilityRole="adjustable"
         accessibilityLabel={label}
         accessibilityValue={{ min, max, now: value, text }}
+        {...ariaProps(null, { min, max, now: value, text })}
         accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
         onAccessibilityAction={onAction}
         style={{ flex: 1, minWidth: 120, minHeight: minTouch, justifyContent: 'center' }}
@@ -123,6 +125,7 @@ export function Segmented<T>({ label, options, value, onChange, disabled, testID
         accessibilityRole="radiogroup"
         accessibilityLabel={label}
         accessibilityState={{ disabled: !!disabled }}
+        aria-disabled={!!disabled}
         style={{
           opacity: disabled ? 0.45 : 1,
           flexDirection: 'row',
@@ -204,6 +207,7 @@ export function ToggleRow({ label, description, value, onChange, disabled, testI
       accessibilityLabel={label}
       accessibilityHint={description}
       accessibilityState={{ checked: value, disabled: !!disabled }}
+      {...ariaProps({ checked: value, disabled: !!disabled })}
       style={{
         flexDirection: 'row',
         alignItems: 'center',
