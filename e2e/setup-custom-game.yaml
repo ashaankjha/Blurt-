@@ -1,0 +1,167 @@
+# Custom Game: teams, players, shuffle, rules, packs, then play to a win with target 1.
+appId: com.ashaankjha.blurt
+name: Set up a custom game
+---
+- runFlow: subflows/launch-fresh.yaml
+- tapOn:
+    id: home-custom-game
+- assertVisible:
+    id: setup-screen
+
+# Start stays disabled until a pack is chosen (fresh install: no last packs).
+- assertVisible:
+    id: setup-start
+    enabled: false
+
+# Team 1: rename and add two players.
+- tapOn:
+    id: team-0-name
+- eraseText: 30
+- inputText: 'Llamas'
+- tapOn:
+    id: team-0-add-player
+- tapOn:
+    id: team-0-player-0
+- inputText: 'Ann'
+- tapOn:
+    id: team-0-add-player
+- tapOn:
+    id: team-0-player-1
+- inputText: 'Bo'
+- hideKeyboard
+
+# Team 2: one player.
+- scrollUntilVisible:
+    element:
+      id: team-1-add-player
+    direction: DOWN
+- tapOn:
+    id: team-1-add-player
+- tapOn:
+    id: team-1-player-0
+- inputText: 'Cy'
+- hideKeyboard
+
+# A third team gets the first unused color.
+- scrollUntilVisible:
+    element:
+      id: setup-add-team
+    direction: DOWN
+- tapOn:
+    id: setup-add-team
+- scrollUntilVisible:
+    element:
+      id: team-2
+    direction: DOWN
+
+# Random seating across the three teams.
+- scrollUntilVisible:
+    element:
+      id: setup-shuffle
+    direction: DOWN
+- tapOn:
+    id: setup-shuffle
+- assertVisible:
+    id: setup-seating
+
+# Rules: target 1, no skips, shortest fuse, chill mode on (visible fuse).
+- scrollUntilVisible:
+    element:
+      id: setup-target-dec
+    direction: DOWN
+- repeat:
+    times: 6
+    commands:
+      - tapOn:
+          id: setup-target-dec
+- assertVisible:
+    id: setup-target-value
+    text: '1'
+- scrollUntilVisible:
+    element:
+      id: setup-skips-0
+    direction: DOWN
+- tapOn:
+    id: setup-skips-0
+- scrollUntilVisible:
+    element:
+      id: setup-fuse-high
+    direction: DOWN
+# Drag both thumbs fully left (15 s). Optional: the round still ends within 75 s without it.
+- swipe:
+    from:
+      id: setup-fuse-low
+    direction: LEFT
+    optional: true
+- swipe:
+    from:
+      id: setup-fuse-high
+    direction: LEFT
+    optional: true
+- scrollUntilVisible:
+    element:
+      id: setup-chill
+    direction: DOWN
+- tapOn:
+    id: setup-chill
+- assertVisible:
+    id: setup-chill
+    checked: true
+
+# Packs: search and pick Animals.
+- scrollUntilVisible:
+    element:
+      id: setup-choose-packs
+    direction: DOWN
+- tapOn:
+    id: setup-choose-packs
+- assertVisible:
+    id: packs-screen
+- tapOn:
+    id: packs-search
+- inputText: 'Animals'
+- hideKeyboard
+- tapOn:
+    id: pack-animals
+- assertVisible:
+    id: packs-selected-count
+    text: '1 selected'
+- tapOn:
+    id: packs-done
+- assertVisible:
+    id: setup-pack-summary
+    text: '.*Animals.*'
+
+# Start: a round with a visible fuse and no Skip button.
+- tapOn:
+    id: setup-start
+- assertVisible:
+    id: round-screen
+- assertVisible:
+    id: round-fuse
+- assertNotVisible:
+    id: round-skip
+- runFlow: subflows/play-round.yaml
+- tapOn:
+    id: caught-continue
+
+# With 3 teams, both scoring teams tie on 1: no single leader yet, so keep playing until one leads.
+- repeat:
+    while:
+      notVisible:
+        id: win-screen
+    times: 10
+    commands:
+      - tapOn:
+          id: scoreboard-next
+      - runFlow: subflows/play-round.yaml
+      - tapOn:
+          id: caught-continue
+      - waitForAnimationToEnd
+- assertVisible:
+    id: win-headline
+    text: '.*wins!.*'
+- tapOn:
+    id: win-home
+- assertVisible:
+    id: home-quick-play

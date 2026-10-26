@@ -1,0 +1,83 @@
+# Quick Play to Win through the real UI (PRD section 9; Agent G "done when").
+# To keep it short, the flow first lowers "Points to win" to 1 in Settings > Default rules. Quick
+# Play uses the saved default rules, so the first fuse that blows ends the game (<= 75 s).
+appId: com.ashaankjha.blurt
+name: Quick Play to Win
+tags:
+  - smoke
+---
+- runFlow: subflows/launch-fresh.yaml
+
+# Settings: Points to win 7 -> 1.
+- tapOn:
+    id: home-settings
+- scrollUntilVisible:
+    element:
+      id: settings-target-dec
+    direction: DOWN
+- repeat:
+    times: 6
+    commands:
+      - tapOn:
+          id: settings-target-dec
+- assertVisible:
+    id: settings-target-value
+    text: '1'
+- tapOn:
+    id: settings-back
+- assertVisible:
+    text: '.*first to 1.*'
+
+# Quick Play: one tap to the first phrase.
+- tapOn:
+    id: home-quick-play
+- assertVisible:
+    id: round-screen
+- assertVisible:
+    id: round-phrase
+- assertVisible:
+    id: round-got-it
+
+# Pause hides the phrase and freezes the fuse; the holder resumes.
+- tapOn:
+    id: round-pause
+- assertVisible:
+    id: round-resume
+- assertVisible:
+    id: round-phrase-hidden
+- tapOn:
+    id: round-resume
+
+# Got it a few times, then the fuse blows.
+- runFlow: subflows/play-round.yaml
+
+# Caught -> Win (target 1).
+- tapOn:
+    id: caught-continue
+- extendedWaitUntil:
+    visible:
+      id: win-screen
+    timeout: 10000
+- assertVisible:
+    id: win-headline
+    text: '.*wins!.*'
+
+# Play Again keeps the settings and starts round 1 straight away.
+- tapOn:
+    id: win-play-again
+- assertVisible:
+    id: round-screen
+- assertVisible:
+    text: '.*Round 1.*'
+
+# Host menu (long press on pause) -> Quit -> Home.
+- longPressOn:
+    id: round-pause
+- assertVisible:
+    id: round-host-menu
+- tapOn:
+    id: round-quit
+- tapOn:
+    id: round-quit-confirm
+- assertVisible:
+    id: home-quick-play

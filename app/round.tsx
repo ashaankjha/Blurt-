@@ -1,13 +1,24 @@
 import { useKeepAwake } from 'expo-keep-awake';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useRef, useState } from 'react';
-import { AppState, Modal, Pressable, View } from 'react-native';
+import { Modal, Pressable, View } from 'react-native';
 import { useShallow } from 'zustand/react/shallow';
 
 import { LIMITS } from '../src/config';
 import { fuseProgress, holderLabel } from '../src/engine';
 import { useGame } from '../src/store/game';
-import { AppText, Button, Card, FuseBar, IconButton, palette, PhraseText, Screen, spacing } from '../src/ui';
+import {
+  AppText,
+  Button,
+  Card,
+  findTeamColor,
+  FuseBar,
+  IconButton,
+  palette,
+  PhraseText,
+  Screen,
+  spacing,
+} from '../src/ui';
 
 const dark = palette.dark;
 
@@ -46,15 +57,8 @@ export default function Round() {
     return () => clearInterval(id);
   }, [showFuse]);
 
-  // Backgrounding the app (or a phone call) pauses the fuse and hides the phrase.
-  useEffect(() => {
-    const sub = AppState.addEventListener('change', (state) => {
-      if (state === 'active') return;
-      const { game: g, pause } = useGame.getState();
-      if (g?.phase === 'playing') pause();
-    });
-    return () => sub.remove();
-  }, []);
+  // Backgrounding the app (or a phone call) pauses the fuse: handled once, app-wide, by
+  // installGameLifecycle in app/_layout.tsx. The phrase is hidden below while paused.
 
   if (!game) return null; // The root layout routes home when the game ends.
 
@@ -99,7 +103,11 @@ export default function Round() {
   };
 
   return (
-    <Screen scheme="dark" tint={team?.color} testID="round-screen">
+    <Screen
+      scheme="dark"
+      tint={team ? (findTeamColor(team.color)?.deep ?? team.color) : undefined}
+      testID="round-screen"
+    >
       <StatusBar style="light" />
 
       {/* Top bar: who holds the phone + pause (long-press = host menu). */}

@@ -3,11 +3,13 @@ import { router, Stack, usePathname } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
-import { BackHandler } from 'react-native';
+import { BackHandler, Platform } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
+import { audioService } from '../src/audio';
 import type { Phase } from '../src/engine/types';
 import { useGame } from '../src/store/game';
+import { installGameLifecycle } from '../src/store/gameLifecycle';
 import { useSettings } from '../src/store/settings';
 import { ThemeProvider } from '../src/ui';
 
@@ -83,6 +85,20 @@ const IN_GAME_OPTIONS = { gestureEnabled: false, fullScreenGestureEnabled: false
 
 export default function RootLayout() {
   const [loaded, error] = useFonts({ Baloo2_500Medium, Baloo2_700Bold, Baloo2_800ExtraBold });
+
+  // Audio settings now and on change, plus the single AppState listener that pauses a round when
+  // the app is backgrounded or interrupted (src/store/gameLifecycle.ts).
+  useEffect(() => installGameLifecycle({ game: useGame, settings: useSettings, audio: audioService }), []);
+
+  // Load every sound once, off the first-render path. Never rejects.
+  useEffect(() => {
+    void audioService.preload();
+    // Web code-splits routes (expo-router asyncRoutes); fetch the in-game screens now so nothing
+    // is downloaded mid-round. Native builds bundle every route, so this is web-only.
+    if (Platform.OS === 'web') {
+      Promise.all([import('./round'), import('./caught'), import('./scoreboard'), import('./win')]).catch(() => {});
+    }
+  }, []);
 
   useEffect(() => {
     if (loaded || error) SplashScreen.hideAsync().catch(() => {});

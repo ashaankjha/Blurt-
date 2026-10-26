@@ -2,7 +2,7 @@ import { router } from 'expo-router';
 import { useEffect, useRef } from 'react';
 import { View } from 'react-native';
 
-import { APP_NAME, DEFAULTS } from '../src/config';
+import { APP_NAME } from '../src/config';
 import { useGame } from '../src/store/game';
 import { useSettings } from '../src/store/settings';
 import { AppText, Button, Screen, useTheme } from '../src/ui';
@@ -10,6 +10,8 @@ import { AppText, Button, Screen, useTheme } from '../src/ui';
 export default function Home() {
   const { colors, spacing } = useTheme();
   const quickPlay = useGame((s) => s.quickPlay);
+  // Quick Play uses the saved default rules (Settings > Default rules).
+  const target = useSettings((s) => s.defaultRules.targetScore);
   const tutorialShown = useRef(false);
 
   // First launch only: show How to Play once (skippable); it sets hasSeenTutorial when dismissed.
@@ -41,11 +43,11 @@ export default function Home() {
             variant="primary"
             fullWidth
             onPress={quickPlay}
-            accessibilityHint={`Starts a game right away: 2 teams, all family packs, first to ${DEFAULTS.targetScore} points`}
+            accessibilityHint={`Starts a game right away: 2 teams, all family packs, first to ${target} points`}
             testID="home-quick-play"
           />
           <AppText variant="caption" align="center" color={colors.textMuted}>
-            2 teams · all family packs · first to {DEFAULTS.targetScore}
+            2 teams · all family packs · first to {target}
           </AppText>
         </View>
 
