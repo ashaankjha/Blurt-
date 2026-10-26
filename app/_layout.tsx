@@ -3,7 +3,7 @@ import { router, Stack, usePathname } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
-import { BackHandler } from 'react-native';
+import { BackHandler, Platform } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import { audioService } from '../src/audio';
@@ -93,6 +93,11 @@ export default function RootLayout() {
   // Load every sound once, off the first-render path. Never rejects.
   useEffect(() => {
     void audioService.preload();
+    // Web code-splits routes (expo-router asyncRoutes); fetch the in-game screens now so nothing
+    // is downloaded mid-round. Native builds bundle every route, so this is web-only.
+    if (Platform.OS === 'web') {
+      Promise.all([import('./round'), import('./caught'), import('./scoreboard'), import('./win')]).catch(() => {});
+    }
   }, []);
 
   useEffect(() => {
