@@ -66,6 +66,64 @@
   "phraseCount": 522
  },
  {
+  "id": "science",
+  "name": "Science",
+  "emoji": "🔬",
+  "description": "Lab coats on.",
+  "tags": [
+   "family",
+   "hard"
+  ],
+  "version": 1,
+  "phraseCount": 407
+ },
+ {
+  "id": "history",
+  "name": "History",
+  "emoji": "🏛️",
+  "description": "The past, but fun.",
+  "tags": [
+   "family",
+   "hard"
+  ],
+  "version": 1,
+  "phraseCount": 370
+ },
+ {
+  "id": "geography",
+  "name": "Geography",
+  "emoji": "🗺️",
+  "description": "Countries, capitals and natural wonders.",
+  "tags": [
+   "family",
+   "hard"
+  ],
+  "version": 1,
+  "phraseCount": 360
+ },
+ {
+  "id": "idioms-sayings",
+  "name": "Idioms & Sayings",
+  "emoji": "💬",
+  "description": "Break a leg!",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 524
+ },
+ {
+  "id": "famous-phrases",
+  "name": "Famous Phrases",
+  "emoji": "📣",
+  "description": "Quotes, catchphrases and slogans.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 355
+ },
+ {
   "id": "sports",
   "name": "Sports",
   "emoji": "🏀",
@@ -75,6 +133,28 @@
   ],
   "version": 1,
   "phraseCount": 850
+ },
+ {
+  "id": "holidays",
+  "name": "Holidays",
+  "emoji": "🎃",
+  "description": "Celebrations all year round.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 312
+ },
+ {
+  "id": "fantasy-myth",
+  "name": "Fantasy & Myth",
+  "emoji": "🐉",
+  "description": "Dragons, wizards and gods.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 302
  },
  {
   "id": "brands",
@@ -109,6 +189,30 @@
   ],
   "version": 1,
   "phraseCount": 675
+ },
+ {
+  "id": "nyc",
+  "name": "NYC",
+  "emoji": "🗽",
+  "description": "The Big Apple, borough to borough.",
+  "tags": [
+   "family",
+   "local"
+  ],
+  "version": 1,
+  "phraseCount": 258
+ },
+ {
+  "id": "road-trip-usa",
+  "name": "Road Trip USA",
+  "emoji": "🚗",
+  "description": "Highways, diners and roadside oddities.",
+  "tags": [
+   "family",
+   "local"
+  ],
+  "version": 1,
+  "phraseCount": 321
  },
  {
   "id": "party",

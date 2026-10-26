@@ -1,0 +1,2632 @@
+{
+ "id": "idioms-sayings",
+ "name": "Idioms & Sayings",
+ "emoji": "💬",
+ "description": "Break a leg!",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "idioms-sayings:break-a-leg",
+   "text": "Break A Leg",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:piece-of-cake",
+   "text": "Piece Of Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:under-the-weather",
+   "text": "Under The Weather",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:spill-the-beans",
+   "text": "Spill The Beans",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:cat-s-out-of-the-bag",
+   "text": "Cat's Out Of The Bag",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hit-the-sack",
+   "text": "Hit The Sack",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hit-the-hay",
+   "text": "Hit The Hay",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hit-the-road",
+   "text": "Hit The Road",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:arm-and-a-leg",
+   "text": "Arm And A Leg",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:once-in-a-blue-moon",
+   "text": "Once In A Blue Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:when-pigs-fly",
+   "text": "When Pigs Fly",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:raining-cats-and-dogs",
+   "text": "Raining Cats And Dogs",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:bite-the-bullet",
+   "text": "Bite The Bullet",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bite-your-tongue",
+   "text": "Bite Your Tongue",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:barking-up-the-wrong-tree",
+   "text": "Barking Up The Wrong Tree",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:beat-around-the-bush",
+   "text": "Beat Around The Bush",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:best-of-both-worlds",
+   "text": "Best Of Both Worlds",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:better-late-than-never",
+   "text": "Better Late Than Never",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:birds-of-a-feather",
+   "text": "Birds Of A Feather",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:blessing-in-disguise",
+   "text": "Blessing In Disguise",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:break-the-ice",
+   "text": "Break The Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:burn-the-midnight-oil",
+   "text": "Burn The Midnight Oil",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:burn-bridges",
+   "text": "Burn Bridges",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:call-it-a-day",
+   "text": "Call It A Day",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:cut-corners",
+   "text": "Cut Corners",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cut-to-the-chase",
+   "text": "Cut To The Chase",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cry-over-spilled-milk",
+   "text": "Cry Over Spilled Milk",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:curiosity-killed-the-cat",
+   "text": "Curiosity Killed The Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:devil-s-advocate",
+   "text": "Devil's Advocate",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:don-t-count-your-chickens",
+   "text": "Don't Count Your Chickens",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:down-to-earth",
+   "text": "Down To Earth",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:easy-does-it",
+   "text": "Easy Does It",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:silver-lining",
+   "text": "Silver Lining",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:fish-out-of-water",
+   "text": "Fish Out Of Water",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:get-out-of-hand",
+   "text": "Get Out Of Hand",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cold-feet",
+   "text": "Cold Feet",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:benefit-of-the-doubt",
+   "text": "Benefit Of The Doubt",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:back-to-the-drawing-board",
+   "text": "Back To The Drawing Board",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:go-the-extra-mile",
+   "text": "Go The Extra Mile",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hang-in-there",
+   "text": "Hang In There",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:head-over-heels",
+   "text": "Head Over Heels",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:in-hot-water",
+   "text": "In Hot Water",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-same-boat",
+   "text": "In The Same Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:it-takes-two-to-tango",
+   "text": "It Takes Two To Tango",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:jump-on-the-bandwagon",
+   "text": "Jump On The Bandwagon",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:keep-your-chin-up",
+   "text": "Keep Your Chin Up",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:two-birds-one-stone",
+   "text": "Two Birds One Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:the-last-straw",
+   "text": "The Last Straw",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:leave-no-stone-unturned",
+   "text": "Leave No Stone Unturned",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:let-sleeping-dogs-lie",
+   "text": "Let Sleeping Dogs Lie",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:long-story-short",
+   "text": "Long Story Short",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:miss-the-boat",
+   "text": "Miss The Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:no-pain-no-gain",
+   "text": "No Pain No Gain",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:on-cloud-nine",
+   "text": "On Cloud Nine",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:on-thin-ice",
+   "text": "On Thin Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:on-the-ball",
+   "text": "On The Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:on-the-fence",
+   "text": "On The Fence",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:out-of-the-blue",
+   "text": "Out Of The Blue",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:over-the-moon",
+   "text": "Over The Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:pulling-your-leg",
+   "text": "Pulling Your Leg",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:rule-of-thumb",
+   "text": "Rule Of Thumb",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:see-eye-to-eye",
+   "text": "See Eye To Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:speak-of-the-devil",
+   "text": "Speak Of The Devil",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:steal-my-thunder",
+   "text": "Steal My Thunder",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:grain-of-salt",
+   "text": "Grain Of Salt",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:ball-s-in-your-court",
+   "text": "Ball's In Your Court",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:best-thing-since-sliced-bread",
+   "text": "Best Thing Since Sliced Bread",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:through-thick-and-thin",
+   "text": "Through Thick And Thin",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:time-flies",
+   "text": "Time Flies",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:under-the-radar",
+   "text": "Under The Radar",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:up-in-the-air",
+   "text": "Up In The Air",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:wild-goose-chase",
+   "text": "Wild Goose Chase",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:actions-speak-louder-than-words",
+   "text": "Actions Speak Louder Than Words",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:penny-for-your-thoughts",
+   "text": "Penny For Your Thoughts",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:add-insult-to-injury",
+   "text": "Add Insult To Injury",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:all-ears",
+   "text": "All Ears",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:all-bark-and-no-bite",
+   "text": "All Bark And No Bite",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:apple-of-my-eye",
+   "text": "Apple Of My Eye",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:back-to-square-one",
+   "text": "Back To Square One",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:bad-apple",
+   "text": "Bad Apple",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:ballpark-figure",
+   "text": "Ballpark Figure",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bend-over-backwards",
+   "text": "Bend Over Backwards",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:big-fish-small-pond",
+   "text": "Big Fish Small Pond",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bigger-fish-to-fry",
+   "text": "Bigger Fish To Fry",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:black-sheep",
+   "text": "Black Sheep",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:blow-off-steam",
+   "text": "Blow Off Steam",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:blue-in-the-face",
+   "text": "Blue In The Face",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bone-to-pick",
+   "text": "Bone To Pick",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:born-with-a-silver-spoon",
+   "text": "Born With A Silver Spoon",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bottom-of-the-barrel",
+   "text": "Bottom Of The Barrel",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:break-the-bank",
+   "text": "Break The Bank",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bring-home-the-bacon",
+   "text": "Bring Home The Bacon",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:brownie-points",
+   "text": "Brownie Points",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bull-in-a-china-shop",
+   "text": "Bull In A China Shop",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:burst-your-bubble",
+   "text": "Burst Your Bubble",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bury-the-hatchet",
+   "text": "Bury The Hatchet",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:butterflies-in-my-stomach",
+   "text": "Butterflies In My Stomach",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:skin-of-your-teeth",
+   "text": "Skin Of Your Teeth",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:call-the-shots",
+   "text": "Call The Shots",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:don-t-judge-a-book",
+   "text": "Don't Judge A Book",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cat-got-your-tongue",
+   "text": "Cat Got Your Tongue",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:caught-red-handed",
+   "text": "Caught Red Handed",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:chip-on-your-shoulder",
+   "text": "Chip On Your Shoulder",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:clean-slate",
+   "text": "Clean Slate",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cold-shoulder",
+   "text": "Cold Shoulder",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cool-as-a-cucumber",
+   "text": "Cool As A Cucumber",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:couch-potato",
+   "text": "Couch Potato",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:crocodile-tears",
+   "text": "Crocodile Tears",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cross-your-fingers",
+   "text": "Cross Your Fingers",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:not-my-cup-of-tea",
+   "text": "Not My Cup Of Tea",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:cut-the-mustard",
+   "text": "Cut The Mustard",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:dark-horse",
+   "text": "Dark Horse",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dead-ringer",
+   "text": "Dead Ringer",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:dime-a-dozen",
+   "text": "Dime A Dozen",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dog-days-of-summer",
+   "text": "Dog Days Of Summer",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:eggs-in-one-basket",
+   "text": "Eggs In One Basket",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:drop-in-the-bucket",
+   "text": "Drop In The Bucket",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:early-bird-gets-the-worm",
+   "text": "Early Bird Gets The Worm",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:eat-humble-pie",
+   "text": "Eat Humble Pie",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:elephant-in-the-room",
+   "text": "Elephant In The Room",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:face-the-music",
+   "text": "Face The Music",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fair-and-square",
+   "text": "Fair And Square",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fit-as-a-fiddle",
+   "text": "Fit As A Fiddle",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:flash-in-the-pan",
+   "text": "Flash In The Pan",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:fly-off-the-handle",
+   "text": "Fly Off The Handle",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:food-for-thought",
+   "text": "Food For Thought",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:foot-in-the-door",
+   "text": "Foot In The Door",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fork-in-the-road",
+   "text": "Fork In The Road",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:rags-to-riches",
+   "text": "Rags To Riches",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:get-the-ball-rolling",
+   "text": "Get The Ball Rolling",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:get-your-act-together",
+   "text": "Get Your Act Together",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:gift-of-the-gab",
+   "text": "Gift Of The Gab",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:give-me-a-break",
+   "text": "Give Me A Break",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:cold-turkey",
+   "text": "Cold Turkey",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:go-with-the-flow",
+   "text": "Go With The Flow",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:going-bananas",
+   "text": "Going Bananas",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:the-grass-is-always-greener",
+   "text": "The Grass Is Always Greener",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:green-with-envy",
+   "text": "Green With Envy",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hands-down",
+   "text": "Hands Down",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hanging-by-a-thread",
+   "text": "Hanging By A Thread",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:have-a-field-day",
+   "text": "Have A Field Day",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:heart-of-gold",
+   "text": "Heart Of Gold",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:heart-on-your-sleeve",
+   "text": "Heart On Your Sleeve",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:high-and-dry",
+   "text": "High And Dry",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hit-the-ground-running",
+   "text": "Hit The Ground Running",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hold-your-horses",
+   "text": "Hold Your Horses",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hot-potato",
+   "text": "Hot Potato",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:icing-on-the-cake",
+   "text": "Icing On The Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:in-a-nutshell",
+   "text": "In A Nutshell",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:in-the-bag",
+   "text": "In The Bag",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-nick-of-time",
+   "text": "In The Nick Of Time",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:jack-of-all-trades",
+   "text": "Jack Of All Trades",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:jump-the-gun",
+   "text": "Jump The Gun",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:keep-your-eyes-peeled",
+   "text": "Keep Your Eyes Peeled",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:know-the-ropes",
+   "text": "Know The Ropes",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:let-your-hair-down",
+   "text": "Let Your Hair Down",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:two-peas-in-a-pod",
+   "text": "Two Peas In A Pod",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:lion-s-share",
+   "text": "Lion's Share",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:loose-cannon",
+   "text": "Loose Cannon",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:lose-your-marbles",
+   "text": "Lose Your Marbles",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:lost-in-translation",
+   "text": "Lost In Translation",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:love-is-blind",
+   "text": "Love Is Blind",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:make-ends-meet",
+   "text": "Make Ends Meet",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:make-waves",
+   "text": "Make Waves",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:method-to-the-madness",
+   "text": "Method To The Madness",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:mind-your-p-s-and-q-s",
+   "text": "Mind Your P's And Q's",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:money-doesn-t-grow-on-trees",
+   "text": "Money Doesn't Grow On Trees",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:more-than-meets-the-eye",
+   "text": "More Than Meets The Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:mum-s-the-word",
+   "text": "Mum's The Word",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:neck-of-the-woods",
+   "text": "Neck Of The Woods",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:needle-in-a-haystack",
+   "text": "Needle In A Haystack",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:nest-egg",
+   "text": "Nest Egg",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:nip-it-in-the-bud",
+   "text": "Nip It In The Bud",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:no-spring-chicken",
+   "text": "No Spring Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:off-the-hook",
+   "text": "Off The Hook",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:off-the-record",
+   "text": "Off The Record",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:old-flame",
+   "text": "Old Flame",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:old-habits-die-hard",
+   "text": "Old Habits Die Hard",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:on-the-same-page",
+   "text": "On The Same Page",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:once-bitten-twice-shy",
+   "text": "Once Bitten Twice Shy",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:out-of-the-woods",
+   "text": "Out Of The Woods",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:over-the-hill",
+   "text": "Over The Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:paint-the-town-red",
+   "text": "Paint The Town Red",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pass-the-buck",
+   "text": "Pass The Buck",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:pay-through-the-nose",
+   "text": "Pay Through The Nose",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:pie-in-the-sky",
+   "text": "Pie In The Sky",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:play-it-by-ear",
+   "text": "Play It By Ear",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pot-calling-the-kettle-black",
+   "text": "Pot Calling The Kettle Black",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:practice-makes-perfect",
+   "text": "Practice Makes Perfect",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:pull-strings",
+   "text": "Pull Strings",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pull-your-weight",
+   "text": "Pull Your Weight",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:put-a-sock-in-it",
+   "text": "Put A Sock In It",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:rain-check",
+   "text": "Rain Check",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:read-between-the-lines",
+   "text": "Read Between The Lines",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:red-herring",
+   "text": "Red Herring",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:red-tape",
+   "text": "Red Tape",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:ring-a-bell",
+   "text": "Ring A Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:rock-the-boat",
+   "text": "Rock The Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:rub-salt-in-the-wound",
+   "text": "Rub Salt In The Wound",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:run-out-of-steam",
+   "text": "Run Out Of Steam",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:save-face",
+   "text": "Save Face",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:second-wind",
+   "text": "Second Wind",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:shot-in-the-dark",
+   "text": "Shot In The Dark",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sick-as-a-dog",
+   "text": "Sick As A Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sink-or-swim",
+   "text": "Sink Or Swim",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:sit-tight",
+   "text": "Sit Tight",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sleep-on-it",
+   "text": "Sleep On It",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:slippery-slope",
+   "text": "Slippery Slope",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:smell-a-rat",
+   "text": "Smell A Rat",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:snug-as-a-bug",
+   "text": "Snug As A Bug",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sour-grapes",
+   "text": "Sour Grapes",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:spice-of-life",
+   "text": "Spice Of Life",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:square-meal",
+   "text": "Square Meal",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:steal-the-show",
+   "text": "Steal The Show",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:stick-in-the-mud",
+   "text": "Stick In The Mud",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:straight-from-the-horse-s-mouth",
+   "text": "Straight From The Horse's Mouth",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:take-the-cake",
+   "text": "Take The Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:taste-of-your-own-medicine",
+   "text": "Taste Of Your Own Medicine",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:that-ship-has-sailed",
+   "text": "That Ship Has Sailed",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:the-whole-nine-yards",
+   "text": "The Whole Nine Yards",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:throw-in-the-towel",
+   "text": "Throw In The Towel",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:tie-the-knot",
+   "text": "Tie The Knot",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:tip-of-the-iceberg",
+   "text": "Tip Of The Iceberg",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:tip-of-my-tongue",
+   "text": "Tip Of My Tongue",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:turn-a-blind-eye",
+   "text": "Turn A Blind Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:turn-over-a-new-leaf",
+   "text": "Turn Over A New Leaf",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:two-left-feet",
+   "text": "Two Left Feet",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:up-in-arms",
+   "text": "Up In Arms",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:walk-in-the-park",
+   "text": "Walk In The Park",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:water-under-the-bridge",
+   "text": "Water Under The Bridge",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:wear-many-hats",
+   "text": "Wear Many Hats",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:wet-blanket",
+   "text": "Wet Blanket",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:when-in-rome",
+   "text": "When In Rome",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:whole-ball-of-wax",
+   "text": "Whole Ball Of Wax",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:wolf-in-sheep-s-clothing",
+   "text": "Wolf In Sheep's Clothing",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:writing-on-the-wall",
+   "text": "Writing On The Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:zip-your-lip",
+   "text": "Zip Your Lip",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:add-fuel-to-the-fire",
+   "text": "Add Fuel To The Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:apples-and-oranges",
+   "text": "Apples And Oranges",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:achilles-heel",
+   "text": "Achilles Heel",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:snail-s-pace",
+   "text": "Snail's Pace",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:ace-up-your-sleeve",
+   "text": "Ace Up Your Sleeve",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:axe-to-grind",
+   "text": "Axe To Grind",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:back-burner",
+   "text": "Back Burner",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bag-of-tricks",
+   "text": "Bag Of Tricks",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bang-for-your-buck",
+   "text": "Bang For Your Buck",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bee-in-your-bonnet",
+   "text": "Bee In Your Bonnet",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:blood-is-thicker-than-water",
+   "text": "Blood Is Thicker Than Water",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bounce-back",
+   "text": "Bounce Back",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:break-even",
+   "text": "Break Even",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:breath-of-fresh-air",
+   "text": "Breath Of Fresh Air",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:busy-as-a-bee",
+   "text": "Busy As A Bee",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:butter-up",
+   "text": "Butter Up",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:calm-before-the-storm",
+   "text": "Calm Before The Storm",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:can-of-worms",
+   "text": "Can Of Worms",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:carbon-copy",
+   "text": "Carbon Copy",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cash-cow",
+   "text": "Cash Cow",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:change-of-heart",
+   "text": "Change Of Heart",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cherry-on-top",
+   "text": "Cherry On Top",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:chicken-out",
+   "text": "Chicken Out",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:clear-the-air",
+   "text": "Clear The Air",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:close-call",
+   "text": "Close Call",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:come-rain-or-shine",
+   "text": "Come Rain Or Shine",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:common-ground",
+   "text": "Common Ground",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:copycat",
+   "text": "Copycat",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:cream-of-the-crop",
+   "text": "Cream Of The Crop",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cry-wolf",
+   "text": "Cry Wolf",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cut-some-slack",
+   "text": "Cut Some Slack",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dig-your-heels-in",
+   "text": "Dig Your Heels In",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:done-and-dusted",
+   "text": "Done And Dusted",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:double-edged-sword",
+   "text": "Double Edged Sword",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:down-the-drain",
+   "text": "Down The Drain",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:down-to-the-wire",
+   "text": "Down To The Wire",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dressed-to-the-nines",
+   "text": "Dressed To The Nines",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:driving-me-up-the-wall",
+   "text": "Driving Me Up The Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dropped-the-ball",
+   "text": "Dropped The Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:dry-run",
+   "text": "Dry Run",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:eager-beaver",
+   "text": "Eager Beaver",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:easy-as-pie",
+   "text": "Easy As Pie",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:easy-peasy",
+   "text": "Easy Peasy",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:egg-on-your-face",
+   "text": "Egg On Your Face",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:eleventh-hour",
+   "text": "Eleventh Hour",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:every-dog-has-its-day",
+   "text": "Every Dog Has Its Day",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:face-value",
+   "text": "Face Value",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fall-on-deaf-ears",
+   "text": "Fall On Deaf Ears",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:feather-in-your-cap",
+   "text": "Feather In Your Cap",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:feeling-blue",
+   "text": "Feeling Blue",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:fight-fire-with-fire",
+   "text": "Fight Fire With Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fine-print",
+   "text": "Fine Print",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fish-for-compliments",
+   "text": "Fish For Compliments",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fly-on-the-wall",
+   "text": "Fly On The Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:follow-your-nose",
+   "text": "Follow Your Nose",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:fool-s-gold",
+   "text": "Fool's Gold",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:foot-the-bill",
+   "text": "Foot The Bill",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:for-the-birds",
+   "text": "For The Birds",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:get-down-to-business",
+   "text": "Get Down To Business",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:get-your-feet-wet",
+   "text": "Get Your Feet Wet",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:ghost-town",
+   "text": "Ghost Town",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:give-it-a-shot",
+   "text": "Give It A Shot",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:glass-half-full",
+   "text": "Glass Half Full",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:go-out-on-a-limb",
+   "text": "Go Out On A Limb",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:golden-rule",
+   "text": "Golden Rule",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:good-as-gold",
+   "text": "Good As Gold",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:grab-a-bite",
+   "text": "Grab A Bite",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:gravy-train",
+   "text": "Gravy Train",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:half-baked",
+   "text": "Half Baked",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hand-in-glove",
+   "text": "Hand In Glove",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:my-hands-are-tied",
+   "text": "My Hands Are Tied",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:have-a-ball",
+   "text": "Have A Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:head-in-the-clouds",
+   "text": "Head In The Clouds",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:head-start",
+   "text": "Head Start",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hear-it-through-the-grapevine",
+   "text": "Hear It Through The Grapevine",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:high-horse",
+   "text": "High Horse",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hit-the-jackpot",
+   "text": "Hit The Jackpot",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:home-sweet-home",
+   "text": "Home Sweet Home",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hook-line-and-sinker",
+   "text": "Hook Line And Sinker",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hot-under-the-collar",
+   "text": "Hot Under The Collar",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:in-a-pickle",
+   "text": "In A Pickle",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:in-deep-water",
+   "text": "In Deep Water",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-over-your-head",
+   "text": "In Over Your Head",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-doghouse",
+   "text": "In The Doghouse",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-limelight",
+   "text": "In The Limelight",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-loop",
+   "text": "In The Loop",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:in-the-red",
+   "text": "In The Red",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:ivory-tower",
+   "text": "Ivory Tower",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:jump-ship",
+   "text": "Jump Ship",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:jump-through-hoops",
+   "text": "Jump Through Hoops",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:keep-a-straight-face",
+   "text": "Keep A Straight Face",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:keep-it-under-wraps",
+   "text": "Keep It Under Wraps",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:keep-your-cool",
+   "text": "Keep Your Cool",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:kick-the-habit",
+   "text": "Kick The Habit",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:kid-gloves",
+   "text": "Kid Gloves",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:knock-on-wood",
+   "text": "Knock On Wood",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:knock-your-socks-off",
+   "text": "Knock Your Socks Off",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:land-on-your-feet",
+   "text": "Land On Your Feet",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:last-minute",
+   "text": "Last Minute",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:late-bloomer",
+   "text": "Late Bloomer",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:laughing-stock",
+   "text": "Laughing Stock",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:left-out-in-the-cold",
+   "text": "Left Out In The Cold",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:let-it-slide",
+   "text": "Let It Slide",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:level-playing-field",
+   "text": "Level Playing Field",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:lightning-never-strikes-twice",
+   "text": "Lightning Never Strikes Twice",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:kid-in-a-candy-store",
+   "text": "Kid In A Candy Store",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:live-and-learn",
+   "text": "Live And Learn",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:long-shot",
+   "text": "Long Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:look-before-you-leap",
+   "text": "Look Before You Leap",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:lose-your-touch",
+   "text": "Lose Your Touch",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:low-hanging-fruit",
+   "text": "Low Hanging Fruit",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:mad-as-a-hatter",
+   "text": "Mad As A Hatter",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:mountain-out-of-a-molehill",
+   "text": "Mountain Out Of A Molehill",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:mind-over-matter",
+   "text": "Mind Over Matter",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:monkey-business",
+   "text": "Monkey Business",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:moment-of-truth",
+   "text": "Moment Of Truth",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:new-kid-on-the-block",
+   "text": "New Kid On The Block",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:nine-to-five",
+   "text": "Nine To Five",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:no-brainer",
+   "text": "No Brainer",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:no-strings-attached",
+   "text": "No Strings Attached",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:it-s-not-rocket-science",
+   "text": "It's Not Rocket Science",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:nothing-to-write-home-about",
+   "text": "Nothing To Write Home About",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:odd-one-out",
+   "text": "Odd One Out",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:off-the-beaten-path",
+   "text": "Off The Beaten Path",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:off-the-charts",
+   "text": "Off The Charts",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:old-school",
+   "text": "Old School",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:on-pins-and-needles",
+   "text": "On Pins And Needles",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:on-the-house",
+   "text": "On The House",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:on-the-mend",
+   "text": "On The Mend",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:on-your-toes",
+   "text": "On Your Toes",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:once-in-a-lifetime",
+   "text": "Once In A Lifetime",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:open-book",
+   "text": "Open Book",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:over-the-top",
+   "text": "Over The Top",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:packed-like-sardines",
+   "text": "Packed Like Sardines",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:pain-in-the-neck",
+   "text": "Pain In The Neck",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:party-pooper",
+   "text": "Party Pooper",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:pay-it-forward",
+   "text": "Pay It Forward",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pecking-order",
+   "text": "Pecking Order",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:penny-pincher",
+   "text": "Penny Pincher",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pick-up-the-pieces",
+   "text": "Pick Up The Pieces",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pig-out",
+   "text": "Pig Out",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:play-it-cool",
+   "text": "Play It Cool",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:play-second-fiddle",
+   "text": "Play Second Fiddle",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:point-of-no-return",
+   "text": "Point Of No Return",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:pour-your-heart-out",
+   "text": "Pour Your Heart Out",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:push-the-envelope",
+   "text": "Push The Envelope",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:put-your-foot-down",
+   "text": "Put Your Foot Down",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:foot-in-mouth",
+   "text": "Foot In Mouth",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:quiet-as-a-mouse",
+   "text": "Quiet As A Mouse",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:rain-on-your-parade",
+   "text": "Rain On Your Parade",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:raise-the-bar",
+   "text": "Raise The Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:rat-race",
+   "text": "Rat Race",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:right-as-rain",
+   "text": "Right As Rain",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:rise-and-shine",
+   "text": "Rise And Shine",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:rock-bottom",
+   "text": "Rock Bottom",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:roll-with-the-punches",
+   "text": "Roll With The Punches",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:rub-the-wrong-way",
+   "text": "Rub The Wrong Way",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:run-of-the-mill",
+   "text": "Run Of The Mill",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sitting-duck",
+   "text": "Sitting Duck",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:saved-by-the-bell",
+   "text": "Saved By The Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:set-in-stone",
+   "text": "Set In Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:shake-a-leg",
+   "text": "Shake A Leg",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:shipshape",
+   "text": "Shipshape",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:shoot-the-breeze",
+   "text": "Shoot The Breeze",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:short-end-of-the-stick",
+   "text": "Short End Of The Stick",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:show-your-true-colors",
+   "text": "Show Your True Colors",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sight-for-sore-eyes",
+   "text": "Sight For Sore Eyes",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sleep-like-a-log",
+   "text": "Sleep Like A Log",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:slow-and-steady",
+   "text": "Slow And Steady",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:small-potatoes",
+   "text": "Small Potatoes",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:smart-cookie",
+   "text": "Smart Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:smooth-sailing",
+   "text": "Smooth Sailing",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:spitting-image",
+   "text": "Spitting Image",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:split-hairs",
+   "text": "Split Hairs",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:start-from-scratch",
+   "text": "Start From Scratch",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:stay-in-your-lane",
+   "text": "Stay In Your Lane",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sticky-situation",
+   "text": "Sticky Situation",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:stir-the-pot",
+   "text": "Stir The Pot",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:straight-and-narrow",
+   "text": "Straight And Narrow",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:swim-against-the-tide",
+   "text": "Swim Against The Tide",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sweet-tooth",
+   "text": "Sweet Tooth",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:take-a-hike",
+   "text": "Take A Hike",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:talk-of-the-town",
+   "text": "Talk Of The Town",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:talk-is-cheap",
+   "text": "Talk Is Cheap",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:tall-order",
+   "text": "Tall Order",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:thick-skin",
+   "text": "Thick Skin",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:third-wheel",
+   "text": "Third Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:thumbs-up",
+   "text": "Thumbs Up",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:tickled-pink",
+   "text": "Tickled Pink",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:time-is-money",
+   "text": "Time Is Money",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:to-each-their-own",
+   "text": "To Each Their Own",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:toe-the-line",
+   "text": "Toe The Line",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:top-dog",
+   "text": "Top Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:tough-cookie",
+   "text": "Tough Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:turn-the-tables",
+   "text": "Turn The Tables",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:twist-my-arm",
+   "text": "Twist My Arm",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:under-the-table",
+   "text": "Under The Table",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:up-to-scratch",
+   "text": "Up To Scratch",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:upper-hand",
+   "text": "Upper Hand",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:walk-on-eggshells",
+   "text": "Walk On Eggshells",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:warm-fuzzy-feeling",
+   "text": "Warm Fuzzy Feeling",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:wet-behind-the-ears",
+   "text": "Wet Behind The Ears",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:what-goes-around-comes-around",
+   "text": "What Goes Around Comes Around",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:white-lie",
+   "text": "White Lie",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:wing-it",
+   "text": "Wing It",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:win-win-situation",
+   "text": "Win Win Situation",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:with-flying-colors",
+   "text": "With Flying Colors",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:word-of-mouth",
+   "text": "Word Of Mouth",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:worth-its-weight-in-gold",
+   "text": "Worth Its Weight In Gold",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:you-snooze-you-lose",
+   "text": "You Snooze You Lose",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:haste-makes-waste",
+   "text": "Haste Makes Waste",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:honesty-is-the-best-policy",
+   "text": "Honesty Is The Best Policy",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:beauty-is-skin-deep",
+   "text": "Beauty Is Skin Deep",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:laughter-is-the-best-medicine",
+   "text": "Laughter Is The Best Medicine",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:an-apple-a-day",
+   "text": "An Apple A Day",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:better-safe-than-sorry",
+   "text": "Better Safe Than Sorry",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:easy-come-easy-go",
+   "text": "Easy Come Easy Go",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:first-come-first-served",
+   "text": "First Come First Served",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:finders-keepers",
+   "text": "Finders Keepers",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:great-minds-think-alike",
+   "text": "Great Minds Think Alike",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:if-it-ain-t-broke",
+   "text": "If It Ain't Broke",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:knowledge-is-power",
+   "text": "Knowledge Is Power",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:less-is-more",
+   "text": "Less Is More",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:money-talks",
+   "text": "Money Talks",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:opposites-attract",
+   "text": "Opposites Attract",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:patience-is-a-virtue",
+   "text": "Patience Is A Virtue",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:seeing-is-believing",
+   "text": "Seeing Is Believing",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:the-more-the-merrier",
+   "text": "The More The Merrier",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:third-time-s-the-charm",
+   "text": "Third Time's The Charm",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:time-heals-all-wounds",
+   "text": "Time Heals All Wounds",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:too-many-cooks",
+   "text": "Too Many Cooks",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:where-there-s-smoke-there-s-fire",
+   "text": "Where There's Smoke There's Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:you-are-what-you-eat",
+   "text": "You Are What You Eat",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:worth-a-thousand-words",
+   "text": "Worth A Thousand Words",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:no-news-is-good-news",
+   "text": "No News Is Good News",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:out-with-the-old",
+   "text": "Out With The Old",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:silence-is-golden",
+   "text": "Silence Is Golden",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:beggars-can-t-be-choosers",
+   "text": "Beggars Can't Be Choosers",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:misery-loves-company",
+   "text": "Misery Loves Company",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bite-the-hand-that-feeds",
+   "text": "Bite The Hand That Feeds",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:easier-said-than-done",
+   "text": "Easier Said Than Done",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:fortune-favors-the-bold",
+   "text": "Fortune Favors The Bold",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:hindsight-is-20-20",
+   "text": "Hindsight Is 20/20",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:it-s-a-small-world",
+   "text": "It's A Small World",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:ignorance-is-bliss",
+   "text": "Ignorance Is Bliss",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:life-is-short",
+   "text": "Life Is Short",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:live-and-let-live",
+   "text": "Live And Let Live",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:many-hands-make-light-work",
+   "text": "Many Hands Make Light Work",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:never-say-never",
+   "text": "Never Say Never",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:nothing-ventured-nothing-gained",
+   "text": "Nothing Ventured Nothing Gained",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:one-man-s-trash",
+   "text": "One Man's Trash",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:out-of-the-frying-pan",
+   "text": "Out Of The Frying Pan",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:seize-the-day",
+   "text": "Seize The Day",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:the-pen-is-mightier",
+   "text": "The Pen Is Mightier",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:time-will-tell",
+   "text": "Time Will Tell",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:tomorrow-is-another-day",
+   "text": "Tomorrow Is Another Day",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:when-it-rains-it-pours",
+   "text": "When It Rains It Pours",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:you-can-t-win-them-all",
+   "text": "You Can't Win Them All",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:hope-for-the-best",
+   "text": "Hope For The Best",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:better-half",
+   "text": "Better Half",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:practice-what-you-preach",
+   "text": "Practice What You Preach",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:mind-your-own-business",
+   "text": "Mind Your Own Business",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:charity-begins-at-home",
+   "text": "Charity Begins At Home",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:sticks-and-stones",
+   "text": "Sticks And Stones",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:old-wives-tale",
+   "text": "Old Wives' Tale",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:elbow-grease",
+   "text": "Elbow Grease",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:goody-two-shoes",
+   "text": "Goody Two Shoes",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:smarty-pants",
+   "text": "Smarty Pants",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:scaredy-cat",
+   "text": "Scaredy Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:know-it-all",
+   "text": "Know It All",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:busybody",
+   "text": "Busybody",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:wallflower",
+   "text": "Wallflower",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:night-owl",
+   "text": "Night Owl",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:early-bird",
+   "text": "Early Bird",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:social-butterfly",
+   "text": "Social Butterfly",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:worrywart",
+   "text": "Worrywart",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:cheapskate",
+   "text": "Cheapskate",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bookworm",
+   "text": "Bookworm",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:party-animal",
+   "text": "Party Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:sore-loser",
+   "text": "Sore Loser",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:backseat-driver",
+   "text": "Backseat Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:teacher-s-pet",
+   "text": "Teacher's Pet",
+   "difficulty": 1
+  },
+  {
+   "id": "idioms-sayings:top-banana",
+   "text": "Top Banana",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:big-cheese",
+   "text": "Big Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:bigwig",
+   "text": "Bigwig",
+   "difficulty": 3
+  },
+  {
+   "id": "idioms-sayings:smart-alec",
+   "text": "Smart Alec",
+   "difficulty": 2
+  },
+  {
+   "id": "idioms-sayings:wise-guy",
+   "text": "Wise Guy",
+   "difficulty": 2
+  }
+ ]
+}

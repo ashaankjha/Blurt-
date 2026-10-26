@@ -1,0 +1,1787 @@
+{
+ "id": "famous-phrases",
+ "name": "Famous Phrases",
+ "emoji": "📣",
+ "description": "Quotes, catchphrases and slogans.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "famous-phrases:i-ll-be-back",
+   "text": "I'll Be Back",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hasta-la-vista-baby",
+   "text": "Hasta La Vista Baby",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:use-the-force",
+   "text": "Use The Force",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-am-your-father",
+   "text": "I Am Your Father",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:houston-we-have-a-problem",
+   "text": "Houston We Have A Problem",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:e-t-phone-home",
+   "text": "E.T. Phone Home",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:to-infinity-and-beyond",
+   "text": "To Infinity And Beyond",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:you-can-t-handle-the-truth",
+   "text": "You Can't Handle The Truth",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:show-me-the-money",
+   "text": "Show Me The Money",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:here-s-looking-at-you-kid",
+   "text": "Here's Looking At You Kid",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:run-forrest-run",
+   "text": "Run Forrest Run",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:there-s-no-place-like-home",
+   "text": "There's No Place Like Home",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:we-re-not-in-kansas-anymore",
+   "text": "We're Not In Kansas Anymore",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-see-dead-people",
+   "text": "I See Dead People",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:just-keep-swimming",
+   "text": "Just Keep Swimming",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hakuna-matata",
+   "text": "Hakuna Matata",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:bond-james-bond",
+   "text": "Bond James Bond",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:why-so-serious",
+   "text": "Why So Serious",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:go-ahead-make-my-day",
+   "text": "Go Ahead Make My Day",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:wax-on-wax-off",
+   "text": "Wax On Wax Off",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:inconceivable",
+   "text": "Inconceivable",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:as-you-wish",
+   "text": "As You Wish",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:you-shall-not-pass",
+   "text": "You Shall Not Pass",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:my-precious",
+   "text": "My Precious",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:avengers-assemble",
+   "text": "Avengers Assemble",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-am-groot",
+   "text": "I Am Groot",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-am-iron-man",
+   "text": "I Am Iron Man",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:with-great-power",
+   "text": "With Great Power",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:an-offer-he-can-t-refuse",
+   "text": "An Offer He Can't Refuse",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:elementary-my-dear-watson",
+   "text": "Elementary My Dear Watson",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:live-long-and-prosper",
+   "text": "Live Long And Prosper",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:beam-me-up-scotty",
+   "text": "Beam Me Up Scotty",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:resistance-is-futile",
+   "text": "Resistance Is Futile",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:to-boldly-go",
+   "text": "To Boldly Go",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:help-me-obi-wan-kenobi",
+   "text": "Help Me Obi Wan Kenobi",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:it-s-alive",
+   "text": "It's Alive",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:they-re-here",
+   "text": "They're Here",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:life-finds-a-way",
+   "text": "Life Finds A Way",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:clever-girl",
+   "text": "Clever Girl",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:welcome-to-jurassic-park",
+   "text": "Welcome To Jurassic Park",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:need-for-speed",
+   "text": "Need For Speed",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:bueller-bueller-bueller",
+   "text": "Bueller Bueller Bueller",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:ogres-are-like-onions",
+   "text": "Ogres Are Like Onions",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:that-ll-do-pig",
+   "text": "That'll Do Pig",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:who-you-gonna-call",
+   "text": "Who You Gonna Call",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:frankly-my-dear",
+   "text": "Frankly My Dear",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:fasten-your-seatbelts",
+   "text": "Fasten Your Seatbelts",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:play-it-again-sam",
+   "text": "Play It Again Sam",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:we-ll-always-have-paris",
+   "text": "We'll Always Have Paris",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:round-up-the-usual-suspects",
+   "text": "Round Up The Usual Suspects",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:carpe-diem",
+   "text": "Carpe Diem",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:oh-captain-my-captain",
+   "text": "Oh Captain My Captain",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:you-had-me-at-hello",
+   "text": "You Had Me At Hello",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:you-complete-me",
+   "text": "You Complete Me",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:help-me-help-you",
+   "text": "Help Me Help You",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:snap-out-of-it",
+   "text": "Snap Out Of It",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:get-to-the-chopper",
+   "text": "Get To The Chopper",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:talk-to-the-hand",
+   "text": "Talk To The Hand",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:as-if",
+   "text": "As If",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:yeah-baby-yeah",
+   "text": "Yeah Baby Yeah",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:groovy-baby",
+   "text": "Groovy Baby",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:wakanda-forever",
+   "text": "Wakanda Forever",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-volunteer-as-tribute",
+   "text": "I Volunteer As Tribute",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:winter-is-coming",
+   "text": "Winter Is Coming",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:you-know-nothing-jon-snow",
+   "text": "You Know Nothing Jon Snow",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:hold-the-door",
+   "text": "Hold The Door",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:expecto-patronum",
+   "text": "Expecto Patronum",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:wingardium-leviosa",
+   "text": "Wingardium Leviosa",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:yer-a-wizard-harry",
+   "text": "Yer A Wizard Harry",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mischief-managed",
+   "text": "Mischief Managed",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-solemnly-swear",
+   "text": "I Solemnly Swear",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:reach-for-the-sky",
+   "text": "Reach For The Sky",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:fish-are-friends-not-food",
+   "text": "Fish Are Friends Not Food",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:mine-mine-mine",
+   "text": "Mine Mine Mine",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:shark-bait-hoo-ha-ha",
+   "text": "Shark Bait Hoo Ha Ha",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:ohana-means-family",
+   "text": "Ohana Means Family",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:no-capes",
+   "text": "No Capes",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-m-gonna-wreck-it",
+   "text": "I'm Gonna Wreck It",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:remember-who-you-are",
+   "text": "Remember Who You Are",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:everything-the-light-touches",
+   "text": "Everything The Light Touches",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:bibbidi-bobbidi-boo",
+   "text": "Bibbidi Bobbidi Boo",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mirror-mirror-on-the-wall",
+   "text": "Mirror Mirror On The Wall",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:a-spoonful-of-sugar",
+   "text": "A Spoonful Of Sugar",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:the-eagle-has-landed",
+   "text": "The Eagle Has Landed",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:follow-the-yellow-brick-road",
+   "text": "Follow The Yellow Brick Road",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:lions-and-tigers-and-bears",
+   "text": "Lions And Tigers And Bears",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-m-melting",
+   "text": "I'm Melting",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:fly-my-pretties",
+   "text": "Fly My Pretties",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:click-your-heels",
+   "text": "Click Your Heels",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:stupid-is-as-stupid-does",
+   "text": "Stupid Is As Stupid Does",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:tis-but-a-scratch",
+   "text": "Tis But A Scratch",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:don-t-panic",
+   "text": "Don't Panic",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:bigger-on-the-inside",
+   "text": "Bigger On The Inside",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:make-it-so",
+   "text": "Make It So",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:good-grief",
+   "text": "Good Grief",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:cowabunga",
+   "text": "Cowabunga",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:yabba-dabba-doo",
+   "text": "Yabba Dabba Doo",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:d-oh",
+   "text": "D'oh",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:eat-my-shorts",
+   "text": "Eat My Shorts",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ay-caramba",
+   "text": "Ay Caramba",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:great-scott",
+   "text": "Great Scott",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:jinkies",
+   "text": "Jinkies",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:zoinks",
+   "text": "Zoinks",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:scooby-dooby-doo",
+   "text": "Scooby Dooby Doo",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ruh-roh",
+   "text": "Ruh Roh",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:that-s-all-folks",
+   "text": "That's All Folks",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:what-s-up-doc",
+   "text": "What's Up Doc",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:sufferin-succotash",
+   "text": "Sufferin' Succotash",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:beep-beep",
+   "text": "Beep Beep",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:how-you-doin",
+   "text": "How You Doin",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:we-were-on-a-break",
+   "text": "We Were On A Break",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:pivot-pivot-pivot",
+   "text": "Pivot Pivot Pivot",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:bazinga",
+   "text": "Bazinga",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:did-i-do-that",
+   "text": "Did I Do That",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:whatchu-talkin-bout-willis",
+   "text": "Whatchu Talkin Bout Willis",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:booyah",
+   "text": "Booyah",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:winner-winner-chicken-dinner",
+   "text": "Winner Winner Chicken Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:yada-yada-yada",
+   "text": "Yada Yada Yada",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:no-soup-for-you",
+   "text": "No Soup For You",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:serenity-now",
+   "text": "Serenity Now",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:suit-up",
+   "text": "Suit Up",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:bears-beets-battlestar-galactica",
+   "text": "Bears Beets Battlestar Galactica",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-declare-bankruptcy",
+   "text": "I Declare Bankruptcy",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:treat-yo-self",
+   "text": "Treat Yo Self",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:cool-cool-cool",
+   "text": "Cool Cool Cool",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:is-that-your-final-answer",
+   "text": "Is That Your Final Answer",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:come-on-down",
+   "text": "Come On Down",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:survey-says",
+   "text": "Survey Says",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:let-s-get-ready-to-rumble",
+   "text": "Let's Get Ready To Rumble",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:who-lives-in-a-pineapple",
+   "text": "Who Lives In A Pineapple",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:are-you-ready-kids",
+   "text": "Are You Ready Kids",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:gotta-catch-em-all",
+   "text": "Gotta Catch Em All",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:it-s-a-me-mario",
+   "text": "It's A Me Mario",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hadouken",
+   "text": "Hadouken",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:the-cake-is-a-lie",
+   "text": "The Cake Is A Lie",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:do-a-barrel-roll",
+   "text": "Do A Barrel Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:leeroy-jenkins",
+   "text": "Leeroy Jenkins",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:game-over",
+   "text": "Game Over",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:press-start",
+   "text": "Press Start",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hey-listen",
+   "text": "Hey Listen",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:it-s-dangerous-to-go-alone",
+   "text": "It's Dangerous To Go Alone",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:party-on-wayne",
+   "text": "Party On Wayne",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:be-excellent-to-each-other",
+   "text": "Be Excellent To Each Other",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:totally-tubular",
+   "text": "Totally Tubular",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:gag-me-with-a-spoon",
+   "text": "Gag Me With A Spoon",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:don-t-have-a-cow-man",
+   "text": "Don't Have A Cow Man",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:yo-adrian",
+   "text": "Yo Adrian",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:up-up-and-away",
+   "text": "Up Up And Away",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:faster-than-a-speeding-bullet",
+   "text": "Faster Than A Speeding Bullet",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:to-the-batmobile",
+   "text": "To The Batmobile",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hulk-smash",
+   "text": "Hulk Smash",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:excelsior",
+   "text": "Excelsior",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:flame-on",
+   "text": "Flame On",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:it-s-clobberin-time",
+   "text": "It's Clobberin Time",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:shazam",
+   "text": "Shazam",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:go-go-power-rangers",
+   "text": "Go Go Power Rangers",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:it-s-morphin-time",
+   "text": "It's Morphin Time",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:autobots-roll-out",
+   "text": "Autobots Roll Out",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:by-the-power-of-grayskull",
+   "text": "By The Power Of Grayskull",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:gotta-go-fast",
+   "text": "Gotta Go Fast",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:smarter-than-the-average-bear",
+   "text": "Smarter Than The Average Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:hi-ho-hi-ho",
+   "text": "Hi Ho Hi Ho",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hi-ho-silver",
+   "text": "Hi Ho Silver",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:elvis-has-left-the-building",
+   "text": "Elvis Has Left The Building",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:he-s-on-fire",
+   "text": "He's On Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:boom-shakalaka",
+   "text": "Boom Shakalaka",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:just-do-it",
+   "text": "Just Do It",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-m-lovin-it",
+   "text": "I'm Lovin' It",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:think-different",
+   "text": "Think Different",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:finger-lickin-good",
+   "text": "Finger Lickin' Good",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:have-a-break",
+   "text": "Have A Break",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:because-you-re-worth-it",
+   "text": "Because You're Worth It",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:the-happiest-place-on-earth",
+   "text": "The Happiest Place On Earth",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:red-bull-gives-you-wings",
+   "text": "Red Bull Gives You Wings",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:eat-fresh",
+   "text": "Eat Fresh",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:melts-in-your-mouth",
+   "text": "Melts In Your Mouth",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:taste-the-rainbow",
+   "text": "Taste The Rainbow",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:got-milk",
+   "text": "Got Milk",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:where-s-the-beef",
+   "text": "Where's The Beef",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:they-re-grrreat",
+   "text": "They're Grrreat",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:snap-crackle-pop",
+   "text": "Snap Crackle Pop",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:silly-rabbit",
+   "text": "Silly Rabbit",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:breakfast-of-champions",
+   "text": "Breakfast Of Champions",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:impossible-is-nothing",
+   "text": "Impossible Is Nothing",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:can-you-hear-me-now",
+   "text": "Can You Hear Me Now",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:diamonds-are-forever",
+   "text": "Diamonds Are Forever",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:think-outside-the-box",
+   "text": "Think Outside The Box",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:maybe-she-s-born-with-it",
+   "text": "Maybe She's Born With It",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:have-it-your-way",
+   "text": "Have It Your Way",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:mmm-mmm-good",
+   "text": "Mmm Mmm Good",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:hang-loose",
+   "text": "Hang Loose",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:peace-out",
+   "text": "Peace Out",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:wakey-wakey",
+   "text": "Wakey Wakey",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ta-da",
+   "text": "Ta Da",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:abracadabra",
+   "text": "Abracadabra",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:open-sesame",
+   "text": "Open Sesame",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hocus-pocus",
+   "text": "Hocus Pocus",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:alakazam",
+   "text": "Alakazam",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:ready-set-go",
+   "text": "Ready Set Go",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:on-your-marks",
+   "text": "On Your Marks",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:lights-camera-action",
+   "text": "Lights Camera Action",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:and-scene",
+   "text": "And Scene",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:say-cheese",
+   "text": "Say Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:smile-for-the-camera",
+   "text": "Smile For The Camera",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:knock-knock",
+   "text": "Knock Knock",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:marco-polo",
+   "text": "Marco Polo",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:tag-you-re-it",
+   "text": "Tag You're It",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ready-or-not",
+   "text": "Ready Or Not",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:simon-says",
+   "text": "Simon Says",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:red-light-green-light",
+   "text": "Red Light Green Light",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:duck-duck-goose",
+   "text": "Duck Duck Goose",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:rock-paper-scissors",
+   "text": "Rock Paper Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:eeny-meeny-miny-moe",
+   "text": "Eeny Meeny Miny Moe",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:liar-liar-pants-on-fire",
+   "text": "Liar Liar Pants On Fire",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:jinx-you-owe-me",
+   "text": "Jinx You Owe Me",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:dibs",
+   "text": "Dibs",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:cross-my-heart",
+   "text": "Cross My Heart",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:pinky-promise",
+   "text": "Pinky Promise",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:scout-s-honor",
+   "text": "Scout's Honor",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:bless-you",
+   "text": "Bless You",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:gesundheit",
+   "text": "Gesundheit",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:bon-appetit",
+   "text": "Bon Appetit",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:bon-voyage",
+   "text": "Bon Voyage",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ciao-bella",
+   "text": "Ciao Bella",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:au-revoir",
+   "text": "Au Revoir",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:sayonara",
+   "text": "Sayonara",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:aloha",
+   "text": "Aloha",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:shalom",
+   "text": "Shalom",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:namaste",
+   "text": "Namaste",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hola-amigo",
+   "text": "Hola Amigo",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:c-est-la-vie",
+   "text": "C'est La Vie",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:que-sera-sera",
+   "text": "Que Sera Sera",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:je-ne-sais-quoi",
+   "text": "Je Ne Sais Quoi",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:deja-vu",
+   "text": "Deja Vu",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:voila",
+   "text": "Voila",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mamma-mia",
+   "text": "Mamma Mia",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:oy-vey",
+   "text": "Oy Vey",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:ahoy-matey",
+   "text": "Ahoy Matey",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:shiver-me-timbers",
+   "text": "Shiver Me Timbers",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:yo-ho-ho",
+   "text": "Yo Ho Ho",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:land-ho",
+   "text": "Land Ho",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:thar-she-blows",
+   "text": "Thar She Blows",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:we-re-all-mad-here",
+   "text": "We're All Mad Here",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:curiouser-and-curiouser",
+   "text": "Curiouser And Curiouser",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:down-the-rabbit-hole",
+   "text": "Down The Rabbit Hole",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:fee-fi-fo-fum",
+   "text": "Fee Fi Fo Fum",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:little-pig-little-pig",
+   "text": "Little Pig Little Pig",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-ll-huff-and-i-ll-puff",
+   "text": "I'll Huff And I'll Puff",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:what-big-eyes-you-have",
+   "text": "What Big Eyes You Have",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:rapunzel-let-down-your-hair",
+   "text": "Rapunzel Let Down Your Hair",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:once-upon-a-time",
+   "text": "Once Upon A Time",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:happily-ever-after",
+   "text": "Happily Ever After",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:twinkle-twinkle-little-star",
+   "text": "Twinkle Twinkle Little Star",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:humpty-dumpty",
+   "text": "Humpty Dumpty",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hickory-dickory-dock",
+   "text": "Hickory Dickory Dock",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:jack-and-jill",
+   "text": "Jack And Jill",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ring-around-the-rosie",
+   "text": "Ring Around The Rosie",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:london-bridge-is-falling-down",
+   "text": "London Bridge Is Falling Down",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:row-row-row-your-boat",
+   "text": "Row Row Row Your Boat",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:itsy-bitsy-spider",
+   "text": "Itsy Bitsy Spider",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:old-macdonald",
+   "text": "Old MacDonald",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:e-i-e-i-o",
+   "text": "E-I-E-I-O",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:baa-baa-black-sheep",
+   "text": "Baa Baa Black Sheep",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hey-diddle-diddle",
+   "text": "Hey Diddle Diddle",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:mary-had-a-little-lamb",
+   "text": "Mary Had A Little Lamb",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:pop-goes-the-weasel",
+   "text": "Pop Goes The Weasel",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:rub-a-dub-dub",
+   "text": "Rub A Dub Dub",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:one-two-buckle-my-shoe",
+   "text": "One Two Buckle My Shoe",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:head-shoulders-knees-and-toes",
+   "text": "Head Shoulders Knees And Toes",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:wheels-on-the-bus",
+   "text": "Wheels On The Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:rock-a-bye-baby",
+   "text": "Rock A Bye Baby",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:happy-birthday-to-you",
+   "text": "Happy Birthday To You",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hip-hip-hooray",
+   "text": "Hip Hip Hooray",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:checkmate",
+   "text": "Checkmate",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:play-ball",
+   "text": "Play Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:batter-up",
+   "text": "Batter Up",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:fore",
+   "text": "Fore",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:timber",
+   "text": "Timber",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:geronimo",
+   "text": "Geronimo",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:mayday-mayday",
+   "text": "Mayday Mayday",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:roger-that",
+   "text": "Roger That",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:over-and-out",
+   "text": "Over And Out",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:ten-four",
+   "text": "Ten Four",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:copy-that",
+   "text": "Copy That",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:all-aboard",
+   "text": "All Aboard",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:order-up",
+   "text": "Order Up",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:check-please",
+   "text": "Check Please",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:hold-the-phone",
+   "text": "Hold The Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:stop-the-press",
+   "text": "Stop The Press",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:breaking-news",
+   "text": "Breaking News",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:this-just-in",
+   "text": "This Just In",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:peace-and-love",
+   "text": "Peace And Love",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:power-to-the-people",
+   "text": "Power To The People",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:girl-power",
+   "text": "Girl Power",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:we-can-do-it",
+   "text": "We Can Do It",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:keep-calm-and-carry-on",
+   "text": "Keep Calm And Carry On",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mind-the-gap",
+   "text": "Mind The Gap",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:stiff-upper-lip",
+   "text": "Stiff Upper Lip",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:yolo",
+   "text": "YOLO",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:bada-bing-bada-boom",
+   "text": "Bada Bing Bada Boom",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:capisce",
+   "text": "Capisce",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:ooh-la-la",
+   "text": "Ooh La La",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:oh-snap",
+   "text": "Oh Snap",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:oh-my-goodness",
+   "text": "Oh My Goodness",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:holy-cow",
+   "text": "Holy Cow",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:holy-moly",
+   "text": "Holy Moly",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:holy-guacamole",
+   "text": "Holy Guacamole",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:holy-smokes",
+   "text": "Holy Smokes",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:gee-whiz",
+   "text": "Gee Whiz",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:golly-gee",
+   "text": "Golly Gee",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:jeepers-creepers",
+   "text": "Jeepers Creepers",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:well-i-never",
+   "text": "Well I Never",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:fiddlesticks",
+   "text": "Fiddlesticks",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:heavens-to-betsy",
+   "text": "Heavens To Betsy",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:bob-s-your-uncle",
+   "text": "Bob's Your Uncle",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:blimey",
+   "text": "Blimey",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:crikey",
+   "text": "Crikey",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:g-day-mate",
+   "text": "G'day Mate",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:shrimp-on-the-barbie",
+   "text": "Shrimp On The Barbie",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:howdy-partner",
+   "text": "Howdy Partner",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:yee-haw",
+   "text": "Yee Haw",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:giddy-up",
+   "text": "Giddy Up",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:happy-trails",
+   "text": "Happy Trails",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:this-town-ain-t-big-enough",
+   "text": "This Town Ain't Big Enough",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:exit-stage-left",
+   "text": "Exit Stage Left",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:rock-on",
+   "text": "Rock On",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mic-drop",
+   "text": "Mic Drop",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:nailed-it",
+   "text": "Nailed It",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:challenge-accepted",
+   "text": "Challenge Accepted",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:haters-gonna-hate",
+   "text": "Haters Gonna Hate",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:epic-fail",
+   "text": "Epic Fail",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:plot-twist",
+   "text": "Plot Twist",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:spoiler-alert",
+   "text": "Spoiler Alert",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:mind-blown",
+   "text": "Mind Blown",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:game-changer",
+   "text": "Game Changer",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:wherefore-art-thou-romeo",
+   "text": "Wherefore Art Thou Romeo",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:all-the-world-s-a-stage",
+   "text": "All The World's A Stage",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:friends-romans-countrymen",
+   "text": "Friends Romans Countrymen",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:double-double-toil-and-trouble",
+   "text": "Double Double Toil And Trouble",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:parting-is-such-sweet-sorrow",
+   "text": "Parting Is Such Sweet Sorrow",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:i-think-therefore-i-am",
+   "text": "I Think Therefore I Am",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:tear-down-this-wall",
+   "text": "Tear Down This Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:yes-we-can",
+   "text": "Yes We Can",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:float-like-a-butterfly",
+   "text": "Float Like A Butterfly",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:sting-like-a-bee",
+   "text": "Sting Like A Bee",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:i-am-the-greatest",
+   "text": "I Am The Greatest",
+   "difficulty": 1
+  },
+  {
+   "id": "famous-phrases:i-cannot-tell-a-lie",
+   "text": "I Cannot Tell A Lie",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:liberty-equality-fraternity",
+   "text": "Liberty Equality Fraternity",
+   "difficulty": 3
+  },
+  {
+   "id": "famous-phrases:give-peace-a-chance",
+   "text": "Give Peace A Chance",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:ask-and-you-shall-receive",
+   "text": "Ask And You Shall Receive",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:love-thy-neighbor",
+   "text": "Love Thy Neighbor",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:an-eye-for-an-eye",
+   "text": "An Eye For An Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:turn-the-other-cheek",
+   "text": "Turn The Other Cheek",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:let-there-be-light",
+   "text": "Let There Be Light",
+   "difficulty": 2
+  },
+  {
+   "id": "famous-phrases:do-unto-others",
+   "text": "Do Unto Others",
+   "difficulty": 2
+  }
+ ]
+}

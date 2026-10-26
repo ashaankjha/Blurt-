@@ -15,19 +15,19 @@
 | video-games | - | - | - | 330 | missing source |
 | internet-memes | - | - | - | 330 | missing source |
 | celebrities | - | - | - | 440 | missing source |
-| science | - | - | - | 330 | missing source |
-| history | - | - | - | 330 | missing source |
-| geography | - | - | - | 330 | missing source |
-| idioms-sayings | - | - | - | 440 | missing source |
-| famous-phrases | - | - | - | 330 | missing source |
+| science | 407 | 0 | 0 | 330 | ok |
+| history | 370 | 0 | 0 | 330 | ok |
+| geography | 360 | 0 | 0 | 330 | ok |
+| idioms-sayings | 524 | 0 | 0 | 440 | ok |
+| famous-phrases | 355 | 0 | 0 | 330 | ok |
 | sports | 850 | 0 | 0 | 440 | ok |
-| holidays | - | - | - | 275 | missing source |
-| fantasy-myth | - | - | - | 275 | missing source |
+| holidays | 312 | 0 | 0 | 275 | ok |
+| fantasy-myth | 302 | 0 | 0 | 275 | ok |
 | brands | 551 | 0 | 0 | 440 | ok |
 | nostalgia-90s-2000s | 497 | 0 | 0 | 330 | ok |
 | kids | 675 | 0 | 0 | 550 | ok |
-| nyc | - | - | - | 220 | missing source |
-| road-trip-usa | - | - | - | 275 | missing source |
+| nyc | 258 | 0 | 0 | 220 | ok |
+| road-trip-usa | 321 | 0 | 0 | 275 | ok |
 | party | 396 | 0 | 0 | 330 | ok |
 | awkward-situations | 362 | 0 | 0 | 275 | ok |
 | dating | 382 | 0 | 0 | 275 | ok |

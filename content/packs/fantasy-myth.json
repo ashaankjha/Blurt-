@@ -1,0 +1,1522 @@
+{
+ "id": "fantasy-myth",
+ "name": "Fantasy & Myth",
+ "emoji": "🐉",
+ "description": "Dragons, wizards and gods.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "fantasy-myth:dragon",
+   "text": "Dragon",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fire-breathing-dragon",
+   "text": "Fire Breathing Dragon",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:unicorn",
+   "text": "Unicorn",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:phoenix",
+   "text": "Phoenix",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mermaid",
+   "text": "Mermaid",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:merman",
+   "text": "Merman",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:centaur",
+   "text": "Centaur",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:minotaur",
+   "text": "Minotaur",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:pegasus",
+   "text": "Pegasus",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:griffin",
+   "text": "Griffin",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:cyclops",
+   "text": "Cyclops",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:medusa",
+   "text": "Medusa",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hydra",
+   "text": "Hydra",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:kraken",
+   "text": "Kraken",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sea-serpent",
+   "text": "Sea Serpent",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:loch-ness-monster",
+   "text": "Loch Ness Monster",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:bigfoot",
+   "text": "Bigfoot",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:yeti",
+   "text": "Yeti",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:abominable-snowman",
+   "text": "Abominable Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:troll",
+   "text": "Troll",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:ogre",
+   "text": "Ogre",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:goblin",
+   "text": "Goblin",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:gnome",
+   "text": "Gnome",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:garden-gnome",
+   "text": "Garden Gnome",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:elf",
+   "text": "Elf",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:dwarf",
+   "text": "Dwarf",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hobbit",
+   "text": "Hobbit",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fairy",
+   "text": "Fairy",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pixie",
+   "text": "Pixie",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pixie-dust",
+   "text": "Pixie Dust",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:genie",
+   "text": "Genie",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:genie-in-a-bottle",
+   "text": "Genie In A Bottle",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:vampire",
+   "text": "Vampire",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:dracula",
+   "text": "Dracula",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:ghoul",
+   "text": "Ghoul",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:banshee",
+   "text": "Banshee",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:poltergeist",
+   "text": "Poltergeist",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:zombie",
+   "text": "Zombie",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:golem",
+   "text": "Golem",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:giant",
+   "text": "Giant",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:sea-monster",
+   "text": "Sea Monster",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:siren",
+   "text": "Siren",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:nymph",
+   "text": "Nymph",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:satyr",
+   "text": "Satyr",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:faun",
+   "text": "Faun",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:chimera",
+   "text": "Chimera",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:basilisk",
+   "text": "Basilisk",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:cerberus",
+   "text": "Cerberus",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:three-headed-dog",
+   "text": "Three Headed Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:shapeshifter",
+   "text": "Shapeshifter",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:changeling",
+   "text": "Changeling",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:wizard",
+   "text": "Wizard",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:witch",
+   "text": "Witch",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:warlock",
+   "text": "Warlock",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sorcerer",
+   "text": "Sorcerer",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:enchantress",
+   "text": "Enchantress",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:fairy-godmother",
+   "text": "Fairy Godmother",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:boogeyman",
+   "text": "Boogeyman",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:sandman",
+   "text": "Sandman",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:jack-frost",
+   "text": "Jack Frost",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mother-nature",
+   "text": "Mother Nature",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:father-time",
+   "text": "Father Time",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:grim-reaper",
+   "text": "Grim Reaper",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:headless-horseman",
+   "text": "Headless Horseman",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:dragon-egg",
+   "text": "Dragon Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:baby-dragon",
+   "text": "Baby Dragon",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:dragon-rider",
+   "text": "Dragon Rider",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:dragon-s-lair",
+   "text": "Dragon's Lair",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:dragon-scales",
+   "text": "Dragon Scales",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:unicorn-horn",
+   "text": "Unicorn Horn",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mermaid-tail",
+   "text": "Mermaid Tail",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fairy-wings",
+   "text": "Fairy Wings",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wishing-well",
+   "text": "Wishing Well",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:talking-animal",
+   "text": "Talking Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:talking-tree",
+   "text": "Talking Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:enchanted-forest",
+   "text": "Enchanted Forest",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:zeus",
+   "text": "Zeus",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hera",
+   "text": "Hera",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:poseidon",
+   "text": "Poseidon",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hades",
+   "text": "Hades",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:athena",
+   "text": "Athena",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:apollo",
+   "text": "Apollo",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:aphrodite",
+   "text": "Aphrodite",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ares",
+   "text": "Ares",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:hermes",
+   "text": "Hermes",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:artemis",
+   "text": "Artemis",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:hercules",
+   "text": "Hercules",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:achilles",
+   "text": "Achilles",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:odysseus",
+   "text": "Odysseus",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:perseus",
+   "text": "Perseus",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:pandora-s-box",
+   "text": "Pandora's Box",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mount-olympus",
+   "text": "Mount Olympus",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:trident",
+   "text": "Trident",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:golden-fleece",
+   "text": "Golden Fleece",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:jason-and-the-argonauts",
+   "text": "Jason And The Argonauts",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:icarus",
+   "text": "Icarus",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:midas-touch",
+   "text": "Midas Touch",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:king-midas",
+   "text": "King Midas",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:narcissus",
+   "text": "Narcissus",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:prometheus",
+   "text": "Prometheus",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:atlas-holding-the-world",
+   "text": "Atlas Holding The World",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:twelve-labors",
+   "text": "Twelve Labors",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:labyrinth",
+   "text": "Labyrinth",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:the-underworld",
+   "text": "The Underworld",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:river-styx",
+   "text": "River Styx",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:nectar-and-ambrosia",
+   "text": "Nectar And Ambrosia",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:cupid-s-bow",
+   "text": "Cupid's Bow",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:odin",
+   "text": "Odin",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:thor",
+   "text": "Thor",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:thor-s-hammer",
+   "text": "Thor's Hammer",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:loki",
+   "text": "Loki",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:valhalla",
+   "text": "Valhalla",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:valkyrie",
+   "text": "Valkyrie",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:asgard",
+   "text": "Asgard",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ragnarok",
+   "text": "Ragnarok",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:norse-gods",
+   "text": "Norse Gods",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ra-the-sun-god",
+   "text": "Ra The Sun God",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:anubis",
+   "text": "Anubis",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:osiris",
+   "text": "Osiris",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:eye-of-horus",
+   "text": "Eye Of Horus",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:greek-gods",
+   "text": "Greek Gods",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:roman-gods",
+   "text": "Roman Gods",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:atlantis",
+   "text": "Atlantis",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fountain-of-youth",
+   "text": "Fountain Of Youth",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:shangri-la",
+   "text": "Shangri-La",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:avalon",
+   "text": "Avalon",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:camelot",
+   "text": "Camelot",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:excalibur",
+   "text": "Excalibur",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sword-in-the-stone",
+   "text": "Sword In The Stone",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:merlin",
+   "text": "Merlin",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:lady-of-the-lake",
+   "text": "Lady Of The Lake",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:mount-doom",
+   "text": "Mount Doom",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:cinderella",
+   "text": "Cinderella",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:glass-slipper",
+   "text": "Glass Slipper",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pumpkin-carriage",
+   "text": "Pumpkin Carriage",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:midnight-curfew",
+   "text": "Midnight Curfew",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:snow-white",
+   "text": "Snow White",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:seven-dwarfs",
+   "text": "Seven Dwarfs",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:poisoned-apple",
+   "text": "Poisoned Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-mirror",
+   "text": "Magic Mirror",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:sleeping-beauty",
+   "text": "Sleeping Beauty",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:true-love-s-kiss",
+   "text": "True Love's Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:rapunzel",
+   "text": "Rapunzel",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:little-red-riding-hood",
+   "text": "Little Red Riding Hood",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:big-bad-wolf",
+   "text": "Big Bad Wolf",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:three-little-pigs",
+   "text": "Three Little Pigs",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:house-of-straw",
+   "text": "House Of Straw",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:goldilocks",
+   "text": "Goldilocks",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:three-bears",
+   "text": "Three Bears",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:just-right-porridge",
+   "text": "Just Right Porridge",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:hansel-and-gretel",
+   "text": "Hansel And Gretel",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:gingerbread-cottage",
+   "text": "Gingerbread Cottage",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:breadcrumb-trail",
+   "text": "Breadcrumb Trail",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:jack-and-the-beanstalk",
+   "text": "Jack And The Beanstalk",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-beans",
+   "text": "Magic Beans",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:golden-goose",
+   "text": "Golden Goose",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:rumpelstiltskin",
+   "text": "Rumpelstiltskin",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:spinning-straw-into-gold",
+   "text": "Spinning Straw Into Gold",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:frog-prince",
+   "text": "Frog Prince",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:kiss-a-frog",
+   "text": "Kiss A Frog",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:beauty-and-the-beast",
+   "text": "Beauty And The Beast",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:enchanted-rose",
+   "text": "Enchanted Rose",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:princess-and-the-pea",
+   "text": "Princess And The Pea",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:puss-in-boots",
+   "text": "Puss In Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:the-little-mermaid",
+   "text": "The Little Mermaid",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pinocchio",
+   "text": "Pinocchio",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:growing-nose",
+   "text": "Growing Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:peter-pan",
+   "text": "Peter Pan",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:never-never-land",
+   "text": "Never Never Land",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:tinker-bell",
+   "text": "Tinker Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:captain-hook",
+   "text": "Captain Hook",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:lost-boys",
+   "text": "Lost Boys",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:alice-in-wonderland",
+   "text": "Alice In Wonderland",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mad-hatter",
+   "text": "Mad Hatter",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:cheshire-cat",
+   "text": "Cheshire Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:white-rabbit",
+   "text": "White Rabbit",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:queen-of-hearts",
+   "text": "Queen Of Hearts",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wizard-of-oz",
+   "text": "Wizard Of Oz",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:yellow-brick-road",
+   "text": "Yellow Brick Road",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:ruby-slippers",
+   "text": "Ruby Slippers",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wicked-witch",
+   "text": "Wicked Witch",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:tin-man",
+   "text": "Tin Man",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:cowardly-lion",
+   "text": "Cowardly Lion",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:emerald-city",
+   "text": "Emerald City",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:aladdin",
+   "text": "Aladdin",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-lamp",
+   "text": "Magic Lamp",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:flying-carpet",
+   "text": "Flying Carpet",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:three-wishes",
+   "text": "Three Wishes",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:ali-baba",
+   "text": "Ali Baba",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sinbad",
+   "text": "Sinbad",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ugly-duckling",
+   "text": "Ugly Duckling",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:emperor-s-new-clothes",
+   "text": "Emperor's New Clothes",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:the-boy-who-cried-wolf",
+   "text": "The Boy Who Cried Wolf",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:tortoise-and-the-hare",
+   "text": "Tortoise And The Hare",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pied-piper",
+   "text": "Pied Piper",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:fairy-tale-castle",
+   "text": "Fairy Tale Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:evil-stepmother",
+   "text": "Evil Stepmother",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wicked-stepsisters",
+   "text": "Wicked Stepsisters",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:prince-charming",
+   "text": "Prince Charming",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:knight-on-a-white-horse",
+   "text": "Knight On A White Horse",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:magic-wand",
+   "text": "Magic Wand",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:spell-book",
+   "text": "Spell Book",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-spell",
+   "text": "Magic Spell",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:love-potion",
+   "text": "Love Potion",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:crystal-ball",
+   "text": "Crystal Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fortune-teller",
+   "text": "Fortune Teller",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:invisibility-cloak",
+   "text": "Invisibility Cloak",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:flying-broomstick",
+   "text": "Flying Broomstick",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:witch-s-brew",
+   "text": "Witch's Brew",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:bubbling-cauldron",
+   "text": "Bubbling Cauldron",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:magic-carpet-ride",
+   "text": "Magic Carpet Ride",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:treasure-chest",
+   "text": "Treasure Chest",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:end-of-the-rainbow",
+   "text": "End Of The Rainbow",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:curse",
+   "text": "Curse",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hex",
+   "text": "Hex",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:evil-sorcerer",
+   "text": "Evil Sorcerer",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:dark-lord",
+   "text": "Dark Lord",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:chosen-one",
+   "text": "Chosen One",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:prophecy",
+   "text": "Prophecy",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:quest",
+   "text": "Quest",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:epic-quest",
+   "text": "Epic Quest",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:side-quest",
+   "text": "Side Quest",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sidekick",
+   "text": "Sidekick",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wise-old-wizard",
+   "text": "Wise Old Wizard",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:wizard-s-staff",
+   "text": "Wizard's Staff",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:pointy-wizard-hat",
+   "text": "Pointy Wizard Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-school",
+   "text": "Magic School",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:sorting-hat",
+   "text": "Sorting Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hogwarts",
+   "text": "Hogwarts",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:quidditch",
+   "text": "Quidditch",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:golden-snitch",
+   "text": "Golden Snitch",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:lightning-scar",
+   "text": "Lightning Scar",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:platform-nine-and-three-quarters",
+   "text": "Platform Nine And Three Quarters",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:middle-earth",
+   "text": "Middle Earth",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:the-one-ring",
+   "text": "The One Ring",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:gandalf",
+   "text": "Gandalf",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:frodo",
+   "text": "Frodo",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:gollum",
+   "text": "Gollum",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:narnia",
+   "text": "Narnia",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:talking-lion",
+   "text": "Talking Lion",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:wardrobe-portal",
+   "text": "Wardrobe Portal",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:secret-passage",
+   "text": "Secret Passage",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:hidden-door",
+   "text": "Hidden Door",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:portal-to-another-world",
+   "text": "Portal To Another World",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:parallel-universe",
+   "text": "Parallel Universe",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:shrinking-potion",
+   "text": "Shrinking Potion",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:glowing-sword",
+   "text": "Glowing Sword",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:enchanted-armor",
+   "text": "Enchanted Armor",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:magic-ring",
+   "text": "Magic Ring",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:philosopher-s-stone",
+   "text": "Philosopher's Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:elixir-of-life",
+   "text": "Elixir Of Life",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:immortality",
+   "text": "Immortality",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:shield-maiden",
+   "text": "Shield Maiden",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:dungeons-and-dragons",
+   "text": "Dungeons And Dragons",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:dungeon-master",
+   "text": "Dungeon Master",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:hit-points",
+   "text": "Hit Points",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:elf-ears",
+   "text": "Elf Ears",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pointy-ears",
+   "text": "Pointy Ears",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:fairy-ring",
+   "text": "Fairy Ring",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:mushroom-house",
+   "text": "Mushroom House",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:castle-in-the-clouds",
+   "text": "Castle In The Clouds",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:floating-island",
+   "text": "Floating Island",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ice-palace",
+   "text": "Ice Palace",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:ice-queen",
+   "text": "Ice Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:snow-queen",
+   "text": "Snow Queen",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:elf-village",
+   "text": "Elf Village",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:troll-bridge",
+   "text": "Troll Bridge",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:riddle-of-the-sphinx",
+   "text": "Riddle Of The Sphinx",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:guardian-angel",
+   "text": "Guardian Angel",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:halo",
+   "text": "Halo",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:angel-wings",
+   "text": "Angel Wings",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:devil-horns",
+   "text": "Devil Horns",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:pitchfork",
+   "text": "Pitchfork",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:imp",
+   "text": "Imp",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:oracle",
+   "text": "Oracle",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:fates",
+   "text": "Fates",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:muse",
+   "text": "Muse",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:titan",
+   "text": "Titan",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:demigod",
+   "text": "Demigod",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:superpower",
+   "text": "Superpower",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mind-reading",
+   "text": "Mind Reading",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:teleportation",
+   "text": "Teleportation",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:invisibility",
+   "text": "Invisibility",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:levitation",
+   "text": "Levitation",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:shape-shifting",
+   "text": "Shape Shifting",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:time-freeze",
+   "text": "Time Freeze",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:will-o-the-wisp",
+   "text": "Will O' The Wisp",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:thunderbird",
+   "text": "Thunderbird",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:chupacabra",
+   "text": "Chupacabra",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:jackalope",
+   "text": "Jackalope",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:wish-upon-a-star",
+   "text": "Wish Upon A Star",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:sea-witch",
+   "text": "Sea Witch",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:ice-dragon",
+   "text": "Ice Dragon",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:sword-and-sorcery",
+   "text": "Sword And Sorcery",
+   "difficulty": 3
+  },
+  {
+   "id": "fantasy-myth:enchanted-castle",
+   "text": "Enchanted Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:secret-garden",
+   "text": "Secret Garden",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:monster-under-the-bed",
+   "text": "Monster Under The Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:magic-potion",
+   "text": "Magic Potion",
+   "difficulty": 1
+  },
+  {
+   "id": "fantasy-myth:mermaid-lagoon",
+   "text": "Mermaid Lagoon",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:turned-to-stone",
+   "text": "Turned To Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:frozen-in-time",
+   "text": "Frozen In Time",
+   "difficulty": 2
+  },
+  {
+   "id": "fantasy-myth:kitsune",
+   "text": "Kitsune",
+   "difficulty": 3
+  }
+ ]
+}

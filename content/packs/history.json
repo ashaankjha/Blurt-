@@ -1,0 +1,1863 @@
+{
+ "id": "history",
+ "name": "History",
+ "emoji": "🏛️",
+ "description": "The past, but fun.",
+ "tags": [
+  "family",
+  "hard"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "history:stone-age",
+   "text": "Stone Age",
+   "difficulty": 1
+  },
+  {
+   "id": "history:bronze-age",
+   "text": "Bronze Age",
+   "difficulty": 2
+  },
+  {
+   "id": "history:iron-age",
+   "text": "Iron Age",
+   "difficulty": 2
+  },
+  {
+   "id": "history:dark-ages",
+   "text": "Dark Ages",
+   "difficulty": 2
+  },
+  {
+   "id": "history:middle-ages",
+   "text": "Middle Ages",
+   "difficulty": 1
+  },
+  {
+   "id": "history:renaissance",
+   "text": "Renaissance",
+   "difficulty": 2
+  },
+  {
+   "id": "history:industrial-revolution",
+   "text": "Industrial Revolution",
+   "difficulty": 2
+  },
+  {
+   "id": "history:age-of-exploration",
+   "text": "Age Of Exploration",
+   "difficulty": 2
+  },
+  {
+   "id": "history:the-enlightenment",
+   "text": "The Enlightenment",
+   "difficulty": 3
+  },
+  {
+   "id": "history:victorian-era",
+   "text": "Victorian Era",
+   "difficulty": 2
+  },
+  {
+   "id": "history:roaring-twenties",
+   "text": "Roaring Twenties",
+   "difficulty": 2
+  },
+  {
+   "id": "history:space-age",
+   "text": "Space Age",
+   "difficulty": 1
+  },
+  {
+   "id": "history:information-age",
+   "text": "Information Age",
+   "difficulty": 2
+  },
+  {
+   "id": "history:prehistoric-times",
+   "text": "Prehistoric Times",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ancient-rome",
+   "text": "Ancient Rome",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ancient-greece",
+   "text": "Ancient Greece",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ancient-egypt",
+   "text": "Ancient Egypt",
+   "difficulty": 1
+  },
+  {
+   "id": "history:wild-west",
+   "text": "Wild West",
+   "difficulty": 1
+  },
+  {
+   "id": "history:gold-rush",
+   "text": "Gold Rush",
+   "difficulty": 1
+  },
+  {
+   "id": "history:jazz-age",
+   "text": "Jazz Age",
+   "difficulty": 2
+  },
+  {
+   "id": "history:swinging-sixties",
+   "text": "Swinging Sixties",
+   "difficulty": 2
+  },
+  {
+   "id": "history:golden-age-of-piracy",
+   "text": "Golden Age Of Piracy",
+   "difficulty": 2
+  },
+  {
+   "id": "history:pyramids",
+   "text": "Pyramids",
+   "difficulty": 1
+  },
+  {
+   "id": "history:great-pyramid-of-giza",
+   "text": "Great Pyramid Of Giza",
+   "difficulty": 2
+  },
+  {
+   "id": "history:sphinx",
+   "text": "Sphinx",
+   "difficulty": 1
+  },
+  {
+   "id": "history:pharaoh",
+   "text": "Pharaoh",
+   "difficulty": 1
+  },
+  {
+   "id": "history:mummy",
+   "text": "Mummy",
+   "difficulty": 1
+  },
+  {
+   "id": "history:hieroglyphics",
+   "text": "Hieroglyphics",
+   "difficulty": 2
+  },
+  {
+   "id": "history:rosetta-stone",
+   "text": "Rosetta Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "history:king-tut",
+   "text": "King Tut",
+   "difficulty": 1
+  },
+  {
+   "id": "history:cleopatra",
+   "text": "Cleopatra",
+   "difficulty": 1
+  },
+  {
+   "id": "history:papyrus",
+   "text": "Papyrus",
+   "difficulty": 2
+  },
+  {
+   "id": "history:sarcophagus",
+   "text": "Sarcophagus",
+   "difficulty": 3
+  },
+  {
+   "id": "history:julius-caesar",
+   "text": "Julius Caesar",
+   "difficulty": 1
+  },
+  {
+   "id": "history:roman-empire",
+   "text": "Roman Empire",
+   "difficulty": 1
+  },
+  {
+   "id": "history:roman-numerals",
+   "text": "Roman Numerals",
+   "difficulty": 1
+  },
+  {
+   "id": "history:colosseum",
+   "text": "Colosseum",
+   "difficulty": 1
+  },
+  {
+   "id": "history:gladiator",
+   "text": "Gladiator",
+   "difficulty": 1
+  },
+  {
+   "id": "history:chariot-race",
+   "text": "Chariot Race",
+   "difficulty": 1
+  },
+  {
+   "id": "history:toga",
+   "text": "Toga",
+   "difficulty": 1
+  },
+  {
+   "id": "history:senate",
+   "text": "Senate",
+   "difficulty": 2
+  },
+  {
+   "id": "history:aqueduct",
+   "text": "Aqueduct",
+   "difficulty": 3
+  },
+  {
+   "id": "history:spartans",
+   "text": "Spartans",
+   "difficulty": 2
+  },
+  {
+   "id": "history:olympic-games",
+   "text": "Olympic Games",
+   "difficulty": 1
+  },
+  {
+   "id": "history:trojan-horse",
+   "text": "Trojan Horse",
+   "difficulty": 1
+  },
+  {
+   "id": "history:parthenon",
+   "text": "Parthenon",
+   "difficulty": 2
+  },
+  {
+   "id": "history:acropolis",
+   "text": "Acropolis",
+   "difficulty": 3
+  },
+  {
+   "id": "history:socrates",
+   "text": "Socrates",
+   "difficulty": 2
+  },
+  {
+   "id": "history:plato",
+   "text": "Plato",
+   "difficulty": 2
+  },
+  {
+   "id": "history:aristotle",
+   "text": "Aristotle",
+   "difficulty": 2
+  },
+  {
+   "id": "history:alexander-the-great",
+   "text": "Alexander The Great",
+   "difficulty": 1
+  },
+  {
+   "id": "history:great-wall-of-china",
+   "text": "Great Wall Of China",
+   "difficulty": 1
+  },
+  {
+   "id": "history:terracotta-army",
+   "text": "Terracotta Army",
+   "difficulty": 2
+  },
+  {
+   "id": "history:silk-road",
+   "text": "Silk Road",
+   "difficulty": 2
+  },
+  {
+   "id": "history:confucius",
+   "text": "Confucius",
+   "difficulty": 2
+  },
+  {
+   "id": "history:stonehenge",
+   "text": "Stonehenge",
+   "difficulty": 1
+  },
+  {
+   "id": "history:cave-paintings",
+   "text": "Cave Paintings",
+   "difficulty": 1
+  },
+  {
+   "id": "history:caveman",
+   "text": "Caveman",
+   "difficulty": 1
+  },
+  {
+   "id": "history:woolly-mammoth",
+   "text": "Woolly Mammoth",
+   "difficulty": 1
+  },
+  {
+   "id": "history:sundial",
+   "text": "Sundial",
+   "difficulty": 2
+  },
+  {
+   "id": "history:abacus",
+   "text": "Abacus",
+   "difficulty": 2
+  },
+  {
+   "id": "history:hanging-gardens-of-babylon",
+   "text": "Hanging Gardens Of Babylon",
+   "difficulty": 2
+  },
+  {
+   "id": "history:seven-wonders-of-the-world",
+   "text": "Seven Wonders Of The World",
+   "difficulty": 2
+  },
+  {
+   "id": "history:aztecs",
+   "text": "Aztecs",
+   "difficulty": 2
+  },
+  {
+   "id": "history:maya-calendar",
+   "text": "Maya Calendar",
+   "difficulty": 2
+  },
+  {
+   "id": "history:incas",
+   "text": "Incas",
+   "difficulty": 2
+  },
+  {
+   "id": "history:machu-picchu",
+   "text": "Machu Picchu",
+   "difficulty": 2
+  },
+  {
+   "id": "history:knight-in-shining-armor",
+   "text": "Knight In Shining Armor",
+   "difficulty": 1
+  },
+  {
+   "id": "history:castle",
+   "text": "Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "history:moat",
+   "text": "Moat",
+   "difficulty": 1
+  },
+  {
+   "id": "history:drawbridge",
+   "text": "Drawbridge",
+   "difficulty": 1
+  },
+  {
+   "id": "history:jousting",
+   "text": "Jousting",
+   "difficulty": 1
+  },
+  {
+   "id": "history:king-arthur",
+   "text": "King Arthur",
+   "difficulty": 1
+  },
+  {
+   "id": "history:round-table",
+   "text": "Round Table",
+   "difficulty": 1
+  },
+  {
+   "id": "history:robin-hood",
+   "text": "Robin Hood",
+   "difficulty": 1
+  },
+  {
+   "id": "history:vikings",
+   "text": "Vikings",
+   "difficulty": 1
+  },
+  {
+   "id": "history:viking-longship",
+   "text": "Viking Longship",
+   "difficulty": 2
+  },
+  {
+   "id": "history:samurai",
+   "text": "Samurai",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ninja",
+   "text": "Ninja",
+   "difficulty": 1
+  },
+  {
+   "id": "history:shogun",
+   "text": "Shogun",
+   "difficulty": 3
+  },
+  {
+   "id": "history:feudalism",
+   "text": "Feudalism",
+   "difficulty": 3
+  },
+  {
+   "id": "history:peasant",
+   "text": "Peasant",
+   "difficulty": 1
+  },
+  {
+   "id": "history:serf",
+   "text": "Serf",
+   "difficulty": 3
+  },
+  {
+   "id": "history:blacksmith",
+   "text": "Blacksmith",
+   "difficulty": 1
+  },
+  {
+   "id": "history:town-crier",
+   "text": "Town Crier",
+   "difficulty": 2
+  },
+  {
+   "id": "history:court-jester",
+   "text": "Court Jester",
+   "difficulty": 1
+  },
+  {
+   "id": "history:catapult",
+   "text": "Catapult",
+   "difficulty": 1
+  },
+  {
+   "id": "history:coat-of-arms",
+   "text": "Coat Of Arms",
+   "difficulty": 2
+  },
+  {
+   "id": "history:chain-mail",
+   "text": "Chain Mail",
+   "difficulty": 2
+  },
+  {
+   "id": "history:magna-carta",
+   "text": "Magna Carta",
+   "difficulty": 2
+  },
+  {
+   "id": "history:marco-polo",
+   "text": "Marco Polo",
+   "difficulty": 1
+  },
+  {
+   "id": "history:joan-of-arc",
+   "text": "Joan Of Arc",
+   "difficulty": 2
+  },
+  {
+   "id": "history:monk",
+   "text": "Monk",
+   "difficulty": 1
+  },
+  {
+   "id": "history:illuminated-manuscript",
+   "text": "Illuminated Manuscript",
+   "difficulty": 3
+  },
+  {
+   "id": "history:holy-grail",
+   "text": "Holy Grail",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lady-in-waiting",
+   "text": "Lady In Waiting",
+   "difficulty": 2
+  },
+  {
+   "id": "history:damsel-in-distress",
+   "text": "Damsel In Distress",
+   "difficulty": 1
+  },
+  {
+   "id": "history:crown-jewels",
+   "text": "Crown Jewels",
+   "difficulty": 1
+  },
+  {
+   "id": "history:throne",
+   "text": "Throne",
+   "difficulty": 1
+  },
+  {
+   "id": "history:scepter",
+   "text": "Scepter",
+   "difficulty": 2
+  },
+  {
+   "id": "history:royal-wedding",
+   "text": "Royal Wedding",
+   "difficulty": 1
+  },
+  {
+   "id": "history:mona-lisa",
+   "text": "Mona Lisa",
+   "difficulty": 1
+  },
+  {
+   "id": "history:sistine-chapel",
+   "text": "Sistine Chapel",
+   "difficulty": 2
+  },
+  {
+   "id": "history:michelangelo",
+   "text": "Michelangelo",
+   "difficulty": 1
+  },
+  {
+   "id": "history:leonardo-da-vinci",
+   "text": "Leonardo Da Vinci",
+   "difficulty": 1
+  },
+  {
+   "id": "history:shakespeare",
+   "text": "Shakespeare",
+   "difficulty": 1
+  },
+  {
+   "id": "history:globe-theatre",
+   "text": "Globe Theatre",
+   "difficulty": 2
+  },
+  {
+   "id": "history:gutenberg-bible",
+   "text": "Gutenberg Bible",
+   "difficulty": 3
+  },
+  {
+   "id": "history:christopher-columbus",
+   "text": "Christopher Columbus",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ferdinand-magellan",
+   "text": "Ferdinand Magellan",
+   "difficulty": 2
+  },
+  {
+   "id": "history:vasco-da-gama",
+   "text": "Vasco Da Gama",
+   "difficulty": 3
+  },
+  {
+   "id": "history:captain-cook",
+   "text": "Captain Cook",
+   "difficulty": 2
+  },
+  {
+   "id": "history:explorer",
+   "text": "Explorer",
+   "difficulty": 1
+  },
+  {
+   "id": "history:treasure-map",
+   "text": "Treasure Map",
+   "difficulty": 1
+  },
+  {
+   "id": "history:pirate-ship",
+   "text": "Pirate Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "history:blackbeard",
+   "text": "Blackbeard",
+   "difficulty": 2
+  },
+  {
+   "id": "history:walk-the-plank",
+   "text": "Walk The Plank",
+   "difficulty": 1
+  },
+  {
+   "id": "history:spice-trade",
+   "text": "Spice Trade",
+   "difficulty": 2
+  },
+  {
+   "id": "history:new-world",
+   "text": "New World",
+   "difficulty": 2
+  },
+  {
+   "id": "history:mayflower",
+   "text": "Mayflower",
+   "difficulty": 2
+  },
+  {
+   "id": "history:pilgrims",
+   "text": "Pilgrims",
+   "difficulty": 1
+  },
+  {
+   "id": "history:queen-elizabeth-i",
+   "text": "Queen Elizabeth I",
+   "difficulty": 2
+  },
+  {
+   "id": "history:henry-viii",
+   "text": "Henry VIII",
+   "difficulty": 2
+  },
+  {
+   "id": "history:six-wives",
+   "text": "Six Wives",
+   "difficulty": 2
+  },
+  {
+   "id": "history:tudors",
+   "text": "Tudors",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lewis-and-clark",
+   "text": "Lewis And Clark",
+   "difficulty": 2
+  },
+  {
+   "id": "history:northwest-passage",
+   "text": "Northwest Passage",
+   "difficulty": 3
+  },
+  {
+   "id": "history:sir-francis-drake",
+   "text": "Sir Francis Drake",
+   "difficulty": 3
+  },
+  {
+   "id": "history:galleon",
+   "text": "Galleon",
+   "difficulty": 3
+  },
+  {
+   "id": "history:flat-earth",
+   "text": "Flat Earth",
+   "difficulty": 1
+  },
+  {
+   "id": "history:american-revolution",
+   "text": "American Revolution",
+   "difficulty": 2
+  },
+  {
+   "id": "history:french-revolution",
+   "text": "French Revolution",
+   "difficulty": 2
+  },
+  {
+   "id": "history:boston-tea-party",
+   "text": "Boston Tea Party",
+   "difficulty": 1
+  },
+  {
+   "id": "history:declaration-of-independence",
+   "text": "Declaration Of Independence",
+   "difficulty": 2
+  },
+  {
+   "id": "history:founding-fathers",
+   "text": "Founding Fathers",
+   "difficulty": 1
+  },
+  {
+   "id": "history:george-washington",
+   "text": "George Washington",
+   "difficulty": 1
+  },
+  {
+   "id": "history:benjamin-franklin",
+   "text": "Benjamin Franklin",
+   "difficulty": 1
+  },
+  {
+   "id": "history:thomas-jefferson",
+   "text": "Thomas Jefferson",
+   "difficulty": 1
+  },
+  {
+   "id": "history:abraham-lincoln",
+   "text": "Abraham Lincoln",
+   "difficulty": 1
+  },
+  {
+   "id": "history:napoleon",
+   "text": "Napoleon",
+   "difficulty": 1
+  },
+  {
+   "id": "history:marie-antoinette",
+   "text": "Marie Antoinette",
+   "difficulty": 2
+  },
+  {
+   "id": "history:let-them-eat-cake",
+   "text": "Let Them Eat Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "history:constitution",
+   "text": "Constitution",
+   "difficulty": 2
+  },
+  {
+   "id": "history:louis-xiv",
+   "text": "Louis XIV",
+   "difficulty": 3
+  },
+  {
+   "id": "history:queen-victoria",
+   "text": "Queen Victoria",
+   "difficulty": 2
+  },
+  {
+   "id": "history:british-empire",
+   "text": "British Empire",
+   "difficulty": 2
+  },
+  {
+   "id": "history:russian-tsar",
+   "text": "Russian Tsar",
+   "difficulty": 2
+  },
+  {
+   "id": "history:catherine-the-great",
+   "text": "Catherine The Great",
+   "difficulty": 2
+  },
+  {
+   "id": "history:peter-the-great",
+   "text": "Peter The Great",
+   "difficulty": 2
+  },
+  {
+   "id": "history:immigration",
+   "text": "Immigration",
+   "difficulty": 2
+  },
+  {
+   "id": "history:covered-wagon",
+   "text": "Covered Wagon",
+   "difficulty": 1
+  },
+  {
+   "id": "history:sheriff-s-badge",
+   "text": "Sheriff's Badge",
+   "difficulty": 1
+  },
+  {
+   "id": "history:stagecoach",
+   "text": "Stagecoach",
+   "difficulty": 1
+  },
+  {
+   "id": "history:cowboy",
+   "text": "Cowboy",
+   "difficulty": 1
+  },
+  {
+   "id": "history:steam-train",
+   "text": "Steam Train",
+   "difficulty": 1
+  },
+  {
+   "id": "history:suffragettes",
+   "text": "Suffragettes",
+   "difficulty": 2
+  },
+  {
+   "id": "history:votes-for-women",
+   "text": "Votes For Women",
+   "difficulty": 2
+  },
+  {
+   "id": "history:civil-rights-movement",
+   "text": "Civil Rights Movement",
+   "difficulty": 2
+  },
+  {
+   "id": "history:martin-luther-king",
+   "text": "Martin Luther King",
+   "difficulty": 1
+  },
+  {
+   "id": "history:i-have-a-dream",
+   "text": "I Have A Dream",
+   "difficulty": 1
+  },
+  {
+   "id": "history:rosa-parks",
+   "text": "Rosa Parks",
+   "difficulty": 1
+  },
+  {
+   "id": "history:nelson-mandela",
+   "text": "Nelson Mandela",
+   "difficulty": 1
+  },
+  {
+   "id": "history:mahatma-gandhi",
+   "text": "Mahatma Gandhi",
+   "difficulty": 1
+  },
+  {
+   "id": "history:fall-of-the-berlin-wall",
+   "text": "Fall Of The Berlin Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "history:iron-curtain",
+   "text": "Iron Curtain",
+   "difficulty": 3
+  },
+  {
+   "id": "history:cold-war",
+   "text": "Cold War",
+   "difficulty": 2
+  },
+  {
+   "id": "history:space-race",
+   "text": "Space Race",
+   "difficulty": 2
+  },
+  {
+   "id": "history:one-small-step",
+   "text": "One Small Step",
+   "difficulty": 1
+  },
+  {
+   "id": "history:neil-armstrong",
+   "text": "Neil Armstrong",
+   "difficulty": 1
+  },
+  {
+   "id": "history:apollo-11",
+   "text": "Apollo 11",
+   "difficulty": 2
+  },
+  {
+   "id": "history:sputnik",
+   "text": "Sputnik",
+   "difficulty": 2
+  },
+  {
+   "id": "history:yuri-gagarin",
+   "text": "Yuri Gagarin",
+   "difficulty": 3
+  },
+  {
+   "id": "history:wright-brothers",
+   "text": "Wright Brothers",
+   "difficulty": 1
+  },
+  {
+   "id": "history:first-flight",
+   "text": "First Flight",
+   "difficulty": 1
+  },
+  {
+   "id": "history:model-t",
+   "text": "Model T",
+   "difficulty": 2
+  },
+  {
+   "id": "history:henry-ford",
+   "text": "Henry Ford",
+   "difficulty": 2
+  },
+  {
+   "id": "history:assembly-line",
+   "text": "Assembly Line",
+   "difficulty": 2
+  },
+  {
+   "id": "history:telephone-booth",
+   "text": "Telephone Booth",
+   "difficulty": 1
+  },
+  {
+   "id": "history:telegram",
+   "text": "Telegram",
+   "difficulty": 1
+  },
+  {
+   "id": "history:typewriter",
+   "text": "Typewriter",
+   "difficulty": 1
+  },
+  {
+   "id": "history:gramophone",
+   "text": "Gramophone",
+   "difficulty": 2
+  },
+  {
+   "id": "history:black-and-white-tv",
+   "text": "Black And White TV",
+   "difficulty": 1
+  },
+  {
+   "id": "history:silent-movie",
+   "text": "Silent Movie",
+   "difficulty": 1
+  },
+  {
+   "id": "history:charlie-chaplin",
+   "text": "Charlie Chaplin",
+   "difficulty": 1
+  },
+  {
+   "id": "history:radio-show",
+   "text": "Radio Show",
+   "difficulty": 1
+  },
+  {
+   "id": "history:jukebox",
+   "text": "Jukebox",
+   "difficulty": 1
+  },
+  {
+   "id": "history:rotary-phone",
+   "text": "Rotary Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "history:steamboat",
+   "text": "Steamboat",
+   "difficulty": 2
+  },
+  {
+   "id": "history:zeppelin",
+   "text": "Zeppelin",
+   "difficulty": 2
+  },
+  {
+   "id": "history:penny-farthing",
+   "text": "Penny Farthing",
+   "difficulty": 2
+  },
+  {
+   "id": "history:time-capsule",
+   "text": "Time Capsule",
+   "difficulty": 1
+  },
+  {
+   "id": "history:amelia-earhart",
+   "text": "Amelia Earhart",
+   "difficulty": 2
+  },
+  {
+   "id": "history:great-depression",
+   "text": "Great Depression",
+   "difficulty": 2
+  },
+  {
+   "id": "history:flapper",
+   "text": "Flapper",
+   "difficulty": 2
+  },
+  {
+   "id": "history:woodstock",
+   "text": "Woodstock",
+   "difficulty": 2
+  },
+  {
+   "id": "history:beatlemania",
+   "text": "Beatlemania",
+   "difficulty": 2
+  },
+  {
+   "id": "history:hippies",
+   "text": "Hippies",
+   "difficulty": 1
+  },
+  {
+   "id": "history:disco-era",
+   "text": "Disco Era",
+   "difficulty": 1
+  },
+  {
+   "id": "history:first-computer",
+   "text": "First Computer",
+   "difficulty": 2
+  },
+  {
+   "id": "history:floppy-disk",
+   "text": "Floppy Disk",
+   "difficulty": 1
+  },
+  {
+   "id": "history:world-wide-web",
+   "text": "World Wide Web",
+   "difficulty": 1
+  },
+  {
+   "id": "history:y2k",
+   "text": "Y2K",
+   "difficulty": 2
+  },
+  {
+   "id": "history:dot-com-boom",
+   "text": "Dot Com Boom",
+   "difficulty": 3
+  },
+  {
+   "id": "history:royal-family",
+   "text": "Royal Family",
+   "difficulty": 1
+  },
+  {
+   "id": "history:queen-elizabeth-ii",
+   "text": "Queen Elizabeth II",
+   "difficulty": 1
+  },
+  {
+   "id": "history:winston-churchill",
+   "text": "Winston Churchill",
+   "difficulty": 1
+  },
+  {
+   "id": "history:olympic-torch",
+   "text": "Olympic Torch",
+   "difficulty": 1
+  },
+  {
+   "id": "history:nobel-peace-prize",
+   "text": "Nobel Peace Prize",
+   "difficulty": 2
+  },
+  {
+   "id": "history:united-nations",
+   "text": "United Nations",
+   "difficulty": 2
+  },
+  {
+   "id": "history:european-union",
+   "text": "European Union",
+   "difficulty": 2
+  },
+  {
+   "id": "history:eiffel-tower",
+   "text": "Eiffel Tower",
+   "difficulty": 1
+  },
+  {
+   "id": "history:taj-mahal",
+   "text": "Taj Mahal",
+   "difficulty": 1
+  },
+  {
+   "id": "history:panama-canal",
+   "text": "Panama Canal",
+   "difficulty": 2
+  },
+  {
+   "id": "history:suez-canal",
+   "text": "Suez Canal",
+   "difficulty": 3
+  },
+  {
+   "id": "history:history-book",
+   "text": "History Book",
+   "difficulty": 1
+  },
+  {
+   "id": "history:timeline",
+   "text": "Timeline",
+   "difficulty": 1
+  },
+  {
+   "id": "history:archaeologist",
+   "text": "Archaeologist",
+   "difficulty": 1
+  },
+  {
+   "id": "history:archaeological-dig",
+   "text": "Archaeological Dig",
+   "difficulty": 2
+  },
+  {
+   "id": "history:artifact",
+   "text": "Artifact",
+   "difficulty": 2
+  },
+  {
+   "id": "history:ancient-ruins",
+   "text": "Ancient Ruins",
+   "difficulty": 1
+  },
+  {
+   "id": "history:museum",
+   "text": "Museum",
+   "difficulty": 1
+  },
+  {
+   "id": "history:historian",
+   "text": "Historian",
+   "difficulty": 2
+  },
+  {
+   "id": "history:family-tree",
+   "text": "Family Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "history:antique",
+   "text": "Antique",
+   "difficulty": 1
+  },
+  {
+   "id": "history:relic",
+   "text": "Relic",
+   "difficulty": 2
+  },
+  {
+   "id": "history:old-map",
+   "text": "Old Map",
+   "difficulty": 1
+  },
+  {
+   "id": "history:scroll",
+   "text": "Scroll",
+   "difficulty": 1
+  },
+  {
+   "id": "history:quill-pen",
+   "text": "Quill Pen",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ink-well",
+   "text": "Ink Well",
+   "difficulty": 2
+  },
+  {
+   "id": "history:wax-seal",
+   "text": "Wax Seal",
+   "difficulty": 2
+  },
+  {
+   "id": "history:candlelight",
+   "text": "Candlelight",
+   "difficulty": 1
+  },
+  {
+   "id": "history:town-square",
+   "text": "Town Square",
+   "difficulty": 1
+  },
+  {
+   "id": "history:monarchy",
+   "text": "Monarchy",
+   "difficulty": 2
+  },
+  {
+   "id": "history:democracy",
+   "text": "Democracy",
+   "difficulty": 2
+  },
+  {
+   "id": "history:republic",
+   "text": "Republic",
+   "difficulty": 2
+  },
+  {
+   "id": "history:dynasty",
+   "text": "Dynasty",
+   "difficulty": 2
+  },
+  {
+   "id": "history:empire",
+   "text": "Empire",
+   "difficulty": 1
+  },
+  {
+   "id": "history:emperor",
+   "text": "Emperor",
+   "difficulty": 1
+  },
+  {
+   "id": "history:empress",
+   "text": "Empress",
+   "difficulty": 2
+  },
+  {
+   "id": "history:dictator",
+   "text": "Dictator",
+   "difficulty": 2
+  },
+  {
+   "id": "history:revolution",
+   "text": "Revolution",
+   "difficulty": 1
+  },
+  {
+   "id": "history:rebellion",
+   "text": "Rebellion",
+   "difficulty": 2
+  },
+  {
+   "id": "history:coronation",
+   "text": "Coronation",
+   "difficulty": 2
+  },
+  {
+   "id": "history:abdication",
+   "text": "Abdication",
+   "difficulty": 3
+  },
+  {
+   "id": "history:heir-to-the-throne",
+   "text": "Heir To The Throne",
+   "difficulty": 2
+  },
+  {
+   "id": "history:royal-decree",
+   "text": "Royal Decree",
+   "difficulty": 2
+  },
+  {
+   "id": "history:treaty",
+   "text": "Treaty",
+   "difficulty": 2
+  },
+  {
+   "id": "history:peace-treaty",
+   "text": "Peace Treaty",
+   "difficulty": 2
+  },
+  {
+   "id": "history:colonies",
+   "text": "Colonies",
+   "difficulty": 2
+  },
+  {
+   "id": "history:settlers",
+   "text": "Settlers",
+   "difficulty": 1
+  },
+  {
+   "id": "history:pioneer",
+   "text": "Pioneer",
+   "difficulty": 1
+  },
+  {
+   "id": "history:frontier",
+   "text": "Frontier",
+   "difficulty": 2
+  },
+  {
+   "id": "history:trade-route",
+   "text": "Trade Route",
+   "difficulty": 2
+  },
+  {
+   "id": "history:barter",
+   "text": "Barter",
+   "difficulty": 2
+  },
+  {
+   "id": "history:gold-coin",
+   "text": "Gold Coin",
+   "difficulty": 1
+  },
+  {
+   "id": "history:ancient-coin",
+   "text": "Ancient Coin",
+   "difficulty": 1
+  },
+  {
+   "id": "history:knighthood",
+   "text": "Knighthood",
+   "difficulty": 2
+  },
+  {
+   "id": "history:statue",
+   "text": "Statue",
+   "difficulty": 1
+  },
+  {
+   "id": "history:monument",
+   "text": "Monument",
+   "difficulty": 1
+  },
+  {
+   "id": "history:obelisk",
+   "text": "Obelisk",
+   "difficulty": 3
+  },
+  {
+   "id": "history:tapestry",
+   "text": "Tapestry",
+   "difficulty": 2
+  },
+  {
+   "id": "history:leaning-tower-of-pisa",
+   "text": "Leaning Tower Of Pisa",
+   "difficulty": 1
+  },
+  {
+   "id": "history:notre-dame",
+   "text": "Notre Dame",
+   "difficulty": 2
+  },
+  {
+   "id": "history:big-ben",
+   "text": "Big Ben",
+   "difficulty": 1
+  },
+  {
+   "id": "history:tower-of-london",
+   "text": "Tower Of London",
+   "difficulty": 2
+  },
+  {
+   "id": "history:buckingham-palace",
+   "text": "Buckingham Palace",
+   "difficulty": 1
+  },
+  {
+   "id": "history:palace-of-versailles",
+   "text": "Palace Of Versailles",
+   "difficulty": 2
+  },
+  {
+   "id": "history:forbidden-city",
+   "text": "Forbidden City",
+   "difficulty": 2
+  },
+  {
+   "id": "history:kremlin",
+   "text": "Kremlin",
+   "difficulty": 2
+  },
+  {
+   "id": "history:archimedes",
+   "text": "Archimedes",
+   "difficulty": 3
+  },
+  {
+   "id": "history:dr-livingstone-i-presume",
+   "text": "Dr Livingstone I Presume",
+   "difficulty": 3
+  },
+  {
+   "id": "history:easter-island-heads",
+   "text": "Easter Island Heads",
+   "difficulty": 2
+  },
+  {
+   "id": "history:ancient-olympics",
+   "text": "Ancient Olympics",
+   "difficulty": 2
+  },
+  {
+   "id": "history:greek-philosopher",
+   "text": "Greek Philosopher",
+   "difficulty": 2
+  },
+  {
+   "id": "history:oracle-of-delphi",
+   "text": "Oracle Of Delphi",
+   "difficulty": 3
+  },
+  {
+   "id": "history:roman-bath",
+   "text": "Roman Bath",
+   "difficulty": 2
+  },
+  {
+   "id": "history:veni-vidi-vici",
+   "text": "Veni Vidi Vici",
+   "difficulty": 2
+  },
+  {
+   "id": "history:crossing-the-rubicon",
+   "text": "Crossing The Rubicon",
+   "difficulty": 3
+  },
+  {
+   "id": "history:mesopotamia",
+   "text": "Mesopotamia",
+   "difficulty": 2
+  },
+  {
+   "id": "history:cradle-of-civilization",
+   "text": "Cradle Of Civilization",
+   "difficulty": 3
+  },
+  {
+   "id": "history:cuneiform",
+   "text": "Cuneiform",
+   "difficulty": 3
+  },
+  {
+   "id": "history:code-of-hammurabi",
+   "text": "Code Of Hammurabi",
+   "difficulty": 3
+  },
+  {
+   "id": "history:persian-empire",
+   "text": "Persian Empire",
+   "difficulty": 2
+  },
+  {
+   "id": "history:byzantine-empire",
+   "text": "Byzantine Empire",
+   "difficulty": 3
+  },
+  {
+   "id": "history:ottoman-empire",
+   "text": "Ottoman Empire",
+   "difficulty": 2
+  },
+  {
+   "id": "history:mongol-empire",
+   "text": "Mongol Empire",
+   "difficulty": 2
+  },
+  {
+   "id": "history:ming-dynasty",
+   "text": "Ming Dynasty",
+   "difficulty": 2
+  },
+  {
+   "id": "history:ming-vase",
+   "text": "Ming Vase",
+   "difficulty": 2
+  },
+  {
+   "id": "history:library-of-alexandria",
+   "text": "Library Of Alexandria",
+   "difficulty": 3
+  },
+  {
+   "id": "history:colossus-of-rhodes",
+   "text": "Colossus Of Rhodes",
+   "difficulty": 3
+  },
+  {
+   "id": "history:hippocratic-oath",
+   "text": "Hippocratic Oath",
+   "difficulty": 3
+  },
+  {
+   "id": "history:laurel-wreath",
+   "text": "Laurel Wreath",
+   "difficulty": 2
+  },
+  {
+   "id": "history:hadrian-s-wall",
+   "text": "Hadrian's Wall",
+   "difficulty": 3
+  },
+  {
+   "id": "history:dead-language",
+   "text": "Dead Language",
+   "difficulty": 2
+  },
+  {
+   "id": "history:dead-sea-scrolls",
+   "text": "Dead Sea Scrolls",
+   "difficulty": 3
+  },
+  {
+   "id": "history:nefertiti",
+   "text": "Nefertiti",
+   "difficulty": 3
+  },
+  {
+   "id": "history:ramses",
+   "text": "Ramses",
+   "difficulty": 3
+  },
+  {
+   "id": "history:mummy-s-curse",
+   "text": "Mummy's Curse",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lost-city",
+   "text": "Lost City",
+   "difficulty": 2
+  },
+  {
+   "id": "history:el-dorado",
+   "text": "El Dorado",
+   "difficulty": 2
+  },
+  {
+   "id": "history:fall-of-rome",
+   "text": "Fall Of Rome",
+   "difficulty": 2
+  },
+  {
+   "id": "history:discovery-of-fire",
+   "text": "Discovery Of Fire",
+   "difficulty": 1
+  },
+  {
+   "id": "history:invention-of-the-wheel",
+   "text": "Invention Of The Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "history:banquet-hall",
+   "text": "Banquet Hall",
+   "difficulty": 2
+  },
+  {
+   "id": "history:minstrel",
+   "text": "Minstrel",
+   "difficulty": 2
+  },
+  {
+   "id": "history:bard",
+   "text": "Bard",
+   "difficulty": 2
+  },
+  {
+   "id": "history:alchemist",
+   "text": "Alchemist",
+   "difficulty": 2
+  },
+  {
+   "id": "history:gargoyle",
+   "text": "Gargoyle",
+   "difficulty": 2
+  },
+  {
+   "id": "history:cathedral",
+   "text": "Cathedral",
+   "difficulty": 1
+  },
+  {
+   "id": "history:stained-glass-window",
+   "text": "Stained Glass Window",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lord-of-the-manor",
+   "text": "Lord Of The Manor",
+   "difficulty": 2
+  },
+  {
+   "id": "history:squire",
+   "text": "Squire",
+   "difficulty": 2
+  },
+  {
+   "id": "history:archer",
+   "text": "Archer",
+   "difficulty": 1
+  },
+  {
+   "id": "history:longbow",
+   "text": "Longbow",
+   "difficulty": 2
+  },
+  {
+   "id": "history:suit-of-armor",
+   "text": "Suit Of Armor",
+   "difficulty": 1
+  },
+  {
+   "id": "history:heraldry",
+   "text": "Heraldry",
+   "difficulty": 3
+  },
+  {
+   "id": "history:windmill",
+   "text": "Windmill",
+   "difficulty": 1
+  },
+  {
+   "id": "history:spinning-wheel",
+   "text": "Spinning Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "history:loom",
+   "text": "Loom",
+   "difficulty": 2
+  },
+  {
+   "id": "history:cobblestone-street",
+   "text": "Cobblestone Street",
+   "difficulty": 2
+  },
+  {
+   "id": "history:horse-and-carriage",
+   "text": "Horse And Carriage",
+   "difficulty": 1
+  },
+  {
+   "id": "history:carrier-pigeon",
+   "text": "Carrier Pigeon",
+   "difficulty": 1
+  },
+  {
+   "id": "history:message-in-a-bottle",
+   "text": "Message In A Bottle",
+   "difficulty": 1
+  },
+  {
+   "id": "history:hourglass",
+   "text": "Hourglass",
+   "difficulty": 1
+  },
+  {
+   "id": "history:sextant",
+   "text": "Sextant",
+   "difficulty": 3
+  },
+  {
+   "id": "history:spyglass",
+   "text": "Spyglass",
+   "difficulty": 2
+  },
+  {
+   "id": "history:crow-s-nest",
+   "text": "Crow's Nest",
+   "difficulty": 2
+  },
+  {
+   "id": "history:jolly-roger",
+   "text": "Jolly Roger",
+   "difficulty": 2
+  },
+  {
+   "id": "history:pieces-of-eight",
+   "text": "Pieces Of Eight",
+   "difficulty": 3
+  },
+  {
+   "id": "history:buried-treasure",
+   "text": "Buried Treasure",
+   "difficulty": 1
+  },
+  {
+   "id": "history:doubloon",
+   "text": "Doubloon",
+   "difficulty": 3
+  },
+  {
+   "id": "history:spinning-jenny",
+   "text": "Spinning Jenny",
+   "difficulty": 3
+  },
+  {
+   "id": "history:postage-stamp",
+   "text": "Postage Stamp",
+   "difficulty": 1
+  },
+  {
+   "id": "history:radio-broadcast",
+   "text": "Radio Broadcast",
+   "difficulty": 2
+  },
+  {
+   "id": "history:newsreel",
+   "text": "Newsreel",
+   "difficulty": 3
+  },
+  {
+   "id": "history:newspaper-boy",
+   "text": "Newspaper Boy",
+   "difficulty": 1
+  },
+  {
+   "id": "history:read-all-about-it",
+   "text": "Read All About It",
+   "difficulty": 1
+  },
+  {
+   "id": "history:top-hat-and-cane",
+   "text": "Top Hat And Cane",
+   "difficulty": 2
+  },
+  {
+   "id": "history:monocle",
+   "text": "Monocle",
+   "difficulty": 1
+  },
+  {
+   "id": "history:pocket-watch",
+   "text": "Pocket Watch",
+   "difficulty": 1
+  },
+  {
+   "id": "history:corset",
+   "text": "Corset",
+   "difficulty": 2
+  },
+  {
+   "id": "history:powdered-wig",
+   "text": "Powdered Wig",
+   "difficulty": 1
+  },
+  {
+   "id": "history:hoop-skirt",
+   "text": "Hoop Skirt",
+   "difficulty": 2
+  },
+  {
+   "id": "history:bonnet",
+   "text": "Bonnet",
+   "difficulty": 1
+  },
+  {
+   "id": "history:gas-lamp",
+   "text": "Gas Lamp",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lamplighter",
+   "text": "Lamplighter",
+   "difficulty": 2
+  },
+  {
+   "id": "history:chimney-sweep",
+   "text": "Chimney Sweep",
+   "difficulty": 1
+  },
+  {
+   "id": "history:milkman",
+   "text": "Milkman",
+   "difficulty": 1
+  },
+  {
+   "id": "history:phonograph",
+   "text": "Phonograph",
+   "difficulty": 2
+  },
+  {
+   "id": "history:world-s-fair",
+   "text": "World's Fair",
+   "difficulty": 2
+  },
+  {
+   "id": "history:ocean-liner",
+   "text": "Ocean Liner",
+   "difficulty": 2
+  },
+  {
+   "id": "history:switchboard-operator",
+   "text": "Switchboard Operator",
+   "difficulty": 2
+  },
+  {
+   "id": "history:polar-explorer",
+   "text": "Polar Explorer",
+   "difficulty": 2
+  },
+  {
+   "id": "history:race-to-the-south-pole",
+   "text": "Race To The South Pole",
+   "difficulty": 3
+  },
+  {
+   "id": "history:edmund-hillary",
+   "text": "Edmund Hillary",
+   "difficulty": 3
+  },
+  {
+   "id": "history:charlemagne",
+   "text": "Charlemagne",
+   "difficulty": 3
+  },
+  {
+   "id": "history:richard-the-lionheart",
+   "text": "Richard The Lionheart",
+   "difficulty": 3
+  },
+  {
+   "id": "history:florence-nightingale",
+   "text": "Florence Nightingale",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lady-with-the-lamp",
+   "text": "Lady With The Lamp",
+   "difficulty": 3
+  },
+  {
+   "id": "history:johannes-gutenberg",
+   "text": "Johannes Gutenberg",
+   "difficulty": 3
+  },
+  {
+   "id": "history:mozart",
+   "text": "Mozart",
+   "difficulty": 1
+  },
+  {
+   "id": "history:beethoven",
+   "text": "Beethoven",
+   "difficulty": 1
+  },
+  {
+   "id": "history:vincent-van-gogh",
+   "text": "Vincent Van Gogh",
+   "difficulty": 1
+  },
+  {
+   "id": "history:pablo-picasso",
+   "text": "Pablo Picasso",
+   "difficulty": 1
+  },
+  {
+   "id": "history:mother-teresa",
+   "text": "Mother Teresa",
+   "difficulty": 2
+  },
+  {
+   "id": "history:queen-of-england",
+   "text": "Queen Of England",
+   "difficulty": 1
+  },
+  {
+   "id": "history:rickshaw",
+   "text": "Rickshaw",
+   "difficulty": 2
+  },
+  {
+   "id": "history:lighthouse-keeper",
+   "text": "Lighthouse Keeper",
+   "difficulty": 2
+  },
+  {
+   "id": "history:steam-power",
+   "text": "Steam Power",
+   "difficulty": 2
+  },
+  {
+   "id": "history:census",
+   "text": "Census",
+   "difficulty": 2
+  }
+ ]
+}

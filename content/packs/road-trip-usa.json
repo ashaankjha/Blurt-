@@ -1,0 +1,1618 @@
+{
+ "id": "road-trip-usa",
+ "name": "Road Trip USA",
+ "emoji": "🚗",
+ "description": "Highways, diners and roadside oddities.",
+ "tags": [
+  "family",
+  "local"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "road-trip-usa:alabama",
+   "text": "Alabama",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:alaska",
+   "text": "Alaska",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:arizona",
+   "text": "Arizona",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:arkansas",
+   "text": "Arkansas",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:california",
+   "text": "California",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:colorado",
+   "text": "Colorado",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:connecticut",
+   "text": "Connecticut",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:delaware",
+   "text": "Delaware",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:florida",
+   "text": "Florida",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:georgia",
+   "text": "Georgia",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:hawaii",
+   "text": "Hawaii",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:idaho",
+   "text": "Idaho",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:illinois",
+   "text": "Illinois",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:indiana",
+   "text": "Indiana",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:iowa",
+   "text": "Iowa",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:kansas",
+   "text": "Kansas",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:kentucky",
+   "text": "Kentucky",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:louisiana",
+   "text": "Louisiana",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:maine",
+   "text": "Maine",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:maryland",
+   "text": "Maryland",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:massachusetts",
+   "text": "Massachusetts",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:michigan",
+   "text": "Michigan",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:minnesota",
+   "text": "Minnesota",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:mississippi",
+   "text": "Mississippi",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:missouri",
+   "text": "Missouri",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:montana",
+   "text": "Montana",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:nebraska",
+   "text": "Nebraska",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:nevada",
+   "text": "Nevada",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:new-hampshire",
+   "text": "New Hampshire",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:new-jersey",
+   "text": "New Jersey",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:new-mexico",
+   "text": "New Mexico",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:north-carolina",
+   "text": "North Carolina",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:north-dakota",
+   "text": "North Dakota",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:ohio",
+   "text": "Ohio",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:oklahoma",
+   "text": "Oklahoma",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:oregon",
+   "text": "Oregon",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:pennsylvania",
+   "text": "Pennsylvania",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:rhode-island",
+   "text": "Rhode Island",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:south-carolina",
+   "text": "South Carolina",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:south-dakota",
+   "text": "South Dakota",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:tennessee",
+   "text": "Tennessee",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:texas",
+   "text": "Texas",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:utah",
+   "text": "Utah",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:vermont",
+   "text": "Vermont",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:virginia",
+   "text": "Virginia",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:washington-state",
+   "text": "Washington State",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:west-virginia",
+   "text": "West Virginia",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:wisconsin",
+   "text": "Wisconsin",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:wyoming",
+   "text": "Wyoming",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:washington-dc",
+   "text": "Washington DC",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:los-angeles",
+   "text": "Los Angeles",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:hollywood",
+   "text": "Hollywood",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:hollywood-sign",
+   "text": "Hollywood Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:walk-of-fame",
+   "text": "Walk Of Fame",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:san-francisco",
+   "text": "San Francisco",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:golden-gate-bridge",
+   "text": "Golden Gate Bridge",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cable-car",
+   "text": "Cable Car",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:alcatraz",
+   "text": "Alcatraz",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:las-vegas",
+   "text": "Las Vegas",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:vegas-strip",
+   "text": "Vegas Strip",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:chicago",
+   "text": "Chicago",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:deep-dish-pizza",
+   "text": "Deep Dish Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:the-bean",
+   "text": "The Bean",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:miami-beach",
+   "text": "Miami Beach",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:orlando",
+   "text": "Orlando",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:new-orleans",
+   "text": "New Orleans",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:nashville",
+   "text": "Nashville",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:memphis",
+   "text": "Memphis",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:graceland",
+   "text": "Graceland",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:austin",
+   "text": "Austin",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:houston",
+   "text": "Houston",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:dallas",
+   "text": "Dallas",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:seattle",
+   "text": "Seattle",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:space-needle",
+   "text": "Space Needle",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:portland",
+   "text": "Portland",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:denver",
+   "text": "Denver",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:mile-high-city",
+   "text": "Mile High City",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:boston",
+   "text": "Boston",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:philadelphia",
+   "text": "Philadelphia",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:philly-cheesesteak",
+   "text": "Philly Cheesesteak",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:detroit",
+   "text": "Detroit",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:motor-city",
+   "text": "Motor City",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:atlanta",
+   "text": "Atlanta",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:san-diego",
+   "text": "San Diego",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:phoenix",
+   "text": "Phoenix",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:salt-lake-city",
+   "text": "Salt Lake City",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:honolulu",
+   "text": "Honolulu",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:anchorage",
+   "text": "Anchorage",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:key-west",
+   "text": "Key West",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:savannah",
+   "text": "Savannah",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:santa-fe",
+   "text": "Santa Fe",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:st-louis-arch",
+   "text": "St Louis Arch",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:gateway-arch",
+   "text": "Gateway Arch",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:windy-city",
+   "text": "Windy City",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:city-of-angels",
+   "text": "City Of Angels",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:silicon-valley",
+   "text": "Silicon Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:beverly-hills",
+   "text": "Beverly Hills",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:malibu",
+   "text": "Malibu",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:cape-cod",
+   "text": "Cape Cod",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:martha-s-vineyard",
+   "text": "Martha's Vineyard",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:atlantic-city",
+   "text": "Atlantic City",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:branson",
+   "text": "Branson",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:grand-canyon",
+   "text": "Grand Canyon",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:yellowstone",
+   "text": "Yellowstone",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:old-faithful",
+   "text": "Old Faithful",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:yosemite",
+   "text": "Yosemite",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:half-dome",
+   "text": "Half Dome",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:zion-national-park",
+   "text": "Zion National Park",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:arches-national-park",
+   "text": "Arches National Park",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:bryce-canyon",
+   "text": "Bryce Canyon",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:grand-tetons",
+   "text": "Grand Tetons",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:glacier-national-park",
+   "text": "Glacier National Park",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:great-smoky-mountains",
+   "text": "Great Smoky Mountains",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:everglades",
+   "text": "Everglades",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:death-valley",
+   "text": "Death Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:joshua-tree",
+   "text": "Joshua Tree",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:redwood-forest",
+   "text": "Redwood Forest",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:giant-sequoia",
+   "text": "Giant Sequoia",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:monument-valley",
+   "text": "Monument Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:painted-desert",
+   "text": "Painted Desert",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:petrified-forest",
+   "text": "Petrified Forest",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:mojave-desert",
+   "text": "Mojave Desert",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:rocky-mountains",
+   "text": "Rocky Mountains",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:appalachian-trail",
+   "text": "Appalachian Trail",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:blue-ridge-mountains",
+   "text": "Blue Ridge Mountains",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:great-plains",
+   "text": "Great Plains",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:mississippi-river",
+   "text": "Mississippi River",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:colorado-river",
+   "text": "Colorado River",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:rio-grande",
+   "text": "Rio Grande",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:lake-tahoe",
+   "text": "Lake Tahoe",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:great-salt-lake",
+   "text": "Great Salt Lake",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:niagara-falls",
+   "text": "Niagara Falls",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:mount-rushmore",
+   "text": "Mount Rushmore",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:mount-rainier",
+   "text": "Mount Rainier",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:pikes-peak",
+   "text": "Pikes Peak",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:hoover-dam",
+   "text": "Hoover Dam",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:cape-canaveral",
+   "text": "Cape Canaveral",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:outer-banks",
+   "text": "Outer Banks",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:florida-keys",
+   "text": "Florida Keys",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:big-sur",
+   "text": "Big Sur",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:pacific-coast-highway",
+   "text": "Pacific Coast Highway",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:hawaiian-volcano",
+   "text": "Hawaiian Volcano",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:waikiki-beach",
+   "text": "Waikiki Beach",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:alaskan-glacier",
+   "text": "Alaskan Glacier",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:bald-eagle",
+   "text": "Bald Eagle",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:buffalo-herd",
+   "text": "Buffalo Herd",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:grizzly-bear",
+   "text": "Grizzly Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:alligator",
+   "text": "Alligator",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cactus",
+   "text": "Cactus",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:tumbleweed",
+   "text": "Tumbleweed",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:roadrunner",
+   "text": "Roadrunner",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:coyote",
+   "text": "Coyote",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:road-trip",
+   "text": "Road Trip",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:route-66",
+   "text": "Route 66",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:interstate",
+   "text": "Interstate",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:open-road",
+   "text": "Open Road",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:highway",
+   "text": "Highway",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:scenic-route",
+   "text": "Scenic Route",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:scenic-overlook",
+   "text": "Scenic Overlook",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:detour",
+   "text": "Detour",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:shortcut",
+   "text": "Shortcut",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:road-map",
+   "text": "Road Map",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:paper-map",
+   "text": "Paper Map",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:gps-recalculating",
+   "text": "GPS Recalculating",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:are-we-there-yet",
+   "text": "Are We There Yet",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:pit-stop",
+   "text": "Pit Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:rest-stop",
+   "text": "Rest Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:gas-station",
+   "text": "Gas Station",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:gas-station-snacks",
+   "text": "Gas Station Snacks",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:fill-up-the-tank",
+   "text": "Fill Up The Tank",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:running-on-fumes",
+   "text": "Running On Fumes",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:check-engine-light",
+   "text": "Check Engine Light",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:flat-tire",
+   "text": "Flat Tire",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:spare-tire",
+   "text": "Spare Tire",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:tow-truck",
+   "text": "Tow Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:car-trouble",
+   "text": "Car Trouble",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:speeding-ticket",
+   "text": "Speeding Ticket",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:speed-trap",
+   "text": "Speed Trap",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:toll-booth",
+   "text": "Toll Booth",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:rush-hour-traffic",
+   "text": "Rush Hour Traffic",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:traffic-jam",
+   "text": "Traffic Jam",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:road-construction",
+   "text": "Road Construction",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:orange-cones",
+   "text": "Orange Cones",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:billboard",
+   "text": "Billboard",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:mile-marker",
+   "text": "Mile Marker",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:exit-ramp",
+   "text": "Exit Ramp",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:state-line",
+   "text": "State Line",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:time-zone-change",
+   "text": "Time Zone Change",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:license-plate-game",
+   "text": "License Plate Game",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:i-spy",
+   "text": "I Spy",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:car-bingo",
+   "text": "Car Bingo",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:road-trip-playlist",
+   "text": "Road Trip Playlist",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:sing-along",
+   "text": "Sing Along",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:calling-shotgun",
+   "text": "Calling Shotgun",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:back-seat-nap",
+   "text": "Back Seat Nap",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:car-sickness",
+   "text": "Car Sickness",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:bathroom-break",
+   "text": "Bathroom Break",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:leg-room",
+   "text": "Leg Room",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cooler-full-of-snacks",
+   "text": "Cooler Full Of Snacks",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:beef-jerky",
+   "text": "Beef Jerky",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:trail-mix",
+   "text": "Trail Mix",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:sunflower-seeds",
+   "text": "Sunflower Seeds",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:sunroof",
+   "text": "Sunroof",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cruise-control",
+   "text": "Cruise Control",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:convertible",
+   "text": "Convertible",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:station-wagon",
+   "text": "Station Wagon",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:minivan",
+   "text": "Minivan",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:rv",
+   "text": "RV",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:camper-van",
+   "text": "Camper Van",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:pickup-truck",
+   "text": "Pickup Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:big-rig",
+   "text": "Big Rig",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:semi-truck",
+   "text": "Semi Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:eighteen-wheeler",
+   "text": "Eighteen Wheeler",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:truck-stop",
+   "text": "Truck Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:trucker-hat",
+   "text": "Trucker Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cb-radio",
+   "text": "CB Radio",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:breaker-breaker-one-nine",
+   "text": "Breaker Breaker One Nine",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:hitchhiker",
+   "text": "Hitchhiker",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:roadside-attraction",
+   "text": "Roadside Attraction",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:world-s-largest-ball-of-twine",
+   "text": "World's Largest Ball Of Twine",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:souvenir-shop",
+   "text": "Souvenir Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:postcard",
+   "text": "Postcard",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:bumper-sticker",
+   "text": "Bumper Sticker",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:motel",
+   "text": "Motel",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:vacancy-sign",
+   "text": "Vacancy Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:neon-motel-sign",
+   "text": "Neon Motel Sign",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:ice-machine",
+   "text": "Ice Machine",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:continental-breakfast",
+   "text": "Continental Breakfast",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:diner",
+   "text": "Diner",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:roadside-diner",
+   "text": "Roadside Diner",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:greasy-spoon",
+   "text": "Greasy Spoon",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:truck-stop-diner",
+   "text": "Truck Stop Diner",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:waffle-house",
+   "text": "Waffle House",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:drive-thru",
+   "text": "Drive Thru",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:drive-in-movie",
+   "text": "Drive In Movie",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:fast-food",
+   "text": "Fast Food",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:corn-dog",
+   "text": "Corn Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:funnel-cake",
+   "text": "Funnel Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:state-fair",
+   "text": "State Fair",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:county-fair",
+   "text": "County Fair",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:rodeo",
+   "text": "Rodeo",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cowboy-boots",
+   "text": "Cowboy Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cowboy-hat",
+   "text": "Cowboy Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:ten-gallon-hat",
+   "text": "Ten Gallon Hat",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:gold-mine-tour",
+   "text": "Gold Mine Tour",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:cornfield",
+   "text": "Cornfield",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:windmill-farm",
+   "text": "Windmill Farm",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:red-barn",
+   "text": "Red Barn",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:grain-silo",
+   "text": "Grain Silo",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:small-town",
+   "text": "Small Town",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:main-street",
+   "text": "Main Street",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:middle-of-nowhere",
+   "text": "Middle Of Nowhere",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:mountain-pass",
+   "text": "Mountain Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:hairpin-turn",
+   "text": "Hairpin Turn",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:campground",
+   "text": "Campground",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:campfire",
+   "text": "Campfire",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:s-mores",
+   "text": "S'mores",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:tent",
+   "text": "Tent",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:sleeping-bag",
+   "text": "Sleeping Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:hiking-trail",
+   "text": "Hiking Trail",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:park-ranger",
+   "text": "Park Ranger",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:junior-ranger-badge",
+   "text": "Junior Ranger Badge",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:smokey-bear",
+   "text": "Smokey Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:lighthouse",
+   "text": "Lighthouse",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:pier",
+   "text": "Pier",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:boardwalk-arcade",
+   "text": "Boardwalk Arcade",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:beach-town",
+   "text": "Beach Town",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:surf-shack",
+   "text": "Surf Shack",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:lobster-roll",
+   "text": "Lobster Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:clam-chowder",
+   "text": "Clam Chowder",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:barbecue-ribs",
+   "text": "Barbecue Ribs",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:texas-toast",
+   "text": "Texas Toast",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:sweet-tea",
+   "text": "Sweet Tea",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:apple-pie",
+   "text": "Apple Pie",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:key-lime-pie",
+   "text": "Key Lime Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:crab-cakes",
+   "text": "Crab Cakes",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:gumbo",
+   "text": "Gumbo",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:beignets",
+   "text": "Beignets",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:tex-mex",
+   "text": "Tex Mex",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:buffalo-wings",
+   "text": "Buffalo Wings",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:chicago-hot-dog",
+   "text": "Chicago Hot Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:cheese-curds",
+   "text": "Cheese Curds",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:liberty-bell",
+   "text": "Liberty Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:white-house",
+   "text": "White House",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:capitol-building",
+   "text": "Capitol Building",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:lincoln-memorial",
+   "text": "Lincoln Memorial",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:washington-monument",
+   "text": "Washington Monument",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:smithsonian",
+   "text": "Smithsonian",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:kennedy-space-center",
+   "text": "Kennedy Space Center",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:disneyland",
+   "text": "Disneyland",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:disney-world",
+   "text": "Disney World",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:universal-studios",
+   "text": "Universal Studios",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:kentucky-derby",
+   "text": "Kentucky Derby",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:super-bowl",
+   "text": "Super Bowl",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:american-flag",
+   "text": "American Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:stars-and-stripes",
+   "text": "Stars And Stripes",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:oregon-trail",
+   "text": "Oregon Trail",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:pony-express",
+   "text": "Pony Express",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:gold-rush-town",
+   "text": "Gold Rush Town",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:wild-west-show",
+   "text": "Wild West Show",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:amish-country",
+   "text": "Amish Country",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:cheesehead",
+   "text": "Cheesehead",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:lone-star-state",
+   "text": "Lone Star State",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:sunshine-state",
+   "text": "Sunshine State",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:golden-state",
+   "text": "Golden State",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:show-me-state",
+   "text": "Show Me State",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:garden-state",
+   "text": "Garden State",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:big-sky-country",
+   "text": "Big Sky Country",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:aloha-state",
+   "text": "Aloha State",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:last-frontier",
+   "text": "Last Frontier",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:deep-south",
+   "text": "Deep South",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:midwest",
+   "text": "Midwest",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:pacific-northwest",
+   "text": "Pacific Northwest",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:east-coast",
+   "text": "East Coast",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:west-coast",
+   "text": "West Coast",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:new-england",
+   "text": "New England",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:rust-belt",
+   "text": "Rust Belt",
+   "difficulty": 3
+  },
+  {
+   "id": "road-trip-usa:tornado-alley",
+   "text": "Tornado Alley",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:sea-to-shining-sea",
+   "text": "Sea To Shining Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "road-trip-usa:coast-to-coast",
+   "text": "Coast To Coast",
+   "difficulty": 1
+  },
+  {
+   "id": "road-trip-usa:cross-country-drive",
+   "text": "Cross Country Drive",
+   "difficulty": 1
+  }
+ ]
+}

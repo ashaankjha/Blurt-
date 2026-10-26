@@ -1,0 +1,1572 @@
+{
+ "id": "holidays",
+ "name": "Holidays",
+ "emoji": "🎃",
+ "description": "Celebrations all year round.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "holidays:christmas",
+   "text": "Christmas",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-eve",
+   "text": "Christmas Eve",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:new-year-s-eve",
+   "text": "New Year's Eve",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:new-year-s-day",
+   "text": "New Year's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:halloween",
+   "text": "Halloween",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:thanksgiving",
+   "text": "Thanksgiving",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:easter",
+   "text": "Easter",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:valentine-s-day",
+   "text": "Valentine's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:hanukkah",
+   "text": "Hanukkah",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:diwali",
+   "text": "Diwali",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:lunar-new-year",
+   "text": "Lunar New Year",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:chinese-new-year",
+   "text": "Chinese New Year",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ramadan",
+   "text": "Ramadan",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:eid",
+   "text": "Eid",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:passover",
+   "text": "Passover",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:rosh-hashanah",
+   "text": "Rosh Hashanah",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:yom-kippur",
+   "text": "Yom Kippur",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:kwanzaa",
+   "text": "Kwanzaa",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:day-of-the-dead",
+   "text": "Day Of The Dead",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:cinco-de-mayo",
+   "text": "Cinco De Mayo",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:st-patrick-s-day",
+   "text": "St Patrick's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mardi-gras",
+   "text": "Mardi Gras",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:carnival",
+   "text": "Carnival",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:holi",
+   "text": "Holi",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:boxing-day",
+   "text": "Boxing Day",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:april-fools-day",
+   "text": "April Fools' Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mother-s-day",
+   "text": "Mother's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:father-s-day",
+   "text": "Father's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:groundhog-day",
+   "text": "Groundhog Day",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:earth-day",
+   "text": "Earth Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:labor-day",
+   "text": "Labor Day",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:independence-day",
+   "text": "Independence Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:fourth-of-july",
+   "text": "Fourth Of July",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bastille-day",
+   "text": "Bastille Day",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:canada-day",
+   "text": "Canada Day",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:midsummer",
+   "text": "Midsummer",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:summer-solstice",
+   "text": "Summer Solstice",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:winter-solstice",
+   "text": "Winter Solstice",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:leap-day",
+   "text": "Leap Day",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:birthday",
+   "text": "Birthday",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:anniversary",
+   "text": "Anniversary",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:graduation-day",
+   "text": "Graduation Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:wedding-day",
+   "text": "Wedding Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:baby-shower",
+   "text": "Baby Shower",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bridal-shower",
+   "text": "Bridal Shower",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:housewarming-party",
+   "text": "Housewarming Party",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:retirement-party",
+   "text": "Retirement Party",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:surprise-party",
+   "text": "Surprise Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:sweet-sixteen",
+   "text": "Sweet Sixteen",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:quinceanera",
+   "text": "Quinceañera",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:bar-mitzvah",
+   "text": "Bar Mitzvah",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:christening",
+   "text": "Christening",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:family-reunion",
+   "text": "Family Reunion",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:block-party",
+   "text": "Block Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pajama-party",
+   "text": "Pajama Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:costume-party",
+   "text": "Costume Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pool-party",
+   "text": "Pool Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:tea-party",
+   "text": "Tea Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:garden-party",
+   "text": "Garden Party",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:holiday-season",
+   "text": "Holiday Season",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:spring-break",
+   "text": "Spring Break",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:summer-vacation",
+   "text": "Summer Vacation",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:long-weekend",
+   "text": "Long Weekend",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:day-off",
+   "text": "Day Off",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:snow-day",
+   "text": "Snow Day",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:santa-claus",
+   "text": "Santa Claus",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:father-christmas",
+   "text": "Father Christmas",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:mrs-claus",
+   "text": "Mrs Claus",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:santa-s-workshop",
+   "text": "Santa's Workshop",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:santa-s-sleigh",
+   "text": "Santa's Sleigh",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:elves",
+   "text": "Elves",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:elf-on-the-shelf",
+   "text": "Elf On The Shelf",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:reindeer",
+   "text": "Reindeer",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:rudolph",
+   "text": "Rudolph",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:red-nose",
+   "text": "Red Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:naughty-or-nice",
+   "text": "Naughty Or Nice",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:naughty-list",
+   "text": "Naughty List",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-tree",
+   "text": "Christmas Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-lights",
+   "text": "Christmas Lights",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-stocking",
+   "text": "Christmas Stocking",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-carol",
+   "text": "Christmas Carol",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-cracker",
+   "text": "Christmas Cracker",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:christmas-jumper",
+   "text": "Christmas Jumper",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:ugly-sweater",
+   "text": "Ugly Sweater",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-morning",
+   "text": "Christmas Morning",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-card",
+   "text": "Christmas Card",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-dinner",
+   "text": "Christmas Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-pudding",
+   "text": "Christmas Pudding",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:fruitcake",
+   "text": "Fruitcake",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:eggnog",
+   "text": "Eggnog",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:candy-cane",
+   "text": "Candy Cane",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gingerbread-house",
+   "text": "Gingerbread House",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gingerbread-man",
+   "text": "Gingerbread Man",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:sugar-plum",
+   "text": "Sugar Plum",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:mince-pie",
+   "text": "Mince Pie",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:roasted-chestnuts",
+   "text": "Roasted Chestnuts",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:milk-and-cookies",
+   "text": "Milk And Cookies",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:wrapping-paper",
+   "text": "Wrapping Paper",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gift-wrap",
+   "text": "Gift Wrap",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:present",
+   "text": "Present",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:secret-santa",
+   "text": "Secret Santa",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:white-elephant-gift",
+   "text": "White Elephant Gift",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:stocking-stuffer",
+   "text": "Stocking Stuffer",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:tinsel",
+   "text": "Tinsel",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:ornament",
+   "text": "Ornament",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:tree-topper",
+   "text": "Tree Topper",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:star-on-top",
+   "text": "Star On Top",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:wreath",
+   "text": "Wreath",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mistletoe",
+   "text": "Mistletoe",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:holly",
+   "text": "Holly",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:poinsettia",
+   "text": "Poinsettia",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:nativity-scene",
+   "text": "Nativity Scene",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:advent-calendar",
+   "text": "Advent Calendar",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:chimney",
+   "text": "Chimney",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:sleigh-bells",
+   "text": "Sleigh Bells",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:jingle-bells",
+   "text": "Jingle Bells",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:snowman",
+   "text": "Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:snow-angel",
+   "text": "Snow Angel",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:snowball-fight",
+   "text": "Snowball Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:sledding",
+   "text": "Sledding",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ice-skating",
+   "text": "Ice Skating",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:hot-cocoa",
+   "text": "Hot Cocoa",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:fireplace",
+   "text": "Fireplace",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:yule-log",
+   "text": "Yule Log",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:caroling",
+   "text": "Caroling",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:nutcracker",
+   "text": "Nutcracker",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:grinch",
+   "text": "Grinch",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:scrooge",
+   "text": "Scrooge",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bah-humbug",
+   "text": "Bah Humbug",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ho-ho-ho",
+   "text": "Ho Ho Ho",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:twelve-days-of-christmas",
+   "text": "Twelve Days Of Christmas",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:white-christmas",
+   "text": "White Christmas",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:black-friday",
+   "text": "Black Friday",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cyber-monday",
+   "text": "Cyber Monday",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:last-minute-shopping",
+   "text": "Last Minute Shopping",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:regifting",
+   "text": "Regifting",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:gift-receipt",
+   "text": "Gift Receipt",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:thank-you-note",
+   "text": "Thank You Note",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:trick-or-treat",
+   "text": "Trick Or Treat",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:jack-o-lantern",
+   "text": "Jack O' Lantern",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pumpkin-carving",
+   "text": "Pumpkin Carving",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pumpkin-patch",
+   "text": "Pumpkin Patch",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candy-corn",
+   "text": "Candy Corn",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:costume",
+   "text": "Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:haunted-house",
+   "text": "Haunted House",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ghost",
+   "text": "Ghost",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:witch-s-hat",
+   "text": "Witch's Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:broomstick",
+   "text": "Broomstick",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:black-cat",
+   "text": "Black Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bat",
+   "text": "Bat",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:spider-web",
+   "text": "Spider Web",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:skeleton-costume",
+   "text": "Skeleton Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:werewolf",
+   "text": "Werewolf",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:vampire-fangs",
+   "text": "Vampire Fangs",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mummy-costume",
+   "text": "Mummy Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candy-bag",
+   "text": "Candy Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:full-size-candy-bar",
+   "text": "Full Size Candy Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:bobbing-for-apples",
+   "text": "Bobbing For Apples",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:caramel-apple",
+   "text": "Caramel Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candy-apple",
+   "text": "Candy Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:scarecrow",
+   "text": "Scarecrow",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:hay-ride",
+   "text": "Hay Ride",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:corn-maze",
+   "text": "Corn Maze",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:spooky-season",
+   "text": "Spooky Season",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ghost-story",
+   "text": "Ghost Story",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:glow-in-the-dark",
+   "text": "Glow In The Dark",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cobwebs",
+   "text": "Cobwebs",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:cauldron",
+   "text": "Cauldron",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:monster-mash",
+   "text": "Monster Mash",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:turkey-dinner",
+   "text": "Turkey Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pumpkin-pie",
+   "text": "Pumpkin Pie",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cranberry-sauce",
+   "text": "Cranberry Sauce",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:stuffing",
+   "text": "Stuffing",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mashed-potatoes",
+   "text": "Mashed Potatoes",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gravy-boat",
+   "text": "Gravy Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:wishbone",
+   "text": "Wishbone",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:leftovers",
+   "text": "Leftovers",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:food-coma",
+   "text": "Food Coma",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pilgrim-hat",
+   "text": "Pilgrim Hat",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:cornucopia",
+   "text": "Cornucopia",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:easter-bunny",
+   "text": "Easter Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:easter-egg-hunt",
+   "text": "Easter Egg Hunt",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:easter-basket",
+   "text": "Easter Basket",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:chocolate-bunny",
+   "text": "Chocolate Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:jelly-beans",
+   "text": "Jelly Beans",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:marshmallow-peeps",
+   "text": "Marshmallow Peeps",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:hot-cross-buns",
+   "text": "Hot Cross Buns",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:easter-bonnet",
+   "text": "Easter Bonnet",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:golden-egg",
+   "text": "Golden Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cupid",
+   "text": "Cupid",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cupid-s-arrow",
+   "text": "Cupid's Arrow",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:love-letter",
+   "text": "Love Letter",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:box-of-chocolates",
+   "text": "Box Of Chocolates",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:dozen-red-roses",
+   "text": "Dozen Red Roses",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:heart-shaped-box",
+   "text": "Heart Shaped Box",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candy-hearts",
+   "text": "Candy Hearts",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:secret-admirer",
+   "text": "Secret Admirer",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:be-my-valentine",
+   "text": "Be My Valentine",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candlelit-dinner",
+   "text": "Candlelit Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:ball-drop",
+   "text": "Ball Drop",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:midnight-kiss",
+   "text": "Midnight Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:new-year-s-resolution",
+   "text": "New Year's Resolution",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:party-hat",
+   "text": "Party Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:noisemaker",
+   "text": "Noisemaker",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:confetti",
+   "text": "Confetti",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:fireworks",
+   "text": "Fireworks",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:sparkler",
+   "text": "Sparkler",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:party-popper",
+   "text": "Party Popper",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:auld-lang-syne",
+   "text": "Auld Lang Syne",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:happy-new-year",
+   "text": "Happy New Year",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:leprechaun",
+   "text": "Leprechaun",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pot-of-gold",
+   "text": "Pot Of Gold",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:four-leaf-clover",
+   "text": "Four Leaf Clover",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:shamrock",
+   "text": "Shamrock",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:wear-green",
+   "text": "Wear Green",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:parade-float",
+   "text": "Parade Float",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:marching-band",
+   "text": "Marching Band",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:barbecue",
+   "text": "Barbecue",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:picnic-blanket",
+   "text": "Picnic Blanket",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:flag-waving",
+   "text": "Flag Waving",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:red-white-and-blue",
+   "text": "Red White And Blue",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:red-envelope",
+   "text": "Red Envelope",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:dragon-dance",
+   "text": "Dragon Dance",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:lion-dance",
+   "text": "Lion Dance",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:paper-lantern",
+   "text": "Paper Lantern",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:lantern-festival",
+   "text": "Lantern Festival",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:mooncake",
+   "text": "Mooncake",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:dumplings",
+   "text": "Dumplings",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:fortune-cookie",
+   "text": "Fortune Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:year-of-the-dragon",
+   "text": "Year Of The Dragon",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:chinese-zodiac",
+   "text": "Chinese Zodiac",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:menorah",
+   "text": "Menorah",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:dreidel",
+   "text": "Dreidel",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:latkes",
+   "text": "Latkes",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:eight-nights",
+   "text": "Eight Nights",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:seder-plate",
+   "text": "Seder Plate",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:matzo",
+   "text": "Matzo",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:rangoli",
+   "text": "Rangoli",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:festival-of-lights",
+   "text": "Festival Of Lights",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:sugar-skull",
+   "text": "Sugar Skull",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:marigolds",
+   "text": "Marigolds",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:pinata",
+   "text": "Piñata",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:mariachi-band",
+   "text": "Mariachi Band",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:fasting",
+   "text": "Fasting",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:iftar",
+   "text": "Iftar",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:maypole",
+   "text": "Maypole",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:bonfire-night",
+   "text": "Bonfire Night",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:lederhosen",
+   "text": "Lederhosen",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:beads-and-masks",
+   "text": "Beads And Masks",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:king-cake",
+   "text": "King Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:samba-parade",
+   "text": "Samba Parade",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:cherry-blossom-festival",
+   "text": "Cherry Blossom Festival",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:tooth-fairy",
+   "text": "Tooth Fairy",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:birthday-cake",
+   "text": "Birthday Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:birthday-candles",
+   "text": "Birthday Candles",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:make-a-wish",
+   "text": "Make A Wish",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:blow-out-the-candles",
+   "text": "Blow Out The Candles",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:party-favors",
+   "text": "Party Favors",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:goody-bag",
+   "text": "Goody Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:balloon-animal",
+   "text": "Balloon Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:musical-chairs",
+   "text": "Musical Chairs",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:party-games",
+   "text": "Party Games",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gift-registry",
+   "text": "Gift Registry",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:wedding-cake",
+   "text": "Wedding Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bouquet-toss",
+   "text": "Bouquet Toss",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:throwing-rice",
+   "text": "Throwing Rice",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:honeymoon",
+   "text": "Honeymoon",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:cap-and-gown",
+   "text": "Cap And Gown",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:throwing-caps",
+   "text": "Throwing Caps",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:diploma",
+   "text": "Diploma",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:valedictorian",
+   "text": "Valedictorian",
+   "difficulty": 3
+  },
+  {
+   "id": "holidays:prom-night",
+   "text": "Prom Night",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:homecoming",
+   "text": "Homecoming",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:daylight-saving-time",
+   "text": "Daylight Saving Time",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:bank-holiday",
+   "text": "Bank Holiday",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:out-of-office",
+   "text": "Out Of Office",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:holiday-card",
+   "text": "Holiday Card",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:holiday-traffic",
+   "text": "Holiday Traffic",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:home-for-the-holidays",
+   "text": "Home For The Holidays",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gift-card",
+   "text": "Gift Card",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:wish-list",
+   "text": "Wish List",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pin-the-tail",
+   "text": "Pin The Tail",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:new-year-s-countdown",
+   "text": "New Year's Countdown",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:throwing-colors",
+   "text": "Throwing Colors",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:dyeing-eggs",
+   "text": "Dyeing Eggs",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:christmas-movie-marathon",
+   "text": "Christmas Movie Marathon",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:light-display",
+   "text": "Light Display",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:inflatable-santa",
+   "text": "Inflatable Santa",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:reindeer-antlers",
+   "text": "Reindeer Antlers",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:office-holiday-party",
+   "text": "Office Holiday Party",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:kids-table",
+   "text": "Kids' Table",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:carving-the-turkey",
+   "text": "Carving The Turkey",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:pumpkin-spice",
+   "text": "Pumpkin Spice",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:turkey-trot",
+   "text": "Turkey Trot",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:friendsgiving",
+   "text": "Friendsgiving",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:cookie-exchange",
+   "text": "Cookie Exchange",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:snow-globe",
+   "text": "Snow Globe",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:chocolate-coins",
+   "text": "Chocolate Coins",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:chocolate-egg",
+   "text": "Chocolate Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:bunny-ears",
+   "text": "Bunny Ears",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:candy-haul",
+   "text": "Candy Haul",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:costume-contest",
+   "text": "Costume Contest",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:opening-presents",
+   "text": "Opening Presents",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:gender-reveal",
+   "text": "Gender Reveal",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:christmas-spirit",
+   "text": "Christmas Spirit",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:yuletide",
+   "text": "Yuletide",
+   "difficulty": 2
+  },
+  {
+   "id": "holidays:winter-wonderland",
+   "text": "Winter Wonderland",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:silent-night",
+   "text": "Silent Night",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:deck-the-halls",
+   "text": "Deck The Halls",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:season-s-greetings",
+   "text": "Season's Greetings",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:merry-christmas",
+   "text": "Merry Christmas",
+   "difficulty": 1
+  },
+  {
+   "id": "holidays:happy-holidays",
+   "text": "Happy Holidays",
+   "difficulty": 1
+  }
+ ]
+}

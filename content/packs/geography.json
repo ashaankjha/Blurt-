@@ -1,0 +1,1813 @@
+{
+ "id": "geography",
+ "name": "Geography",
+ "emoji": "🗺️",
+ "description": "Countries, capitals and natural wonders.",
+ "tags": [
+  "family",
+  "hard"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "geography:canada",
+   "text": "Canada",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:mexico",
+   "text": "Mexico",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:brazil",
+   "text": "Brazil",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:argentina",
+   "text": "Argentina",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:chile",
+   "text": "Chile",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:peru",
+   "text": "Peru",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:colombia",
+   "text": "Colombia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:venezuela",
+   "text": "Venezuela",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:ecuador",
+   "text": "Ecuador",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bolivia",
+   "text": "Bolivia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:uruguay",
+   "text": "Uruguay",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:paraguay",
+   "text": "Paraguay",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:cuba",
+   "text": "Cuba",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:jamaica",
+   "text": "Jamaica",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:bahamas",
+   "text": "Bahamas",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:costa-rica",
+   "text": "Costa Rica",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:panama",
+   "text": "Panama",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:puerto-rico",
+   "text": "Puerto Rico",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:united-kingdom",
+   "text": "United Kingdom",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:england",
+   "text": "England",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:scotland",
+   "text": "Scotland",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:wales",
+   "text": "Wales",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:ireland",
+   "text": "Ireland",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:france",
+   "text": "France",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:spain",
+   "text": "Spain",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:portugal",
+   "text": "Portugal",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:italy",
+   "text": "Italy",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:germany",
+   "text": "Germany",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:netherlands",
+   "text": "Netherlands",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:belgium",
+   "text": "Belgium",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:switzerland",
+   "text": "Switzerland",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:austria",
+   "text": "Austria",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:greece",
+   "text": "Greece",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:sweden",
+   "text": "Sweden",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:norway",
+   "text": "Norway",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:finland",
+   "text": "Finland",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:denmark",
+   "text": "Denmark",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:iceland",
+   "text": "Iceland",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:poland",
+   "text": "Poland",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:czech-republic",
+   "text": "Czech Republic",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:hungary",
+   "text": "Hungary",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:croatia",
+   "text": "Croatia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:russia",
+   "text": "Russia",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:ukraine",
+   "text": "Ukraine",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:turkey",
+   "text": "Turkey",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:egypt",
+   "text": "Egypt",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:morocco",
+   "text": "Morocco",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:kenya",
+   "text": "Kenya",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:nigeria",
+   "text": "Nigeria",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:south-africa",
+   "text": "South Africa",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:ethiopia",
+   "text": "Ethiopia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:madagascar",
+   "text": "Madagascar",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tanzania",
+   "text": "Tanzania",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:ghana",
+   "text": "Ghana",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:india",
+   "text": "India",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:china",
+   "text": "China",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:japan",
+   "text": "Japan",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:south-korea",
+   "text": "South Korea",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:thailand",
+   "text": "Thailand",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:vietnam",
+   "text": "Vietnam",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:philippines",
+   "text": "Philippines",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:indonesia",
+   "text": "Indonesia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:malaysia",
+   "text": "Malaysia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:singapore",
+   "text": "Singapore",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:nepal",
+   "text": "Nepal",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:pakistan",
+   "text": "Pakistan",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:saudi-arabia",
+   "text": "Saudi Arabia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:israel",
+   "text": "Israel",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:jordan",
+   "text": "Jordan",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:united-arab-emirates",
+   "text": "United Arab Emirates",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mongolia",
+   "text": "Mongolia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:australia",
+   "text": "Australia",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:new-zealand",
+   "text": "New Zealand",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:fiji",
+   "text": "Fiji",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tahiti",
+   "text": "Tahiti",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:greenland",
+   "text": "Greenland",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:vatican-city",
+   "text": "Vatican City",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:monaco",
+   "text": "Monaco",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:luxembourg",
+   "text": "Luxembourg",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:liechtenstein",
+   "text": "Liechtenstein",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:london",
+   "text": "London",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:paris",
+   "text": "Paris",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:rome",
+   "text": "Rome",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:venice",
+   "text": "Venice",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:florence",
+   "text": "Florence",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:milan",
+   "text": "Milan",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:barcelona",
+   "text": "Barcelona",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:madrid",
+   "text": "Madrid",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:lisbon",
+   "text": "Lisbon",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:amsterdam",
+   "text": "Amsterdam",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:berlin",
+   "text": "Berlin",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:munich",
+   "text": "Munich",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:vienna",
+   "text": "Vienna",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:prague",
+   "text": "Prague",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:budapest",
+   "text": "Budapest",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:athens",
+   "text": "Athens",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:istanbul",
+   "text": "Istanbul",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:moscow",
+   "text": "Moscow",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:dublin",
+   "text": "Dublin",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:edinburgh",
+   "text": "Edinburgh",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:stockholm",
+   "text": "Stockholm",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:copenhagen",
+   "text": "Copenhagen",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:oslo",
+   "text": "Oslo",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:geneva",
+   "text": "Geneva",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tokyo",
+   "text": "Tokyo",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:kyoto",
+   "text": "Kyoto",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:beijing",
+   "text": "Beijing",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:shanghai",
+   "text": "Shanghai",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:hong-kong",
+   "text": "Hong Kong",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:seoul",
+   "text": "Seoul",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bangkok",
+   "text": "Bangkok",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mumbai",
+   "text": "Mumbai",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:new-delhi",
+   "text": "New Delhi",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:dubai",
+   "text": "Dubai",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:cairo",
+   "text": "Cairo",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:marrakech",
+   "text": "Marrakech",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:cape-town",
+   "text": "Cape Town",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:nairobi",
+   "text": "Nairobi",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:sydney",
+   "text": "Sydney",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:melbourne",
+   "text": "Melbourne",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:auckland",
+   "text": "Auckland",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:toronto",
+   "text": "Toronto",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:vancouver",
+   "text": "Vancouver",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:montreal",
+   "text": "Montreal",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mexico-city",
+   "text": "Mexico City",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:cancun",
+   "text": "Cancun",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:rio-de-janeiro",
+   "text": "Rio De Janeiro",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:buenos-aires",
+   "text": "Buenos Aires",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:lima",
+   "text": "Lima",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:havana",
+   "text": "Havana",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:jerusalem",
+   "text": "Jerusalem",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bali",
+   "text": "Bali",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:city-of-light",
+   "text": "City Of Light",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:eternal-city",
+   "text": "Eternal City",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:capital-city",
+   "text": "Capital City",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:land-down-under",
+   "text": "Land Down Under",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:land-of-the-rising-sun",
+   "text": "Land Of The Rising Sun",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:emerald-isle",
+   "text": "Emerald Isle",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:great-white-north",
+   "text": "Great White North",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mount-everest",
+   "text": "Mount Everest",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:mount-kilimanjaro",
+   "text": "Mount Kilimanjaro",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mount-fuji",
+   "text": "Mount Fuji",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:matterhorn",
+   "text": "Matterhorn",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:alps",
+   "text": "Alps",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:himalayas",
+   "text": "Himalayas",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:andes",
+   "text": "Andes",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:swiss-alps",
+   "text": "Swiss Alps",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:amazon-river",
+   "text": "Amazon River",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:amazon-rainforest",
+   "text": "Amazon Rainforest",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:nile-river",
+   "text": "Nile River",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:thames",
+   "text": "Thames",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:danube",
+   "text": "Danube",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:ganges",
+   "text": "Ganges",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:yangtze-river",
+   "text": "Yangtze River",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:sahara-desert",
+   "text": "Sahara Desert",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:gobi-desert",
+   "text": "Gobi Desert",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:great-barrier-reef",
+   "text": "Great Barrier Reef",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:victoria-falls",
+   "text": "Victoria Falls",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:angel-falls",
+   "text": "Angel Falls",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:dead-sea",
+   "text": "Dead Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:red-sea",
+   "text": "Red Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mediterranean-sea",
+   "text": "Mediterranean Sea",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:pacific-ocean",
+   "text": "Pacific Ocean",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:atlantic-ocean",
+   "text": "Atlantic Ocean",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:indian-ocean",
+   "text": "Indian Ocean",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:arctic-ocean",
+   "text": "Arctic Ocean",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:southern-ocean",
+   "text": "Southern Ocean",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:lake-victoria",
+   "text": "Lake Victoria",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:lake-titicaca",
+   "text": "Lake Titicaca",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:loch-ness",
+   "text": "Loch Ness",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:great-lakes",
+   "text": "Great Lakes",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:galapagos-islands",
+   "text": "Galapagos Islands",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mariana-trench",
+   "text": "Mariana Trench",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:serengeti",
+   "text": "Serengeti",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:outback",
+   "text": "Outback",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:ayers-rock",
+   "text": "Ayers Rock",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:iceberg",
+   "text": "Iceberg",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:rainforest",
+   "text": "Rainforest",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:coral-reef",
+   "text": "Coral Reef",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:africa",
+   "text": "Africa",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:asia",
+   "text": "Asia",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:europe",
+   "text": "Europe",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:north-america",
+   "text": "North America",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:south-america",
+   "text": "South America",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:antarctica",
+   "text": "Antarctica",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:oceania",
+   "text": "Oceania",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:middle-east",
+   "text": "Middle East",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:scandinavia",
+   "text": "Scandinavia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:caribbean",
+   "text": "Caribbean",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:siberia",
+   "text": "Siberia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:arctic-circle",
+   "text": "Arctic Circle",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:polynesia",
+   "text": "Polynesia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:balkans",
+   "text": "Balkans",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:british-isles",
+   "text": "British Isles",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:latin-america",
+   "text": "Latin America",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:southeast-asia",
+   "text": "Southeast Asia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tropics",
+   "text": "Tropics",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:mountain-range",
+   "text": "Mountain Range",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:valley",
+   "text": "Valley",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:canyon",
+   "text": "Canyon",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:plateau",
+   "text": "Plateau",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:peninsula",
+   "text": "Peninsula",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:island",
+   "text": "Island",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:archipelago",
+   "text": "Archipelago",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:atoll",
+   "text": "Atoll",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:lagoon",
+   "text": "Lagoon",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:delta",
+   "text": "Delta",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:estuary",
+   "text": "Estuary",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:waterfall",
+   "text": "Waterfall",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:sand-dune",
+   "text": "Sand Dune",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:oasis",
+   "text": "Oasis",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:desert-island",
+   "text": "Desert Island",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:tundra",
+   "text": "Tundra",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:savanna",
+   "text": "Savanna",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:prairie",
+   "text": "Prairie",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:swamp",
+   "text": "Swamp",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:marsh",
+   "text": "Marsh",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:rapids",
+   "text": "Rapids",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:cliff",
+   "text": "Cliff",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:cave",
+   "text": "Cave",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:bay",
+   "text": "Bay",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:gulf",
+   "text": "Gulf",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:strait",
+   "text": "Strait",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:isthmus",
+   "text": "Isthmus",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:fjord",
+   "text": "Fjord",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:hot-spring",
+   "text": "Hot Spring",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:rolling-hills",
+   "text": "Rolling Hills",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:mesa",
+   "text": "Mesa",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:butte",
+   "text": "Butte",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:tributary",
+   "text": "Tributary",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:river-mouth",
+   "text": "River Mouth",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:source-of-the-nile",
+   "text": "Source Of The Nile",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:ice-cap",
+   "text": "Ice Cap",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:permafrost",
+   "text": "Permafrost",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:continent",
+   "text": "Continent",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:latitude",
+   "text": "Latitude",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:longitude",
+   "text": "Longitude",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:prime-meridian",
+   "text": "Prime Meridian",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:tropic-of-cancer",
+   "text": "Tropic Of Cancer",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:international-date-line",
+   "text": "International Date Line",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:time-zone",
+   "text": "Time Zone",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:northern-hemisphere",
+   "text": "Northern Hemisphere",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:southern-hemisphere",
+   "text": "Southern Hemisphere",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:north-pole",
+   "text": "North Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:south-pole",
+   "text": "South Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:globe",
+   "text": "Globe",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:world-map",
+   "text": "World Map",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:atlas",
+   "text": "Atlas",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:compass-rose",
+   "text": "Compass Rose",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:map-legend",
+   "text": "Map Legend",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:border-crossing",
+   "text": "Border Crossing",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:passport",
+   "text": "Passport",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:population",
+   "text": "Population",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:sea-level",
+   "text": "Sea Level",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:coastline",
+   "text": "Coastline",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:mainland",
+   "text": "Mainland",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:landlocked",
+   "text": "Landlocked",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:flag",
+   "text": "Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:currency-exchange",
+   "text": "Currency Exchange",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:maple-leaf-flag",
+   "text": "Maple Leaf Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:union-jack",
+   "text": "Union Jack",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:kiwi-bird",
+   "text": "Kiwi Bird",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tulip-fields",
+   "text": "Tulip Fields",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:windmills-of-holland",
+   "text": "Windmills Of Holland",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:canals-of-venice",
+   "text": "Canals Of Venice",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:gondola-ride",
+   "text": "Gondola Ride",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:bullet-train",
+   "text": "Bullet Train",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:cherry-blossoms",
+   "text": "Cherry Blossoms",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:midnight-sun",
+   "text": "Midnight Sun",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:monsoon-season",
+   "text": "Monsoon Season",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:siesta",
+   "text": "Siesta",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:safari",
+   "text": "Safari",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:bermuda-triangle",
+   "text": "Bermuda Triangle",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:panama-hat",
+   "text": "Panama Hat",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:swiss-cheese",
+   "text": "Swiss Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:belgian-waffles",
+   "text": "Belgian Waffles",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:french-riviera",
+   "text": "French Riviera",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:scottish-highlands",
+   "text": "Scottish Highlands",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:greek-islands",
+   "text": "Greek Islands",
+   "difficulty": 1
+  },
+  {
+   "id": "geography:canary-islands",
+   "text": "Canary Islands",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:maldives",
+   "text": "Maldives",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bora-bora",
+   "text": "Bora Bora",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:cambodia",
+   "text": "Cambodia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:sri-lanka",
+   "text": "Sri Lanka",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:taiwan",
+   "text": "Taiwan",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bangladesh",
+   "text": "Bangladesh",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:qatar",
+   "text": "Qatar",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:malta",
+   "text": "Malta",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:cyprus",
+   "text": "Cyprus",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:romania",
+   "text": "Romania",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bulgaria",
+   "text": "Bulgaria",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:estonia",
+   "text": "Estonia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:slovakia",
+   "text": "Slovakia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:albania",
+   "text": "Albania",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:kazakhstan",
+   "text": "Kazakhstan",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:tunisia",
+   "text": "Tunisia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:senegal",
+   "text": "Senegal",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:zimbabwe",
+   "text": "Zimbabwe",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:namibia",
+   "text": "Namibia",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:botswana",
+   "text": "Botswana",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:uganda",
+   "text": "Uganda",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:mauritius",
+   "text": "Mauritius",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:papua-new-guinea",
+   "text": "Papua New Guinea",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:samoa",
+   "text": "Samoa",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:guatemala",
+   "text": "Guatemala",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:honduras",
+   "text": "Honduras",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:dominican-republic",
+   "text": "Dominican Republic",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:barbados",
+   "text": "Barbados",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:bermuda",
+   "text": "Bermuda",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:naples",
+   "text": "Naples",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:seville",
+   "text": "Seville",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:zurich",
+   "text": "Zurich",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:brussels",
+   "text": "Brussels",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:st-petersburg",
+   "text": "St Petersburg",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:reykjavik",
+   "text": "Reykjavik",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:helsinki",
+   "text": "Helsinki",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:santorini",
+   "text": "Santorini",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:dubrovnik",
+   "text": "Dubrovnik",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:monte-carlo",
+   "text": "Monte Carlo",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:osaka",
+   "text": "Osaka",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:kuala-lumpur",
+   "text": "Kuala Lumpur",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:hanoi",
+   "text": "Hanoi",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:kathmandu",
+   "text": "Kathmandu",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:abu-dhabi",
+   "text": "Abu Dhabi",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:casablanca",
+   "text": "Casablanca",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:timbuktu",
+   "text": "Timbuktu",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:johannesburg",
+   "text": "Johannesburg",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:perth",
+   "text": "Perth",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:wellington",
+   "text": "Wellington",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:ottawa",
+   "text": "Ottawa",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:quebec-city",
+   "text": "Quebec City",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:patagonia",
+   "text": "Patagonia",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tuscany",
+   "text": "Tuscany",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:sicily",
+   "text": "Sicily",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:tasmania",
+   "text": "Tasmania",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:borneo",
+   "text": "Borneo",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:zanzibar",
+   "text": "Zanzibar",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:k2",
+   "text": "K2",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:mont-blanc",
+   "text": "Mont Blanc",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:pyrenees",
+   "text": "Pyrenees",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:table-mountain",
+   "text": "Table Mountain",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:kalahari-desert",
+   "text": "Kalahari Desert",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:atacama-desert",
+   "text": "Atacama Desert",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:congo-river",
+   "text": "Congo River",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:rhine-river",
+   "text": "Rhine River",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:seine-river",
+   "text": "Seine River",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:iguazu-falls",
+   "text": "Iguazu Falls",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:white-cliffs-of-dover",
+   "text": "White Cliffs Of Dover",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:giant-s-causeway",
+   "text": "Giant's Causeway",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:lake-como",
+   "text": "Lake Como",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:black-sea",
+   "text": "Black Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:caspian-sea",
+   "text": "Caspian Sea",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:north-sea",
+   "text": "North Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:rock-of-gibraltar",
+   "text": "Rock Of Gibraltar",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:cape-of-good-hope",
+   "text": "Cape Of Good Hope",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:ring-of-fire",
+   "text": "Ring Of Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:great-rift-valley",
+   "text": "Great Rift Valley",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:equatorial-guinea",
+   "text": "Equatorial Guinea",
+   "difficulty": 3
+  },
+  {
+   "id": "geography:volcanic-island",
+   "text": "Volcanic Island",
+   "difficulty": 2
+  },
+  {
+   "id": "geography:coral-atoll",
+   "text": "Coral Atoll",
+   "difficulty": 3
+  }
+ ]
+}

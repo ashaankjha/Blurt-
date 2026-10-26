@@ -1,0 +1,2048 @@
+{
+ "id": "science",
+ "name": "Science",
+ "emoji": "🔬",
+ "description": "Lab coats on.",
+ "tags": [
+  "family",
+  "hard"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "science:heart",
+   "text": "Heart",
+   "difficulty": 1
+  },
+  {
+   "id": "science:brain",
+   "text": "Brain",
+   "difficulty": 1
+  },
+  {
+   "id": "science:lungs",
+   "text": "Lungs",
+   "difficulty": 1
+  },
+  {
+   "id": "science:skeleton",
+   "text": "Skeleton",
+   "difficulty": 1
+  },
+  {
+   "id": "science:skull",
+   "text": "Skull",
+   "difficulty": 1
+  },
+  {
+   "id": "science:rib-cage",
+   "text": "Rib Cage",
+   "difficulty": 1
+  },
+  {
+   "id": "science:kneecap",
+   "text": "Kneecap",
+   "difficulty": 1
+  },
+  {
+   "id": "science:spine",
+   "text": "Spine",
+   "difficulty": 1
+  },
+  {
+   "id": "science:funny-bone",
+   "text": "Funny Bone",
+   "difficulty": 1
+  },
+  {
+   "id": "science:belly-button",
+   "text": "Belly Button",
+   "difficulty": 1
+  },
+  {
+   "id": "science:eyeball",
+   "text": "Eyeball",
+   "difficulty": 1
+  },
+  {
+   "id": "science:tonsils",
+   "text": "Tonsils",
+   "difficulty": 2
+  },
+  {
+   "id": "science:appendix",
+   "text": "Appendix",
+   "difficulty": 2
+  },
+  {
+   "id": "science:liver",
+   "text": "Liver",
+   "difficulty": 2
+  },
+  {
+   "id": "science:kidney",
+   "text": "Kidney",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pancreas",
+   "text": "Pancreas",
+   "difficulty": 3
+  },
+  {
+   "id": "science:gallbladder",
+   "text": "Gallbladder",
+   "difficulty": 3
+  },
+  {
+   "id": "science:bladder",
+   "text": "Bladder",
+   "difficulty": 2
+  },
+  {
+   "id": "science:small-intestine",
+   "text": "Small Intestine",
+   "difficulty": 2
+  },
+  {
+   "id": "science:large-intestine",
+   "text": "Large Intestine",
+   "difficulty": 2
+  },
+  {
+   "id": "science:stomach-acid",
+   "text": "Stomach Acid",
+   "difficulty": 2
+  },
+  {
+   "id": "science:taste-buds",
+   "text": "Taste Buds",
+   "difficulty": 1
+  },
+  {
+   "id": "science:eardrum",
+   "text": "Eardrum",
+   "difficulty": 2
+  },
+  {
+   "id": "science:vocal-cords",
+   "text": "Vocal Cords",
+   "difficulty": 2
+  },
+  {
+   "id": "science:collarbone",
+   "text": "Collarbone",
+   "difficulty": 2
+  },
+  {
+   "id": "science:thigh-bone",
+   "text": "Thigh Bone",
+   "difficulty": 2
+  },
+  {
+   "id": "science:achilles-tendon",
+   "text": "Achilles Tendon",
+   "difficulty": 3
+  },
+  {
+   "id": "science:wisdom-teeth",
+   "text": "Wisdom Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "science:baby-teeth",
+   "text": "Baby Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "science:tooth-enamel",
+   "text": "Tooth Enamel",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fingerprint",
+   "text": "Fingerprint",
+   "difficulty": 1
+  },
+  {
+   "id": "science:goosebumps",
+   "text": "Goosebumps",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hiccups",
+   "text": "Hiccups",
+   "difficulty": 1
+  },
+  {
+   "id": "science:brain-freeze",
+   "text": "Brain Freeze",
+   "difficulty": 1
+  },
+  {
+   "id": "science:blood-type",
+   "text": "Blood Type",
+   "difficulty": 2
+  },
+  {
+   "id": "science:red-blood-cell",
+   "text": "Red Blood Cell",
+   "difficulty": 2
+  },
+  {
+   "id": "science:white-blood-cell",
+   "text": "White Blood Cell",
+   "difficulty": 2
+  },
+  {
+   "id": "science:blood-pressure",
+   "text": "Blood Pressure",
+   "difficulty": 2
+  },
+  {
+   "id": "science:heartbeat",
+   "text": "Heartbeat",
+   "difficulty": 1
+  },
+  {
+   "id": "science:pulse",
+   "text": "Pulse",
+   "difficulty": 1
+  },
+  {
+   "id": "science:adrenaline",
+   "text": "Adrenaline",
+   "difficulty": 2
+  },
+  {
+   "id": "science:immune-system",
+   "text": "Immune System",
+   "difficulty": 2
+  },
+  {
+   "id": "science:nervous-system",
+   "text": "Nervous System",
+   "difficulty": 2
+  },
+  {
+   "id": "science:digestive-system",
+   "text": "Digestive System",
+   "difficulty": 2
+  },
+  {
+   "id": "science:reflex",
+   "text": "Reflex",
+   "difficulty": 2
+  },
+  {
+   "id": "science:muscle-cramp",
+   "text": "Muscle Cramp",
+   "difficulty": 2
+  },
+  {
+   "id": "science:muscle-memory",
+   "text": "Muscle Memory",
+   "difficulty": 2
+  },
+  {
+   "id": "science:bicep",
+   "text": "Bicep",
+   "difficulty": 1
+  },
+  {
+   "id": "science:six-pack-abs",
+   "text": "Six Pack Abs",
+   "difficulty": 1
+  },
+  {
+   "id": "science:short-term-memory",
+   "text": "Short Term Memory",
+   "difficulty": 2
+  },
+  {
+   "id": "science:optical-illusion",
+   "text": "Optical Illusion",
+   "difficulty": 1
+  },
+  {
+   "id": "science:blind-spot",
+   "text": "Blind Spot",
+   "difficulty": 2
+  },
+  {
+   "id": "science:color-blind",
+   "text": "Color Blind",
+   "difficulty": 2
+  },
+  {
+   "id": "science:identical-twins",
+   "text": "Identical Twins",
+   "difficulty": 1
+  },
+  {
+   "id": "science:rem-sleep",
+   "text": "REM Sleep",
+   "difficulty": 3
+  },
+  {
+   "id": "science:sleepwalking",
+   "text": "Sleepwalking",
+   "difficulty": 2
+  },
+  {
+   "id": "science:body-temperature",
+   "text": "Body Temperature",
+   "difficulty": 1
+  },
+  {
+   "id": "science:sweat-glands",
+   "text": "Sweat Glands",
+   "difficulty": 2
+  },
+  {
+   "id": "science:metabolism",
+   "text": "Metabolism",
+   "difficulty": 2
+  },
+  {
+   "id": "science:calories",
+   "text": "Calories",
+   "difficulty": 1
+  },
+  {
+   "id": "science:protein",
+   "text": "Protein",
+   "difficulty": 1
+  },
+  {
+   "id": "science:vitamin-c",
+   "text": "Vitamin C",
+   "difficulty": 1
+  },
+  {
+   "id": "science:carbohydrates",
+   "text": "Carbohydrates",
+   "difficulty": 2
+  },
+  {
+   "id": "science:insulin",
+   "text": "Insulin",
+   "difficulty": 3
+  },
+  {
+   "id": "science:allergy",
+   "text": "Allergy",
+   "difficulty": 1
+  },
+  {
+   "id": "science:placebo",
+   "text": "Placebo",
+   "difficulty": 3
+  },
+  {
+   "id": "science:flu-shot",
+   "text": "Flu Shot",
+   "difficulty": 1
+  },
+  {
+   "id": "science:stem-cells",
+   "text": "Stem Cells",
+   "difficulty": 3
+  },
+  {
+   "id": "science:organ-transplant",
+   "text": "Organ Transplant",
+   "difficulty": 2
+  },
+  {
+   "id": "science:blood-donor",
+   "text": "Blood Donor",
+   "difficulty": 1
+  },
+  {
+   "id": "science:heimlich-maneuver",
+   "text": "Heimlich Maneuver",
+   "difficulty": 2
+  },
+  {
+   "id": "science:cpr",
+   "text": "CPR",
+   "difficulty": 2
+  },
+  {
+   "id": "science:dna",
+   "text": "DNA",
+   "difficulty": 2
+  },
+  {
+   "id": "science:double-helix",
+   "text": "Double Helix",
+   "difficulty": 3
+  },
+  {
+   "id": "science:gene",
+   "text": "Gene",
+   "difficulty": 2
+  },
+  {
+   "id": "science:dominant-gene",
+   "text": "Dominant Gene",
+   "difficulty": 3
+  },
+  {
+   "id": "science:mutation",
+   "text": "Mutation",
+   "difficulty": 2
+  },
+  {
+   "id": "science:chromosome",
+   "text": "Chromosome",
+   "difficulty": 3
+  },
+  {
+   "id": "science:cell-division",
+   "text": "Cell Division",
+   "difficulty": 3
+  },
+  {
+   "id": "science:nucleus",
+   "text": "Nucleus",
+   "difficulty": 2
+  },
+  {
+   "id": "science:mitochondria",
+   "text": "Mitochondria",
+   "difficulty": 2
+  },
+  {
+   "id": "science:powerhouse-of-the-cell",
+   "text": "Powerhouse Of The Cell",
+   "difficulty": 2
+  },
+  {
+   "id": "science:bacteria",
+   "text": "Bacteria",
+   "difficulty": 1
+  },
+  {
+   "id": "science:virus",
+   "text": "Virus",
+   "difficulty": 1
+  },
+  {
+   "id": "science:germs",
+   "text": "Germs",
+   "difficulty": 1
+  },
+  {
+   "id": "science:fungus",
+   "text": "Fungus",
+   "difficulty": 2
+  },
+  {
+   "id": "science:mold",
+   "text": "Mold",
+   "difficulty": 1
+  },
+  {
+   "id": "science:microbe",
+   "text": "Microbe",
+   "difficulty": 3
+  },
+  {
+   "id": "science:vaccine",
+   "text": "Vaccine",
+   "difficulty": 1
+  },
+  {
+   "id": "science:antibiotics",
+   "text": "Antibiotics",
+   "difficulty": 2
+  },
+  {
+   "id": "science:penicillin",
+   "text": "Penicillin",
+   "difficulty": 3
+  },
+  {
+   "id": "science:x-ray",
+   "text": "X-Ray",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mri-scan",
+   "text": "MRI Scan",
+   "difficulty": 2
+  },
+  {
+   "id": "science:stethoscope",
+   "text": "Stethoscope",
+   "difficulty": 2
+  },
+  {
+   "id": "science:thermometer",
+   "text": "Thermometer",
+   "difficulty": 1
+  },
+  {
+   "id": "science:microscope",
+   "text": "Microscope",
+   "difficulty": 1
+  },
+  {
+   "id": "science:petri-dish",
+   "text": "Petri Dish",
+   "difficulty": 2
+  },
+  {
+   "id": "science:test-tube",
+   "text": "Test Tube",
+   "difficulty": 1
+  },
+  {
+   "id": "science:lab-coat",
+   "text": "Lab Coat",
+   "difficulty": 1
+  },
+  {
+   "id": "science:safety-goggles",
+   "text": "Safety Goggles",
+   "difficulty": 1
+  },
+  {
+   "id": "science:bunsen-burner",
+   "text": "Bunsen Burner",
+   "difficulty": 2
+  },
+  {
+   "id": "science:beaker",
+   "text": "Beaker",
+   "difficulty": 2
+  },
+  {
+   "id": "science:hypothesis",
+   "text": "Hypothesis",
+   "difficulty": 2
+  },
+  {
+   "id": "science:experiment",
+   "text": "Experiment",
+   "difficulty": 1
+  },
+  {
+   "id": "science:control-group",
+   "text": "Control Group",
+   "difficulty": 3
+  },
+  {
+   "id": "science:scientific-method",
+   "text": "Scientific Method",
+   "difficulty": 2
+  },
+  {
+   "id": "science:lab-rat",
+   "text": "Lab Rat",
+   "difficulty": 1
+  },
+  {
+   "id": "science:guinea-pig",
+   "text": "Guinea Pig",
+   "difficulty": 1
+  },
+  {
+   "id": "science:photosynthesis",
+   "text": "Photosynthesis",
+   "difficulty": 2
+  },
+  {
+   "id": "science:chlorophyll",
+   "text": "Chlorophyll",
+   "difficulty": 3
+  },
+  {
+   "id": "science:pollination",
+   "text": "Pollination",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pollen",
+   "text": "Pollen",
+   "difficulty": 1
+  },
+  {
+   "id": "science:food-chain",
+   "text": "Food Chain",
+   "difficulty": 1
+  },
+  {
+   "id": "science:food-web",
+   "text": "Food Web",
+   "difficulty": 2
+  },
+  {
+   "id": "science:ecosystem",
+   "text": "Ecosystem",
+   "difficulty": 2
+  },
+  {
+   "id": "science:habitat",
+   "text": "Habitat",
+   "difficulty": 2
+  },
+  {
+   "id": "science:evolution",
+   "text": "Evolution",
+   "difficulty": 2
+  },
+  {
+   "id": "science:natural-selection",
+   "text": "Natural Selection",
+   "difficulty": 3
+  },
+  {
+   "id": "science:survival-of-the-fittest",
+   "text": "Survival Of The Fittest",
+   "difficulty": 2
+  },
+  {
+   "id": "science:missing-link",
+   "text": "Missing Link",
+   "difficulty": 2
+  },
+  {
+   "id": "science:extinction",
+   "text": "Extinction",
+   "difficulty": 2
+  },
+  {
+   "id": "science:endangered-species",
+   "text": "Endangered Species",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fossil",
+   "text": "Fossil",
+   "difficulty": 1
+  },
+  {
+   "id": "science:dinosaur-bones",
+   "text": "Dinosaur Bones",
+   "difficulty": 1
+  },
+  {
+   "id": "science:carnivore",
+   "text": "Carnivore",
+   "difficulty": 2
+  },
+  {
+   "id": "science:herbivore",
+   "text": "Herbivore",
+   "difficulty": 2
+  },
+  {
+   "id": "science:omnivore",
+   "text": "Omnivore",
+   "difficulty": 2
+  },
+  {
+   "id": "science:predator",
+   "text": "Predator",
+   "difficulty": 1
+  },
+  {
+   "id": "science:camouflage",
+   "text": "Camouflage",
+   "difficulty": 2
+  },
+  {
+   "id": "science:hibernation",
+   "text": "Hibernation",
+   "difficulty": 2
+  },
+  {
+   "id": "science:migration",
+   "text": "Migration",
+   "difficulty": 2
+  },
+  {
+   "id": "science:metamorphosis",
+   "text": "Metamorphosis",
+   "difficulty": 3
+  },
+  {
+   "id": "science:cocoon",
+   "text": "Cocoon",
+   "difficulty": 1
+  },
+  {
+   "id": "science:tadpole",
+   "text": "Tadpole",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mammal",
+   "text": "Mammal",
+   "difficulty": 1
+  },
+  {
+   "id": "science:reptile",
+   "text": "Reptile",
+   "difficulty": 1
+  },
+  {
+   "id": "science:amphibian",
+   "text": "Amphibian",
+   "difficulty": 2
+  },
+  {
+   "id": "science:cold-blooded",
+   "text": "Cold Blooded",
+   "difficulty": 2
+  },
+  {
+   "id": "science:warm-blooded",
+   "text": "Warm Blooded",
+   "difficulty": 2
+  },
+  {
+   "id": "science:vertebrate",
+   "text": "Vertebrate",
+   "difficulty": 3
+  },
+  {
+   "id": "science:invertebrate",
+   "text": "Invertebrate",
+   "difficulty": 3
+  },
+  {
+   "id": "science:exoskeleton",
+   "text": "Exoskeleton",
+   "difficulty": 3
+  },
+  {
+   "id": "science:cloning",
+   "text": "Cloning",
+   "difficulty": 2
+  },
+  {
+   "id": "science:dolly-the-sheep",
+   "text": "Dolly The Sheep",
+   "difficulty": 2
+  },
+  {
+   "id": "science:black-hole",
+   "text": "Black Hole",
+   "difficulty": 1
+  },
+  {
+   "id": "science:milky-way",
+   "text": "Milky Way",
+   "difficulty": 1
+  },
+  {
+   "id": "science:solar-system",
+   "text": "Solar System",
+   "difficulty": 1
+  },
+  {
+   "id": "science:big-bang",
+   "text": "Big Bang",
+   "difficulty": 1
+  },
+  {
+   "id": "science:galaxy",
+   "text": "Galaxy",
+   "difficulty": 1
+  },
+  {
+   "id": "science:supernova",
+   "text": "Supernova",
+   "difficulty": 2
+  },
+  {
+   "id": "science:shooting-star",
+   "text": "Shooting Star",
+   "difficulty": 1
+  },
+  {
+   "id": "science:meteor-shower",
+   "text": "Meteor Shower",
+   "difficulty": 1
+  },
+  {
+   "id": "science:asteroid-belt",
+   "text": "Asteroid Belt",
+   "difficulty": 2
+  },
+  {
+   "id": "science:comet",
+   "text": "Comet",
+   "difficulty": 1
+  },
+  {
+   "id": "science:halley-s-comet",
+   "text": "Halley's Comet",
+   "difficulty": 2
+  },
+  {
+   "id": "science:moon-landing",
+   "text": "Moon Landing",
+   "difficulty": 1
+  },
+  {
+   "id": "science:crescent-moon",
+   "text": "Crescent Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "science:half-moon",
+   "text": "Half Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "science:moon-phases",
+   "text": "Moon Phases",
+   "difficulty": 2
+  },
+  {
+   "id": "science:lunar-eclipse",
+   "text": "Lunar Eclipse",
+   "difficulty": 2
+  },
+  {
+   "id": "science:solar-eclipse",
+   "text": "Solar Eclipse",
+   "difficulty": 1
+  },
+  {
+   "id": "science:northern-lights",
+   "text": "Northern Lights",
+   "difficulty": 1
+  },
+  {
+   "id": "science:gravity",
+   "text": "Gravity",
+   "difficulty": 1
+  },
+  {
+   "id": "science:zero-gravity",
+   "text": "Zero Gravity",
+   "difficulty": 1
+  },
+  {
+   "id": "science:orbit",
+   "text": "Orbit",
+   "difficulty": 1
+  },
+  {
+   "id": "science:light-year",
+   "text": "Light Year",
+   "difficulty": 2
+  },
+  {
+   "id": "science:speed-of-light",
+   "text": "Speed Of Light",
+   "difficulty": 2
+  },
+  {
+   "id": "science:speed-of-sound",
+   "text": "Speed Of Sound",
+   "difficulty": 2
+  },
+  {
+   "id": "science:sonic-boom",
+   "text": "Sonic Boom",
+   "difficulty": 2
+  },
+  {
+   "id": "science:red-planet",
+   "text": "Red Planet",
+   "difficulty": 1
+  },
+  {
+   "id": "science:rings-of-saturn",
+   "text": "Rings Of Saturn",
+   "difficulty": 1
+  },
+  {
+   "id": "science:jupiter",
+   "text": "Jupiter",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mercury",
+   "text": "Mercury",
+   "difficulty": 1
+  },
+  {
+   "id": "science:venus",
+   "text": "Venus",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mars-rover",
+   "text": "Mars Rover",
+   "difficulty": 2
+  },
+  {
+   "id": "science:neptune",
+   "text": "Neptune",
+   "difficulty": 1
+  },
+  {
+   "id": "science:uranus",
+   "text": "Uranus",
+   "difficulty": 1
+  },
+  {
+   "id": "science:pluto",
+   "text": "Pluto",
+   "difficulty": 1
+  },
+  {
+   "id": "science:dwarf-planet",
+   "text": "Dwarf Planet",
+   "difficulty": 2
+  },
+  {
+   "id": "science:space-station",
+   "text": "Space Station",
+   "difficulty": 1
+  },
+  {
+   "id": "science:space-shuttle",
+   "text": "Space Shuttle",
+   "difficulty": 1
+  },
+  {
+   "id": "science:spacesuit",
+   "text": "Spacesuit",
+   "difficulty": 1
+  },
+  {
+   "id": "science:astronaut",
+   "text": "Astronaut",
+   "difficulty": 1
+  },
+  {
+   "id": "science:rocket-launch",
+   "text": "Rocket Launch",
+   "difficulty": 1
+  },
+  {
+   "id": "science:launch-pad",
+   "text": "Launch Pad",
+   "difficulty": 1
+  },
+  {
+   "id": "science:countdown",
+   "text": "Countdown",
+   "difficulty": 1
+  },
+  {
+   "id": "science:blast-off",
+   "text": "Blast Off",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mission-control",
+   "text": "Mission Control",
+   "difficulty": 2
+  },
+  {
+   "id": "science:satellite",
+   "text": "Satellite",
+   "difficulty": 1
+  },
+  {
+   "id": "science:space-probe",
+   "text": "Space Probe",
+   "difficulty": 2
+  },
+  {
+   "id": "science:telescope",
+   "text": "Telescope",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hubble-telescope",
+   "text": "Hubble Telescope",
+   "difficulty": 2
+  },
+  {
+   "id": "science:constellation",
+   "text": "Constellation",
+   "difficulty": 2
+  },
+  {
+   "id": "science:big-dipper",
+   "text": "Big Dipper",
+   "difficulty": 1
+  },
+  {
+   "id": "science:north-star",
+   "text": "North Star",
+   "difficulty": 1
+  },
+  {
+   "id": "science:sunspot",
+   "text": "Sunspot",
+   "difficulty": 2
+  },
+  {
+   "id": "science:solar-flare",
+   "text": "Solar Flare",
+   "difficulty": 2
+  },
+  {
+   "id": "science:red-giant",
+   "text": "Red Giant",
+   "difficulty": 3
+  },
+  {
+   "id": "science:white-dwarf",
+   "text": "White Dwarf",
+   "difficulty": 3
+  },
+  {
+   "id": "science:neutron-star",
+   "text": "Neutron Star",
+   "difficulty": 3
+  },
+  {
+   "id": "science:dark-matter",
+   "text": "Dark Matter",
+   "difficulty": 2
+  },
+  {
+   "id": "science:event-horizon",
+   "text": "Event Horizon",
+   "difficulty": 3
+  },
+  {
+   "id": "science:light-pollution",
+   "text": "Light Pollution",
+   "difficulty": 2
+  },
+  {
+   "id": "science:alien-life",
+   "text": "Alien Life",
+   "difficulty": 1
+  },
+  {
+   "id": "science:ufo",
+   "text": "UFO",
+   "difficulty": 1
+  },
+  {
+   "id": "science:crater",
+   "text": "Crater",
+   "difficulty": 1
+  },
+  {
+   "id": "science:meteorite",
+   "text": "Meteorite",
+   "difficulty": 2
+  },
+  {
+   "id": "science:space-junk",
+   "text": "Space Junk",
+   "difficulty": 2
+  },
+  {
+   "id": "science:moonwalk",
+   "text": "Moonwalk",
+   "difficulty": 1
+  },
+  {
+   "id": "science:planetarium",
+   "text": "Planetarium",
+   "difficulty": 2
+  },
+  {
+   "id": "science:astronomy",
+   "text": "Astronomy",
+   "difficulty": 2
+  },
+  {
+   "id": "science:wormhole",
+   "text": "Wormhole",
+   "difficulty": 2
+  },
+  {
+   "id": "science:time-travel",
+   "text": "Time Travel",
+   "difficulty": 1
+  },
+  {
+   "id": "science:exoplanet",
+   "text": "Exoplanet",
+   "difficulty": 3
+  },
+  {
+   "id": "science:goldilocks-zone",
+   "text": "Goldilocks Zone",
+   "difficulty": 3
+  },
+  {
+   "id": "science:periodic-table",
+   "text": "Periodic Table",
+   "difficulty": 1
+  },
+  {
+   "id": "science:atom",
+   "text": "Atom",
+   "difficulty": 1
+  },
+  {
+   "id": "science:molecule",
+   "text": "Molecule",
+   "difficulty": 1
+  },
+  {
+   "id": "science:proton",
+   "text": "Proton",
+   "difficulty": 2
+  },
+  {
+   "id": "science:neutron",
+   "text": "Neutron",
+   "difficulty": 2
+  },
+  {
+   "id": "science:electron",
+   "text": "Electron",
+   "difficulty": 2
+  },
+  {
+   "id": "science:oxygen",
+   "text": "Oxygen",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hydrogen",
+   "text": "Hydrogen",
+   "difficulty": 1
+  },
+  {
+   "id": "science:carbon-dioxide",
+   "text": "Carbon Dioxide",
+   "difficulty": 2
+  },
+  {
+   "id": "science:helium-balloon",
+   "text": "Helium Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "science:nitrogen",
+   "text": "Nitrogen",
+   "difficulty": 2
+  },
+  {
+   "id": "science:carbon",
+   "text": "Carbon",
+   "difficulty": 2
+  },
+  {
+   "id": "science:uranium",
+   "text": "Uranium",
+   "difficulty": 2
+  },
+  {
+   "id": "science:neon-sign",
+   "text": "Neon Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "science:noble-gas",
+   "text": "Noble Gas",
+   "difficulty": 3
+  },
+  {
+   "id": "science:laughing-gas",
+   "text": "Laughing Gas",
+   "difficulty": 2
+  },
+  {
+   "id": "science:dry-ice",
+   "text": "Dry Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "science:h2o",
+   "text": "H2O",
+   "difficulty": 1
+  },
+  {
+   "id": "science:table-salt",
+   "text": "Table Salt",
+   "difficulty": 1
+  },
+  {
+   "id": "science:chemical-reaction",
+   "text": "Chemical Reaction",
+   "difficulty": 2
+  },
+  {
+   "id": "science:chemical-formula",
+   "text": "Chemical Formula",
+   "difficulty": 2
+  },
+  {
+   "id": "science:litmus-test",
+   "text": "Litmus Test",
+   "difficulty": 2
+  },
+  {
+   "id": "science:ph-scale",
+   "text": "pH Scale",
+   "difficulty": 2
+  },
+  {
+   "id": "science:acid-rain",
+   "text": "Acid Rain",
+   "difficulty": 2
+  },
+  {
+   "id": "science:baking-soda-volcano",
+   "text": "Baking Soda Volcano",
+   "difficulty": 1
+  },
+  {
+   "id": "science:mentos-and-soda",
+   "text": "Mentos And Soda",
+   "difficulty": 1
+  },
+  {
+   "id": "science:elephant-toothpaste",
+   "text": "Elephant Toothpaste",
+   "difficulty": 2
+  },
+  {
+   "id": "science:glow-stick",
+   "text": "Glow Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "science:boiling-point",
+   "text": "Boiling Point",
+   "difficulty": 2
+  },
+  {
+   "id": "science:freezing-point",
+   "text": "Freezing Point",
+   "difficulty": 2
+  },
+  {
+   "id": "science:melting-point",
+   "text": "Melting Point",
+   "difficulty": 2
+  },
+  {
+   "id": "science:evaporation",
+   "text": "Evaporation",
+   "difficulty": 2
+  },
+  {
+   "id": "science:condensation",
+   "text": "Condensation",
+   "difficulty": 2
+  },
+  {
+   "id": "science:water-cycle",
+   "text": "Water Cycle",
+   "difficulty": 1
+  },
+  {
+   "id": "science:plasma",
+   "text": "Plasma",
+   "difficulty": 3
+  },
+  {
+   "id": "science:density",
+   "text": "Density",
+   "difficulty": 2
+  },
+  {
+   "id": "science:buoyancy",
+   "text": "Buoyancy",
+   "difficulty": 3
+  },
+  {
+   "id": "science:surface-tension",
+   "text": "Surface Tension",
+   "difficulty": 3
+  },
+  {
+   "id": "science:static-electricity",
+   "text": "Static Electricity",
+   "difficulty": 2
+  },
+  {
+   "id": "science:static-shock",
+   "text": "Static Shock",
+   "difficulty": 1
+  },
+  {
+   "id": "science:magnet",
+   "text": "Magnet",
+   "difficulty": 1
+  },
+  {
+   "id": "science:magnetic-field",
+   "text": "Magnetic Field",
+   "difficulty": 2
+  },
+  {
+   "id": "science:electricity",
+   "text": "Electricity",
+   "difficulty": 1
+  },
+  {
+   "id": "science:lightning-rod",
+   "text": "Lightning Rod",
+   "difficulty": 2
+  },
+  {
+   "id": "science:battery",
+   "text": "Battery",
+   "difficulty": 1
+  },
+  {
+   "id": "science:circuit",
+   "text": "Circuit",
+   "difficulty": 2
+  },
+  {
+   "id": "science:short-circuit",
+   "text": "Short Circuit",
+   "difficulty": 2
+  },
+  {
+   "id": "science:light-bulb",
+   "text": "Light Bulb",
+   "difficulty": 1
+  },
+  {
+   "id": "science:friction",
+   "text": "Friction",
+   "difficulty": 2
+  },
+  {
+   "id": "science:momentum",
+   "text": "Momentum",
+   "difficulty": 2
+  },
+  {
+   "id": "science:inertia",
+   "text": "Inertia",
+   "difficulty": 3
+  },
+  {
+   "id": "science:kinetic-energy",
+   "text": "Kinetic Energy",
+   "difficulty": 3
+  },
+  {
+   "id": "science:potential-energy",
+   "text": "Potential Energy",
+   "difficulty": 3
+  },
+  {
+   "id": "science:centrifugal-force",
+   "text": "Centrifugal Force",
+   "difficulty": 3
+  },
+  {
+   "id": "science:newton-s-apple",
+   "text": "Newton's Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "science:laws-of-motion",
+   "text": "Laws Of Motion",
+   "difficulty": 2
+  },
+  {
+   "id": "science:equal-and-opposite-reaction",
+   "text": "Equal And Opposite Reaction",
+   "difficulty": 2
+  },
+  {
+   "id": "science:theory-of-relativity",
+   "text": "Theory Of Relativity",
+   "difficulty": 2
+  },
+  {
+   "id": "science:e-equals-mc-squared",
+   "text": "E Equals MC Squared",
+   "difficulty": 2
+  },
+  {
+   "id": "science:quantum-physics",
+   "text": "Quantum Physics",
+   "difficulty": 2
+  },
+  {
+   "id": "science:particle-accelerator",
+   "text": "Particle Accelerator",
+   "difficulty": 3
+  },
+  {
+   "id": "science:carbon-dating",
+   "text": "Carbon Dating",
+   "difficulty": 3
+  },
+  {
+   "id": "science:half-life",
+   "text": "Half Life",
+   "difficulty": 3
+  },
+  {
+   "id": "science:rainbow",
+   "text": "Rainbow",
+   "difficulty": 1
+  },
+  {
+   "id": "science:prism",
+   "text": "Prism",
+   "difficulty": 2
+  },
+  {
+   "id": "science:laser-beam",
+   "text": "Laser Beam",
+   "difficulty": 1
+  },
+  {
+   "id": "science:echo",
+   "text": "Echo",
+   "difficulty": 1
+  },
+  {
+   "id": "science:sound-wave",
+   "text": "Sound Wave",
+   "difficulty": 2
+  },
+  {
+   "id": "science:radio-waves",
+   "text": "Radio Waves",
+   "difficulty": 2
+  },
+  {
+   "id": "science:ultraviolet",
+   "text": "Ultraviolet",
+   "difficulty": 2
+  },
+  {
+   "id": "science:infrared",
+   "text": "Infrared",
+   "difficulty": 2
+  },
+  {
+   "id": "science:radioactive",
+   "text": "Radioactive",
+   "difficulty": 2
+  },
+  {
+   "id": "science:nuclear-reactor",
+   "text": "Nuclear Reactor",
+   "difficulty": 2
+  },
+  {
+   "id": "science:solar-power",
+   "text": "Solar Power",
+   "difficulty": 1
+  },
+  {
+   "id": "science:wind-turbine",
+   "text": "Wind Turbine",
+   "difficulty": 1
+  },
+  {
+   "id": "science:horsepower",
+   "text": "Horsepower",
+   "difficulty": 2
+  },
+  {
+   "id": "science:absolute-zero",
+   "text": "Absolute Zero",
+   "difficulty": 3
+  },
+  {
+   "id": "science:celsius",
+   "text": "Celsius",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fahrenheit",
+   "text": "Fahrenheit",
+   "difficulty": 2
+  },
+  {
+   "id": "science:metric-system",
+   "text": "Metric System",
+   "difficulty": 1
+  },
+  {
+   "id": "science:thermostat",
+   "text": "Thermostat",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pendulum",
+   "text": "Pendulum",
+   "difficulty": 2
+  },
+  {
+   "id": "science:lever",
+   "text": "Lever",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pulley",
+   "text": "Pulley",
+   "difficulty": 2
+  },
+  {
+   "id": "science:catalyst",
+   "text": "Catalyst",
+   "difficulty": 3
+  },
+  {
+   "id": "science:rust",
+   "text": "Rust",
+   "difficulty": 1
+  },
+  {
+   "id": "science:nanotechnology",
+   "text": "Nanotechnology",
+   "difficulty": 3
+  },
+  {
+   "id": "science:volcano",
+   "text": "Volcano",
+   "difficulty": 1
+  },
+  {
+   "id": "science:lava",
+   "text": "Lava",
+   "difficulty": 1
+  },
+  {
+   "id": "science:magma",
+   "text": "Magma",
+   "difficulty": 2
+  },
+  {
+   "id": "science:earthquake",
+   "text": "Earthquake",
+   "difficulty": 1
+  },
+  {
+   "id": "science:tectonic-plates",
+   "text": "Tectonic Plates",
+   "difficulty": 2
+  },
+  {
+   "id": "science:continental-drift",
+   "text": "Continental Drift",
+   "difficulty": 3
+  },
+  {
+   "id": "science:ice-age",
+   "text": "Ice Age",
+   "difficulty": 1
+  },
+  {
+   "id": "science:glacier",
+   "text": "Glacier",
+   "difficulty": 1
+  },
+  {
+   "id": "science:stalactite",
+   "text": "Stalactite",
+   "difficulty": 3
+  },
+  {
+   "id": "science:stalagmite",
+   "text": "Stalagmite",
+   "difficulty": 3
+  },
+  {
+   "id": "science:geyser",
+   "text": "Geyser",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fossil-fuels",
+   "text": "Fossil Fuels",
+   "difficulty": 2
+  },
+  {
+   "id": "science:greenhouse-effect",
+   "text": "Greenhouse Effect",
+   "difficulty": 2
+  },
+  {
+   "id": "science:ozone-layer",
+   "text": "Ozone Layer",
+   "difficulty": 2
+  },
+  {
+   "id": "science:global-warming",
+   "text": "Global Warming",
+   "difficulty": 1
+  },
+  {
+   "id": "science:climate-change",
+   "text": "Climate Change",
+   "difficulty": 1
+  },
+  {
+   "id": "science:recycling",
+   "text": "Recycling",
+   "difficulty": 1
+  },
+  {
+   "id": "science:compost",
+   "text": "Compost",
+   "difficulty": 1
+  },
+  {
+   "id": "science:atmosphere",
+   "text": "Atmosphere",
+   "difficulty": 2
+  },
+  {
+   "id": "science:humidity",
+   "text": "Humidity",
+   "difficulty": 2
+  },
+  {
+   "id": "science:barometer",
+   "text": "Barometer",
+   "difficulty": 3
+  },
+  {
+   "id": "science:tornado",
+   "text": "Tornado",
+   "difficulty": 1
+  },
+  {
+   "id": "science:thunderstorm",
+   "text": "Thunderstorm",
+   "difficulty": 1
+  },
+  {
+   "id": "science:lightning",
+   "text": "Lightning",
+   "difficulty": 1
+  },
+  {
+   "id": "science:snowflake",
+   "text": "Snowflake",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hailstorm",
+   "text": "Hailstorm",
+   "difficulty": 1
+  },
+  {
+   "id": "science:cumulus-cloud",
+   "text": "Cumulus Cloud",
+   "difficulty": 3
+  },
+  {
+   "id": "science:weather-balloon",
+   "text": "Weather Balloon",
+   "difficulty": 2
+  },
+  {
+   "id": "science:weather-forecast",
+   "text": "Weather Forecast",
+   "difficulty": 1
+  },
+  {
+   "id": "science:rock-cycle",
+   "text": "Rock Cycle",
+   "difficulty": 2
+  },
+  {
+   "id": "science:crystal",
+   "text": "Crystal",
+   "difficulty": 1
+  },
+  {
+   "id": "science:diamond",
+   "text": "Diamond",
+   "difficulty": 1
+  },
+  {
+   "id": "science:quartz",
+   "text": "Quartz",
+   "difficulty": 2
+  },
+  {
+   "id": "science:geode",
+   "text": "Geode",
+   "difficulty": 2
+  },
+  {
+   "id": "science:erosion",
+   "text": "Erosion",
+   "difficulty": 2
+  },
+  {
+   "id": "science:sediment",
+   "text": "Sediment",
+   "difficulty": 3
+  },
+  {
+   "id": "science:earth-s-core",
+   "text": "Earth's Core",
+   "difficulty": 2
+  },
+  {
+   "id": "science:wheel",
+   "text": "Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "science:printing-press",
+   "text": "Printing Press",
+   "difficulty": 2
+  },
+  {
+   "id": "science:steam-engine",
+   "text": "Steam Engine",
+   "difficulty": 2
+  },
+  {
+   "id": "science:telephone",
+   "text": "Telephone",
+   "difficulty": 1
+  },
+  {
+   "id": "science:telegraph",
+   "text": "Telegraph",
+   "difficulty": 2
+  },
+  {
+   "id": "science:morse-code",
+   "text": "Morse Code",
+   "difficulty": 1
+  },
+  {
+   "id": "science:airplane",
+   "text": "Airplane",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hot-air-balloon",
+   "text": "Hot Air Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "science:internet",
+   "text": "Internet",
+   "difficulty": 1
+  },
+  {
+   "id": "science:wi-fi",
+   "text": "Wi-Fi",
+   "difficulty": 1
+  },
+  {
+   "id": "science:bluetooth",
+   "text": "Bluetooth",
+   "difficulty": 1
+  },
+  {
+   "id": "science:touchscreen",
+   "text": "Touchscreen",
+   "difficulty": 1
+  },
+  {
+   "id": "science:robot",
+   "text": "Robot",
+   "difficulty": 1
+  },
+  {
+   "id": "science:artificial-intelligence",
+   "text": "Artificial Intelligence",
+   "difficulty": 1
+  },
+  {
+   "id": "science:3d-printer",
+   "text": "3D Printer",
+   "difficulty": 2
+  },
+  {
+   "id": "science:solar-panel",
+   "text": "Solar Panel",
+   "difficulty": 1
+  },
+  {
+   "id": "science:gps",
+   "text": "GPS",
+   "difficulty": 1
+  },
+  {
+   "id": "science:microchip",
+   "text": "Microchip",
+   "difficulty": 2
+  },
+  {
+   "id": "science:barcode",
+   "text": "Barcode",
+   "difficulty": 1
+  },
+  {
+   "id": "science:electric-car",
+   "text": "Electric Car",
+   "difficulty": 1
+  },
+  {
+   "id": "science:jet-engine",
+   "text": "Jet Engine",
+   "difficulty": 2
+  },
+  {
+   "id": "science:submarine",
+   "text": "Submarine",
+   "difficulty": 1
+  },
+  {
+   "id": "science:compass",
+   "text": "Compass",
+   "difficulty": 1
+  },
+  {
+   "id": "science:calculator",
+   "text": "Calculator",
+   "difficulty": 1
+  },
+  {
+   "id": "science:binary-code",
+   "text": "Binary Code",
+   "difficulty": 2
+  },
+  {
+   "id": "science:algorithm",
+   "text": "Algorithm",
+   "difficulty": 2
+  },
+  {
+   "id": "science:computer-virus",
+   "text": "Computer Virus",
+   "difficulty": 1
+  },
+  {
+   "id": "science:virtual-reality",
+   "text": "Virtual Reality",
+   "difficulty": 1
+  },
+  {
+   "id": "science:self-driving-car",
+   "text": "Self Driving Car",
+   "difficulty": 1
+  },
+  {
+   "id": "science:drone",
+   "text": "Drone",
+   "difficulty": 1
+  },
+  {
+   "id": "science:hologram",
+   "text": "Hologram",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pacemaker",
+   "text": "Pacemaker",
+   "difficulty": 3
+  },
+  {
+   "id": "science:fiber-optics",
+   "text": "Fiber Optics",
+   "difficulty": 3
+  },
+  {
+   "id": "science:rocket-science",
+   "text": "Rocket Science",
+   "difficulty": 1
+  },
+  {
+   "id": "science:albert-einstein",
+   "text": "Albert Einstein",
+   "difficulty": 1
+  },
+  {
+   "id": "science:isaac-newton",
+   "text": "Isaac Newton",
+   "difficulty": 1
+  },
+  {
+   "id": "science:charles-darwin",
+   "text": "Charles Darwin",
+   "difficulty": 2
+  },
+  {
+   "id": "science:marie-curie",
+   "text": "Marie Curie",
+   "difficulty": 2
+  },
+  {
+   "id": "science:galileo",
+   "text": "Galileo",
+   "difficulty": 2
+  },
+  {
+   "id": "science:thomas-edison",
+   "text": "Thomas Edison",
+   "difficulty": 1
+  },
+  {
+   "id": "science:nikola-tesla",
+   "text": "Nikola Tesla",
+   "difficulty": 1
+  },
+  {
+   "id": "science:stephen-hawking",
+   "text": "Stephen Hawking",
+   "difficulty": 1
+  },
+  {
+   "id": "science:alexander-graham-bell",
+   "text": "Alexander Graham Bell",
+   "difficulty": 2
+  },
+  {
+   "id": "science:louis-pasteur",
+   "text": "Louis Pasteur",
+   "difficulty": 3
+  },
+  {
+   "id": "science:copernicus",
+   "text": "Copernicus",
+   "difficulty": 3
+  },
+  {
+   "id": "science:mad-scientist",
+   "text": "Mad Scientist",
+   "difficulty": 1
+  },
+  {
+   "id": "science:eureka",
+   "text": "Eureka",
+   "difficulty": 1
+  },
+  {
+   "id": "science:nobel-prize",
+   "text": "Nobel Prize",
+   "difficulty": 1
+  },
+  {
+   "id": "science:science-fair",
+   "text": "Science Fair",
+   "difficulty": 1
+  },
+  {
+   "id": "science:pi",
+   "text": "Pi",
+   "difficulty": 1
+  },
+  {
+   "id": "science:infinity",
+   "text": "Infinity",
+   "difficulty": 1
+  },
+  {
+   "id": "science:square-root",
+   "text": "Square Root",
+   "difficulty": 2
+  },
+  {
+   "id": "science:pythagorean-theorem",
+   "text": "Pythagorean Theorem",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fibonacci-sequence",
+   "text": "Fibonacci Sequence",
+   "difficulty": 3
+  },
+  {
+   "id": "science:prime-number",
+   "text": "Prime Number",
+   "difficulty": 2
+  },
+  {
+   "id": "science:fraction",
+   "text": "Fraction",
+   "difficulty": 1
+  },
+  {
+   "id": "science:decimal-point",
+   "text": "Decimal Point",
+   "difficulty": 1
+  },
+  {
+   "id": "science:right-angle",
+   "text": "Right Angle",
+   "difficulty": 1
+  },
+  {
+   "id": "science:long-division",
+   "text": "Long Division",
+   "difficulty": 1
+  },
+  {
+   "id": "science:times-table",
+   "text": "Times Table",
+   "difficulty": 1
+  },
+  {
+   "id": "science:algebra",
+   "text": "Algebra",
+   "difficulty": 2
+  },
+  {
+   "id": "science:geometry",
+   "text": "Geometry",
+   "difficulty": 2
+  },
+  {
+   "id": "science:calculus",
+   "text": "Calculus",
+   "difficulty": 2
+  },
+  {
+   "id": "science:graph-paper",
+   "text": "Graph Paper",
+   "difficulty": 1
+  },
+  {
+   "id": "science:protractor",
+   "text": "Protractor",
+   "difficulty": 2
+  },
+  {
+   "id": "science:bell-curve",
+   "text": "Bell Curve",
+   "difficulty": 3
+  },
+  {
+   "id": "science:percentage",
+   "text": "Percentage",
+   "difficulty": 1
+  },
+  {
+   "id": "science:probability",
+   "text": "Probability",
+   "difficulty": 2
+  }
+ ]
+}

@@ -1,0 +1,1303 @@
+{
+ "id": "nyc",
+ "name": "NYC",
+ "emoji": "🗽",
+ "description": "The Big Apple, borough to borough.",
+ "tags": [
+  "family",
+  "local"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "nyc:statue-of-liberty",
+   "text": "Statue Of Liberty",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:lady-liberty",
+   "text": "Lady Liberty",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:empire-state-building",
+   "text": "Empire State Building",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:chrysler-building",
+   "text": "Chrysler Building",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:times-square",
+   "text": "Times Square",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:central-park",
+   "text": "Central Park",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:brooklyn-bridge",
+   "text": "Brooklyn Bridge",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:manhattan-bridge",
+   "text": "Manhattan Bridge",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:williamsburg-bridge",
+   "text": "Williamsburg Bridge",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:george-washington-bridge",
+   "text": "George Washington Bridge",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:rockefeller-center",
+   "text": "Rockefeller Center",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rockefeller-christmas-tree",
+   "text": "Rockefeller Christmas Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:top-of-the-rock",
+   "text": "Top Of The Rock",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:grand-central-terminal",
+   "text": "Grand Central Terminal",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:grand-central-clock",
+   "text": "Grand Central Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:penn-station",
+   "text": "Penn Station",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:madison-square-garden",
+   "text": "Madison Square Garden",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:yankee-stadium",
+   "text": "Yankee Stadium",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:citi-field",
+   "text": "Citi Field",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:barclays-center",
+   "text": "Barclays Center",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:flatiron-building",
+   "text": "Flatiron Building",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:washington-square-park",
+   "text": "Washington Square Park",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:washington-square-arch",
+   "text": "Washington Square Arch",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:the-high-line",
+   "text": "The High Line",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:ellis-island",
+   "text": "Ellis Island",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:liberty-island",
+   "text": "Liberty Island",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:staten-island-ferry",
+   "text": "Staten Island Ferry",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:wall-street",
+   "text": "Wall Street",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:charging-bull",
+   "text": "Charging Bull",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:new-york-stock-exchange",
+   "text": "New York Stock Exchange",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:broadway",
+   "text": "Broadway",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:radio-city-music-hall",
+   "text": "Radio City Music Hall",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rockettes",
+   "text": "Rockettes",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:carnegie-hall",
+   "text": "Carnegie Hall",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:lincoln-center",
+   "text": "Lincoln Center",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:metropolitan-opera",
+   "text": "Metropolitan Opera",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:the-met",
+   "text": "The Met",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:met-gala",
+   "text": "Met Gala",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:moma",
+   "text": "MoMA",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:guggenheim-museum",
+   "text": "Guggenheim Museum",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:natural-history-museum",
+   "text": "Natural History Museum",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bronx-zoo",
+   "text": "Bronx Zoo",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:coney-island",
+   "text": "Coney Island",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:cyclone-roller-coaster",
+   "text": "Cyclone Roller Coaster",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:wonder-wheel",
+   "text": "Wonder Wheel",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:boardwalk",
+   "text": "Boardwalk",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:fifth-avenue",
+   "text": "Fifth Avenue",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:park-avenue",
+   "text": "Park Avenue",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:madison-avenue",
+   "text": "Madison Avenue",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:seventh-avenue",
+   "text": "Seventh Avenue",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:hudson-river",
+   "text": "Hudson River",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:east-river",
+   "text": "East River",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:hudson-yards",
+   "text": "Hudson Yards",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:the-vessel",
+   "text": "The Vessel",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:oculus",
+   "text": "Oculus",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:bethesda-fountain",
+   "text": "Bethesda Fountain",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:bow-bridge",
+   "text": "Bow Bridge",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:strawberry-fields",
+   "text": "Strawberry Fields",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:central-park-zoo",
+   "text": "Central Park Zoo",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:horse-carriage-ride",
+   "text": "Horse Carriage Ride",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bryant-park",
+   "text": "Bryant Park",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:union-square",
+   "text": "Union Square",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:prospect-park",
+   "text": "Prospect Park",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:flushing-meadows",
+   "text": "Flushing Meadows",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:unisphere",
+   "text": "Unisphere",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:united-nations-building",
+   "text": "United Nations Building",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:st-patrick-s-cathedral",
+   "text": "St Patrick's Cathedral",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:tiffany-s-window",
+   "text": "Tiffany's Window",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:breakfast-at-tiffany-s",
+   "text": "Breakfast At Tiffany's",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:fao-schwarz",
+   "text": "FAO Schwarz",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:giant-piano",
+   "text": "Giant Piano",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:macy-s-herald-square",
+   "text": "Macy's Herald Square",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:macy-s-thanksgiving-parade",
+   "text": "Macy's Thanksgiving Parade",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:giant-parade-balloons",
+   "text": "Giant Parade Balloons",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:times-square-billboards",
+   "text": "Times Square Billboards",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:manhattan",
+   "text": "Manhattan",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:brooklyn",
+   "text": "Brooklyn",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:queens",
+   "text": "Queens",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:the-bronx",
+   "text": "The Bronx",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:staten-island",
+   "text": "Staten Island",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:five-boroughs",
+   "text": "Five Boroughs",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:harlem",
+   "text": "Harlem",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:soho",
+   "text": "SoHo",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:tribeca",
+   "text": "Tribeca",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:chinatown",
+   "text": "Chinatown",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:little-italy",
+   "text": "Little Italy",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:greenwich-village",
+   "text": "Greenwich Village",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:east-village",
+   "text": "East Village",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:west-village",
+   "text": "West Village",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:upper-east-side",
+   "text": "Upper East Side",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:upper-west-side",
+   "text": "Upper West Side",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:lower-east-side",
+   "text": "Lower East Side",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:midtown",
+   "text": "Midtown",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:downtown",
+   "text": "Downtown",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:uptown",
+   "text": "Uptown",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:financial-district",
+   "text": "Financial District",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:meatpacking-district",
+   "text": "Meatpacking District",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:theater-district",
+   "text": "Theater District",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:garment-district",
+   "text": "Garment District",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:chelsea",
+   "text": "Chelsea",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:williamsburg",
+   "text": "Williamsburg",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:dumbo",
+   "text": "Dumbo",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:park-slope",
+   "text": "Park Slope",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:bushwick",
+   "text": "Bushwick",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:astoria",
+   "text": "Astoria",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:flushing",
+   "text": "Flushing",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:long-island",
+   "text": "Long Island",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:roosevelt-island",
+   "text": "Roosevelt Island",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:gramercy-park",
+   "text": "Gramercy Park",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:murray-hill",
+   "text": "Murray Hill",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:koreatown",
+   "text": "Koreatown",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:bed-stuy",
+   "text": "Bed Stuy",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:washington-heights",
+   "text": "Washington Heights",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:battery-park",
+   "text": "Battery Park",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:the-hamptons",
+   "text": "The Hamptons",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:big-apple",
+   "text": "Big Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:city-that-never-sleeps",
+   "text": "City That Never Sleeps",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:gotham",
+   "text": "Gotham",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:concrete-jungle",
+   "text": "Concrete Jungle",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:empire-state",
+   "text": "Empire State",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:upstate",
+   "text": "Upstate",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:new-york-pizza",
+   "text": "New York Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:dollar-slice",
+   "text": "Dollar Slice",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:fold-your-pizza",
+   "text": "Fold Your Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bagel-and-schmear",
+   "text": "Bagel And Schmear",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:everything-bagel",
+   "text": "Everything Bagel",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:lox",
+   "text": "Lox",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:pastrami-on-rye",
+   "text": "Pastrami On Rye",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:deli-sandwich",
+   "text": "Deli Sandwich",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:corner-deli",
+   "text": "Corner Deli",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bodega",
+   "text": "Bodega",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bodega-cat",
+   "text": "Bodega Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bacon-egg-and-cheese",
+   "text": "Bacon Egg And Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:black-and-white-cookie",
+   "text": "Black And White Cookie",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:new-york-cheesecake",
+   "text": "New York Cheesecake",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:hot-dog-cart",
+   "text": "Hot Dog Cart",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:halal-cart",
+   "text": "Halal Cart",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:food-truck",
+   "text": "Food Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:soft-pretzel",
+   "text": "Soft Pretzel",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:knish",
+   "text": "Knish",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:egg-cream",
+   "text": "Egg Cream",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:cronut",
+   "text": "Cronut",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:dim-sum",
+   "text": "Dim Sum",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:chopped-cheese",
+   "text": "Chopped Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:hot-dog-eating-contest",
+   "text": "Hot Dog Eating Contest",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:coffee-cart",
+   "text": "Coffee Cart",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:brunch-line",
+   "text": "Brunch Line",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:yellow-taxi",
+   "text": "Yellow Taxi",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:hail-a-cab",
+   "text": "Hail A Cab",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:subway-car",
+   "text": "Subway Car",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:subway-map",
+   "text": "Subway Map",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:metrocard",
+   "text": "MetroCard",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:subway-performer",
+   "text": "Subway Performer",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:showtime-on-the-subway",
+   "text": "Showtime On The Subway",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:express-train",
+   "text": "Express Train",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:local-train",
+   "text": "Local Train",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rush-hour",
+   "text": "Rush Hour",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:subway-rat",
+   "text": "Subway Rat",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:pizza-rat",
+   "text": "Pizza Rat",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:pigeons",
+   "text": "Pigeons",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:fire-escape",
+   "text": "Fire Escape",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:brownstone",
+   "text": "Brownstone",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:stoop",
+   "text": "Stoop",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:walk-up-apartment",
+   "text": "Walk Up Apartment",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:studio-apartment",
+   "text": "Studio Apartment",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:shoebox-apartment",
+   "text": "Shoebox Apartment",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:doorman",
+   "text": "Doorman",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rent-control",
+   "text": "Rent Control",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:roommates",
+   "text": "Roommates",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:skyscraper",
+   "text": "Skyscraper",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:skyline",
+   "text": "Skyline",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rooftop",
+   "text": "Rooftop",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:water-tower",
+   "text": "Water Tower",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:steam-from-manholes",
+   "text": "Steam From Manholes",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:street-vendor",
+   "text": "Street Vendor",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:jaywalking",
+   "text": "Jaywalking",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:honking-horns",
+   "text": "Honking Horns",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:gridlock",
+   "text": "Gridlock",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:alternate-side-parking",
+   "text": "Alternate Side Parking",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:bike-messenger",
+   "text": "Bike Messenger",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:citi-bike",
+   "text": "Citi Bike",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:dog-walker",
+   "text": "Dog Walker",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:broadway-show",
+   "text": "Broadway Show",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:off-broadway",
+   "text": "Off Broadway",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:standing-ovation",
+   "text": "Standing Ovation",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:stage-door",
+   "text": "Stage Door",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:tkts-booth",
+   "text": "TKTS Booth",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:street-art",
+   "text": "Street Art",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:graffiti",
+   "text": "Graffiti",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:jazz-club",
+   "text": "Jazz Club",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:comedy-club",
+   "text": "Comedy Club",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:open-mic-night",
+   "text": "Open Mic Night",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:fashion-week",
+   "text": "Fashion Week",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:marathon-runners",
+   "text": "Marathon Runners",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:new-york-marathon",
+   "text": "New York Marathon",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:us-open",
+   "text": "US Open",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:yankees",
+   "text": "Yankees",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:mets",
+   "text": "Mets",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:knicks",
+   "text": "Knicks",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:nets",
+   "text": "Nets",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:rangers",
+   "text": "Rangers",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:giants",
+   "text": "Giants",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:jets",
+   "text": "Jets",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:pinstripes",
+   "text": "Pinstripes",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:bronx-bombers",
+   "text": "Bronx Bombers",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:nypd",
+   "text": "NYPD",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:fdny",
+   "text": "FDNY",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:police-siren",
+   "text": "Police Siren",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:tourist-trap",
+   "text": "Tourist Trap",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:walking-fast",
+   "text": "Walking Fast",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:new-york-minute",
+   "text": "New York Minute",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:fuhgeddaboudit",
+   "text": "Fuhgeddaboudit",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:i-m-walking-here",
+   "text": "I'm Walking Here",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:bada-bing",
+   "text": "Bada Bing",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:schlep",
+   "text": "Schlep",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:schmooze",
+   "text": "Schmooze",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:waiting-on-line",
+   "text": "Waiting On Line",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:regular-coffee",
+   "text": "Regular Coffee",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:new-york-state-of-mind",
+   "text": "New York State Of Mind",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:start-spreading-the-news",
+   "text": "Start Spreading The News",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:i-love-ny",
+   "text": "I Love NY",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:live-from-new-york",
+   "text": "Live From New York",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:seinfeld",
+   "text": "Seinfeld",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:friends-apartment",
+   "text": "Friends Apartment",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:ghostbusters-firehouse",
+   "text": "Ghostbusters Firehouse",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:spider-man",
+   "text": "Spider-Man",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:king-kong",
+   "text": "King Kong",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:home-alone-2",
+   "text": "Home Alone 2",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:miracle-on-34th-street",
+   "text": "Miracle On 34th Street",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:snow-day-in-the-city",
+   "text": "Snow Day In The City",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:brooklyn-accent",
+   "text": "Brooklyn Accent",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:yankees-cap",
+   "text": "Yankees Cap",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:times-square-elmo",
+   "text": "Times Square Elmo",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:carrie-bradshaw",
+   "text": "Carrie Bradshaw",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:gossip-girl",
+   "text": "Gossip Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:saturday-night-live",
+   "text": "Saturday Night Live",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:apollo-theater",
+   "text": "Apollo Theater",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:tenement-museum",
+   "text": "Tenement Museum",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:governors-island",
+   "text": "Governors Island",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:mister-softee",
+   "text": "Mister Softee",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:bagel-shop",
+   "text": "Bagel Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:pizza-joint",
+   "text": "Pizza Joint",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:katz-s-deli",
+   "text": "Katz's Deli",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:chelsea-market",
+   "text": "Chelsea Market",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:italian-ice",
+   "text": "Italian Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:rainbow-bagel",
+   "text": "Rainbow Bagel",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:jfk-airport",
+   "text": "JFK Airport",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:laguardia-airport",
+   "text": "LaGuardia Airport",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:lincoln-tunnel",
+   "text": "Lincoln Tunnel",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:holland-tunnel",
+   "text": "Holland Tunnel",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:bridge-and-tunnel",
+   "text": "Bridge And Tunnel",
+   "difficulty": 3
+  },
+  {
+   "id": "nyc:scaffolding",
+   "text": "Scaffolding",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:construction-noise",
+   "text": "Construction Noise",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:car-alarm",
+   "text": "Car Alarm",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:laundromat",
+   "text": "Laundromat",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:subway-delay",
+   "text": "Subway Delay",
+   "difficulty": 1
+  },
+  {
+   "id": "nyc:turnstile",
+   "text": "Turnstile",
+   "difficulty": 2
+  },
+  {
+   "id": "nyc:crosstown-bus",
+   "text": "Crosstown Bus",
+   "difficulty": 2
+  }
+ ]
+}
