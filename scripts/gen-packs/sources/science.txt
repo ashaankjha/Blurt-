@@ -1,0 +1,414 @@
+# Science: body, biology, medicine
+Heart | 1
+Brain | 1
+Lungs | 1
+Skeleton | 1
+Skull | 1
+Rib Cage | 1
+Kneecap | 1
+Spine | 1
+Funny Bone | 1
+Belly Button | 1
+Eyeball | 1
+Tonsils | 2
+Appendix | 2
+Liver | 2
+Kidney | 2
+Pancreas | 3
+Gallbladder | 3
+Bladder | 2
+Small Intestine | 2
+Large Intestine | 2
+Stomach Acid | 2
+Taste Buds | 1
+Eardrum | 2
+Vocal Cords | 2
+Collarbone | 2
+Thigh Bone | 2
+Achilles Tendon | 3
+Wisdom Teeth | 1
+Baby Teeth | 1
+Tooth Enamel | 2
+Fingerprint | 1
+Goosebumps | 1
+Hiccups | 1
+Brain Freeze | 1
+Blood Type | 2
+Red Blood Cell | 2
+White Blood Cell | 2
+Blood Pressure | 2
+Heartbeat | 1
+Pulse | 1
+Adrenaline | 2
+Immune System | 2
+Nervous System | 2
+Digestive System | 2
+Reflex | 2
+Muscle Cramp | 2
+Muscle Memory | 2
+Bicep | 1
+Six Pack Abs | 1
+Short Term Memory | 2
+Optical Illusion | 1
+Blind Spot | 2
+Color Blind | 2
+Identical Twins | 1
+REM Sleep | 3
+Sleepwalking | 2
+Body Temperature | 1
+Sweat Glands | 2
+Metabolism | 2
+Calories | 1
+Protein | 1
+Vitamin C | 1
+Carbohydrates | 2
+Insulin | 3
+Allergy | 1
+Placebo | 3
+Flu Shot | 1
+Stem Cells | 3
+Organ Transplant | 2
+Blood Donor | 1
+Heimlich Maneuver | 2
+CPR | 2
+DNA | 2
+Double Helix | 3
+Gene | 2
+Dominant Gene | 3
+Mutation | 2
+Chromosome | 3
+Cell Division | 3
+Nucleus | 2
+Mitochondria | 2
+Powerhouse Of The Cell | 2
+Bacteria | 1
+Virus | 1
+Germs | 1
+Fungus | 2
+Mold | 1
+Microbe | 3
+Vaccine | 1
+Antibiotics | 2
+Penicillin | 3
+X-Ray | 1
+MRI Scan | 2
+Stethoscope | 2
+Thermometer | 1
+Microscope | 1
+Petri Dish | 2
+Test Tube | 1
+Lab Coat | 1
+Safety Goggles | 1
+Bunsen Burner | 2
+Beaker | 2
+Hypothesis | 2
+Experiment | 1
+Control Group | 3
+Scientific Method | 2
+Lab Rat | 1
+Guinea Pig | 1
+Photosynthesis | 2
+Chlorophyll | 3
+Pollination | 2
+Pollen | 1
+Food Chain | 1
+Food Web | 2
+Ecosystem | 2
+Habitat | 2
+Evolution | 2
+Natural Selection | 3
+Survival Of The Fittest | 2
+Missing Link | 2
+Extinction | 2
+Endangered Species | 2
+Fossil | 1
+Dinosaur Bones | 1
+Carnivore | 2
+Herbivore | 2
+Omnivore | 2
+Predator | 1
+Camouflage | 2
+Hibernation | 2
+Migration | 2
+Metamorphosis | 3
+Cocoon | 1
+Tadpole | 1
+Mammal | 1
+Reptile | 1
+Amphibian | 2
+Cold Blooded | 2
+Warm Blooded | 2
+Vertebrate | 3
+Invertebrate | 3
+Exoskeleton | 3
+Cloning | 2
+Dolly The Sheep | 2
+# Space
+Black Hole | 1
+Milky Way | 1
+Solar System | 1
+Big Bang | 1
+Galaxy | 1
+Supernova | 2
+Shooting Star | 1
+Meteor Shower | 1
+Asteroid Belt | 2
+Comet | 1
+Halley's Comet | 2
+Moon Landing | 1
+Crescent Moon | 1
+Half Moon | 1
+Moon Phases | 2
+Lunar Eclipse | 2
+Solar Eclipse | 1
+Northern Lights | 1
+Gravity | 1
+Zero Gravity | 1
+Orbit | 1
+Light Year | 2
+Speed Of Light | 2
+Speed Of Sound | 2
+Sonic Boom | 2
+Red Planet | 1
+Rings Of Saturn | 1
+Jupiter | 1
+Mercury | 1
+Venus | 1
+Mars Rover | 2
+Neptune | 1
+Uranus | 1
+Pluto | 1
+Dwarf Planet | 2
+Space Station | 1
+Space Shuttle | 1
+Spacesuit | 1
+Astronaut | 1
+Rocket Launch | 1
+Launch Pad | 1
+Countdown | 1
+Blast Off | 1
+Mission Control | 2
+Satellite | 1
+Space Probe | 2
+Telescope | 1
+Hubble Telescope | 2
+Constellation | 2
+Big Dipper | 1
+North Star | 1
+Sunspot | 2
+Solar Flare | 2
+Red Giant | 3
+White Dwarf | 3
+Neutron Star | 3
+Dark Matter | 2
+Event Horizon | 3
+Light Pollution | 2
+Alien Life | 1
+UFO | 1
+Crater | 1
+Meteorite | 2
+Space Junk | 2
+Moonwalk | 1
+Planetarium | 2
+Astronomy | 2
+Wormhole | 2
+Time Travel | 1
+Exoplanet | 3
+Goldilocks Zone | 3
+# Chemistry and physics
+Periodic Table | 1
+Atom | 1
+Molecule | 1
+Proton | 2
+Neutron | 2
+Electron | 2
+Oxygen | 1
+Hydrogen | 1
+Carbon Dioxide | 2
+Helium Balloon | 1
+Nitrogen | 2
+Carbon | 2
+Uranium | 2
+Neon Sign | 1
+Noble Gas | 3
+Laughing Gas | 2
+Dry Ice | 1
+H2O | 1
+Table Salt | 1
+Chemical Reaction | 2
+Chemical Formula | 2
+Litmus Test | 2
+pH Scale | 2
+Acid Rain | 2
+Baking Soda Volcano | 1
+Mentos And Soda | 1
+Elephant Toothpaste | 2
+Glow Stick | 1
+Boiling Point | 2
+Freezing Point | 2
+Melting Point | 2
+Evaporation | 2
+Condensation | 2
+Water Cycle | 1
+Plasma | 3
+Density | 2
+Buoyancy | 3
+Surface Tension | 3
+Static Electricity | 2
+Static Shock | 1
+Magnet | 1
+Magnetic Field | 2
+Electricity | 1
+Lightning Rod | 2
+Battery | 1
+Circuit | 2
+Short Circuit | 2
+Light Bulb | 1
+Friction | 2
+Momentum | 2
+Inertia | 3
+Kinetic Energy | 3
+Potential Energy | 3
+Centrifugal Force | 3
+Newton's Apple | 1
+Laws Of Motion | 2
+Equal And Opposite Reaction | 2
+Theory Of Relativity | 2
+E Equals MC Squared | 2
+Quantum Physics | 2
+Particle Accelerator | 3
+Carbon Dating | 3
+Half Life | 3
+Rainbow | 1
+Prism | 2
+Laser Beam | 1
+Echo | 1
+Sound Wave | 2
+Radio Waves | 2
+Ultraviolet | 2
+Infrared | 2
+Radioactive | 2
+Nuclear Reactor | 2
+Solar Power | 1
+Wind Turbine | 1
+Horsepower | 2
+Absolute Zero | 3
+Celsius | 2
+Fahrenheit | 2
+Metric System | 1
+Thermostat | 2
+Pendulum | 2
+Lever | 2
+Pulley | 2
+Catalyst | 3
+Rust | 1
+Nanotechnology | 3
+# Earth science, weather
+Volcano | 1
+Lava | 1
+Magma | 2
+Earthquake | 1
+Tectonic Plates | 2
+Continental Drift | 3
+Ice Age | 1
+Glacier | 1
+Stalactite | 3
+Stalagmite | 3
+Geyser | 2
+Fossil Fuels | 2
+Greenhouse Effect | 2
+Ozone Layer | 2
+Global Warming | 1
+Climate Change | 1
+Recycling | 1
+Compost | 1
+Atmosphere | 2
+Humidity | 2
+Barometer | 3
+Tornado | 1
+Thunderstorm | 1
+Lightning | 1
+Snowflake | 1
+Hailstorm | 1
+Cumulus Cloud | 3
+Weather Balloon | 2
+Weather Forecast | 1
+Rock Cycle | 2
+Crystal | 1
+Diamond | 1
+Quartz | 2
+Geode | 2
+Erosion | 2
+Sediment | 3
+Earth's Core | 2
+# Inventions and tech
+Wheel | 1
+Printing Press | 2
+Steam Engine | 2
+Telephone | 1
+Telegraph | 2
+Morse Code | 1
+Airplane | 1
+Hot Air Balloon | 1
+Internet | 1
+Wi-Fi | 1
+Bluetooth | 1
+Touchscreen | 1
+Robot | 1
+Artificial Intelligence | 1
+3D Printer | 2
+Solar Panel | 1
+GPS | 1
+Microchip | 2
+Barcode | 1
+Electric Car | 1
+Jet Engine | 2
+Submarine | 1
+Compass | 1
+Calculator | 1
+Binary Code | 2
+Algorithm | 2
+Computer Virus | 1
+Virtual Reality | 1
+Self Driving Car | 1
+Drone | 1
+Hologram | 2
+Pacemaker | 3
+Fiber Optics | 3
+Rocket Science | 1
+# Scientists and science culture
+Albert Einstein | 1
+Isaac Newton | 1
+Charles Darwin | 2
+Marie Curie | 2
+Galileo | 2
+Thomas Edison | 1
+Nikola Tesla | 1
+Stephen Hawking | 1
+Alexander Graham Bell | 2
+Louis Pasteur | 3
+Copernicus | 3
+Mad Scientist | 1
+Eureka | 1
+Nobel Prize | 1
+Science Fair | 1
+# Math
+Pi | 1
+Infinity | 1
+Square Root | 2
+Pythagorean Theorem | 2
+Fibonacci Sequence | 3
+Prime Number | 2
+Fraction | 1
+Decimal Point | 1
+Right Angle | 1
+Long Division | 1
+Times Table | 1
+Algebra | 2
+Geometry | 2
+Calculus | 2
+Graph Paper | 1
+Protractor | 2
+Bell Curve | 3
+Percentage | 1
+Probability | 2

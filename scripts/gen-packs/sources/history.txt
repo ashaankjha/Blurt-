@@ -1,0 +1,379 @@
+# Eras and ages
+Stone Age | 1
+Bronze Age | 2
+Iron Age | 2
+Dark Ages | 2
+Middle Ages | 1
+Renaissance | 2
+Industrial Revolution | 2
+Age Of Exploration | 2
+The Enlightenment | 3
+Victorian Era | 2
+Roaring Twenties | 2
+Space Age | 1
+Information Age | 2
+Prehistoric Times | 1
+Ancient Rome | 1
+Ancient Greece | 1
+Ancient Egypt | 1
+Wild West | 1
+Gold Rush | 1
+Jazz Age | 2
+Swinging Sixties | 2
+Golden Age Of Piracy | 2
+# Ancient world
+Pyramids | 1
+Great Pyramid Of Giza | 2
+Sphinx | 1
+Pharaoh | 1
+Mummy | 1
+Hieroglyphics | 2
+Rosetta Stone | 2
+King Tut | 1
+Cleopatra | 1
+Papyrus | 2
+Sarcophagus | 3
+Julius Caesar | 1
+Roman Empire | 1
+Roman Numerals | 1
+Colosseum | 1
+Gladiator | 1
+Chariot Race | 1
+Toga | 1
+Senate | 2
+Aqueduct | 3
+Spartans | 2
+Olympic Games | 1
+Trojan Horse | 1
+Parthenon | 2
+Acropolis | 3
+Socrates | 2
+Plato | 2
+Aristotle | 2
+Alexander The Great | 1
+Great Wall Of China | 1
+Terracotta Army | 2
+Silk Road | 2
+Confucius | 2
+Stonehenge | 1
+Cave Paintings | 1
+Caveman | 1
+Woolly Mammoth | 1
+Sundial | 2
+Abacus | 2
+Hanging Gardens Of Babylon | 2
+Seven Wonders Of The World | 2
+Aztecs | 2
+Maya Calendar | 2
+Incas | 2
+Machu Picchu | 2
+# Medieval
+Knight In Shining Armor | 1
+Castle | 1
+Moat | 1
+Drawbridge | 1
+Jousting | 1
+King Arthur | 1
+Round Table | 1
+Robin Hood | 1
+Vikings | 1
+Viking Longship | 2
+Samurai | 1
+Ninja | 1
+Shogun | 3
+Feudalism | 3
+Peasant | 1
+Serf | 3
+Blacksmith | 1
+Town Crier | 2
+Court Jester | 1
+Catapult | 1
+Coat Of Arms | 2
+Chain Mail | 2
+Magna Carta | 2
+Marco Polo | 1
+Joan Of Arc | 2
+Monk | 1
+Illuminated Manuscript | 3
+Holy Grail | 2
+Lady In Waiting | 2
+Damsel In Distress | 1
+Crown Jewels | 1
+Throne | 1
+Scepter | 2
+Royal Wedding | 1
+# Renaissance and exploration
+Mona Lisa | 1
+Sistine Chapel | 2
+Michelangelo | 1
+Leonardo Da Vinci | 1
+Shakespeare | 1
+Globe Theatre | 2
+Gutenberg Bible | 3
+Christopher Columbus | 1
+Ferdinand Magellan | 2
+Vasco Da Gama | 3
+Captain Cook | 2
+Explorer | 1
+Treasure Map | 1
+Pirate Ship | 1
+Blackbeard | 2
+Walk The Plank | 1
+Spice Trade | 2
+New World | 2
+Mayflower | 2
+Pilgrims | 1
+Queen Elizabeth I | 2
+Henry VIII | 2
+Six Wives | 2
+Tudors | 2
+Lewis And Clark | 2
+Northwest Passage | 3
+Sir Francis Drake | 3
+Galleon | 3
+Flat Earth | 1
+# Revolutions and nations
+American Revolution | 2
+French Revolution | 2
+Boston Tea Party | 1
+Declaration Of Independence | 2
+Founding Fathers | 1
+George Washington | 1
+Benjamin Franklin | 1
+Thomas Jefferson | 1
+Abraham Lincoln | 1
+Napoleon | 1
+Marie Antoinette | 2
+Let Them Eat Cake | 1
+Constitution | 2
+Louis XIV | 3
+Queen Victoria | 2
+British Empire | 2
+Russian Tsar | 2
+Catherine The Great | 2
+Peter The Great | 2
+Immigration | 2
+Covered Wagon | 1
+Sheriff's Badge | 1
+Stagecoach | 1
+Cowboy | 1
+Steam Train | 1
+Suffragettes | 2
+Votes For Women | 2
+Civil Rights Movement | 2
+Martin Luther King | 1
+I Have A Dream | 1
+Rosa Parks | 1
+Nelson Mandela | 1
+Mahatma Gandhi | 1
+Fall Of The Berlin Wall | 2
+Iron Curtain | 3
+Cold War | 2
+Space Race | 2
+# Modern history and inventions
+One Small Step | 1
+Neil Armstrong | 1
+Apollo 11 | 2
+Sputnik | 2
+Yuri Gagarin | 3
+Wright Brothers | 1
+First Flight | 1
+Model T | 2
+Henry Ford | 2
+Assembly Line | 2
+Telephone Booth | 1
+Telegram | 1
+Typewriter | 1
+Gramophone | 2
+Black And White TV | 1
+Silent Movie | 1
+Charlie Chaplin | 1
+Radio Show | 1
+Jukebox | 1
+Rotary Phone | 1
+Steamboat | 2
+Zeppelin | 2
+Penny Farthing | 2
+Time Capsule | 1
+Amelia Earhart | 2
+Great Depression | 2
+Flapper | 2
+Woodstock | 2
+Beatlemania | 2
+Hippies | 1
+Disco Era | 1
+First Computer | 2
+Floppy Disk | 1
+World Wide Web | 1
+Y2K | 2
+Dot Com Boom | 3
+Royal Family | 1
+Queen Elizabeth II | 1
+Winston Churchill | 1
+Olympic Torch | 1
+Nobel Peace Prize | 2
+United Nations | 2
+European Union | 2
+Eiffel Tower | 1
+Taj Mahal | 1
+Panama Canal | 2
+Suez Canal | 3
+# History-class stuff
+History Book | 1
+Timeline | 1
+Archaeologist | 1
+Archaeological Dig | 2
+Artifact | 2
+Ancient Ruins | 1
+Museum | 1
+Historian | 2
+Family Tree | 1
+Antique | 1
+Relic | 2
+Old Map | 1
+Scroll | 1
+Quill Pen | 1
+Ink Well | 2
+Wax Seal | 2
+Candlelight | 1
+Town Square | 1
+Monarchy | 2
+Democracy | 2
+Republic | 2
+Dynasty | 2
+Empire | 1
+Emperor | 1
+Empress | 2
+Dictator | 2
+Revolution | 1
+Rebellion | 2
+Coronation | 2
+Abdication | 3
+Heir To The Throne | 2
+Royal Decree | 2
+Treaty | 2
+Peace Treaty | 2
+Colonies | 2
+Settlers | 1
+Pioneer | 1
+Frontier | 2
+Trade Route | 2
+Barter | 2
+Gold Coin | 1
+Ancient Coin | 1
+Knighthood | 2
+Statue | 1
+Monument | 1
+Obelisk | 3
+Tapestry | 2
+Leaning Tower Of Pisa | 1
+Notre Dame | 2
+Big Ben | 1
+Tower Of London | 2
+Buckingham Palace | 1
+Palace Of Versailles | 2
+Forbidden City | 2
+Kremlin | 2
+Archimedes | 3
+Dr Livingstone I Presume | 3
+Easter Island Heads | 2
+Ancient Olympics | 2
+Greek Philosopher | 2
+Oracle Of Delphi | 3
+Roman Bath | 2
+Veni Vidi Vici | 2
+Crossing The Rubicon | 3
+
+# Batch 2: more ancient, medieval, daily life of the past, figures
+Mesopotamia | 2
+Cradle Of Civilization | 3
+Cuneiform | 3
+Code Of Hammurabi | 3
+Persian Empire | 2
+Byzantine Empire | 3
+Ottoman Empire | 2
+Mongol Empire | 2
+Ming Dynasty | 2
+Ming Vase | 2
+Library Of Alexandria | 3
+Colossus Of Rhodes | 3
+Hippocratic Oath | 3
+Laurel Wreath | 2
+Hadrian's Wall | 3
+Dead Language | 2
+Dead Sea Scrolls | 3
+Nefertiti | 3
+Ramses | 3
+Mummy's Curse | 2
+Lost City | 2
+El Dorado | 2
+Fall Of Rome | 2
+Discovery Of Fire | 1
+Invention Of The Wheel | 1
+Banquet Hall | 2
+Minstrel | 2
+Bard | 2
+Alchemist | 2
+Gargoyle | 2
+Cathedral | 1
+Stained Glass Window | 2
+Lord Of The Manor | 2
+Squire | 2
+Archer | 1
+Longbow | 2
+Suit Of Armor | 1
+Heraldry | 3
+Windmill | 1
+Spinning Wheel | 1
+Loom | 2
+Cobblestone Street | 2
+Horse And Carriage | 1
+Carrier Pigeon | 1
+Message In A Bottle | 1
+Hourglass | 1
+Sextant | 3
+Spyglass | 2
+Crow's Nest | 2
+Jolly Roger | 2
+Pieces Of Eight | 3
+Buried Treasure | 1
+Doubloon | 3
+Spinning Jenny | 3
+Postage Stamp | 1
+Radio Broadcast | 2
+Newsreel | 3
+Newspaper Boy | 1
+Read All About It | 1
+Top Hat And Cane | 2
+Monocle | 1
+Pocket Watch | 1
+Corset | 2
+Powdered Wig | 1
+Hoop Skirt | 2
+Bonnet | 1
+Gas Lamp | 2
+Lamplighter | 2
+Chimney Sweep | 1
+Milkman | 1
+Phonograph | 2
+World's Fair | 2
+Ocean Liner | 2
+Switchboard Operator | 2
+Polar Explorer | 2
+Race To The South Pole | 3
+Edmund Hillary | 3
+Charlemagne | 3
+Richard The Lionheart | 3
+Florence Nightingale | 2
+Lady With The Lamp | 3
+Johannes Gutenberg | 3
+Mozart | 1
+Beethoven | 1
+Vincent Van Gogh | 1
+Pablo Picasso | 1
+Mother Teresa | 2
+Queen Of England | 1
+Rickshaw | 2
+Lighthouse Keeper | 2
+Steam Power | 2
+Census | 2

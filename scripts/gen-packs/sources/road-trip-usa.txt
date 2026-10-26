@@ -1,0 +1,326 @@
+# States
+Alabama | 2
+Alaska | 1
+Arizona | 1
+Arkansas | 2
+California | 1
+Colorado | 1
+Connecticut | 2
+Delaware | 2
+Florida | 1
+Georgia | 1
+Hawaii | 1
+Idaho | 2
+Illinois | 2
+Indiana | 2
+Iowa | 2
+Kansas | 2
+Kentucky | 2
+Louisiana | 2
+Maine | 2
+Maryland | 2
+Massachusetts | 2
+Michigan | 2
+Minnesota | 2
+Mississippi | 1
+Missouri | 2
+Montana | 2
+Nebraska | 2
+Nevada | 2
+New Hampshire | 2
+New Jersey | 1
+New Mexico | 1
+North Carolina | 1
+North Dakota | 2
+Ohio | 1
+Oklahoma | 2
+Oregon | 2
+Pennsylvania | 2
+Rhode Island | 2
+South Carolina | 2
+South Dakota | 2
+Tennessee | 2
+Texas | 1
+Utah | 2
+Vermont | 2
+Virginia | 2
+Washington State | 2
+West Virginia | 2
+Wisconsin | 2
+Wyoming | 2
+Washington DC | 1
+# Cities
+Los Angeles | 1
+Hollywood | 1
+Hollywood Sign | 1
+Walk Of Fame | 1
+San Francisco | 1
+Golden Gate Bridge | 1
+Cable Car | 1
+Alcatraz | 2
+Las Vegas | 1
+Vegas Strip | 1
+Chicago | 1
+Deep Dish Pizza | 1
+The Bean | 2
+Miami Beach | 1
+Orlando | 1
+New Orleans | 1
+Nashville | 1
+Memphis | 2
+Graceland | 2
+Austin | 2
+Houston | 2
+Dallas | 2
+Seattle | 1
+Space Needle | 1
+Portland | 2
+Denver | 2
+Mile High City | 2
+Boston | 1
+Philadelphia | 1
+Philly Cheesesteak | 1
+Detroit | 2
+Motor City | 2
+Atlanta | 2
+San Diego | 2
+Phoenix | 2
+Salt Lake City | 2
+Honolulu | 2
+Anchorage | 3
+Key West | 2
+Savannah | 3
+Santa Fe | 3
+St Louis Arch | 2
+Gateway Arch | 2
+Windy City | 1
+City Of Angels | 2
+Silicon Valley | 2
+Beverly Hills | 1
+Malibu | 2
+Cape Cod | 2
+Martha's Vineyard | 3
+Atlantic City | 2
+Branson | 3
+# National parks and nature
+Grand Canyon | 1
+Yellowstone | 1
+Old Faithful | 1
+Yosemite | 2
+Half Dome | 3
+Zion National Park | 2
+Arches National Park | 2
+Bryce Canyon | 3
+Grand Tetons | 3
+Glacier National Park | 2
+Great Smoky Mountains | 2
+Everglades | 2
+Death Valley | 2
+Joshua Tree | 2
+Redwood Forest | 1
+Giant Sequoia | 2
+Monument Valley | 2
+Painted Desert | 3
+Petrified Forest | 3
+Mojave Desert | 2
+Rocky Mountains | 1
+Appalachian Trail | 2
+Blue Ridge Mountains | 2
+Great Plains | 2
+Mississippi River | 1
+Colorado River | 2
+Rio Grande | 2
+Lake Tahoe | 2
+Great Salt Lake | 2
+Niagara Falls | 1
+Mount Rushmore | 1
+Mount Rainier | 3
+Pikes Peak | 3
+Hoover Dam | 2
+Cape Canaveral | 2
+Outer Banks | 3
+Florida Keys | 2
+Big Sur | 2
+Pacific Coast Highway | 2
+Hawaiian Volcano | 2
+Waikiki Beach | 2
+Alaskan Glacier | 2
+Bald Eagle | 1
+Buffalo Herd | 1
+Grizzly Bear | 1
+Alligator | 1
+Cactus | 1
+Tumbleweed | 1
+Roadrunner | 2
+Coyote | 1
+# Road trip things
+Road Trip | 1
+Route 66 | 1
+Interstate | 2
+Open Road | 1
+Highway | 1
+Scenic Route | 1
+Scenic Overlook | 2
+Detour | 1
+Shortcut | 1
+Road Map | 1
+Paper Map | 1
+GPS Recalculating | 1
+Are We There Yet | 1
+Pit Stop | 1
+Rest Stop | 1
+Gas Station | 1
+Gas Station Snacks | 1
+Fill Up The Tank | 1
+Running On Fumes | 2
+Check Engine Light | 1
+Flat Tire | 1
+Spare Tire | 1
+Tow Truck | 1
+Car Trouble | 1
+Speeding Ticket | 1
+Speed Trap | 2
+Toll Booth | 1
+Rush Hour Traffic | 1
+Traffic Jam | 1
+Road Construction | 1
+Orange Cones | 1
+Billboard | 1
+Mile Marker | 2
+Exit Ramp | 1
+State Line | 1
+Time Zone Change | 2
+License Plate Game | 1
+I Spy | 1
+Car Bingo | 2
+Road Trip Playlist | 1
+Sing Along | 1
+Calling Shotgun | 1
+Back Seat Nap | 1
+Car Sickness | 1
+Bathroom Break | 1
+Leg Room | 1
+Cooler Full Of Snacks | 1
+Beef Jerky | 1
+Trail Mix | 1
+Sunflower Seeds | 2
+Sunroof | 1
+Cruise Control | 1
+Convertible | 1
+Station Wagon | 1
+Minivan | 1
+RV | 1
+Camper Van | 1
+Pickup Truck | 1
+Big Rig | 2
+Semi Truck | 1
+Eighteen Wheeler | 1
+Truck Stop | 1
+Trucker Hat | 1
+CB Radio | 2
+Breaker Breaker One Nine | 2
+Hitchhiker | 1
+Roadside Attraction | 1
+World's Largest Ball Of Twine | 3
+Souvenir Shop | 1
+Postcard | 1
+Bumper Sticker | 1
+Motel | 1
+Vacancy Sign | 1
+Neon Motel Sign | 2
+Ice Machine | 1
+Continental Breakfast | 1
+Diner | 1
+Roadside Diner | 1
+Greasy Spoon | 2
+Truck Stop Diner | 2
+Waffle House | 2
+Drive Thru | 1
+Drive In Movie | 1
+Fast Food | 1
+Corn Dog | 1
+Funnel Cake | 1
+State Fair | 1
+County Fair | 2
+Rodeo | 1
+Cowboy Boots | 1
+Cowboy Hat | 1
+Ten Gallon Hat | 2
+Gold Mine Tour | 3
+Cornfield | 1
+Windmill Farm | 2
+Red Barn | 1
+Grain Silo | 2
+Small Town | 1
+Main Street | 1
+Middle Of Nowhere | 1
+Mountain Pass | 2
+Hairpin Turn | 2
+Campground | 1
+Campfire | 1
+S'mores | 1
+Tent | 1
+Sleeping Bag | 1
+Hiking Trail | 1
+Park Ranger | 1
+Junior Ranger Badge | 2
+Smokey Bear | 2
+Lighthouse | 1
+Pier | 1
+Boardwalk Arcade | 2
+Beach Town | 1
+Surf Shack | 2
+Lobster Roll | 2
+Clam Chowder | 2
+Barbecue Ribs | 1
+Texas Toast | 2
+Sweet Tea | 1
+Apple Pie | 1
+Key Lime Pie | 2
+Crab Cakes | 2
+Gumbo | 2
+Beignets | 2
+Tex Mex | 1
+Buffalo Wings | 1
+Chicago Hot Dog | 2
+Cheese Curds | 2
+# Americana
+Liberty Bell | 1
+White House | 1
+Capitol Building | 2
+Lincoln Memorial | 2
+Washington Monument | 2
+Smithsonian | 2
+Kennedy Space Center | 2
+Disneyland | 1
+Disney World | 1
+Universal Studios | 1
+Kentucky Derby | 2
+Super Bowl | 1
+American Flag | 1
+Stars And Stripes | 1
+Oregon Trail | 2
+Pony Express | 2
+Gold Rush Town | 2
+Wild West Show | 2
+Amish Country | 2
+Cheesehead | 2
+Lone Star State | 2
+Sunshine State | 2
+Golden State | 2
+Show Me State | 3
+Garden State | 3
+Big Sky Country | 3
+Aloha State | 2
+Last Frontier | 3
+Deep South | 2
+Midwest | 1
+Pacific Northwest | 2
+East Coast | 1
+West Coast | 1
+New England | 2
+Rust Belt | 3
+Tornado Alley | 2
+Sea To Shining Sea | 2
+Coast To Coast | 1
+Cross Country Drive | 1

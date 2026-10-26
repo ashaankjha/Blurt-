@@ -1,0 +1,360 @@
+# Batch 1: movie quotes
+I'll Be Back | 1
+Hasta La Vista Baby | 1
+Use The Force | 1
+I Am Your Father | 1
+Houston We Have A Problem | 1
+E.T. Phone Home | 1
+To Infinity And Beyond | 1
+You Can't Handle The Truth | 1
+Show Me The Money | 1
+Here's Looking At You Kid | 2
+Run Forrest Run | 1
+There's No Place Like Home | 1
+We're Not In Kansas Anymore | 2
+I See Dead People | 2
+Just Keep Swimming | 1
+Hakuna Matata | 1
+Bond James Bond | 1
+Why So Serious | 2
+Go Ahead Make My Day | 2
+Wax On Wax Off | 1
+Inconceivable | 2
+As You Wish | 2
+You Shall Not Pass | 1
+My Precious | 1
+Avengers Assemble | 1
+I Am Groot | 1
+I Am Iron Man | 1
+With Great Power | 2
+An Offer He Can't Refuse | 2
+Elementary My Dear Watson | 2
+Live Long And Prosper | 1
+Beam Me Up Scotty | 1
+Resistance Is Futile | 2
+To Boldly Go | 2
+Help Me Obi Wan Kenobi | 2
+It's Alive | 1
+They're Here | 2
+Life Finds A Way | 2
+Clever Girl | 3
+Welcome To Jurassic Park | 1
+Need For Speed | 2
+Bueller Bueller Bueller | 2
+Ogres Are Like Onions | 2
+That'll Do Pig | 3
+Who You Gonna Call | 1
+Frankly My Dear | 2
+Fasten Your Seatbelts | 1
+Play It Again Sam | 2
+We'll Always Have Paris | 2
+Round Up The Usual Suspects | 3
+Carpe Diem | 1
+Oh Captain My Captain | 2
+You Had Me At Hello | 1
+You Complete Me | 2
+Help Me Help You | 2
+Snap Out Of It | 2
+Get To The Chopper | 2
+Talk To The Hand | 1
+As If | 1
+Yeah Baby Yeah | 2
+Groovy Baby | 2
+Wakanda Forever | 1
+I Volunteer As Tribute | 1
+Winter Is Coming | 1
+You Know Nothing Jon Snow | 2
+Hold The Door | 3
+Expecto Patronum | 2
+Wingardium Leviosa | 2
+Yer A Wizard Harry | 1
+Mischief Managed | 2
+I Solemnly Swear | 2
+Reach For The Sky | 2
+Fish Are Friends Not Food | 2
+Mine Mine Mine | 2
+Shark Bait Hoo Ha Ha | 3
+Ohana Means Family | 2
+No Capes | 2
+I'm Gonna Wreck It | 2
+Remember Who You Are | 2
+Everything The Light Touches | 3
+Bibbidi Bobbidi Boo | 1
+Mirror Mirror On The Wall | 1
+A Spoonful Of Sugar | 2
+The Eagle Has Landed | 2
+Follow The Yellow Brick Road | 1
+Lions And Tigers And Bears | 1
+I'm Melting | 2
+Fly My Pretties | 2
+Click Your Heels | 2
+Stupid Is As Stupid Does | 2
+Tis But A Scratch | 2
+Don't Panic | 1
+Bigger On The Inside | 2
+Make It So | 3
+# Batch 2: TV, cartoon and game catchphrases
+Good Grief | 1
+Cowabunga | 1
+Yabba Dabba Doo | 1
+D'oh | 1
+Eat My Shorts | 1
+Ay Caramba | 2
+Great Scott | 2
+Jinkies | 2
+Zoinks | 2
+Scooby Dooby Doo | 1
+Ruh Roh | 2
+That's All Folks | 1
+What's Up Doc | 1
+Sufferin' Succotash | 3
+Beep Beep | 1
+How You Doin | 1
+We Were On A Break | 1
+Pivot Pivot Pivot | 2
+Bazinga | 1
+Did I Do That | 1
+Whatchu Talkin Bout Willis | 2
+Booyah | 2
+Winner Winner Chicken Dinner | 1
+Yada Yada Yada | 1
+No Soup For You | 1
+Serenity Now | 2
+Suit Up | 2
+Bears Beets Battlestar Galactica | 2
+I Declare Bankruptcy | 2
+Treat Yo Self | 1
+Cool Cool Cool | 2
+Is That Your Final Answer | 1
+Come On Down | 1
+Survey Says | 1
+Let's Get Ready To Rumble | 1
+Who Lives In A Pineapple | 2
+Are You Ready Kids | 2
+Gotta Catch Em All | 1
+It's A Me Mario | 1
+Hadouken | 2
+The Cake Is A Lie | 2
+Do A Barrel Roll | 2
+Leeroy Jenkins | 2
+Game Over | 1
+Press Start | 1
+Hey Listen | 2
+It's Dangerous To Go Alone | 2
+Party On Wayne | 2
+Be Excellent To Each Other | 2
+Totally Tubular | 2
+Gag Me With A Spoon | 2
+Don't Have A Cow Man | 2
+Yo Adrian | 2
+Up Up And Away | 1
+Faster Than A Speeding Bullet | 2
+To The Batmobile | 1
+Hulk Smash | 1
+Excelsior | 3
+Flame On | 2
+It's Clobberin Time | 3
+Shazam | 1
+Go Go Power Rangers | 1
+It's Morphin Time | 1
+Autobots Roll Out | 2
+By The Power Of Grayskull | 2
+Gotta Go Fast | 2
+Smarter Than The Average Bear | 2
+Hi Ho Hi Ho | 1
+Hi Ho Silver | 2
+Elvis Has Left The Building | 1
+He's On Fire | 2
+Boom Shakalaka | 2
+# Batch 3: slogans
+Just Do It | 1
+I'm Lovin' It | 1
+Think Different | 2
+Finger Lickin' Good | 1
+Have A Break | 2
+Because You're Worth It | 2
+The Happiest Place On Earth | 2
+Red Bull Gives You Wings | 2
+Eat Fresh | 2
+Melts In Your Mouth | 2
+Taste The Rainbow | 1
+Got Milk | 1
+Where's The Beef | 2
+They're Grrreat | 1
+Snap Crackle Pop | 1
+Silly Rabbit | 2
+Breakfast Of Champions | 2
+Impossible Is Nothing | 2
+Can You Hear Me Now | 1
+Diamonds Are Forever | 2
+Think Outside The Box | 1
+Maybe She's Born With It | 2
+Have It Your Way | 2
+Mmm Mmm Good | 2
+# Batch 4: everyday expressions, exclamations, kids' rhymes
+Hang Loose | 1
+Peace Out | 1
+Wakey Wakey | 1
+Ta Da | 1
+Abracadabra | 1
+Open Sesame | 1
+Hocus Pocus | 1
+Alakazam | 2
+Ready Set Go | 1
+On Your Marks | 1
+Lights Camera Action | 1
+And Scene | 2
+Say Cheese | 1
+Smile For The Camera | 1
+Knock Knock | 1
+Marco Polo | 1
+Tag You're It | 1
+Ready Or Not | 1
+Simon Says | 1
+Red Light Green Light | 1
+Duck Duck Goose | 1
+Rock Paper Scissors | 1
+Eeny Meeny Miny Moe | 1
+Liar Liar Pants On Fire | 1
+Jinx You Owe Me | 2
+Dibs | 1
+Cross My Heart | 1
+Pinky Promise | 1
+Scout's Honor | 2
+Bless You | 1
+Gesundheit | 2
+Bon Appetit | 1
+Bon Voyage | 1
+Ciao Bella | 2
+Au Revoir | 2
+Sayonara | 2
+Aloha | 1
+Shalom | 2
+Namaste | 1
+Hola Amigo | 1
+C'est La Vie | 2
+Que Sera Sera | 2
+Je Ne Sais Quoi | 3
+Deja Vu | 2
+Voila | 1
+Mamma Mia | 1
+Oy Vey | 2
+Ahoy Matey | 1
+Shiver Me Timbers | 2
+Yo Ho Ho | 2
+Land Ho | 2
+Thar She Blows | 3
+We're All Mad Here | 2
+Curiouser And Curiouser | 3
+Down The Rabbit Hole | 1
+Fee Fi Fo Fum | 1
+Little Pig Little Pig | 2
+I'll Huff And I'll Puff | 2
+What Big Eyes You Have | 2
+Rapunzel Let Down Your Hair | 2
+Once Upon A Time | 1
+Happily Ever After | 1
+Twinkle Twinkle Little Star | 1
+Humpty Dumpty | 1
+Hickory Dickory Dock | 1
+Jack And Jill | 1
+Ring Around The Rosie | 1
+London Bridge Is Falling Down | 1
+Row Row Row Your Boat | 1
+Itsy Bitsy Spider | 1
+Old MacDonald | 1
+E-I-E-I-O | 1
+Baa Baa Black Sheep | 1
+Hey Diddle Diddle | 2
+Mary Had A Little Lamb | 1
+Pop Goes The Weasel | 2
+Rub A Dub Dub | 2
+One Two Buckle My Shoe | 2
+Head Shoulders Knees And Toes | 1
+Wheels On The Bus | 1
+Rock A Bye Baby | 1
+Happy Birthday To You | 1
+Hip Hip Hooray | 1
+Checkmate | 1
+Play Ball | 1
+Batter Up | 1
+Fore | 2
+Timber | 1
+Geronimo | 2
+Mayday Mayday | 2
+Roger That | 1
+Over And Out | 1
+Ten Four | 2
+Copy That | 1
+All Aboard | 1
+Order Up | 1
+Check Please | 1
+Hold The Phone | 1
+Stop The Press | 2
+Breaking News | 1
+This Just In | 2
+Peace And Love | 1
+Power To The People | 2
+Girl Power | 1
+We Can Do It | 1
+Keep Calm And Carry On | 1
+Mind The Gap | 1
+Stiff Upper Lip | 2
+YOLO | 1
+Bada Bing Bada Boom | 2
+Capisce | 2
+Ooh La La | 1
+Oh Snap | 1
+Oh My Goodness | 1
+Holy Cow | 1
+Holy Moly | 1
+Holy Guacamole | 1
+Holy Smokes | 1
+Gee Whiz | 2
+Golly Gee | 2
+Jeepers Creepers | 2
+Well I Never | 2
+Fiddlesticks | 2
+Heavens To Betsy | 3
+Bob's Your Uncle | 3
+Blimey | 2
+Crikey | 2
+G'day Mate | 1
+Shrimp On The Barbie | 2
+Howdy Partner | 1
+Yee Haw | 1
+Giddy Up | 1
+Happy Trails | 2
+This Town Ain't Big Enough | 3
+Exit Stage Left | 2
+Rock On | 1
+Mic Drop | 1
+Nailed It | 1
+Challenge Accepted | 1
+Haters Gonna Hate | 2
+Epic Fail | 1
+Plot Twist | 1
+Spoiler Alert | 1
+Mind Blown | 1
+Game Changer | 1
+# Batch 5: literature, speeches and old sayings
+Wherefore Art Thou Romeo | 2
+All The World's A Stage | 2
+Friends Romans Countrymen | 3
+Double Double Toil And Trouble | 2
+Parting Is Such Sweet Sorrow | 3
+I Think Therefore I Am | 2
+Tear Down This Wall | 2
+Yes We Can | 1
+Float Like A Butterfly | 2
+Sting Like A Bee | 2
+I Am The Greatest | 1
+I Cannot Tell A Lie | 2
+Liberty Equality Fraternity | 3
+Give Peace A Chance | 2
+Ask And You Shall Receive | 2
+Love Thy Neighbor | 2
+An Eye For An Eye | 2
+Turn The Other Cheek | 2
+Let There Be Light | 2
+Do Unto Others | 2

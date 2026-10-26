@@ -1,0 +1,369 @@
+# Countries
+Canada | 1
+Mexico | 1
+Brazil | 1
+Argentina | 1
+Chile | 2
+Peru | 2
+Colombia | 2
+Venezuela | 2
+Ecuador | 2
+Bolivia | 3
+Uruguay | 3
+Paraguay | 3
+Cuba | 1
+Jamaica | 1
+Bahamas | 2
+Costa Rica | 2
+Panama | 2
+Puerto Rico | 2
+United Kingdom | 1
+England | 1
+Scotland | 1
+Wales | 2
+Ireland | 1
+France | 1
+Spain | 1
+Portugal | 1
+Italy | 1
+Germany | 1
+Netherlands | 2
+Belgium | 2
+Switzerland | 1
+Austria | 2
+Greece | 1
+Sweden | 1
+Norway | 1
+Finland | 2
+Denmark | 2
+Iceland | 1
+Poland | 2
+Czech Republic | 2
+Hungary | 2
+Croatia | 2
+Russia | 1
+Ukraine | 2
+Turkey | 1
+Egypt | 1
+Morocco | 2
+Kenya | 2
+Nigeria | 2
+South Africa | 1
+Ethiopia | 2
+Madagascar | 2
+Tanzania | 3
+Ghana | 2
+India | 1
+China | 1
+Japan | 1
+South Korea | 1
+Thailand | 1
+Vietnam | 2
+Philippines | 2
+Indonesia | 2
+Malaysia | 2
+Singapore | 2
+Nepal | 2
+Pakistan | 2
+Saudi Arabia | 2
+Israel | 2
+Jordan | 2
+United Arab Emirates | 2
+Mongolia | 3
+Australia | 1
+New Zealand | 1
+Fiji | 2
+Tahiti | 2
+Greenland | 1
+Vatican City | 2
+Monaco | 2
+Luxembourg | 3
+Liechtenstein | 3
+# Cities
+London | 1
+Paris | 1
+Rome | 1
+Venice | 1
+Florence | 2
+Milan | 2
+Barcelona | 1
+Madrid | 2
+Lisbon | 2
+Amsterdam | 1
+Berlin | 1
+Munich | 2
+Vienna | 2
+Prague | 2
+Budapest | 2
+Athens | 1
+Istanbul | 2
+Moscow | 1
+Dublin | 2
+Edinburgh | 2
+Stockholm | 2
+Copenhagen | 2
+Oslo | 3
+Geneva | 2
+Tokyo | 1
+Kyoto | 2
+Beijing | 1
+Shanghai | 1
+Hong Kong | 1
+Seoul | 2
+Bangkok | 2
+Mumbai | 2
+New Delhi | 2
+Dubai | 1
+Cairo | 1
+Marrakech | 2
+Cape Town | 2
+Nairobi | 3
+Sydney | 1
+Melbourne | 2
+Auckland | 3
+Toronto | 1
+Vancouver | 2
+Montreal | 2
+Mexico City | 1
+Cancun | 2
+Rio De Janeiro | 1
+Buenos Aires | 2
+Lima | 3
+Havana | 2
+Jerusalem | 2
+Bali | 1
+# Capitals and city nicknames
+City Of Light | 2
+Eternal City | 3
+Capital City | 1
+Land Down Under | 1
+Land Of The Rising Sun | 2
+Emerald Isle | 2
+Great White North | 2
+# Natural wonders, mountains, rivers
+Mount Everest | 1
+Mount Kilimanjaro | 2
+Mount Fuji | 1
+Matterhorn | 3
+Alps | 1
+Himalayas | 1
+Andes | 2
+Swiss Alps | 1
+Amazon River | 1
+Amazon Rainforest | 1
+Nile River | 1
+Thames | 2
+Danube | 3
+Ganges | 3
+Yangtze River | 3
+Sahara Desert | 1
+Gobi Desert | 2
+Great Barrier Reef | 1
+Victoria Falls | 2
+Angel Falls | 3
+Dead Sea | 2
+Red Sea | 2
+Mediterranean Sea | 1
+Pacific Ocean | 1
+Atlantic Ocean | 1
+Indian Ocean | 1
+Arctic Ocean | 1
+Southern Ocean | 2
+Lake Victoria | 3
+Lake Titicaca | 3
+Loch Ness | 1
+Great Lakes | 2
+Galapagos Islands | 2
+Mariana Trench | 3
+Serengeti | 2
+Outback | 1
+Ayers Rock | 2
+Iceberg | 1
+Rainforest | 1
+Coral Reef | 1
+# Continents and regions
+Africa | 1
+Asia | 1
+Europe | 1
+North America | 1
+South America | 1
+Antarctica | 1
+Oceania | 2
+Middle East | 1
+Scandinavia | 2
+Caribbean | 1
+Siberia | 2
+Arctic Circle | 1
+Polynesia | 3
+Balkans | 3
+British Isles | 2
+Latin America | 2
+Southeast Asia | 2
+Tropics | 2
+# Landforms and map words
+Mountain Range | 1
+Valley | 1
+Canyon | 1
+Plateau | 2
+Peninsula | 2
+Island | 1
+Archipelago | 3
+Atoll | 3
+Lagoon | 2
+Delta | 2
+Estuary | 3
+Waterfall | 1
+Sand Dune | 1
+Oasis | 1
+Desert Island | 1
+Tundra | 2
+Savanna | 2
+Prairie | 2
+Swamp | 1
+Marsh | 2
+Rapids | 2
+Cliff | 1
+Cave | 1
+Bay | 1
+Gulf | 2
+Strait | 3
+Isthmus | 3
+Fjord | 2
+Hot Spring | 1
+Rolling Hills | 1
+Mesa | 3
+Butte | 3
+Tributary | 3
+River Mouth | 2
+Source Of The Nile | 3
+Ice Cap | 2
+Permafrost | 3
+Continent | 1
+Latitude | 2
+Longitude | 2
+Prime Meridian | 3
+Tropic Of Cancer | 3
+International Date Line | 3
+Time Zone | 1
+Northern Hemisphere | 2
+Southern Hemisphere | 2
+North Pole | 1
+South Pole | 1
+Globe | 1
+World Map | 1
+Atlas | 1
+Compass Rose | 2
+Map Legend | 2
+Border Crossing | 2
+Passport | 1
+Population | 2
+Sea Level | 2
+Coastline | 1
+Mainland | 2
+Landlocked | 3
+Flag | 1
+Currency Exchange | 2
+# Flags and fun facts
+Maple Leaf Flag | 1
+Union Jack | 2
+Kiwi Bird | 2
+Tulip Fields | 2
+Windmills Of Holland | 2
+Canals Of Venice | 2
+Gondola Ride | 1
+Bullet Train | 1
+Cherry Blossoms | 1
+Midnight Sun | 2
+Monsoon Season | 2
+Siesta | 2
+Safari | 1
+Bermuda Triangle | 2
+Panama Hat | 3
+Swiss Cheese | 1
+Belgian Waffles | 1
+French Riviera | 2
+Scottish Highlands | 2
+Greek Islands | 1
+Canary Islands | 2
+Maldives | 2
+Bora Bora | 2
+
+# Batch 2: more countries, cities, regions and features
+Cambodia | 2
+Sri Lanka | 2
+Taiwan | 2
+Bangladesh | 3
+Qatar | 2
+Malta | 2
+Cyprus | 3
+Romania | 2
+Bulgaria | 3
+Estonia | 3
+Slovakia | 3
+Albania | 3
+Kazakhstan | 3
+Tunisia | 3
+Senegal | 3
+Zimbabwe | 3
+Namibia | 3
+Botswana | 3
+Uganda | 3
+Mauritius | 3
+Papua New Guinea | 3
+Samoa | 3
+Guatemala | 3
+Honduras | 3
+Dominican Republic | 2
+Barbados | 2
+Bermuda | 2
+Naples | 2
+Seville | 3
+Zurich | 2
+Brussels | 2
+St Petersburg | 2
+Reykjavik | 3
+Helsinki | 3
+Santorini | 2
+Dubrovnik | 3
+Monte Carlo | 2
+Osaka | 2
+Kuala Lumpur | 3
+Hanoi | 3
+Kathmandu | 3
+Abu Dhabi | 2
+Casablanca | 2
+Timbuktu | 2
+Johannesburg | 2
+Perth | 3
+Wellington | 3
+Ottawa | 2
+Quebec City | 2
+Patagonia | 2
+Tuscany | 2
+Sicily | 2
+Tasmania | 2
+Borneo | 3
+Zanzibar | 3
+K2 | 3
+Mont Blanc | 3
+Pyrenees | 3
+Table Mountain | 3
+Kalahari Desert | 3
+Atacama Desert | 3
+Congo River | 3
+Rhine River | 3
+Seine River | 3
+Iguazu Falls | 3
+White Cliffs Of Dover | 2
+Giant's Causeway | 3
+Lake Como | 3
+Black Sea | 2
+Caspian Sea | 3
+North Sea | 2
+Rock Of Gibraltar | 2
+Cape Of Good Hope | 3
+Ring Of Fire | 2
+Great Rift Valley | 3
+Equatorial Guinea | 3
+Volcanic Island | 2
+Coral Atoll | 3

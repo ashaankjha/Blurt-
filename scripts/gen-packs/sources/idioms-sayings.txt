@@ -1,0 +1,528 @@
+# Batch 1: classic idioms
+Break A Leg | 1
+Piece Of Cake | 1
+Under The Weather | 1
+Spill The Beans | 1
+Cat's Out Of The Bag | 2
+Hit The Sack | 1
+Hit The Hay | 2
+Hit The Road | 1
+Arm And A Leg | 1
+Once In A Blue Moon | 1
+When Pigs Fly | 1
+Raining Cats And Dogs | 1
+Bite The Bullet | 2
+Bite Your Tongue | 2
+Barking Up The Wrong Tree | 2
+Beat Around The Bush | 1
+Best Of Both Worlds | 2
+Better Late Than Never | 1
+Birds Of A Feather | 2
+Blessing In Disguise | 2
+Break The Ice | 1
+Burn The Midnight Oil | 2
+Burn Bridges | 2
+Call It A Day | 1
+Cut Corners | 2
+Cut To The Chase | 2
+Cry Over Spilled Milk | 2
+Curiosity Killed The Cat | 2
+Devil's Advocate | 2
+Don't Count Your Chickens | 2
+Down To Earth | 1
+Easy Does It | 1
+Silver Lining | 1
+Fish Out Of Water | 1
+Get Out Of Hand | 2
+Cold Feet | 1
+Benefit Of The Doubt | 2
+Back To The Drawing Board | 2
+Go The Extra Mile | 1
+Hang In There | 1
+Head Over Heels | 1
+In Hot Water | 2
+In The Same Boat | 2
+It Takes Two To Tango | 2
+Jump On The Bandwagon | 2
+Keep Your Chin Up | 1
+Two Birds One Stone | 2
+The Last Straw | 2
+Leave No Stone Unturned | 2
+Let Sleeping Dogs Lie | 2
+Long Story Short | 1
+Miss The Boat | 2
+No Pain No Gain | 1
+On Cloud Nine | 1
+On Thin Ice | 1
+On The Ball | 2
+On The Fence | 2
+Out Of The Blue | 2
+Over The Moon | 1
+Pulling Your Leg | 1
+Rule Of Thumb | 2
+See Eye To Eye | 2
+Speak Of The Devil | 1
+Steal My Thunder | 2
+Grain Of Salt | 2
+Ball's In Your Court | 2
+Best Thing Since Sliced Bread | 2
+Through Thick And Thin | 2
+Time Flies | 1
+Under The Radar | 2
+Up In The Air | 2
+Wild Goose Chase | 2
+Actions Speak Louder Than Words | 2
+Penny For Your Thoughts | 2
+Add Insult To Injury | 2
+All Ears | 1
+All Bark And No Bite | 2
+Apple Of My Eye | 1
+Back To Square One | 1
+Bad Apple | 2
+Ballpark Figure | 2
+Bend Over Backwards | 2
+Big Fish Small Pond | 2
+Bigger Fish To Fry | 2
+Black Sheep | 1
+Blow Off Steam | 2
+Blue In The Face | 2
+Bone To Pick | 2
+Born With A Silver Spoon | 2
+Bottom Of The Barrel | 2
+Break The Bank | 2
+Bring Home The Bacon | 2
+Brownie Points | 2
+Bull In A China Shop | 2
+Burst Your Bubble | 2
+Bury The Hatchet | 2
+Butterflies In My Stomach | 1
+Skin Of Your Teeth | 2
+Call The Shots | 2
+Don't Judge A Book | 2
+Cat Got Your Tongue | 1
+Caught Red Handed | 1
+Chip On Your Shoulder | 2
+Clean Slate | 2
+Cold Shoulder | 2
+Cool As A Cucumber | 1
+Couch Potato | 1
+Crocodile Tears | 2
+Cross Your Fingers | 1
+Not My Cup Of Tea | 1
+Cut The Mustard | 3
+Dark Horse | 2
+Dead Ringer | 3
+Dime A Dozen | 2
+Dog Days Of Summer | 2
+Eggs In One Basket | 2
+Drop In The Bucket | 2
+Early Bird Gets The Worm | 1
+Eat Humble Pie | 3
+Elephant In The Room | 1
+Face The Music | 2
+Fair And Square | 2
+Fit As A Fiddle | 2
+Flash In The Pan | 3
+Fly Off The Handle | 3
+Food For Thought | 2
+Foot In The Door | 2
+Fork In The Road | 2
+Rags To Riches | 2
+Get The Ball Rolling | 2
+Get Your Act Together | 2
+Gift Of The Gab | 3
+Give Me A Break | 1
+Cold Turkey | 2
+Go With The Flow | 1
+Going Bananas | 1
+The Grass Is Always Greener | 1
+Green With Envy | 1
+Hands Down | 2
+Hanging By A Thread | 2
+Have A Field Day | 2
+Heart Of Gold | 1
+Heart On Your Sleeve | 2
+High And Dry | 2
+Hit The Ground Running | 2
+Hold Your Horses | 1
+Hot Potato | 2
+Icing On The Cake | 1
+In A Nutshell | 1
+In The Bag | 2
+In The Nick Of Time | 2
+Jack Of All Trades | 2
+Jump The Gun | 2
+Keep Your Eyes Peeled | 2
+Know The Ropes | 2
+Let Your Hair Down | 2
+Two Peas In A Pod | 1
+Lion's Share | 3
+Loose Cannon | 2
+Lose Your Marbles | 2
+Lost In Translation | 2
+Love Is Blind | 2
+Make Ends Meet | 2
+Make Waves | 2
+Method To The Madness | 3
+Mind Your P's And Q's | 3
+Money Doesn't Grow On Trees | 2
+More Than Meets The Eye | 2
+Mum's The Word | 3
+Neck Of The Woods | 2
+Needle In A Haystack | 1
+Nest Egg | 2
+Nip It In The Bud | 2
+No Spring Chicken | 2
+Off The Hook | 2
+Off The Record | 2
+Old Flame | 2
+Old Habits Die Hard | 2
+On The Same Page | 1
+Once Bitten Twice Shy | 2
+Out Of The Woods | 2
+Over The Hill | 2
+Paint The Town Red | 2
+Pass The Buck | 3
+Pay Through The Nose | 3
+Pie In The Sky | 2
+Play It By Ear | 2
+Pot Calling The Kettle Black | 2
+Practice Makes Perfect | 1
+Pull Strings | 2
+Pull Your Weight | 2
+Put A Sock In It | 2
+Rain Check | 1
+Read Between The Lines | 2
+Red Herring | 3
+Red Tape | 2
+Ring A Bell | 1
+Rock The Boat | 2
+Rub Salt In The Wound | 2
+Run Out Of Steam | 2
+Save Face | 2
+Second Wind | 2
+Shot In The Dark | 2
+Sick As A Dog | 2
+Sink Or Swim | 1
+Sit Tight | 2
+Sleep On It | 1
+Slippery Slope | 2
+Smell A Rat | 2
+Snug As A Bug | 2
+Sour Grapes | 2
+Spice Of Life | 2
+Square Meal | 3
+Steal The Show | 2
+Stick In The Mud | 2
+Straight From The Horse's Mouth | 2
+Take The Cake | 2
+Taste Of Your Own Medicine | 2
+That Ship Has Sailed | 1
+The Whole Nine Yards | 2
+Throw In The Towel | 1
+Tie The Knot | 1
+Tip Of The Iceberg | 2
+Tip Of My Tongue | 1
+Turn A Blind Eye | 2
+Turn Over A New Leaf | 2
+Two Left Feet | 1
+Up In Arms | 3
+Walk In The Park | 1
+Water Under The Bridge | 2
+Wear Many Hats | 2
+Wet Blanket | 2
+When In Rome | 2
+Whole Ball Of Wax | 3
+Wolf In Sheep's Clothing | 2
+Writing On The Wall | 2
+Zip Your Lip | 1
+# Batch 2: more idioms
+Add Fuel To The Fire | 2
+Apples And Oranges | 2
+Achilles Heel | 2
+Snail's Pace | 2
+Ace Up Your Sleeve | 2
+Axe To Grind | 3
+Back Burner | 2
+Bag Of Tricks | 2
+Bang For Your Buck | 2
+Bee In Your Bonnet | 3
+Blood Is Thicker Than Water | 2
+Bounce Back | 1
+Break Even | 2
+Breath Of Fresh Air | 1
+Busy As A Bee | 1
+Butter Up | 2
+Calm Before The Storm | 2
+Can Of Worms | 2
+Carbon Copy | 2
+Cash Cow | 2
+Change Of Heart | 2
+Cherry On Top | 1
+Chicken Out | 1
+Clear The Air | 2
+Close Call | 1
+Come Rain Or Shine | 2
+Common Ground | 2
+Copycat | 1
+Cream Of The Crop | 2
+Cry Wolf | 2
+Cut Some Slack | 2
+Dig Your Heels In | 2
+Done And Dusted | 3
+Double Edged Sword | 2
+Down The Drain | 1
+Down To The Wire | 2
+Dressed To The Nines | 3
+Driving Me Up The Wall | 2
+Dropped The Ball | 2
+Dry Run | 2
+Eager Beaver | 2
+Easy As Pie | 1
+Easy Peasy | 1
+Egg On Your Face | 2
+Eleventh Hour | 2
+Every Dog Has Its Day | 2
+Face Value | 2
+Fall On Deaf Ears | 2
+Feather In Your Cap | 3
+Feeling Blue | 1
+Fight Fire With Fire | 2
+Fine Print | 2
+Fish For Compliments | 2
+Fly On The Wall | 2
+Follow Your Nose | 2
+Fool's Gold | 2
+Foot The Bill | 2
+For The Birds | 3
+Get Down To Business | 2
+Get Your Feet Wet | 2
+Ghost Town | 1
+Give It A Shot | 1
+Glass Half Full | 1
+Go Out On A Limb | 2
+Golden Rule | 2
+Good As Gold | 1
+Grab A Bite | 1
+Gravy Train | 3
+Half Baked | 2
+Hand In Glove | 3
+My Hands Are Tied | 2
+Have A Ball | 2
+Head In The Clouds | 1
+Head Start | 1
+Hear It Through The Grapevine | 2
+High Horse | 2
+Hit The Jackpot | 1
+Home Sweet Home | 1
+Hook Line And Sinker | 2
+Hot Under The Collar | 3
+In A Pickle | 1
+In Deep Water | 2
+In Over Your Head | 2
+In The Doghouse | 2
+In The Limelight | 2
+In The Loop | 2
+In The Red | 3
+Ivory Tower | 3
+Jump Ship | 2
+Jump Through Hoops | 2
+Keep A Straight Face | 2
+Keep It Under Wraps | 2
+Keep Your Cool | 1
+Kick The Habit | 2
+Kid Gloves | 3
+Knock On Wood | 1
+Knock Your Socks Off | 1
+Land On Your Feet | 2
+Last Minute | 1
+Late Bloomer | 2
+Laughing Stock | 2
+Left Out In The Cold | 2
+Let It Slide | 1
+Level Playing Field | 2
+Lightning Never Strikes Twice | 2
+Kid In A Candy Store | 1
+Live And Learn | 1
+Long Shot | 2
+Look Before You Leap | 2
+Lose Your Touch | 2
+Low Hanging Fruit | 2
+Mad As A Hatter | 2
+Mountain Out Of A Molehill | 2
+Mind Over Matter | 2
+Monkey Business | 1
+Moment Of Truth | 2
+New Kid On The Block | 1
+Nine To Five | 1
+No Brainer | 1
+No Strings Attached | 2
+It's Not Rocket Science | 1
+Nothing To Write Home About | 2
+Odd One Out | 1
+Off The Beaten Path | 2
+Off The Charts | 1
+Old School | 1
+On Pins And Needles | 2
+On The House | 2
+On The Mend | 2
+On Your Toes | 2
+Once In A Lifetime | 1
+Open Book | 2
+Over The Top | 1
+Packed Like Sardines | 1
+Pain In The Neck | 1
+Party Pooper | 1
+Pay It Forward | 2
+Pecking Order | 3
+Penny Pincher | 2
+Pick Up The Pieces | 2
+Pig Out | 1
+Play It Cool | 1
+Play Second Fiddle | 3
+Point Of No Return | 2
+Pour Your Heart Out | 2
+Push The Envelope | 3
+Put Your Foot Down | 2
+Foot In Mouth | 2
+Quiet As A Mouse | 1
+Rain On Your Parade | 1
+Raise The Bar | 2
+Rat Race | 2
+Right As Rain | 3
+Rise And Shine | 1
+Rock Bottom | 2
+Roll With The Punches | 2
+Rub The Wrong Way | 2
+Run Of The Mill | 2
+Sitting Duck | 2
+Saved By The Bell | 1
+Set In Stone | 2
+Shake A Leg | 2
+Shipshape | 3
+Shoot The Breeze | 3
+Short End Of The Stick | 2
+Show Your True Colors | 2
+Sight For Sore Eyes | 2
+Sleep Like A Log | 1
+Slow And Steady | 1
+Small Potatoes | 2
+Smart Cookie | 1
+Smooth Sailing | 1
+Spitting Image | 2
+Split Hairs | 3
+Start From Scratch | 1
+Stay In Your Lane | 2
+Sticky Situation | 1
+Stir The Pot | 2
+Straight And Narrow | 3
+Swim Against The Tide | 2
+Sweet Tooth | 1
+Take A Hike | 1
+Talk Of The Town | 1
+Talk Is Cheap | 2
+Tall Order | 2
+Thick Skin | 2
+Third Wheel | 1
+Thumbs Up | 1
+Tickled Pink | 2
+Time Is Money | 1
+To Each Their Own | 2
+Toe The Line | 3
+Top Dog | 1
+Tough Cookie | 1
+Turn The Tables | 2
+Twist My Arm | 2
+Under The Table | 2
+Up To Scratch | 3
+Upper Hand | 2
+Walk On Eggshells | 2
+Warm Fuzzy Feeling | 1
+Wet Behind The Ears | 3
+What Goes Around Comes Around | 1
+White Lie | 1
+Wing It | 1
+Win Win Situation | 1
+With Flying Colors | 2
+Word Of Mouth | 1
+Worth Its Weight In Gold | 2
+You Snooze You Lose | 1
+# Batch 3: proverbs and sayings
+Haste Makes Waste | 2
+Honesty Is The Best Policy | 1
+Beauty Is Skin Deep | 2
+Laughter Is The Best Medicine | 1
+An Apple A Day | 1
+Better Safe Than Sorry | 1
+Easy Come Easy Go | 1
+First Come First Served | 1
+Finders Keepers | 1
+Great Minds Think Alike | 1
+If It Ain't Broke | 2
+Knowledge Is Power | 2
+Less Is More | 2
+Money Talks | 2
+Opposites Attract | 1
+Patience Is A Virtue | 2
+Seeing Is Believing | 2
+The More The Merrier | 1
+Third Time's The Charm | 1
+Time Heals All Wounds | 2
+Too Many Cooks | 2
+Where There's Smoke There's Fire | 2
+You Are What You Eat | 1
+Worth A Thousand Words | 2
+No News Is Good News | 2
+Out With The Old | 2
+Silence Is Golden | 2
+Beggars Can't Be Choosers | 2
+Misery Loves Company | 2
+Bite The Hand That Feeds | 2
+Easier Said Than Done | 1
+Fortune Favors The Bold | 2
+Hindsight Is 20/20 | 2
+It's A Small World | 1
+Ignorance Is Bliss | 2
+Life Is Short | 1
+Live And Let Live | 2
+Many Hands Make Light Work | 2
+Never Say Never | 1
+Nothing Ventured Nothing Gained | 2
+One Man's Trash | 2
+Out Of The Frying Pan | 2
+Seize The Day | 1
+The Pen Is Mightier | 2
+Time Will Tell | 1
+Tomorrow Is Another Day | 2
+When It Rains It Pours | 1
+You Can't Win Them All | 1
+Hope For The Best | 1
+Better Half | 2
+Practice What You Preach | 2
+Mind Your Own Business | 1
+Charity Begins At Home | 2
+Sticks And Stones | 1
+Old Wives' Tale | 2
+Elbow Grease | 2
+# Batch 4: people idioms
+Goody Two Shoes | 1
+Smarty Pants | 1
+Scaredy Cat | 1
+Know It All | 1
+Busybody | 2
+Wallflower | 2
+Night Owl | 1
+Early Bird | 1
+Social Butterfly | 1
+Worrywart | 2
+Cheapskate | 2
+Bookworm | 1
+Party Animal | 1
+Sore Loser | 1
+Backseat Driver | 1
+Teacher's Pet | 1
+Top Banana | 3
+Big Cheese | 2
+Bigwig | 3
+Smart Alec | 2
+Wise Guy | 2
