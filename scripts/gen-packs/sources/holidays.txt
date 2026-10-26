@@ -1,0 +1,319 @@
+# Holidays and celebrations
+Christmas | 1
+Christmas Eve | 1
+New Year's Eve | 1
+New Year's Day | 1
+Halloween | 1
+Thanksgiving | 1
+Easter | 1
+Valentine's Day | 1
+Hanukkah | 1
+Diwali | 2
+Lunar New Year | 1
+Chinese New Year | 1
+Ramadan | 2
+Eid | 2
+Passover | 2
+Rosh Hashanah | 3
+Yom Kippur | 3
+Kwanzaa | 2
+Day Of The Dead | 2
+Cinco De Mayo | 2
+St Patrick's Day | 1
+Mardi Gras | 2
+Carnival | 1
+Holi | 2
+Boxing Day | 2
+April Fools' Day | 1
+Mother's Day | 1
+Father's Day | 1
+Groundhog Day | 2
+Earth Day | 1
+Labor Day | 2
+Independence Day | 1
+Fourth Of July | 1
+Bastille Day | 3
+Canada Day | 2
+Midsummer | 3
+Summer Solstice | 2
+Winter Solstice | 2
+Leap Day | 2
+Birthday | 1
+Anniversary | 1
+Graduation Day | 1
+Wedding Day | 1
+Baby Shower | 1
+Bridal Shower | 2
+Housewarming Party | 2
+Retirement Party | 2
+Surprise Party | 1
+Sweet Sixteen | 2
+Quinceañera | 3
+Bar Mitzvah | 2
+Christening | 2
+Family Reunion | 1
+Block Party | 1
+Pajama Party | 1
+Costume Party | 1
+Pool Party | 1
+Tea Party | 1
+Garden Party | 2
+Holiday Season | 1
+Spring Break | 1
+Summer Vacation | 1
+Long Weekend | 1
+Day Off | 1
+Snow Day | 1
+# Christmas
+Santa Claus | 1
+Father Christmas | 2
+Mrs Claus | 1
+Santa's Workshop | 1
+Santa's Sleigh | 1
+Elves | 1
+Elf On The Shelf | 1
+Reindeer | 1
+Rudolph | 1
+Red Nose | 1
+Naughty Or Nice | 1
+Naughty List | 1
+Christmas Tree | 1
+Christmas Lights | 1
+Christmas Stocking | 1
+Christmas Carol | 1
+Christmas Cracker | 2
+Christmas Jumper | 2
+Ugly Sweater | 1
+Christmas Morning | 1
+Christmas Card | 1
+Christmas Dinner | 1
+Christmas Pudding | 2
+Fruitcake | 1
+Eggnog | 2
+Candy Cane | 1
+Gingerbread House | 1
+Gingerbread Man | 1
+Sugar Plum | 2
+Mince Pie | 3
+Roasted Chestnuts | 2
+Milk And Cookies | 1
+Wrapping Paper | 1
+Gift Wrap | 1
+Present | 1
+Secret Santa | 1
+White Elephant Gift | 2
+Stocking Stuffer | 2
+Tinsel | 2
+Ornament | 1
+Tree Topper | 2
+Star On Top | 1
+Wreath | 1
+Mistletoe | 1
+Holly | 2
+Poinsettia | 3
+Nativity Scene | 2
+Advent Calendar | 2
+Chimney | 1
+Sleigh Bells | 1
+Jingle Bells | 1
+Snowman | 1
+Snow Angel | 1
+Snowball Fight | 1
+Sledding | 1
+Ice Skating | 1
+Hot Cocoa | 1
+Fireplace | 1
+Yule Log | 2
+Caroling | 1
+Nutcracker | 2
+Grinch | 1
+Scrooge | 1
+Bah Humbug | 1
+Ho Ho Ho | 1
+Twelve Days Of Christmas | 2
+White Christmas | 1
+Black Friday | 1
+Cyber Monday | 2
+Last Minute Shopping | 1
+Regifting | 2
+Gift Receipt | 2
+Thank You Note | 1
+# Halloween
+Trick Or Treat | 1
+Jack O' Lantern | 1
+Pumpkin Carving | 1
+Pumpkin Patch | 1
+Candy Corn | 1
+Costume | 1
+Haunted House | 1
+Ghost | 1
+Witch's Hat | 1
+Broomstick | 1
+Black Cat | 1
+Bat | 1
+Spider Web | 1
+Skeleton Costume | 1
+Werewolf | 1
+Vampire Fangs | 1
+Mummy Costume | 1
+Candy Bag | 1
+Full Size Candy Bar | 2
+Bobbing For Apples | 1
+Caramel Apple | 1
+Candy Apple | 1
+Scarecrow | 1
+Hay Ride | 2
+Corn Maze | 1
+Spooky Season | 1
+Ghost Story | 1
+Glow In The Dark | 1
+Cobwebs | 2
+Cauldron | 2
+Monster Mash | 2
+# Thanksgiving, Easter, Valentine's, New Year
+Turkey Dinner | 1
+Pumpkin Pie | 1
+Cranberry Sauce | 1
+Stuffing | 1
+Mashed Potatoes | 1
+Gravy Boat | 2
+Wishbone | 1
+Leftovers | 1
+Food Coma | 1
+Pilgrim Hat | 2
+Cornucopia | 3
+Easter Bunny | 1
+Easter Egg Hunt | 1
+Easter Basket | 1
+Chocolate Bunny | 1
+Jelly Beans | 1
+Marshmallow Peeps | 2
+Hot Cross Buns | 2
+Easter Bonnet | 2
+Golden Egg | 1
+Cupid | 1
+Cupid's Arrow | 1
+Love Letter | 1
+Box Of Chocolates | 1
+Dozen Red Roses | 1
+Heart Shaped Box | 1
+Candy Hearts | 1
+Secret Admirer | 1
+Be My Valentine | 1
+Candlelit Dinner | 1
+Ball Drop | 1
+Midnight Kiss | 1
+New Year's Resolution | 1
+Party Hat | 1
+Noisemaker | 2
+Confetti | 1
+Fireworks | 1
+Sparkler | 1
+Party Popper | 1
+Auld Lang Syne | 2
+Happy New Year | 1
+Leprechaun | 1
+Pot Of Gold | 1
+Four Leaf Clover | 1
+Shamrock | 1
+Wear Green | 1
+Parade Float | 1
+Marching Band | 1
+Barbecue | 1
+Picnic Blanket | 1
+Flag Waving | 1
+Red White And Blue | 1
+# World traditions
+Red Envelope | 2
+Dragon Dance | 2
+Lion Dance | 2
+Paper Lantern | 1
+Lantern Festival | 2
+Mooncake | 3
+Dumplings | 1
+Fortune Cookie | 1
+Year Of The Dragon | 2
+Chinese Zodiac | 2
+Menorah | 1
+Dreidel | 2
+Latkes | 2
+Eight Nights | 2
+Seder Plate | 3
+Matzo | 2
+Rangoli | 3
+Festival Of Lights | 2
+Sugar Skull | 2
+Marigolds | 2
+Piñata | 1
+Mariachi Band | 1
+Fasting | 2
+Iftar | 3
+Maypole | 2
+Bonfire Night | 2
+Lederhosen | 2
+Beads And Masks | 2
+King Cake | 2
+Samba Parade | 2
+Cherry Blossom Festival | 2
+Tooth Fairy | 1
+Birthday Cake | 1
+Birthday Candles | 1
+Make A Wish | 1
+Blow Out The Candles | 1
+Party Favors | 1
+Goody Bag | 1
+Balloon Animal | 1
+Musical Chairs | 1
+Party Games | 1
+Gift Registry | 2
+Wedding Cake | 1
+Bouquet Toss | 1
+Throwing Rice | 2
+Honeymoon | 1
+Cap And Gown | 1
+Throwing Caps | 1
+Diploma | 1
+Valedictorian | 3
+Prom Night | 1
+Homecoming | 2
+Daylight Saving Time | 2
+Bank Holiday | 2
+Out Of Office | 1
+Holiday Card | 1
+Holiday Traffic | 1
+Home For The Holidays | 1
+Gift Card | 1
+Wish List | 1
+
+# Batch 2: reviewer replacements and top-up
+Pin The Tail | 1
+New Year's Countdown | 1
+Throwing Colors | 2
+Dyeing Eggs | 1
+Christmas Movie Marathon | 2
+Light Display | 1
+Inflatable Santa | 1
+Reindeer Antlers | 1
+Office Holiday Party | 1
+Kids' Table | 1
+Carving The Turkey | 1
+Pumpkin Spice | 1
+Turkey Trot | 2
+Friendsgiving | 2
+Cookie Exchange | 2
+Snow Globe | 1
+Chocolate Coins | 2
+Chocolate Egg | 1
+Bunny Ears | 1
+Candy Haul | 2
+Costume Contest | 1
+Opening Presents | 1
+Gender Reveal | 2
+Christmas Spirit | 1
+Yuletide | 2
+Winter Wonderland | 1
+Silent Night | 1
+Deck The Halls | 1
+Season's Greetings | 1
+Merry Christmas | 1
+Happy Holidays | 1

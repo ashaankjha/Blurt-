@@ -1,0 +1,308 @@
+# Creatures
+Dragon | 1
+Fire Breathing Dragon | 1
+Unicorn | 1
+Phoenix | 1
+Mermaid | 1
+Merman | 2
+Centaur | 2
+Minotaur | 2
+Pegasus | 1
+Griffin | 2
+Cyclops | 1
+Medusa | 1
+Hydra | 2
+Kraken | 2
+Sea Serpent | 2
+Loch Ness Monster | 1
+Bigfoot | 1
+Yeti | 1
+Abominable Snowman | 1
+Troll | 1
+Ogre | 1
+Goblin | 1
+Gnome | 1
+Garden Gnome | 1
+Elf | 1
+Dwarf | 1
+Hobbit | 1
+Fairy | 1
+Pixie | 1
+Pixie Dust | 1
+Genie | 1
+Genie In A Bottle | 1
+Vampire | 1
+Dracula | 1
+Ghoul | 2
+Banshee | 2
+Poltergeist | 2
+Zombie | 1
+Golem | 2
+Giant | 1
+Sea Monster | 1
+Siren | 2
+Nymph | 2
+Satyr | 3
+Faun | 3
+Chimera | 3
+Basilisk | 3
+Cerberus | 2
+Three Headed Dog | 1
+Shapeshifter | 2
+Changeling | 3
+Wizard | 1
+Witch | 1
+Warlock | 2
+Sorcerer | 2
+Enchantress | 2
+Fairy Godmother | 1
+Boogeyman | 1
+Sandman | 1
+Jack Frost | 1
+Mother Nature | 1
+Father Time | 2
+Grim Reaper | 1
+Headless Horseman | 2
+Dragon Egg | 1
+Baby Dragon | 1
+Dragon Rider | 2
+Dragon's Lair | 2
+Dragon Scales | 2
+Unicorn Horn | 1
+Mermaid Tail | 1
+Fairy Wings | 1
+Wishing Well | 1
+Talking Animal | 1
+Talking Tree | 1
+Enchanted Forest | 1
+# Gods and myths
+Zeus | 1
+Hera | 2
+Poseidon | 1
+Hades | 1
+Athena | 2
+Apollo | 2
+Aphrodite | 2
+Ares | 2
+Hermes | 2
+Artemis | 2
+Hercules | 1
+Achilles | 2
+Odysseus | 2
+Perseus | 3
+Pandora's Box | 1
+Mount Olympus | 1
+Trident | 1
+Golden Fleece | 2
+Jason And The Argonauts | 3
+Icarus | 2
+Midas Touch | 1
+King Midas | 2
+Narcissus | 3
+Prometheus | 3
+Atlas Holding The World | 2
+Twelve Labors | 3
+Labyrinth | 2
+The Underworld | 2
+River Styx | 3
+Nectar And Ambrosia | 3
+Cupid's Bow | 2
+Odin | 2
+Thor | 1
+Thor's Hammer | 1
+Loki | 1
+Valhalla | 2
+Valkyrie | 3
+Asgard | 2
+Ragnarok | 3
+Norse Gods | 2
+Ra The Sun God | 2
+Anubis | 2
+Osiris | 3
+Eye Of Horus | 3
+Greek Gods | 1
+Roman Gods | 2
+Atlantis | 1
+Fountain Of Youth | 1
+Shangri-La | 3
+Avalon | 3
+Camelot | 2
+Excalibur | 2
+Sword In The Stone | 1
+Merlin | 1
+Lady Of The Lake | 3
+Mount Doom | 2
+# Fairy tales
+Cinderella | 1
+Glass Slipper | 1
+Pumpkin Carriage | 1
+Midnight Curfew | 2
+Snow White | 1
+Seven Dwarfs | 1
+Poisoned Apple | 1
+Magic Mirror | 1
+Sleeping Beauty | 1
+True Love's Kiss | 1
+Rapunzel | 1
+Little Red Riding Hood | 1
+Big Bad Wolf | 1
+Three Little Pigs | 1
+House Of Straw | 2
+Goldilocks | 1
+Three Bears | 1
+Just Right Porridge | 2
+Hansel And Gretel | 1
+Gingerbread Cottage | 2
+Breadcrumb Trail | 1
+Jack And The Beanstalk | 1
+Magic Beans | 1
+Golden Goose | 2
+Rumpelstiltskin | 2
+Spinning Straw Into Gold | 2
+Frog Prince | 1
+Kiss A Frog | 1
+Beauty And The Beast | 1
+Enchanted Rose | 2
+Princess And The Pea | 1
+Puss In Boots | 1
+The Little Mermaid | 1
+Pinocchio | 1
+Growing Nose | 1
+Peter Pan | 1
+Never Never Land | 1
+Tinker Bell | 1
+Captain Hook | 1
+Lost Boys | 2
+Alice In Wonderland | 1
+Mad Hatter | 1
+Cheshire Cat | 1
+White Rabbit | 2
+Queen Of Hearts | 1
+Wizard Of Oz | 1
+Yellow Brick Road | 1
+Ruby Slippers | 1
+Wicked Witch | 1
+Tin Man | 1
+Cowardly Lion | 1
+Emerald City | 2
+Aladdin | 1
+Magic Lamp | 1
+Flying Carpet | 1
+Three Wishes | 1
+Ali Baba | 2
+Sinbad | 2
+Ugly Duckling | 1
+Emperor's New Clothes | 2
+The Boy Who Cried Wolf | 2
+Tortoise And The Hare | 1
+Pied Piper | 2
+Fairy Tale Castle | 1
+Evil Stepmother | 1
+Wicked Stepsisters | 2
+Prince Charming | 1
+Knight On A White Horse | 2
+# Magic and fantasy tropes
+Magic Wand | 1
+Spell Book | 1
+Magic Spell | 1
+Love Potion | 1
+Crystal Ball | 1
+Fortune Teller | 1
+Invisibility Cloak | 1
+Flying Broomstick | 1
+Witch's Brew | 1
+Bubbling Cauldron | 2
+Magic Carpet Ride | 1
+Treasure Chest | 1
+End Of The Rainbow | 1
+Curse | 1
+Hex | 2
+Evil Sorcerer | 2
+Dark Lord | 2
+Chosen One | 1
+Prophecy | 2
+Quest | 1
+Epic Quest | 1
+Side Quest | 2
+Sidekick | 1
+Wise Old Wizard | 1
+Wizard's Staff | 2
+Pointy Wizard Hat | 1
+Magic School | 1
+Sorting Hat | 1
+Hogwarts | 1
+Quidditch | 1
+Golden Snitch | 2
+Lightning Scar | 1
+Platform Nine And Three Quarters | 3
+Middle Earth | 2
+The One Ring | 1
+Gandalf | 1
+Frodo | 1
+Gollum | 1
+Narnia | 1
+Talking Lion | 2
+Wardrobe Portal | 2
+Secret Passage | 1
+Hidden Door | 1
+Portal To Another World | 2
+Parallel Universe | 2
+Shrinking Potion | 2
+Glowing Sword | 1
+Enchanted Armor | 2
+Magic Ring | 1
+Philosopher's Stone | 2
+Elixir Of Life | 2
+Immortality | 2
+Shield Maiden | 3
+Dungeons And Dragons | 1
+Dungeon Master | 2
+Hit Points | 2
+Elf Ears | 1
+Pointy Ears | 1
+Fairy Ring | 3
+Mushroom House | 2
+Castle In The Clouds | 1
+Floating Island | 2
+Ice Palace | 1
+Ice Queen | 1
+Snow Queen | 2
+Elf Village | 2
+Troll Bridge | 1
+Riddle Of The Sphinx | 2
+Guardian Angel | 1
+Halo | 1
+Angel Wings | 1
+Devil Horns | 1
+Pitchfork | 2
+Imp | 2
+Oracle | 2
+Fates | 3
+Muse | 2
+Titan | 2
+Demigod | 2
+Superpower | 1
+Mind Reading | 1
+Teleportation | 2
+Invisibility | 1
+Levitation | 2
+Shape Shifting | 2
+Time Freeze | 2
+
+# Batch 2: top-up
+Will O' The Wisp | 3
+Thunderbird | 3
+Chupacabra | 2
+Jackalope | 2
+Wish Upon A Star | 1
+Sea Witch | 2
+Ice Dragon | 2
+Sword And Sorcery | 3
+Enchanted Castle | 1
+Secret Garden | 2
+Monster Under The Bed | 1
+Magic Potion | 1
+Mermaid Lagoon | 2
+Turned To Stone | 2
+Frozen In Time | 2
+Kitsune | 3
