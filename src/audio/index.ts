@@ -1,17 +1,11 @@
 /**
- * AudioService. Phase 0 STUB (silent no-op): Agent D replaces it, keeping the exported names.
+ * AudioService: fuse ticks, buzzers, UI sfx and haptics (expo-audio + expo-haptics).
+ * Usage and device notes: src/audio/HANDOFF.md.
  */
+import { createAudioService } from './service';
 import type { AudioService } from './types';
 
 export * from './types';
 
-export const audioService: AudioService = {
-  preload: async () => {},
-  startTicking: () => {},
-  stopTicking: () => {},
-  playBuzzer: () => {},
-  playSfx: () => {},
-  haptic: () => {},
-  listBuzzers: () => [],
-  configure: () => {},
-};
+/** App-wide singleton. Call `audioService.preload()` once at launch. */
+export const audioService: AudioService = createAudioService();
