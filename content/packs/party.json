@@ -1,0 +1,1992 @@
+{
+ "id": "party",
+ "name": "Party",
+ "emoji": "🍾",
+ "description": "18+. Late nights and bad decisions.",
+ "tags": [
+  "adult"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "party:hangover",
+   "text": "Hangover",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tipsy",
+   "text": "Tipsy",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-pong",
+   "text": "Beer Pong",
+   "difficulty": 1
+  },
+  {
+   "id": "party:flip-cup",
+   "text": "Flip Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "party:kings-cup",
+   "text": "Kings Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "party:quarters",
+   "text": "Quarters",
+   "difficulty": 3
+  },
+  {
+   "id": "party:never-have-i-ever",
+   "text": "Never Have I Ever",
+   "difficulty": 1
+  },
+  {
+   "id": "party:truth-or-dare",
+   "text": "Truth Or Dare",
+   "difficulty": 1
+  },
+  {
+   "id": "party:spin-the-bottle",
+   "text": "Spin The Bottle",
+   "difficulty": 1
+  },
+  {
+   "id": "party:seven-minutes-in-heaven",
+   "text": "Seven Minutes In Heaven",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drinking-game",
+   "text": "Drinking Game",
+   "difficulty": 1
+  },
+  {
+   "id": "party:power-hour",
+   "text": "Power Hour",
+   "difficulty": 3
+  },
+  {
+   "id": "party:keg-stand",
+   "text": "Keg Stand",
+   "difficulty": 2
+  },
+  {
+   "id": "party:shotgunning-a-beer",
+   "text": "Shotgunning A Beer",
+   "difficulty": 2
+  },
+  {
+   "id": "party:jello-shots",
+   "text": "Jello Shots",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tequila-shot",
+   "text": "Tequila Shot",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lime-and-salt",
+   "text": "Lime And Salt",
+   "difficulty": 2
+  },
+  {
+   "id": "party:shot-glass",
+   "text": "Shot Glass",
+   "difficulty": 1
+  },
+  {
+   "id": "party:red-solo-cup",
+   "text": "Red Solo Cup",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-bong",
+   "text": "Beer Bong",
+   "difficulty": 2
+  },
+  {
+   "id": "party:keg",
+   "text": "Keg",
+   "difficulty": 1
+  },
+  {
+   "id": "party:pint",
+   "text": "Pint",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-goggles",
+   "text": "Beer Goggles",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-mom",
+   "text": "Wine Mom",
+   "difficulty": 1
+  },
+  {
+   "id": "party:boxed-wine",
+   "text": "Boxed Wine",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-tasting",
+   "text": "Wine Tasting",
+   "difficulty": 2
+  },
+  {
+   "id": "party:champagne-toast",
+   "text": "Champagne Toast",
+   "difficulty": 1
+  },
+  {
+   "id": "party:popping-champagne",
+   "text": "Popping Champagne",
+   "difficulty": 1
+  },
+  {
+   "id": "party:prosecco",
+   "text": "Prosecco",
+   "difficulty": 2
+  },
+  {
+   "id": "party:mimosa",
+   "text": "Mimosa",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bottomless-brunch",
+   "text": "Bottomless Brunch",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bloody-mary",
+   "text": "Bloody Mary",
+   "difficulty": 1
+  },
+  {
+   "id": "party:margarita",
+   "text": "Margarita",
+   "difficulty": 1
+  },
+  {
+   "id": "party:pina-colada",
+   "text": "Pina Colada",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mojito",
+   "text": "Mojito",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cosmopolitan",
+   "text": "Cosmopolitan",
+   "difficulty": 2
+  },
+  {
+   "id": "party:martini",
+   "text": "Martini",
+   "difficulty": 1
+  },
+  {
+   "id": "party:shaken-not-stirred",
+   "text": "Shaken Not Stirred",
+   "difficulty": 2
+  },
+  {
+   "id": "party:old-fashioned",
+   "text": "Old Fashioned",
+   "difficulty": 2
+  },
+  {
+   "id": "party:long-island-iced-tea",
+   "text": "Long Island Iced Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sangria",
+   "text": "Sangria",
+   "difficulty": 1
+  },
+  {
+   "id": "party:spiked-punch",
+   "text": "Spiked Punch",
+   "difficulty": 2
+  },
+  {
+   "id": "party:jungle-juice",
+   "text": "Jungle Juice",
+   "difficulty": 2
+  },
+  {
+   "id": "party:frozen-margarita",
+   "text": "Frozen Margarita",
+   "difficulty": 2
+  },
+  {
+   "id": "party:fishbowl-drink",
+   "text": "Fishbowl Drink",
+   "difficulty": 2
+  },
+  {
+   "id": "party:hard-seltzer",
+   "text": "Hard Seltzer",
+   "difficulty": 2
+  },
+  {
+   "id": "party:light-beer",
+   "text": "Light Beer",
+   "difficulty": 1
+  },
+  {
+   "id": "party:craft-beer",
+   "text": "Craft Beer",
+   "difficulty": 2
+  },
+  {
+   "id": "party:ipa",
+   "text": "IPA",
+   "difficulty": 2
+  },
+  {
+   "id": "party:happy-hour",
+   "text": "Happy Hour",
+   "difficulty": 1
+  },
+  {
+   "id": "party:last-call",
+   "text": "Last Call",
+   "difficulty": 1
+  },
+  {
+   "id": "party:open-bar",
+   "text": "Open Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bar-tab",
+   "text": "Bar Tab",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bartender",
+   "text": "Bartender",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mixologist",
+   "text": "Mixologist",
+   "difficulty": 2
+  },
+  {
+   "id": "party:bouncer",
+   "text": "Bouncer",
+   "difficulty": 1
+  },
+  {
+   "id": "party:vip-section",
+   "text": "VIP Section",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bottle-service",
+   "text": "Bottle Service",
+   "difficulty": 2
+  },
+  {
+   "id": "party:velvet-rope",
+   "text": "Velvet Rope",
+   "difficulty": 2
+  },
+  {
+   "id": "party:guest-list",
+   "text": "Guest List",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cover-charge",
+   "text": "Cover Charge",
+   "difficulty": 2
+  },
+  {
+   "id": "party:fake-id",
+   "text": "Fake ID",
+   "difficulty": 1
+  },
+  {
+   "id": "party:id-check",
+   "text": "ID Check",
+   "difficulty": 2
+  },
+  {
+   "id": "party:coat-check",
+   "text": "Coat Check",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wristband",
+   "text": "Wristband",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hand-stamp",
+   "text": "Hand Stamp",
+   "difficulty": 2
+  },
+  {
+   "id": "party:dive-bar",
+   "text": "Dive Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sports-bar",
+   "text": "Sports Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "party:rooftop-bar",
+   "text": "Rooftop Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "party:speakeasy",
+   "text": "Speakeasy",
+   "difficulty": 2
+  },
+  {
+   "id": "party:tiki-bar",
+   "text": "Tiki Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "party:karaoke-bar",
+   "text": "Karaoke Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-bar",
+   "text": "Wine Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "party:pub-crawl",
+   "text": "Pub Crawl",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bar-hopping",
+   "text": "Bar Hopping",
+   "difficulty": 1
+  },
+  {
+   "id": "party:brewery-tour",
+   "text": "Brewery Tour",
+   "difficulty": 2
+  },
+  {
+   "id": "party:bar-stool",
+   "text": "Bar Stool",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-belly",
+   "text": "Beer Belly",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-garden",
+   "text": "Beer Garden",
+   "difficulty": 2
+  },
+  {
+   "id": "party:oktoberfest",
+   "text": "Oktoberfest",
+   "difficulty": 1
+  },
+  {
+   "id": "party:toast",
+   "text": "Toast",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cheers",
+   "text": "Cheers",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bottoms-up",
+   "text": "Bottoms Up",
+   "difficulty": 1
+  },
+  {
+   "id": "party:chug",
+   "text": "Chug",
+   "difficulty": 1
+  },
+  {
+   "id": "party:pregame",
+   "text": "Pregame",
+   "difficulty": 1
+  },
+  {
+   "id": "party:nightcap",
+   "text": "Nightcap",
+   "difficulty": 2
+  },
+  {
+   "id": "party:one-more-drink",
+   "text": "One More Drink",
+   "difficulty": 1
+  },
+  {
+   "id": "party:round-of-shots",
+   "text": "Round Of Shots",
+   "difficulty": 1
+  },
+  {
+   "id": "party:buying-a-round",
+   "text": "Buying A Round",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drinks-on-me",
+   "text": "Drinks On Me",
+   "difficulty": 1
+  },
+  {
+   "id": "party:designated-driver",
+   "text": "Designated Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "party:water-between-drinks",
+   "text": "Water Between Drinks",
+   "difficulty": 2
+  },
+  {
+   "id": "party:lightweight",
+   "text": "Lightweight",
+   "difficulty": 1
+  },
+  {
+   "id": "party:liquid-courage",
+   "text": "Liquid Courage",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-animal",
+   "text": "Party Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "party:social-butterfly",
+   "text": "Social Butterfly",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wingman",
+   "text": "Wingman",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wing-woman",
+   "text": "Wing Woman",
+   "difficulty": 2
+  },
+  {
+   "id": "party:third-wheel",
+   "text": "Third Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "party:nightclub",
+   "text": "Nightclub",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dance-floor",
+   "text": "Dance Floor",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dj-booth",
+   "text": "DJ Booth",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bass-drop",
+   "text": "Bass Drop",
+   "difficulty": 2
+  },
+  {
+   "id": "party:strobe-lights",
+   "text": "Strobe Lights",
+   "difficulty": 1
+  },
+  {
+   "id": "party:disco-ball",
+   "text": "Disco Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "party:fog-machine",
+   "text": "Fog Machine",
+   "difficulty": 2
+  },
+  {
+   "id": "party:foam-party",
+   "text": "Foam Party",
+   "difficulty": 2
+  },
+  {
+   "id": "party:silent-disco",
+   "text": "Silent Disco",
+   "difficulty": 2
+  },
+  {
+   "id": "party:rave",
+   "text": "Rave",
+   "difficulty": 1
+  },
+  {
+   "id": "party:glow-stick",
+   "text": "Glow Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mosh-pit",
+   "text": "Mosh Pit",
+   "difficulty": 2
+  },
+  {
+   "id": "party:crowd-surfing",
+   "text": "Crowd Surfing",
+   "difficulty": 2
+  },
+  {
+   "id": "party:music-festival",
+   "text": "Music Festival",
+   "difficulty": 1
+  },
+  {
+   "id": "party:festival-wristband",
+   "text": "Festival Wristband",
+   "difficulty": 2
+  },
+  {
+   "id": "party:port-a-potty-line",
+   "text": "Port-A-Potty Line",
+   "difficulty": 2
+  },
+  {
+   "id": "party:bathroom-line",
+   "text": "Bathroom Line",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dance-off",
+   "text": "Dance-Off",
+   "difficulty": 1
+  },
+  {
+   "id": "party:twerking",
+   "text": "Twerking",
+   "difficulty": 1
+  },
+  {
+   "id": "party:body-roll",
+   "text": "Body Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-dancing",
+   "text": "Drunk Dancing",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dad-dancing",
+   "text": "Dad Dancing",
+   "difficulty": 1
+  },
+  {
+   "id": "party:conga-line",
+   "text": "Conga Line",
+   "difficulty": 1
+  },
+  {
+   "id": "party:limbo",
+   "text": "Limbo",
+   "difficulty": 1
+  },
+  {
+   "id": "party:slow-dance",
+   "text": "Slow Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "party:air-guitar",
+   "text": "Air Guitar",
+   "difficulty": 1
+  },
+  {
+   "id": "party:karaoke",
+   "text": "Karaoke",
+   "difficulty": 1
+  },
+  {
+   "id": "party:power-ballad",
+   "text": "Power Ballad",
+   "difficulty": 2
+  },
+  {
+   "id": "party:duet",
+   "text": "Duet",
+   "difficulty": 2
+  },
+  {
+   "id": "party:hogging-the-mic",
+   "text": "Hogging The Mic",
+   "difficulty": 2
+  },
+  {
+   "id": "party:request-a-song",
+   "text": "Request A Song",
+   "difficulty": 2
+  },
+  {
+   "id": "party:aux-cord",
+   "text": "Aux Cord",
+   "difficulty": 2
+  },
+  {
+   "id": "party:party-playlist",
+   "text": "Party Playlist",
+   "difficulty": 1
+  },
+  {
+   "id": "party:girls-night-out",
+   "text": "Girls' Night Out",
+   "difficulty": 1
+  },
+  {
+   "id": "party:boys-night-out",
+   "text": "Boys' Night Out",
+   "difficulty": 1
+  },
+  {
+   "id": "party:night-on-the-town",
+   "text": "Night On The Town",
+   "difficulty": 1
+  },
+  {
+   "id": "party:ladies-night",
+   "text": "Ladies' Night",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bachelor-party",
+   "text": "Bachelor Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bachelorette-party",
+   "text": "Bachelorette Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:stag-do",
+   "text": "Stag Do",
+   "difficulty": 2
+  },
+  {
+   "id": "party:hen-party",
+   "text": "Hen Party",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sash-and-tiara",
+   "text": "Sash And Tiara",
+   "difficulty": 2
+  },
+  {
+   "id": "party:birthday-shots",
+   "text": "Birthday Shots",
+   "difficulty": 1
+  },
+  {
+   "id": "party:twenty-first-birthday",
+   "text": "Twenty-First Birthday",
+   "difficulty": 1
+  },
+  {
+   "id": "party:thirtieth-birthday",
+   "text": "Thirtieth Birthday",
+   "difficulty": 2
+  },
+  {
+   "id": "party:surprise-party",
+   "text": "Surprise Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:house-party",
+   "text": "House Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:frat-party",
+   "text": "Frat Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:toga-party",
+   "text": "Toga Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:costume-party",
+   "text": "Costume Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:theme-party",
+   "text": "Theme Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:pool-party",
+   "text": "Pool Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:block-party",
+   "text": "Block Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:rooftop-party",
+   "text": "Rooftop Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:office-party",
+   "text": "Office Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:holiday-party",
+   "text": "Holiday Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:ugly-sweater-party",
+   "text": "Ugly Sweater Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:halloween-party",
+   "text": "Halloween Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:new-year-s-eve",
+   "text": "New Year's Eve",
+   "difficulty": 1
+  },
+  {
+   "id": "party:midnight-kiss",
+   "text": "Midnight Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "party:countdown",
+   "text": "Countdown",
+   "difficulty": 1
+  },
+  {
+   "id": "party:ball-drop",
+   "text": "Ball Drop",
+   "difficulty": 1
+  },
+  {
+   "id": "party:super-bowl-party",
+   "text": "Super Bowl Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tailgating",
+   "text": "Tailgating",
+   "difficulty": 1
+  },
+  {
+   "id": "party:housewarming",
+   "text": "Housewarming",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dinner-party",
+   "text": "Dinner Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cocktail-party",
+   "text": "Cocktail Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-and-cheese-night",
+   "text": "Wine And Cheese Night",
+   "difficulty": 2
+  },
+  {
+   "id": "party:game-night",
+   "text": "Game Night",
+   "difficulty": 1
+  },
+  {
+   "id": "party:murder-mystery-party",
+   "text": "Murder Mystery Party",
+   "difficulty": 2
+  },
+  {
+   "id": "party:escape-room",
+   "text": "Escape Room",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bowling-night",
+   "text": "Bowling Night",
+   "difficulty": 2
+  },
+  {
+   "id": "party:trivia-night",
+   "text": "Trivia Night",
+   "difficulty": 1
+  },
+  {
+   "id": "party:open-mic-night",
+   "text": "Open Mic Night",
+   "difficulty": 2
+  },
+  {
+   "id": "party:comedy-club",
+   "text": "Comedy Club",
+   "difficulty": 1
+  },
+  {
+   "id": "party:casino-night",
+   "text": "Casino Night",
+   "difficulty": 1
+  },
+  {
+   "id": "party:vegas-trip",
+   "text": "Vegas Trip",
+   "difficulty": 1
+  },
+  {
+   "id": "party:what-happens-in-vegas",
+   "text": "What Happens In Vegas",
+   "difficulty": 1
+  },
+  {
+   "id": "party:spring-break",
+   "text": "Spring Break",
+   "difficulty": 1
+  },
+  {
+   "id": "party:girls-trip",
+   "text": "Girls' Trip",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cruise-ship",
+   "text": "Cruise Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "party:booze-cruise",
+   "text": "Booze Cruise",
+   "difficulty": 1
+  },
+  {
+   "id": "party:all-inclusive-resort",
+   "text": "All-Inclusive Resort",
+   "difficulty": 2
+  },
+  {
+   "id": "party:swim-up-bar",
+   "text": "Swim-Up Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sunburn",
+   "text": "Sunburn",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-bus",
+   "text": "Party Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "party:limo",
+   "text": "Limo",
+   "difficulty": 1
+  },
+  {
+   "id": "party:uber-home",
+   "text": "Uber Home",
+   "difficulty": 1
+  },
+  {
+   "id": "party:surge-pricing",
+   "text": "Surge Pricing",
+   "difficulty": 2
+  },
+  {
+   "id": "party:ride-share",
+   "text": "Ride Share",
+   "difficulty": 2
+  },
+  {
+   "id": "party:walk-of-shame",
+   "text": "Walk Of Shame",
+   "difficulty": 1
+  },
+  {
+   "id": "party:stumbling-home",
+   "text": "Stumbling Home",
+   "difficulty": 1
+  },
+  {
+   "id": "party:late-night-pizza",
+   "text": "Late-Night Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "party:drunk-food",
+   "text": "Drunk Food",
+   "difficulty": 1
+  },
+  {
+   "id": "party:kebab-at-3-am",
+   "text": "Kebab At 3 AM",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drive-thru-run",
+   "text": "Drive-Thru Run",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cheesy-fries",
+   "text": "Cheesy Fries",
+   "difficulty": 2
+  },
+  {
+   "id": "party:diner-at-2-am",
+   "text": "Diner At 2 AM",
+   "difficulty": 2
+  },
+  {
+   "id": "party:after-party",
+   "text": "After-Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:after-after-party",
+   "text": "After-After-Party",
+   "difficulty": 2
+  },
+  {
+   "id": "party:life-of-the-party",
+   "text": "Life Of The Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-pooper",
+   "text": "Party Pooper",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-crasher",
+   "text": "Party Crasher",
+   "difficulty": 1
+  },
+  {
+   "id": "party:plus-one",
+   "text": "Plus One",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-host",
+   "text": "Party Host",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lampshade-on-head",
+   "text": "Lampshade On Head",
+   "difficulty": 2
+  },
+  {
+   "id": "party:the-drunk-friend",
+   "text": "The Drunk Friend",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mom-friend",
+   "text": "Mom Friend",
+   "difficulty": 1
+  },
+  {
+   "id": "party:designated-photographer",
+   "text": "Designated Photographer",
+   "difficulty": 2
+  },
+  {
+   "id": "party:selfie-queen",
+   "text": "Selfie Queen",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wallflower",
+   "text": "Wallflower",
+   "difficulty": 1
+  },
+  {
+   "id": "party:early-leaver",
+   "text": "Early Leaver",
+   "difficulty": 2
+  },
+  {
+   "id": "party:irish-goodbye",
+   "text": "Irish Goodbye",
+   "difficulty": 2
+  },
+  {
+   "id": "party:french-exit",
+   "text": "French Exit",
+   "difficulty": 3
+  },
+  {
+   "id": "party:the-ex-at-the-party",
+   "text": "The Ex At The Party",
+   "difficulty": 2
+  },
+  {
+   "id": "party:crying-in-the-bathroom",
+   "text": "Crying In The Bathroom",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bathroom-friends",
+   "text": "Bathroom Friends",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-texter",
+   "text": "Drunk Texter",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sleepy-drunk",
+   "text": "Sleepy Drunk",
+   "difficulty": 2
+  },
+  {
+   "id": "party:happy-drunk",
+   "text": "Happy Drunk",
+   "difficulty": 1
+  },
+  {
+   "id": "party:emotional-drunk",
+   "text": "Emotional Drunk",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sloppy",
+   "text": "Sloppy",
+   "difficulty": 2
+  },
+  {
+   "id": "party:smashed",
+   "text": "Smashed",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wasted",
+   "text": "Wasted",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hammered",
+   "text": "Hammered",
+   "difficulty": 1
+  },
+  {
+   "id": "party:buzzed",
+   "text": "Buzzed",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sober",
+   "text": "Sober",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sober-curious",
+   "text": "Sober Curious",
+   "difficulty": 2
+  },
+  {
+   "id": "party:dry-january",
+   "text": "Dry January",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mocktail",
+   "text": "Mocktail",
+   "difficulty": 1
+  },
+  {
+   "id": "party:club-soda",
+   "text": "Club Soda",
+   "difficulty": 2
+  },
+  {
+   "id": "party:teetotaler",
+   "text": "Teetotaler",
+   "difficulty": 3
+  },
+  {
+   "id": "party:bar-fly",
+   "text": "Bar Fly",
+   "difficulty": 3
+  },
+  {
+   "id": "party:karaoke-diva",
+   "text": "Karaoke Diva",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dancing-queen",
+   "text": "Dancing Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "party:dj",
+   "text": "DJ",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hype-man",
+   "text": "Hype Man",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-planner",
+   "text": "Party Planner",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-pong-champion",
+   "text": "Beer Pong Champion",
+   "difficulty": 2
+  },
+  {
+   "id": "party:neighbor-complaining",
+   "text": "Neighbor Complaining",
+   "difficulty": 2
+  },
+  {
+   "id": "party:noise-complaint",
+   "text": "Noise Complaint",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cops-show-up",
+   "text": "Cops Show Up",
+   "difficulty": 2
+  },
+  {
+   "id": "party:party-foul",
+   "text": "Party Foul",
+   "difficulty": 1
+  },
+  {
+   "id": "party:spilled-drink",
+   "text": "Spilled Drink",
+   "difficulty": 1
+  },
+  {
+   "id": "party:broken-glass",
+   "text": "Broken Glass",
+   "difficulty": 1
+  },
+  {
+   "id": "party:red-wine-stain",
+   "text": "Red Wine Stain",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lost-phone",
+   "text": "Lost Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lost-shoe",
+   "text": "Lost Shoe",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lost-keys",
+   "text": "Lost Keys",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lost-voice",
+   "text": "Lost Voice",
+   "difficulty": 1
+  },
+  {
+   "id": "party:ruined-outfit",
+   "text": "Ruined Outfit",
+   "difficulty": 2
+  },
+  {
+   "id": "party:torn-dress",
+   "text": "Torn Dress",
+   "difficulty": 2
+  },
+  {
+   "id": "party:heels-in-hand",
+   "text": "Heels In Hand",
+   "difficulty": 2
+  },
+  {
+   "id": "party:blisters",
+   "text": "Blisters",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sore-feet",
+   "text": "Sore Feet",
+   "difficulty": 1
+  },
+  {
+   "id": "party:ringing-ears",
+   "text": "Ringing Ears",
+   "difficulty": 2
+  },
+  {
+   "id": "party:glitter-everywhere",
+   "text": "Glitter Everywhere",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bar-bathroom",
+   "text": "Bar Bathroom",
+   "difficulty": 2
+  },
+  {
+   "id": "party:line-for-the-ladies",
+   "text": "Line For The Ladies",
+   "difficulty": 2
+  },
+  {
+   "id": "party:phone-at-one-percent",
+   "text": "Phone At One Percent",
+   "difficulty": 2
+  },
+  {
+   "id": "party:group-chat",
+   "text": "Group Chat",
+   "difficulty": 1
+  },
+  {
+   "id": "party:group-photo",
+   "text": "Group Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "party:blurry-photos",
+   "text": "Blurry Photos",
+   "difficulty": 1
+  },
+  {
+   "id": "party:embarrassing-video",
+   "text": "Embarrassing Video",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tagged-photo",
+   "text": "Tagged Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "party:instagram-story",
+   "text": "Instagram Story",
+   "difficulty": 1
+  },
+  {
+   "id": "party:snap-story",
+   "text": "Snap Story",
+   "difficulty": 2
+  },
+  {
+   "id": "party:fomo",
+   "text": "FOMO",
+   "difficulty": 1
+  },
+  {
+   "id": "party:yolo",
+   "text": "YOLO",
+   "difficulty": 1
+  },
+  {
+   "id": "party:send-it",
+   "text": "Send It",
+   "difficulty": 2
+  },
+  {
+   "id": "party:turn-up",
+   "text": "Turn Up",
+   "difficulty": 1
+  },
+  {
+   "id": "party:lit",
+   "text": "Lit",
+   "difficulty": 1
+  },
+  {
+   "id": "party:rager",
+   "text": "Rager",
+   "difficulty": 2
+  },
+  {
+   "id": "party:banger",
+   "text": "Banger",
+   "difficulty": 2
+  },
+  {
+   "id": "party:vibe-check",
+   "text": "Vibe Check",
+   "difficulty": 1
+  },
+  {
+   "id": "party:main-character-energy",
+   "text": "Main Character Energy",
+   "difficulty": 2
+  },
+  {
+   "id": "party:morning-after",
+   "text": "Morning After",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hangover-cure",
+   "text": "Hangover Cure",
+   "difficulty": 1
+  },
+  {
+   "id": "party:greasy-breakfast",
+   "text": "Greasy Breakfast",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hair-of-the-dog",
+   "text": "Hair Of The Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "party:pounding-headache",
+   "text": "Pounding Headache",
+   "difficulty": 1
+  },
+  {
+   "id": "party:aspirin",
+   "text": "Aspirin",
+   "difficulty": 1
+  },
+  {
+   "id": "party:electrolytes",
+   "text": "Electrolytes",
+   "difficulty": 2
+  },
+  {
+   "id": "party:coconut-water",
+   "text": "Coconut Water",
+   "difficulty": 2
+  },
+  {
+   "id": "party:pedialyte",
+   "text": "Pedialyte",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sunglasses-indoors",
+   "text": "Sunglasses Indoors",
+   "difficulty": 1
+  },
+  {
+   "id": "party:blackout-curtains",
+   "text": "Blackout Curtains",
+   "difficulty": 1
+  },
+  {
+   "id": "party:room-spinning",
+   "text": "Room Spinning",
+   "difficulty": 1
+  },
+  {
+   "id": "party:one-foot-on-the-floor",
+   "text": "One Foot On The Floor",
+   "difficulty": 2
+  },
+  {
+   "id": "party:never-drinking-again",
+   "text": "Never Drinking Again",
+   "difficulty": 1
+  },
+  {
+   "id": "party:regret",
+   "text": "Regret",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-fear",
+   "text": "Beer Fear",
+   "difficulty": 2
+  },
+  {
+   "id": "party:hangxiety",
+   "text": "Hangxiety",
+   "difficulty": 2
+  },
+  {
+   "id": "party:piecing-together-the-night",
+   "text": "Piecing Together The Night",
+   "difficulty": 2
+  },
+  {
+   "id": "party:checking-bank-account",
+   "text": "Checking Bank Account",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bar-tab-shock",
+   "text": "Bar Tab Shock",
+   "difficulty": 2
+  },
+  {
+   "id": "party:who-ordered-pizza",
+   "text": "Who Ordered Pizza",
+   "difficulty": 2
+  },
+  {
+   "id": "party:couch-surfer",
+   "text": "Couch Surfer",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sleeping-on-the-couch",
+   "text": "Sleeping On The Couch",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sleeping-in-your-clothes",
+   "text": "Sleeping In Your Clothes",
+   "difficulty": 1
+  },
+  {
+   "id": "party:makeup-still-on",
+   "text": "Makeup Still On",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mascara-smudge",
+   "text": "Mascara Smudge",
+   "difficulty": 2
+  },
+  {
+   "id": "party:bed-head",
+   "text": "Bed Head",
+   "difficulty": 1
+  },
+  {
+   "id": "party:morning-breath",
+   "text": "Morning Breath",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hangover-brunch",
+   "text": "Hangover Brunch",
+   "difficulty": 1
+  },
+  {
+   "id": "party:recovery-day",
+   "text": "Recovery Day",
+   "difficulty": 1
+  },
+  {
+   "id": "party:netflix-and-recover",
+   "text": "Netflix And Recover",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sunday-scaries",
+   "text": "Sunday Scaries",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sick-day",
+   "text": "Sick Day",
+   "difficulty": 1
+  },
+  {
+   "id": "party:two-day-hangover",
+   "text": "Two-Day Hangover",
+   "difficulty": 2
+  },
+  {
+   "id": "party:undo-send",
+   "text": "Undo Send",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-texts",
+   "text": "Drunk Texts",
+   "difficulty": 1
+  },
+  {
+   "id": "party:drunk-dial",
+   "text": "Drunk Dial",
+   "difficulty": 1
+  },
+  {
+   "id": "party:drunk-shopping",
+   "text": "Drunk Shopping",
+   "difficulty": 1
+  },
+  {
+   "id": "party:drunk-tattoo",
+   "text": "Drunk Tattoo",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-history",
+   "text": "Drunk History",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-selfie",
+   "text": "Drunk Selfie",
+   "difficulty": 2
+  },
+  {
+   "id": "party:spontaneous-haircut",
+   "text": "Spontaneous Haircut",
+   "difficulty": 3
+  },
+  {
+   "id": "party:hiccup-attack",
+   "text": "Hiccup Attack",
+   "difficulty": 2
+  },
+  {
+   "id": "party:slurred-speech",
+   "text": "Slurred Speech",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-breath",
+   "text": "Beer Breath",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-teeth",
+   "text": "Wine Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wine-drunk",
+   "text": "Wine Drunk",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tequila-mistake",
+   "text": "Tequila Mistake",
+   "difficulty": 2
+  },
+  {
+   "id": "party:rose-all-day",
+   "text": "Rosé All Day",
+   "difficulty": 2
+  },
+  {
+   "id": "party:day-drinking",
+   "text": "Day Drinking",
+   "difficulty": 1
+  },
+  {
+   "id": "party:boozy-brunch",
+   "text": "Boozy Brunch",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wine-o-clock",
+   "text": "Wine O'Clock",
+   "difficulty": 1
+  },
+  {
+   "id": "party:it-s-five-o-clock-somewhere",
+   "text": "It's Five O'Clock Somewhere",
+   "difficulty": 1
+  },
+  {
+   "id": "party:liquid-lunch",
+   "text": "Liquid Lunch",
+   "difficulty": 2
+  },
+  {
+   "id": "party:night-owl",
+   "text": "Night Owl",
+   "difficulty": 1
+  },
+  {
+   "id": "party:sunrise-walk-home",
+   "text": "Sunrise Walk Home",
+   "difficulty": 2
+  },
+  {
+   "id": "party:last-one-standing",
+   "text": "Last One Standing",
+   "difficulty": 1
+  },
+  {
+   "id": "party:closing-time",
+   "text": "Closing Time",
+   "difficulty": 1
+  },
+  {
+   "id": "party:kicked-out",
+   "text": "Kicked Out",
+   "difficulty": 2
+  },
+  {
+   "id": "party:cut-off",
+   "text": "Cut Off",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-s-over",
+   "text": "Party's Over",
+   "difficulty": 1
+  },
+  {
+   "id": "party:drunk-jenga",
+   "text": "Drunk Jenga",
+   "difficulty": 2
+  },
+  {
+   "id": "party:would-you-rather",
+   "text": "Would You Rather",
+   "difficulty": 1
+  },
+  {
+   "id": "party:most-likely-to",
+   "text": "Most Likely To",
+   "difficulty": 1
+  },
+  {
+   "id": "party:two-truths-and-a-lie",
+   "text": "Two Truths And A Lie",
+   "difficulty": 1
+  },
+  {
+   "id": "party:hot-seat",
+   "text": "Hot Seat",
+   "difficulty": 2
+  },
+  {
+   "id": "party:charades",
+   "text": "Charades",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cards-against-humanity",
+   "text": "Cards Against Humanity",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drunk-charades",
+   "text": "Drunk Charades",
+   "difficulty": 2
+  },
+  {
+   "id": "party:ring-of-fire",
+   "text": "Ring Of Fire",
+   "difficulty": 3
+  },
+  {
+   "id": "party:ride-the-bus",
+   "text": "Ride The Bus",
+   "difficulty": 3
+  },
+  {
+   "id": "party:rage-cage",
+   "text": "Rage Cage",
+   "difficulty": 3
+  },
+  {
+   "id": "party:giant-jenga",
+   "text": "Giant Jenga",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beer-olympics",
+   "text": "Beer Olympics",
+   "difficulty": 2
+  },
+  {
+   "id": "party:shot-roulette",
+   "text": "Shot Roulette",
+   "difficulty": 2
+  },
+  {
+   "id": "party:shotski",
+   "text": "Shotski",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wine-pong",
+   "text": "Wine Pong",
+   "difficulty": 2
+  },
+  {
+   "id": "party:drink-every-time",
+   "text": "Drink Every Time",
+   "difficulty": 2
+  },
+  {
+   "id": "party:party-dice",
+   "text": "Party Dice",
+   "difficulty": 2
+  },
+  {
+   "id": "party:dare",
+   "text": "Dare",
+   "difficulty": 1
+  },
+  {
+   "id": "party:kiss-marry-avoid",
+   "text": "Kiss Marry Avoid",
+   "difficulty": 2
+  },
+  {
+   "id": "party:mistletoe",
+   "text": "Mistletoe",
+   "difficulty": 1
+  },
+  {
+   "id": "party:party-hats",
+   "text": "Party Hats",
+   "difficulty": 1
+  },
+  {
+   "id": "party:confetti-cannon",
+   "text": "Confetti Cannon",
+   "difficulty": 1
+  },
+  {
+   "id": "party:streamers",
+   "text": "Streamers",
+   "difficulty": 1
+  },
+  {
+   "id": "party:balloon-arch",
+   "text": "Balloon Arch",
+   "difficulty": 2
+  },
+  {
+   "id": "party:neon-sign",
+   "text": "Neon Sign",
+   "difficulty": 2
+  },
+  {
+   "id": "party:disco-outfit",
+   "text": "Disco Outfit",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sequins",
+   "text": "Sequins",
+   "difficulty": 1
+  },
+  {
+   "id": "party:little-black-dress",
+   "text": "Little Black Dress",
+   "difficulty": 1
+  },
+  {
+   "id": "party:club-outfit",
+   "text": "Club Outfit",
+   "difficulty": 2
+  },
+  {
+   "id": "party:party-shirt",
+   "text": "Party Shirt",
+   "difficulty": 2
+  },
+  {
+   "id": "party:going-out-top",
+   "text": "Going-Out Top",
+   "difficulty": 2
+  },
+  {
+   "id": "party:stilettos",
+   "text": "Stilettos",
+   "difficulty": 1
+  },
+  {
+   "id": "party:tuxedo",
+   "text": "Tuxedo",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bow-tie",
+   "text": "Bow Tie",
+   "difficulty": 1
+  },
+  {
+   "id": "party:glow-in-the-dark",
+   "text": "Glow In The Dark",
+   "difficulty": 2
+  },
+  {
+   "id": "party:black-light",
+   "text": "Black Light",
+   "difficulty": 2
+  },
+  {
+   "id": "party:hot-tub",
+   "text": "Hot Tub",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bonfire",
+   "text": "Bonfire",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beach-party",
+   "text": "Beach Party",
+   "difficulty": 1
+  },
+  {
+   "id": "party:luau",
+   "text": "Luau",
+   "difficulty": 1
+  },
+  {
+   "id": "party:fiesta",
+   "text": "Fiesta",
+   "difficulty": 1
+  },
+  {
+   "id": "party:mardi-gras",
+   "text": "Mardi Gras",
+   "difficulty": 1
+  },
+  {
+   "id": "party:beads",
+   "text": "Beads",
+   "difficulty": 2
+  },
+  {
+   "id": "party:st-patrick-s-day",
+   "text": "St. Patrick's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "party:green-beer",
+   "text": "Green Beer",
+   "difficulty": 1
+  },
+  {
+   "id": "party:cinco-de-mayo",
+   "text": "Cinco De Mayo",
+   "difficulty": 1
+  },
+  {
+   "id": "party:bar-mitzvah",
+   "text": "Bar Mitzvah",
+   "difficulty": 2
+  },
+  {
+   "id": "party:wedding-reception",
+   "text": "Wedding Reception",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wedding-crasher",
+   "text": "Wedding Crasher",
+   "difficulty": 1
+  },
+  {
+   "id": "party:best-man-speech",
+   "text": "Best Man Speech",
+   "difficulty": 1
+  },
+  {
+   "id": "party:maid-of-honor",
+   "text": "Maid Of Honor",
+   "difficulty": 1
+  },
+  {
+   "id": "party:garter-toss",
+   "text": "Garter Toss",
+   "difficulty": 2
+  },
+  {
+   "id": "party:bouquet-toss",
+   "text": "Bouquet Toss",
+   "difficulty": 1
+  },
+  {
+   "id": "party:chicken-dance",
+   "text": "Chicken Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "party:twist-and-shout",
+   "text": "Twist And Shout",
+   "difficulty": 2
+  },
+  {
+   "id": "party:sing-along",
+   "text": "Sing-Along",
+   "difficulty": 1
+  },
+  {
+   "id": "party:shouting-lyrics",
+   "text": "Shouting Lyrics",
+   "difficulty": 1
+  },
+  {
+   "id": "party:wrong-lyrics",
+   "text": "Wrong Lyrics",
+   "difficulty": 1
+  },
+  {
+   "id": "party:belting-it-out",
+   "text": "Belting It Out",
+   "difficulty": 2
+  }
+ ]
+}

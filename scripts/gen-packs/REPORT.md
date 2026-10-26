@@ -20,14 +20,14 @@
 | geography | - | - | - | 330 | missing source |
 | idioms-sayings | - | - | - | 440 | missing source |
 | famous-phrases | - | - | - | 330 | missing source |
-| sports | - | - | - | 440 | missing source |
+| sports | 850 | 0 | 0 | 440 | ok |
 | holidays | - | - | - | 275 | missing source |
 | fantasy-myth | - | - | - | 275 | missing source |
-| brands | - | - | - | 440 | missing source |
-| nostalgia-90s-2000s | - | - | - | 330 | missing source |
-| kids | - | - | - | 550 | missing source |
+| brands | 551 | 0 | 0 | 440 | ok |
+| nostalgia-90s-2000s | 497 | 0 | 0 | 330 | ok |
+| kids | 675 | 0 | 0 | 550 | ok |
 | nyc | - | - | - | 220 | missing source |
 | road-trip-usa | - | - | - | 275 | missing source |
-| party | - | - | - | 330 | missing source |
-| awkward-situations | - | - | - | 275 | missing source |
-| dating | - | - | - | 275 | missing source |
+| party | 396 | 0 | 0 | 330 | ok |
+| awkward-situations | 362 | 0 | 0 | 275 | ok |
+| dating | 382 | 0 | 0 | 275 | ok |

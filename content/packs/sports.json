@@ -1,0 +1,4262 @@
+{
+ "id": "sports",
+ "name": "Sports",
+ "emoji": "🏀",
+ "description": "Games, gear and big moments.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "sports:soccer",
+   "text": "Soccer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:basketball",
+   "text": "Basketball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:baseball",
+   "text": "Baseball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:football",
+   "text": "Football",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tennis",
+   "text": "Tennis",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:golf",
+   "text": "Golf",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hockey",
+   "text": "Hockey",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:volleyball",
+   "text": "Volleyball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:swimming",
+   "text": "Swimming",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:boxing",
+   "text": "Boxing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wrestling",
+   "text": "Wrestling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bowling",
+   "text": "Bowling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:skateboarding",
+   "text": "Skateboarding",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:surfing",
+   "text": "Surfing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:skiing",
+   "text": "Skiing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:snowboarding",
+   "text": "Snowboarding",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ice-skating",
+   "text": "Ice Skating",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:figure-skating",
+   "text": "Figure Skating",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gymnastics",
+   "text": "Gymnastics",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cycling",
+   "text": "Cycling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:running",
+   "text": "Running",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:marathon",
+   "text": "Marathon",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:karate",
+   "text": "Karate",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:judo",
+   "text": "Judo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:taekwondo",
+   "text": "Taekwondo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fencing",
+   "text": "Fencing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:archery",
+   "text": "Archery",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:badminton",
+   "text": "Badminton",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:table-tennis",
+   "text": "Table Tennis",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ping-pong",
+   "text": "Ping Pong",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cricket",
+   "text": "Cricket",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rugby",
+   "text": "Rugby",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lacrosse",
+   "text": "Lacrosse",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:water-polo",
+   "text": "Water Polo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:polo",
+   "text": "Polo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rowing",
+   "text": "Rowing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:canoeing",
+   "text": "Canoeing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kayaking",
+   "text": "Kayaking",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sailing",
+   "text": "Sailing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:diving",
+   "text": "Diving",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:synchronized-swimming",
+   "text": "Synchronized Swimming",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rock-climbing",
+   "text": "Rock Climbing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bouldering",
+   "text": "Bouldering",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:mountain-biking",
+   "text": "Mountain Biking",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bmx",
+   "text": "BMX",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:motocross",
+   "text": "Motocross",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:formula-one",
+   "text": "Formula One",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nascar",
+   "text": "NASCAR",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:drag-racing",
+   "text": "Drag Racing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:horse-racing",
+   "text": "Horse Racing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rodeo",
+   "text": "Rodeo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bull-riding",
+   "text": "Bull Riding",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:dodgeball",
+   "text": "Dodgeball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:kickball",
+   "text": "Kickball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tetherball",
+   "text": "Tetherball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:handball",
+   "text": "Handball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:softball",
+   "text": "Softball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:curling",
+   "text": "Curling",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bobsled",
+   "text": "Bobsled",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:luge",
+   "text": "Luge",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:ski-jumping",
+   "text": "Ski Jumping",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:biathlon",
+   "text": "Biathlon",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:triathlon",
+   "text": "Triathlon",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:decathlon",
+   "text": "Decathlon",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:pole-vault",
+   "text": "Pole Vault",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:high-jump",
+   "text": "High Jump",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:long-jump",
+   "text": "Long Jump",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:triple-jump",
+   "text": "Triple Jump",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hurdles",
+   "text": "Hurdles",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:shot-put",
+   "text": "Shot Put",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:discus",
+   "text": "Discus",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:javelin",
+   "text": "Javelin",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hammer-throw",
+   "text": "Hammer Throw",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:relay-race",
+   "text": "Relay Race",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sprint",
+   "text": "Sprint",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:weightlifting",
+   "text": "Weightlifting",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:powerlifting",
+   "text": "Powerlifting",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bodybuilding",
+   "text": "Bodybuilding",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sumo-wrestling",
+   "text": "Sumo Wrestling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:kickboxing",
+   "text": "Kickboxing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:mixed-martial-arts",
+   "text": "Mixed Martial Arts",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:jiu-jitsu",
+   "text": "Jiu-Jitsu",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kung-fu",
+   "text": "Kung Fu",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pickleball",
+   "text": "Pickleball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:squash",
+   "text": "Squash",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:racquetball",
+   "text": "Racquetball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ultimate-frisbee",
+   "text": "Ultimate Frisbee",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:disc-golf",
+   "text": "Disc Golf",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:mini-golf",
+   "text": "Mini Golf",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cornhole",
+   "text": "Cornhole",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:darts",
+   "text": "Darts",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:billiards",
+   "text": "Billiards",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pool",
+   "text": "Pool",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:snooker",
+   "text": "Snooker",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:water-skiing",
+   "text": "Water Skiing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:wakeboarding",
+   "text": "Wakeboarding",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:parasailing",
+   "text": "Parasailing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:skydiving",
+   "text": "Skydiving",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bungee-jumping",
+   "text": "Bungee Jumping",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hang-gliding",
+   "text": "Hang Gliding",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:snorkeling",
+   "text": "Snorkeling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:scuba-diving",
+   "text": "Scuba Diving",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:kitesurfing",
+   "text": "Kitesurfing",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:paddleboarding",
+   "text": "Paddleboarding",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:speed-skating",
+   "text": "Speed Skating",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:cross-country-skiing",
+   "text": "Cross-Country Skiing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:roller-skating",
+   "text": "Roller Skating",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rollerblading",
+   "text": "Rollerblading",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:jump-rope",
+   "text": "Jump Rope",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tug-of-war",
+   "text": "Tug Of War",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sack-race",
+   "text": "Sack Race",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:egg-and-spoon-race",
+   "text": "Egg And Spoon Race",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:three-legged-race",
+   "text": "Three-Legged Race",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:arm-wrestling",
+   "text": "Arm Wrestling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:thumb-wrestling",
+   "text": "Thumb Wrestling",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:paintball",
+   "text": "Paintball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:laser-tag",
+   "text": "Laser Tag",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:fishing",
+   "text": "Fishing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hiking",
+   "text": "Hiking",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:jogging",
+   "text": "Jogging",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:yoga",
+   "text": "Yoga",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pilates",
+   "text": "Pilates",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:aerobics",
+   "text": "Aerobics",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:zumba",
+   "text": "Zumba",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:spin-class",
+   "text": "Spin Class",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:crossfit",
+   "text": "CrossFit",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:parkour",
+   "text": "Parkour",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:cheerleading",
+   "text": "Cheerleading",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:equestrian",
+   "text": "Equestrian",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:dressage",
+   "text": "Dressage",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:show-jumping",
+   "text": "Show Jumping",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:orienteering",
+   "text": "Orienteering",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:croquet",
+   "text": "Croquet",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bocce-ball",
+   "text": "Bocce Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lawn-bowling",
+   "text": "Lawn Bowling",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:foosball",
+   "text": "Foosball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:air-hockey",
+   "text": "Air Hockey",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:beach-volleyball",
+   "text": "Beach Volleyball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:street-hockey",
+   "text": "Street Hockey",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:flag-football",
+   "text": "Flag Football",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:touch-football",
+   "text": "Touch Football",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:esports",
+   "text": "Esports",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:chess",
+   "text": "Chess",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ballroom-dancing",
+   "text": "Ballroom Dancing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:breakdancing",
+   "text": "Breakdancing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bodyboarding",
+   "text": "Bodyboarding",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:sledding",
+   "text": "Sledding",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:snowshoeing",
+   "text": "Snowshoeing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:motorcycle-racing",
+   "text": "Motorcycle Racing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:go-karting",
+   "text": "Go-Karting",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:monster-trucks",
+   "text": "Monster Trucks",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:demolition-derby",
+   "text": "Demolition Derby",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tobogganing",
+   "text": "Tobogganing",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:hurling",
+   "text": "Hurling",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:netball",
+   "text": "Netball",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:field-hockey",
+   "text": "Field Hockey",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ice-fishing",
+   "text": "Ice Fishing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hula-hooping",
+   "text": "Hula Hooping",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:arm-curl",
+   "text": "Arm Curl",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:speed-walking",
+   "text": "Speed Walking",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:obstacle-course",
+   "text": "Obstacle Course",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tough-mudder",
+   "text": "Tough Mudder",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:hot-yoga",
+   "text": "Hot Yoga",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:base-jumping",
+   "text": "Base Jumping",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:free-diving",
+   "text": "Free Diving",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:cliff-diving",
+   "text": "Cliff Diving",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:zip-lining",
+   "text": "Zip Lining",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:whitewater-rafting",
+   "text": "Whitewater Rafting",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kite-flying",
+   "text": "Kite Flying",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:horseback-riding",
+   "text": "Horseback Riding",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sport-fishing",
+   "text": "Sport Fishing",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:roller-derby",
+   "text": "Roller Derby",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ski-cross",
+   "text": "Ski Cross",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:snowmobiling",
+   "text": "Snowmobiling",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:jet-skiing",
+   "text": "Jet Skiing",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ultramarathon",
+   "text": "Ultramarathon",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:half-marathon",
+   "text": "Half Marathon",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fun-run",
+   "text": "Fun Run",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:color-run",
+   "text": "Color Run",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:spartan-race",
+   "text": "Spartan Race",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:baseball-bat",
+   "text": "Baseball Bat",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:catcher-s-mitt",
+   "text": "Catcher's Mitt",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:batting-helmet",
+   "text": "Batting Helmet",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hockey-stick",
+   "text": "Hockey Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hockey-puck",
+   "text": "Hockey Puck",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:goalie-mask",
+   "text": "Goalie Mask",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tennis-racket",
+   "text": "Tennis Racket",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tennis-ball",
+   "text": "Tennis Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:shuttlecock",
+   "text": "Shuttlecock",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:golf-club",
+   "text": "Golf Club",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:golf-ball",
+   "text": "Golf Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:golf-tee",
+   "text": "Golf Tee",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:golf-cart",
+   "text": "Golf Cart",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:putter",
+   "text": "Putter",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bowling-ball",
+   "text": "Bowling Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bowling-pins",
+   "text": "Bowling Pins",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:boxing-gloves",
+   "text": "Boxing Gloves",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:punching-bag",
+   "text": "Punching Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:mouthguard",
+   "text": "Mouthguard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shin-guards",
+   "text": "Shin Guards",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shoulder-pads",
+   "text": "Shoulder Pads",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:knee-pads",
+   "text": "Knee Pads",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:football-helmet",
+   "text": "Football Helmet",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:jersey",
+   "text": "Jersey",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cleats",
+   "text": "Cleats",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sweatband",
+   "text": "Sweatband",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:whistle",
+   "text": "Whistle",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stopwatch",
+   "text": "Stopwatch",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:scoreboard",
+   "text": "Scoreboard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:jumbotron",
+   "text": "Jumbotron",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:goal-post",
+   "text": "Goal Post",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:basketball-hoop",
+   "text": "Basketball Hoop",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:backboard",
+   "text": "Backboard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:soccer-ball",
+   "text": "Soccer Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:volleyball-net",
+   "text": "Volleyball Net",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:starting-block",
+   "text": "Starting Block",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:finish-line",
+   "text": "Finish Line",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:starting-gun",
+   "text": "Starting Gun",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:balance-beam",
+   "text": "Balance Beam",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pommel-horse",
+   "text": "Pommel Horse",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:uneven-bars",
+   "text": "Uneven Bars",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:parallel-bars",
+   "text": "Parallel Bars",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:still-rings",
+   "text": "Still Rings",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:springboard",
+   "text": "Springboard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:diving-board",
+   "text": "Diving Board",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:swim-cap",
+   "text": "Swim Cap",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:goggles",
+   "text": "Goggles",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:life-jacket",
+   "text": "Life Jacket",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:surfboard",
+   "text": "Surfboard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:skateboard",
+   "text": "Skateboard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:snowboard",
+   "text": "Snowboard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ski-poles",
+   "text": "Ski Poles",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ski-lift",
+   "text": "Ski Lift",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:chairlift",
+   "text": "Chairlift",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ice-skates",
+   "text": "Ice Skates",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bicycle-helmet",
+   "text": "Bicycle Helmet",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gym-bag",
+   "text": "Gym Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:dumbbell",
+   "text": "Dumbbell",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:barbell",
+   "text": "Barbell",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kettlebell",
+   "text": "Kettlebell",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:treadmill",
+   "text": "Treadmill",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:exercise-bike",
+   "text": "Exercise Bike",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rowing-machine",
+   "text": "Rowing Machine",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:yoga-mat",
+   "text": "Yoga Mat",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:medicine-ball",
+   "text": "Medicine Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:resistance-band",
+   "text": "Resistance Band",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:foam-roller",
+   "text": "Foam Roller",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fishing-rod",
+   "text": "Fishing Rod",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tackle-box",
+   "text": "Tackle Box",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:oar",
+   "text": "Oar",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:saddle",
+   "text": "Saddle",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stirrups",
+   "text": "Stirrups",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:horseshoe",
+   "text": "Horseshoe",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pool-cue",
+   "text": "Pool Cue",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:dartboard",
+   "text": "Dartboard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bullseye",
+   "text": "Bullseye",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bow-and-arrow",
+   "text": "Bow And Arrow",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:climbing-rope",
+   "text": "Climbing Rope",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:carabiner",
+   "text": "Carabiner",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:chalk-bag",
+   "text": "Chalk Bag",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:sports-bra",
+   "text": "Sports Bra",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:penalty-flag",
+   "text": "Penalty Flag",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:red-card",
+   "text": "Red Card",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:yellow-card",
+   "text": "Yellow Card",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:trophy",
+   "text": "Trophy",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gold-medal",
+   "text": "Gold Medal",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:silver-medal",
+   "text": "Silver Medal",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bronze-medal",
+   "text": "Bronze Medal",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:podium",
+   "text": "Podium",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stanley-cup",
+   "text": "Stanley Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:championship-ring",
+   "text": "Championship Ring",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pom-poms",
+   "text": "Pom-Poms",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:foam-finger",
+   "text": "Foam Finger",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:team-mascot",
+   "text": "Team Mascot",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bleachers",
+   "text": "Bleachers",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:dugout",
+   "text": "Dugout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:locker-room",
+   "text": "Locker Room",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:penalty-box",
+   "text": "Penalty Box",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:batting-cage",
+   "text": "Batting Cage",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pitching-mound",
+   "text": "Pitching Mound",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:home-plate",
+   "text": "Home Plate",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bullpen",
+   "text": "Bullpen",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:infield",
+   "text": "Infield",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:outfield",
+   "text": "Outfield",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:center-court",
+   "text": "Center Court",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:free-throw-line",
+   "text": "Free Throw Line",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:three-point-line",
+   "text": "Three-Point Line",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:end-zone",
+   "text": "End Zone",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:fifty-yard-line",
+   "text": "Fifty-Yard Line",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sideline",
+   "text": "Sideline",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:penalty-spot",
+   "text": "Penalty Spot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:corner-flag",
+   "text": "Corner Flag",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:golf-course",
+   "text": "Golf Course",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sand-trap",
+   "text": "Sand Trap",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:putting-green",
+   "text": "Putting Green",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:driving-range",
+   "text": "Driving Range",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ice-rink",
+   "text": "Ice Rink",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:boxing-ring",
+   "text": "Boxing Ring",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:race-track",
+   "text": "Race Track",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:velodrome",
+   "text": "Velodrome",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:skate-park",
+   "text": "Skate Park",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:halfpipe",
+   "text": "Halfpipe",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ski-slope",
+   "text": "Ski Slope",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bunny-hill",
+   "text": "Bunny Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lap-lane",
+   "text": "Lap Lane",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tennis-court",
+   "text": "Tennis Court",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stadium",
+   "text": "Stadium",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:arena",
+   "text": "Arena",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gym",
+   "text": "Gym",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:racing-helmet",
+   "text": "Racing Helmet",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:wetsuit",
+   "text": "Wetsuit",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:flippers",
+   "text": "Flippers",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:snorkel",
+   "text": "Snorkel",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:kneeboard",
+   "text": "Kneeboard",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:elbow-pads",
+   "text": "Elbow Pads",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wrist-guards",
+   "text": "Wrist Guards",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ankle-brace",
+   "text": "Ankle Brace",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hand-wraps",
+   "text": "Hand Wraps",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:chalk",
+   "text": "Chalk",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sports-tape",
+   "text": "Sports Tape",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:heart-rate-monitor",
+   "text": "Heart Rate Monitor",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fitness-tracker",
+   "text": "Fitness Tracker",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pedometer",
+   "text": "Pedometer",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lane-rope",
+   "text": "Lane Rope",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:kickboard",
+   "text": "Kickboard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pace-car",
+   "text": "Pace Car",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pit-crew",
+   "text": "Pit Crew",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:grandstand",
+   "text": "Grandstand",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:luxury-box",
+   "text": "Luxury Box",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:press-box",
+   "text": "Press Box",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:team-bus",
+   "text": "Team Bus",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:game-ball",
+   "text": "Game Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:football-tee",
+   "text": "Football Tee",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tackling-dummy",
+   "text": "Tackling Dummy",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hurdle",
+   "text": "Hurdle",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:relay-baton",
+   "text": "Relay Baton",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:quarterback",
+   "text": "Quarterback",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wide-receiver",
+   "text": "Wide Receiver",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:running-back",
+   "text": "Running Back",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:linebacker",
+   "text": "Linebacker",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tight-end",
+   "text": "Tight End",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kicker",
+   "text": "Kicker",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:punter",
+   "text": "Punter",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:goalie",
+   "text": "Goalie",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:goalkeeper",
+   "text": "Goalkeeper",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:striker",
+   "text": "Striker",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:defender",
+   "text": "Defender",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:midfielder",
+   "text": "Midfielder",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pitcher",
+   "text": "Pitcher",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:catcher",
+   "text": "Catcher",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:shortstop",
+   "text": "Shortstop",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:first-baseman",
+   "text": "First Baseman",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:designated-hitter",
+   "text": "Designated Hitter",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:point-guard",
+   "text": "Point Guard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:power-forward",
+   "text": "Power Forward",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:coach",
+   "text": "Coach",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:referee",
+   "text": "Referee",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:umpire",
+   "text": "Umpire",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:linesman",
+   "text": "Linesman",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:team-captain",
+   "text": "Team Captain",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:benchwarmer",
+   "text": "Benchwarmer",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rookie",
+   "text": "Rookie",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:veteran",
+   "text": "Veteran",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:free-agent",
+   "text": "Free Agent",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:draft-pick",
+   "text": "Draft Pick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:water-boy",
+   "text": "Water Boy",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ball-boy",
+   "text": "Ball Boy",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:caddie",
+   "text": "Caddie",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:jockey",
+   "text": "Jockey",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:lifeguard",
+   "text": "Lifeguard",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:personal-trainer",
+   "text": "Personal Trainer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cheerleader",
+   "text": "Cheerleader",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:mascot",
+   "text": "Mascot",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:commentator",
+   "text": "Commentator",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sportscaster",
+   "text": "Sportscaster",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:superfan",
+   "text": "Superfan",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:team-owner",
+   "text": "Team Owner",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:underdog",
+   "text": "Underdog",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:defending-champion",
+   "text": "Defending Champion",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:heavyweight-champion",
+   "text": "Heavyweight Champion",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:mvp",
+   "text": "MVP",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:all-star",
+   "text": "All-Star",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hall-of-famer",
+   "text": "Hall Of Famer",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:olympian",
+   "text": "Olympian",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gold-medalist",
+   "text": "Gold Medalist",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pinch-hitter",
+   "text": "Pinch Hitter",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:sixth-man",
+   "text": "Sixth Man",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:fullback",
+   "text": "Fullback",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ref",
+   "text": "Ref",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bodybuilder",
+   "text": "Bodybuilder",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gym-rat",
+   "text": "Gym Rat",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:weekend-warrior",
+   "text": "Weekend Warrior",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:armchair-quarterback",
+   "text": "Armchair Quarterback",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:scout",
+   "text": "Scout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sports-agent",
+   "text": "Sports Agent",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:equipment-manager",
+   "text": "Equipment Manager",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:team-doctor",
+   "text": "Team Doctor",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:assistant-coach",
+   "text": "Assistant Coach",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:head-coach",
+   "text": "Head Coach",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:trainer",
+   "text": "Trainer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:surfer-dude",
+   "text": "Surfer Dude",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:skater",
+   "text": "Skater",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sprinter",
+   "text": "Sprinter",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:swimmer",
+   "text": "Swimmer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:golfer",
+   "text": "Golfer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:boxer",
+   "text": "Boxer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wrestler",
+   "text": "Wrestler",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gymnast",
+   "text": "Gymnast",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cyclist",
+   "text": "Cyclist",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:marathon-runner",
+   "text": "Marathon Runner",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ballerina",
+   "text": "Ballerina",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:touchdown",
+   "text": "Touchdown",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:field-goal",
+   "text": "Field Goal",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:home-run",
+   "text": "Home Run",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:grand-slam",
+   "text": "Grand Slam",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:strikeout",
+   "text": "Strikeout",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hat-trick",
+   "text": "Hat Trick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:slam-dunk",
+   "text": "Slam Dunk",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:alley-oop",
+   "text": "Alley-Oop",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:three-pointer",
+   "text": "Three-Pointer",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:free-throw",
+   "text": "Free Throw",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:layup",
+   "text": "Layup",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:jump-shot",
+   "text": "Jump Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:buzzer-beater",
+   "text": "Buzzer Beater",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:air-ball",
+   "text": "Air Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fast-break",
+   "text": "Fast Break",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:full-court-press",
+   "text": "Full-Court Press",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:double-dribble",
+   "text": "Double Dribble",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:traveling",
+   "text": "Traveling",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:technical-foul",
+   "text": "Technical Foul",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hail-mary",
+   "text": "Hail Mary",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fumble",
+   "text": "Fumble",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:interception",
+   "text": "Interception",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:quarterback-sack",
+   "text": "Quarterback Sack",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:blitz",
+   "text": "Blitz",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:onside-kick",
+   "text": "Onside Kick",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:two-minute-warning",
+   "text": "Two-Minute Warning",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:instant-replay",
+   "text": "Instant Replay",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:overtime",
+   "text": "Overtime",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sudden-death",
+   "text": "Sudden Death",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:penalty-kick",
+   "text": "Penalty Kick",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:corner-kick",
+   "text": "Corner Kick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:free-kick",
+   "text": "Free Kick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bicycle-kick",
+   "text": "Bicycle Kick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:header",
+   "text": "Header",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:offside",
+   "text": "Offside",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:own-goal",
+   "text": "Own Goal",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nutmeg",
+   "text": "Nutmeg",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:diving-save",
+   "text": "Diving Save",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ace",
+   "text": "Ace",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:deuce",
+   "text": "Deuce",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:match-point",
+   "text": "Match Point",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tiebreaker",
+   "text": "Tiebreaker",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:backhand",
+   "text": "Backhand",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:forehand",
+   "text": "Forehand",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:volley",
+   "text": "Volley",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:drop-shot",
+   "text": "Drop Shot",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:hole-in-one",
+   "text": "Hole In One",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:birdie",
+   "text": "Birdie",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:eagle",
+   "text": "Eagle",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:bogey",
+   "text": "Bogey",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:par",
+   "text": "Par",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fore",
+   "text": "Fore",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:mulligan",
+   "text": "Mulligan",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:hook-shot",
+   "text": "Hook Shot",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:strike",
+   "text": "Strike",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:spare",
+   "text": "Spare",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:gutter-ball",
+   "text": "Gutter Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:perfect-game",
+   "text": "Perfect Game",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:knockout",
+   "text": "Knockout",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:uppercut",
+   "text": "Uppercut",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:left-hook",
+   "text": "Left Hook",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:jab",
+   "text": "Jab",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rope-a-dope",
+   "text": "Rope-A-Dope",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:below-the-belt",
+   "text": "Below The Belt",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:throw-in-the-towel",
+   "text": "Throw In The Towel",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:body-slam",
+   "text": "Body Slam",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:headlock",
+   "text": "Headlock",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tap-out",
+   "text": "Tap Out",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:cartwheel",
+   "text": "Cartwheel",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:backflip",
+   "text": "Backflip",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:handstand",
+   "text": "Handstand",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:somersault",
+   "text": "Somersault",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:splits",
+   "text": "Splits",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:round-off",
+   "text": "Round-Off",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:cannonball",
+   "text": "Cannonball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:belly-flop",
+   "text": "Belly Flop",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:swan-dive",
+   "text": "Swan Dive",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:backstroke",
+   "text": "Backstroke",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:breaststroke",
+   "text": "Breaststroke",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:butterfly-stroke",
+   "text": "Butterfly Stroke",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:doggy-paddle",
+   "text": "Doggy Paddle",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:freestyle",
+   "text": "Freestyle",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:flip-turn",
+   "text": "Flip Turn",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:ollie",
+   "text": "Ollie",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kickflip",
+   "text": "Kickflip",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:wipeout",
+   "text": "Wipeout",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hang-ten",
+   "text": "Hang Ten",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pit-stop",
+   "text": "Pit Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:checkered-flag",
+   "text": "Checkered Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pole-position",
+   "text": "Pole Position",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:victory-lap",
+   "text": "Victory Lap",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:photo-finish",
+   "text": "Photo Finish",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:false-start",
+   "text": "False Start",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:head-start",
+   "text": "Head Start",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:personal-best",
+   "text": "Personal Best",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:world-record",
+   "text": "World Record",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stolen-base",
+   "text": "Stolen Base",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bunt",
+   "text": "Bunt",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:curveball",
+   "text": "Curveball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fastball",
+   "text": "Fastball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:knuckleball",
+   "text": "Knuckleball",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:seventh-inning-stretch",
+   "text": "Seventh-Inning Stretch",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:foul-ball",
+   "text": "Foul Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:walk-off-home-run",
+   "text": "Walk-Off Home Run",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:triple-play",
+   "text": "Triple Play",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:double-play",
+   "text": "Double Play",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:no-hitter",
+   "text": "No-Hitter",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:power-play",
+   "text": "Power Play",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:slap-shot",
+   "text": "Slap Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:face-off",
+   "text": "Face-Off",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shootout",
+   "text": "Shootout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:icing",
+   "text": "Icing",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:body-check",
+   "text": "Body Check",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:penalty-shot",
+   "text": "Penalty Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:zamboni",
+   "text": "Zamboni",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:checkmate",
+   "text": "Checkmate",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:stalemate",
+   "text": "Stalemate",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:victory-dance",
+   "text": "Victory Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:end-zone-dance",
+   "text": "End Zone Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gatorade-shower",
+   "text": "Gatorade Shower",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:high-five",
+   "text": "High Five",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:chest-bump",
+   "text": "Chest Bump",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:fist-bump",
+   "text": "Fist Bump",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:team-huddle",
+   "text": "Team Huddle",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pep-talk",
+   "text": "Pep Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:halftime-show",
+   "text": "Halftime Show",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:coin-toss",
+   "text": "Coin Toss",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:timeout",
+   "text": "Timeout",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:kickoff",
+   "text": "Kickoff",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tip-off",
+   "text": "Tip-Off",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:first-down",
+   "text": "First Down",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:home-field-advantage",
+   "text": "Home Field Advantage",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:trash-talk",
+   "text": "Trash Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bench-press",
+   "text": "Bench Press",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:push-up",
+   "text": "Push-Up",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sit-up",
+   "text": "Sit-Up",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pull-up",
+   "text": "Pull-Up",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:jumping-jacks",
+   "text": "Jumping Jacks",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:burpees",
+   "text": "Burpees",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:squats",
+   "text": "Squats",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:lunges",
+   "text": "Lunges",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:plank",
+   "text": "Plank",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:warm-up",
+   "text": "Warm-Up",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cool-down",
+   "text": "Cool Down",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:stretching",
+   "text": "Stretching",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:six-pack-abs",
+   "text": "Six-Pack Abs",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:second-wind",
+   "text": "Second Wind",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:runner-s-high",
+   "text": "Runner's High",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:torn-acl",
+   "text": "Torn ACL",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:pulled-hamstring",
+   "text": "Pulled Hamstring",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ice-bath",
+   "text": "Ice Bath",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:crossover-dribble",
+   "text": "Crossover Dribble",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:behind-the-back-pass",
+   "text": "Behind The Back Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:no-look-pass",
+   "text": "No-Look Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bounce-pass",
+   "text": "Bounce Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rebound",
+   "text": "Rebound",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:block-shot",
+   "text": "Block Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shot-clock",
+   "text": "Shot Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:swish",
+   "text": "Swish",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:brick",
+   "text": "Brick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:posterize",
+   "text": "Posterize",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:touchback",
+   "text": "Touchback",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:two-point-conversion",
+   "text": "Two-Point Conversion",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:extra-point",
+   "text": "Extra Point",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pass-interference",
+   "text": "Pass Interference",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:holding-penalty",
+   "text": "Holding Penalty",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:delay-of-game",
+   "text": "Delay Of Game",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:lateral-pass",
+   "text": "Lateral Pass",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:spike-the-ball",
+   "text": "Spike The Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:victory-formation",
+   "text": "Victory Formation",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:scrum",
+   "text": "Scrum",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:line-drive",
+   "text": "Line Drive",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pop-fly",
+   "text": "Pop Fly",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fly-ball",
+   "text": "Fly Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ground-ball",
+   "text": "Ground Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:slide-into-home",
+   "text": "Slide Into Home",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:steal-second",
+   "text": "Steal Second",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:base-hit",
+   "text": "Base Hit",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bases-loaded",
+   "text": "Bases Loaded",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:full-count",
+   "text": "Full Count",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:strike-three",
+   "text": "Strike Three",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:you-re-out",
+   "text": "You're Out",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:safe",
+   "text": "Safe",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wild-pitch",
+   "text": "Wild Pitch",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bean-ball",
+   "text": "Bean Ball",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:golden-goal",
+   "text": "Golden Goal",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:stoppage-time",
+   "text": "Stoppage Time",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:penalty-shootout",
+   "text": "Penalty Shootout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:throw-in",
+   "text": "Throw-In",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:goal-kick",
+   "text": "Goal Kick",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:clean-sheet",
+   "text": "Clean Sheet",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:long-pass",
+   "text": "Long Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:through-ball",
+   "text": "Through Ball",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:serve",
+   "text": "Serve",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:double-fault",
+   "text": "Double Fault",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lob",
+   "text": "Lob",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:smash",
+   "text": "Smash",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rally",
+   "text": "Rally",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:break-point",
+   "text": "Break Point",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:spike",
+   "text": "Spike",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bump-set-spike",
+   "text": "Bump Set Spike",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:dig",
+   "text": "Dig",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:chip-shot",
+   "text": "Chip Shot",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tee-off",
+   "text": "Tee Off",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:slice",
+   "text": "Slice",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:water-hazard",
+   "text": "Water Hazard",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:albatross",
+   "text": "Albatross",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:back-nine",
+   "text": "Back Nine",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:turkey",
+   "text": "Turkey",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:split",
+   "text": "Split",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:clean-sweep",
+   "text": "Clean Sweep",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sucker-punch",
+   "text": "Sucker Punch",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:haymaker",
+   "text": "Haymaker",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:combo",
+   "text": "Combo",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:clinch",
+   "text": "Clinch",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:split-decision",
+   "text": "Split Decision",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:pin-fall",
+   "text": "Pin Fall",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:submission",
+   "text": "Submission",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:suplex",
+   "text": "Suplex",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:pile-driver",
+   "text": "Pile Driver",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:front-flip",
+   "text": "Front Flip",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pike-position",
+   "text": "Pike Position",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:stick-the-landing",
+   "text": "Stick The Landing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:perfect-ten",
+   "text": "Perfect Ten",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:triple-axel",
+   "text": "Triple Axel",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:toe-loop",
+   "text": "Toe Loop",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:tuck",
+   "text": "Tuck",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:drafting",
+   "text": "Drafting",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:burnout",
+   "text": "Burnout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lap-of-honor",
+   "text": "Lap Of Honor",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:last-lap",
+   "text": "Last Lap",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pace-yourself",
+   "text": "Pace Yourself",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hitting-the-wall",
+   "text": "Hitting The Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:carb-loading",
+   "text": "Carb Loading",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:water-station",
+   "text": "Water Station",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:personal-record",
+   "text": "Personal Record",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bulking",
+   "text": "Bulking",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:leg-day",
+   "text": "Leg Day",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rest-day",
+   "text": "Rest Day",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gains",
+   "text": "Gains",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:spotter",
+   "text": "Spotter",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shadowboxing",
+   "text": "Shadowboxing",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:footwork",
+   "text": "Footwork",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:rope-climb",
+   "text": "Rope Climb",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:olympics",
+   "text": "Olympics",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:winter-olympics",
+   "text": "Winter Olympics",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:olympic-torch",
+   "text": "Olympic Torch",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:olympic-rings",
+   "text": "Olympic Rings",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:opening-ceremony",
+   "text": "Opening Ceremony",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:paralympics",
+   "text": "Paralympics",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:world-cup",
+   "text": "World Cup",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:super-bowl",
+   "text": "Super Bowl",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:world-series",
+   "text": "World Series",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:nba-finals",
+   "text": "NBA Finals",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:march-madness",
+   "text": "March Madness",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:wimbledon",
+   "text": "Wimbledon",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:us-open",
+   "text": "US Open",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tour-de-france",
+   "text": "Tour De France",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kentucky-derby",
+   "text": "Kentucky Derby",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:daytona-500",
+   "text": "Daytona 500",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:indy-500",
+   "text": "Indy 500",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:boston-marathon",
+   "text": "Boston Marathon",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:the-masters",
+   "text": "The Masters",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ryder-cup",
+   "text": "Ryder Cup",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:champions-league",
+   "text": "Champions League",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:premier-league",
+   "text": "Premier League",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nfl",
+   "text": "NFL",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:nba",
+   "text": "NBA",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:mlb",
+   "text": "MLB",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nhl",
+   "text": "NHL",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fifa",
+   "text": "FIFA",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:wwe",
+   "text": "WWE",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ufc",
+   "text": "UFC",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:espn",
+   "text": "ESPN",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:fantasy-football",
+   "text": "Fantasy Football",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tailgate-party",
+   "text": "Tailgate Party",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:season-tickets",
+   "text": "Season Tickets",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:box-seats",
+   "text": "Box Seats",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nosebleed-seats",
+   "text": "Nosebleed Seats",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:kiss-cam",
+   "text": "Kiss Cam",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:the-wave",
+   "text": "The Wave",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:playoffs",
+   "text": "Playoffs",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wild-card",
+   "text": "Wild Card",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:grand-final",
+   "text": "Grand Final",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:championship-game",
+   "text": "Championship Game",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:all-star-game",
+   "text": "All-Star Game",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:draft-day",
+   "text": "Draft Day",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:spring-training",
+   "text": "Spring Training",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:training-camp",
+   "text": "Training Camp",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:preseason",
+   "text": "Preseason",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:off-season",
+   "text": "Off-Season",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:home-game",
+   "text": "Home Game",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:away-game",
+   "text": "Away Game",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rivalry-game",
+   "text": "Rivalry Game",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bowl-game",
+   "text": "Bowl Game",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:homecoming-game",
+   "text": "Homecoming Game",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:varsity",
+   "text": "Varsity",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:junior-varsity",
+   "text": "Junior Varsity",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:little-league",
+   "text": "Little League",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sports-day",
+   "text": "Sports Day",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:field-day",
+   "text": "Field Day",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:gym-class",
+   "text": "Gym Class",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pickup-game",
+   "text": "Pickup Game",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:halftime",
+   "text": "Halftime",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:inning",
+   "text": "Inning",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:home-team",
+   "text": "Home Team",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:visiting-team",
+   "text": "Visiting Team",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:dream-team",
+   "text": "Dream Team",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:dynasty",
+   "text": "Dynasty",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:comeback",
+   "text": "Comeback",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:upset",
+   "text": "Upset",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:blowout",
+   "text": "Blowout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:nail-biter",
+   "text": "Nail-Biter",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tie-game",
+   "text": "Tie Game",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:shutout",
+   "text": "Shutout",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:winning-streak",
+   "text": "Winning Streak",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:losing-streak",
+   "text": "Losing Streak",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:bandwagon-fan",
+   "text": "Bandwagon Fan",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sore-loser",
+   "text": "Sore Loser",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:good-sport",
+   "text": "Good Sport",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sportsmanship",
+   "text": "Sportsmanship",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:team-spirit",
+   "text": "Team Spirit",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hometown-hero",
+   "text": "Hometown Hero",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hall-of-fame",
+   "text": "Hall Of Fame",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:retired-jersey",
+   "text": "Retired Jersey",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:trading-card",
+   "text": "Trading Card",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sports-drink",
+   "text": "Sports Drink",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:protein-shake",
+   "text": "Protein Shake",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:energy-bar",
+   "text": "Energy Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rain-delay",
+   "text": "Rain Delay",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:cheer-squad",
+   "text": "Cheer Squad",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:marching-band",
+   "text": "Marching Band",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:fight-song",
+   "text": "Fight Song",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:national-anthem",
+   "text": "National Anthem",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:green-jacket",
+   "text": "Green Jacket",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:yellow-jersey",
+   "text": "Yellow Jersey",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:heisman-trophy",
+   "text": "Heisman Trophy",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:triple-crown",
+   "text": "Triple Crown",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:grand-prix",
+   "text": "Grand Prix",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:harlem-globetrotters",
+   "text": "Harlem Globetrotters",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:manchester-united",
+   "text": "Manchester United",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:real-madrid",
+   "text": "Real Madrid",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:new-york-yankees",
+   "text": "New York Yankees",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:dallas-cowboys",
+   "text": "Dallas Cowboys",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:los-angeles-lakers",
+   "text": "Los Angeles Lakers",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:boston-red-sox",
+   "text": "Boston Red Sox",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:chicago-bulls",
+   "text": "Chicago Bulls",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:green-bay-packers",
+   "text": "Green Bay Packers",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:golden-state-warriors",
+   "text": "Golden State Warriors",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:michael-jordan",
+   "text": "Michael Jordan",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:serena-williams",
+   "text": "Serena Williams",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:lionel-messi",
+   "text": "Lionel Messi",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cristiano-ronaldo",
+   "text": "Cristiano Ronaldo",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:usain-bolt",
+   "text": "Usain Bolt",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:tiger-woods",
+   "text": "Tiger Woods",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:muhammad-ali",
+   "text": "Muhammad Ali",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:babe-ruth",
+   "text": "Babe Ruth",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tom-brady",
+   "text": "Tom Brady",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:lebron-james",
+   "text": "LeBron James",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:simone-biles",
+   "text": "Simone Biles",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:michael-phelps",
+   "text": "Michael Phelps",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:wayne-gretzky",
+   "text": "Wayne Gretzky",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:roger-federer",
+   "text": "Roger Federer",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:tony-hawk",
+   "text": "Tony Hawk",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:shaquille-o-neal",
+   "text": "Shaquille O'Neal",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sports-commentary",
+   "text": "Sports Commentary",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:post-game-interview",
+   "text": "Post-Game Interview",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:press-conference",
+   "text": "Press Conference",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:victory-parade",
+   "text": "Victory Parade",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:ticker-tape-parade",
+   "text": "Ticker Tape Parade",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:trophy-ceremony",
+   "text": "Trophy Ceremony",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:medal-ceremony",
+   "text": "Medal Ceremony",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:gold-medal-match",
+   "text": "Gold Medal Match",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bronze-medal-match",
+   "text": "Bronze Medal Match",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:qualifying-round",
+   "text": "Qualifying Round",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:group-stage",
+   "text": "Group Stage",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:knockout-stage",
+   "text": "Knockout Stage",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:quarterfinals",
+   "text": "Quarterfinals",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:semifinals",
+   "text": "Semifinals",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:grand-slam-tournament",
+   "text": "Grand Slam Tournament",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:tournament-bracket",
+   "text": "Tournament Bracket",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:bracket-buster",
+   "text": "Bracket Buster",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:cinderella-story",
+   "text": "Cinderella Story",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:underdog-story",
+   "text": "Underdog Story",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:hail-mary-pass",
+   "text": "Hail Mary Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:miracle-on-ice",
+   "text": "Miracle On Ice",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:game-seven",
+   "text": "Game Seven",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:home-run-derby",
+   "text": "Home Run Derby",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:slam-dunk-contest",
+   "text": "Slam Dunk Contest",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pro-bowl",
+   "text": "Pro Bowl",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:monday-night-football",
+   "text": "Monday Night Football",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sunday-football",
+   "text": "Sunday Football",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:thanksgiving-football",
+   "text": "Thanksgiving Football",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:super-bowl-commercial",
+   "text": "Super Bowl Commercial",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:halftime-snack",
+   "text": "Halftime Snack",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:face-paint",
+   "text": "Face Paint",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:team-colors",
+   "text": "Team Colors",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:rally-towel",
+   "text": "Rally Towel",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:rally-cap",
+   "text": "Rally Cap",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:ball-kid",
+   "text": "Ball Kid",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:fan-cam",
+   "text": "Fan Cam",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:sold-out-crowd",
+   "text": "Sold-Out Crowd",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:standing-ovation",
+   "text": "Standing Ovation",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:booing-the-ref",
+   "text": "Booing The Ref",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:instant-classic",
+   "text": "Instant Classic",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:sports-highlight",
+   "text": "Sports Highlight",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:highlight-reel",
+   "text": "Highlight Reel",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:slow-motion-replay",
+   "text": "Slow-Motion Replay",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:video-review",
+   "text": "Video Review",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:bad-call",
+   "text": "Bad Call",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:coach-s-challenge",
+   "text": "Coach's Challenge",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:jersey-number",
+   "text": "Jersey Number",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:starting-lineup",
+   "text": "Starting Lineup",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:injury-time",
+   "text": "Injury Time",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:sports-camp",
+   "text": "Sports Camp",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:swim-team",
+   "text": "Swim Team",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:track-meet",
+   "text": "Track Meet",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:swim-meet",
+   "text": "Swim Meet",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:cross-country-race",
+   "text": "Cross-Country Race",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:gym-teacher",
+   "text": "Gym Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:team-photo",
+   "text": "Team Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:participation-trophy",
+   "text": "Participation Trophy",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:orange-slices",
+   "text": "Orange Slices",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:snack-mom",
+   "text": "Snack Mom",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:soccer-mom",
+   "text": "Soccer Mom",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:hockey-dad",
+   "text": "Hockey Dad",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:team-bonding",
+   "text": "Team Bonding",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:trick-shot",
+   "text": "Trick Shot",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:lucky-socks",
+   "text": "Lucky Socks",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:game-face",
+   "text": "Game Face",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:pregame-ritual",
+   "text": "Pregame Ritual",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:pump-up-song",
+   "text": "Pump-Up Song",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:locker-room-speech",
+   "text": "Locker Room Speech",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:ice-pack",
+   "text": "Ice Pack",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:sports-physical",
+   "text": "Sports Physical",
+   "difficulty": 3
+  },
+  {
+   "id": "sports:tryouts",
+   "text": "Tryouts",
+   "difficulty": 1
+  },
+  {
+   "id": "sports:cut-from-the-team",
+   "text": "Cut From The Team",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:varsity-jacket",
+   "text": "Varsity Jacket",
+   "difficulty": 2
+  },
+  {
+   "id": "sports:letterman-jacket",
+   "text": "Letterman Jacket",
+   "difficulty": 2
+  }
+ ]
+}

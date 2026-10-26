@@ -1,0 +1,1822 @@
+{
+ "id": "awkward-situations",
+ "name": "Awkward Situations",
+ "emoji": "😬",
+ "description": "18+. Cringe, but make it a game.",
+ "tags": [
+  "adult"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "awkward-situations:reply-all",
+   "text": "Reply All",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-name",
+   "text": "Wrong Name",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:meeting-the-parents",
+   "text": "Meeting The Parents",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forgot-to-unmute",
+   "text": "Forgot To Unmute",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:talking-on-mute",
+   "text": "Talking On Mute",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:camera-was-on",
+   "text": "Camera Was On",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:screen-share-fail",
+   "text": "Screen Share Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-tab-open",
+   "text": "Wrong Tab Open",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:texting-the-wrong-person",
+   "text": "Texting The Wrong Person",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:texting-about-them-to-them",
+   "text": "Texting About Them To Them",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:accidental-like-on-old-photo",
+   "text": "Accidental Like On Old Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:liked-their-ex-s-photo",
+   "text": "Liked Their Ex's Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:butt-dial",
+   "text": "Butt Dial",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:pocket-dial",
+   "text": "Pocket Dial",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:voice-note-fail",
+   "text": "Voice Note Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:autocorrect-fail",
+   "text": "Autocorrect Fail",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:typo-in-the-group-chat",
+   "text": "Typo In The Group Chat",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:left-on-read",
+   "text": "Left On Read",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:seen-zoned",
+   "text": "Seen Zoned",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:double-text",
+   "text": "Double Text",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:triple-text",
+   "text": "Triple Text",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:accidental-video-call",
+   "text": "Accidental Video Call",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-email-attachment",
+   "text": "Wrong Email Attachment",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:forgot-the-attachment",
+   "text": "Forgot The Attachment",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:cc-d-the-boss",
+   "text": "CC'd The Boss",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:boss-on-the-elevator",
+   "text": "Boss On The Elevator",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:elevator-small-talk",
+   "text": "Elevator Small Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:elevator-silence",
+   "text": "Elevator Silence",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:holding-the-elevator",
+   "text": "Holding The Elevator",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:falling-asleep-in-a-meeting",
+   "text": "Falling Asleep In A Meeting",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:late-to-the-meeting",
+   "text": "Late To The Meeting",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stomach-growl-in-a-meeting",
+   "text": "Stomach Growl In A Meeting",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:called-teacher-mom",
+   "text": "Called Teacher Mom",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:called-the-boss-dad",
+   "text": "Called The Boss Dad",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:laughing-at-the-wrong-time",
+   "text": "Laughing At The Wrong Time",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:office-fridge-thief",
+   "text": "Office Fridge Thief",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:stolen-lunch",
+   "text": "Stolen Lunch",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:microwave-fish-smell",
+   "text": "Microwave Fish Smell",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:office-birthday-card",
+   "text": "Office Birthday Card",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:secret-santa-fail",
+   "text": "Secret Santa Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:performance-review",
+   "text": "Performance Review",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:getting-fired",
+   "text": "Getting Fired",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:quitting-dramatically",
+   "text": "Quitting Dramatically",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:exit-interview",
+   "text": "Exit Interview",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:two-weeks-notice",
+   "text": "Two Weeks Notice",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:job-interview",
+   "text": "Job Interview",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:firm-handshake",
+   "text": "Firm Handshake",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sweaty-handshake",
+   "text": "Sweaty Handshake",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:dead-fish-handshake",
+   "text": "Dead Fish Handshake",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:limp-handshake",
+   "text": "Limp Handshake",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:hug-or-handshake",
+   "text": "Hug Or Handshake",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:going-in-for-a-hug",
+   "text": "Going In For A Hug",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:accidental-kiss-on-the-cheek",
+   "text": "Accidental Kiss On The Cheek",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:fist-bump-fail",
+   "text": "Fist Bump Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:leaving-someone-hanging",
+   "text": "Leaving Someone Hanging",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:high-five-miss",
+   "text": "High Five Miss",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:waving-at-a-stranger",
+   "text": "Waving At A Stranger",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:waving-back-at-no-one",
+   "text": "Waving Back At No One",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-car-door",
+   "text": "Wrong Car Door",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:pushing-a-pull-door",
+   "text": "Pushing A Pull Door",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:walking-into-glass-door",
+   "text": "Walking Into Glass Door",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:tripping-on-nothing",
+   "text": "Tripping On Nothing",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:missing-a-step",
+   "text": "Missing A Step",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:slipping-on-ice",
+   "text": "Slipping On Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:falling-up-stairs",
+   "text": "Falling Up Stairs",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:walking-into-a-pole",
+   "text": "Walking Into A Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forgot-their-name",
+   "text": "Forgot Their Name",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:name-tag-mix-up",
+   "text": "Name Tag Mix-Up",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:calling-them-your-ex-s-name",
+   "text": "Calling Them Your Ex's Name",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:saying-i-love-you-first",
+   "text": "Saying I Love You First",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:you-too",
+   "text": "You Too",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:saying-goodbye-twice",
+   "text": "Saying Goodbye Twice",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:the-long-goodbye",
+   "text": "The Long Goodbye",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:walking-the-same-way",
+   "text": "Walking The Same Way",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:sidewalk-dance",
+   "text": "Sidewalk Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:awkward-silence",
+   "text": "Awkward Silence",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:uncomfortable-pause",
+   "text": "Uncomfortable Pause",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:small-talk",
+   "text": "Small Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:weather-talk",
+   "text": "Weather Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:nothing-left-to-say",
+   "text": "Nothing Left To Say",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forced-laugh",
+   "text": "Forced Laugh",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:fake-laugh",
+   "text": "Fake Laugh",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:not-getting-the-joke",
+   "text": "Not Getting The Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:explaining-the-joke",
+   "text": "Explaining The Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:joke-falls-flat",
+   "text": "Joke Falls Flat",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:crickets",
+   "text": "Crickets",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:tough-crowd",
+   "text": "Tough Crowd",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:telling-a-story-twice",
+   "text": "Telling A Story Twice",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:mispronouncing-a-word",
+   "text": "Mispronouncing A Word",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-lyrics-out-loud",
+   "text": "Wrong Lyrics Out Loud",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:singing-too-loud",
+   "text": "Singing Too Loud",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:headphones-weren-t-plugged-in",
+   "text": "Headphones Weren't Plugged In",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:loud-sneeze",
+   "text": "Loud Sneeze",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:accidental-snort",
+   "text": "Accidental Snort",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:loud-burp",
+   "text": "Loud Burp",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:hiccups-in-public",
+   "text": "Hiccups In Public",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stomach-growl",
+   "text": "Stomach Growl",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:silent-but-deadly",
+   "text": "Silent But Deadly",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:blaming-the-dog",
+   "text": "Blaming The Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:smelly-shoes",
+   "text": "Smelly Shoes",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:spinach-in-teeth",
+   "text": "Spinach In Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:food-in-teeth",
+   "text": "Food In Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:something-on-your-face",
+   "text": "Something On Your Face",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:toilet-paper-on-shoe",
+   "text": "Toilet Paper On Shoe",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:fly-is-down",
+   "text": "Fly Is Down",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:spilled-coffee-on-shirt",
+   "text": "Spilled Coffee On Shirt",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wardrobe-malfunction",
+   "text": "Wardrobe Malfunction",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:ripped-pants",
+   "text": "Ripped Pants",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:tag-sticking-out",
+   "text": "Tag Sticking Out",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:shirt-inside-out",
+   "text": "Shirt Inside Out",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:same-outfit-as-someone",
+   "text": "Same Outfit As Someone",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:twinning-with-a-stranger",
+   "text": "Twinning With A Stranger",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:overdressed",
+   "text": "Overdressed",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:underdressed",
+   "text": "Underdressed",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-dress-code",
+   "text": "Wrong Dress Code",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sweat-stains",
+   "text": "Sweat Stains",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:pit-stains",
+   "text": "Pit Stains",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bad-breath",
+   "text": "Bad Breath",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bad-haircut",
+   "text": "Bad Haircut",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:unwanted-makeover",
+   "text": "Unwanted Makeover",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:wrong-pronunciation",
+   "text": "Wrong Pronunciation",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:when-s-the-baby-due",
+   "text": "When's The Baby Due",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:forgetting-a-birthday",
+   "text": "Forgetting A Birthday",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:regifting",
+   "text": "Regifting",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:regifting-to-the-giver",
+   "text": "Regifting To The Giver",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:opening-a-bad-gift",
+   "text": "Opening A Bad Gift",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:fake-gift-reaction",
+   "text": "Fake Gift Reaction",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:i-love-it-face",
+   "text": "I Love It Face",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:gift-receipt",
+   "text": "Gift Receipt",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:splitting-the-bill",
+   "text": "Splitting The Bill",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:who-pays",
+   "text": "Who Pays",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:card-declined",
+   "text": "Card Declined",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forgot-your-wallet",
+   "text": "Forgot Your Wallet",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:venmo-request",
+   "text": "Venmo Request",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:tipping-confusion",
+   "text": "Tipping Confusion",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sending-food-back",
+   "text": "Sending Food Back",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-order",
+   "text": "Wrong Order",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:spelled-name-wrong-on-cup",
+   "text": "Spelled Name Wrong On Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:you-too-to-the-waiter",
+   "text": "You Too To The Waiter",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:running-into-your-teacher",
+   "text": "Running Into Your Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:running-into-your-ex",
+   "text": "Running Into Your Ex",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:seeing-your-therapist-in-public",
+   "text": "Seeing Your Therapist In Public",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:pretending-not-to-see-someone",
+   "text": "Pretending Not To See Someone",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:hiding-behind-a-shelf",
+   "text": "Hiding Behind A Shelf",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:fake-phone-call",
+   "text": "Fake Phone Call",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:pretending-to-text",
+   "text": "Pretending To Text",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:overhearing-gossip-about-you",
+   "text": "Overhearing Gossip About You",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:talking-behind-their-back",
+   "text": "Talking Behind Their Back",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:they-heard-everything",
+   "text": "They Heard Everything",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-staring",
+   "text": "Caught Staring",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-singing-in-the-car",
+   "text": "Caught Singing In The Car",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-talking-to-yourself",
+   "text": "Caught Talking To Yourself",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-picking-your-nose",
+   "text": "Caught Picking Your Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-snooping",
+   "text": "Caught Snooping",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-lying",
+   "text": "Caught Lying",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-napping",
+   "text": "Caught Napping",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-dancing-alone",
+   "text": "Caught Dancing Alone",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-taking-selfies",
+   "text": "Caught Taking Selfies",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:caught-stalking-their-profile",
+   "text": "Caught Stalking Their Profile",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:meeting-the-in-laws",
+   "text": "Meeting The In-Laws",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:family-group-chat",
+   "text": "Family Group Chat",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:mom-joined-facebook",
+   "text": "Mom Joined Facebook",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:dad-joke",
+   "text": "Dad Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:embarrassing-baby-photos",
+   "text": "Embarrassing Baby Photos",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:baby-photo-slideshow",
+   "text": "Baby Photo Slideshow",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:parents-walk-in",
+   "text": "Parents Walk In",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:knock-knock-too-late",
+   "text": "Knock Knock Too Late",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:bathroom-lock-broken",
+   "text": "Bathroom Lock Broken",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:no-toilet-paper",
+   "text": "No Toilet Paper",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:clogged-toilet",
+   "text": "Clogged Toilet",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:clogging-a-friend-s-toilet",
+   "text": "Clogging A Friend's Toilet",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:running-water-to-cover-sounds",
+   "text": "Running Water To Cover Sounds",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:thin-walls",
+   "text": "Thin Walls",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:loud-neighbors",
+   "text": "Loud Neighbors",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:neighbors-heard-everything",
+   "text": "Neighbors Heard Everything",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:roommate-s-partner-moved-in",
+   "text": "Roommate's Partner Moved In",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:roommate-ate-your-food",
+   "text": "Roommate Ate Your Food",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:dirty-dishes-standoff",
+   "text": "Dirty Dishes Standoff",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:passive-aggressive-note",
+   "text": "Passive-Aggressive Note",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:thanksgiving-politics",
+   "text": "Thanksgiving Politics",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:family-dinner-debate",
+   "text": "Family Dinner Debate",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:cousin-you-don-t-remember",
+   "text": "Cousin You Don't Remember",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:aunt-asking-when-you-ll-marry",
+   "text": "Aunt Asking When You'll Marry",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:so-are-you-seeing-anyone",
+   "text": "So Are You Seeing Anyone",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:kids-table",
+   "text": "Kids' Table",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:grandma-swiping-right",
+   "text": "Grandma Swiping Right",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:parents-being-cute",
+   "text": "Parents Being Cute",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:hearing-your-parents-flirt",
+   "text": "Hearing Your Parents Flirt",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:the-talk",
+   "text": "The Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:birds-and-bees-talk",
+   "text": "Birds And Bees Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:puberty-video",
+   "text": "Puberty Video",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:voice-cracking",
+   "text": "Voice Cracking",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:braces-selfie",
+   "text": "Braces Selfie",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:middle-school-photo",
+   "text": "Middle School Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:old-facebook-posts",
+   "text": "Old Facebook Posts",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:emo-phase",
+   "text": "Emo Phase",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:cringe-poetry",
+   "text": "Cringe Poetry",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:old-diary-found",
+   "text": "Old Diary Found",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:childhood-crush-reunion",
+   "text": "Childhood Crush Reunion",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:high-school-reunion",
+   "text": "High School Reunion",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:who-are-you-again",
+   "text": "Who Are You Again",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:kid-says-something-embarrassing",
+   "text": "Kid Says Something Embarrassing",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:kid-repeats-a-swear-word",
+   "text": "Kid Repeats A Swear Word",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:dog-sniffing-a-guest",
+   "text": "Dog Sniffing A Guest",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:cat-on-the-keyboard",
+   "text": "Cat On The Keyboard",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:toddler-on-video-call",
+   "text": "Toddler On Video Call",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:house-guest-overstays",
+   "text": "House Guest Overstays",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:unexpected-visitor",
+   "text": "Unexpected Visitor",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:messy-house-panic",
+   "text": "Messy House Panic",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:shoving-mess-in-closet",
+   "text": "Shoving Mess In Closet",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:hiding-from-the-doorbell",
+   "text": "Hiding From The Doorbell",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:door-to-door-salesman",
+   "text": "Door-To-Door Salesman",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:accidental-wink",
+   "text": "Accidental Wink",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:waving-at-someone-behind-you",
+   "text": "Waving At Someone Behind You",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:mistaking-kindness-for-flirting",
+   "text": "Mistaking Kindness For Flirting",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:getting-friend-zoned",
+   "text": "Getting Friend-Zoned",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:friend-zone",
+   "text": "Friend Zone",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bumping-teeth",
+   "text": "Bumping Teeth",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:bad-kiss",
+   "text": "Bad Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:nose-bump-kiss",
+   "text": "Nose Bump Kiss",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:kiss-goodnight-fail",
+   "text": "Kiss Goodnight Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:lean-in-for-a-kiss",
+   "text": "Lean In For A Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:getting-the-cheek",
+   "text": "Getting The Cheek",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sneezing-on-your-date",
+   "text": "Sneezing On Your Date",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:spilling-on-your-date",
+   "text": "Spilling On Your Date",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:date-brings-their-mom",
+   "text": "Date Brings Their Mom",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:running-into-your-date-s-ex",
+   "text": "Running Into Your Date's Ex",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:date-is-a-coworker",
+   "text": "Date Is A Coworker",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:ex-at-the-wedding",
+   "text": "Ex At The Wedding",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:ex-s-new-partner",
+   "text": "Ex's New Partner",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:ex-is-hotter-now",
+   "text": "Ex Is Hotter Now",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:your-ex-on-the-app",
+   "text": "Your Ex On The App",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:matching-with-a-coworker",
+   "text": "Matching With A Coworker",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:proposal-gets-rejected",
+   "text": "Proposal Gets Rejected",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:jumbotron-proposal",
+   "text": "Jumbotron Proposal",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:kiss-cam-fail",
+   "text": "Kiss Cam Fail",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-person-on-kiss-cam",
+   "text": "Wrong Person On Kiss Cam",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:overly-public-breakup",
+   "text": "Overly Public Breakup",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:breakup-over-text",
+   "text": "Breakup Over Text",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:breaking-up-in-public",
+   "text": "Breaking Up In Public",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:dumped-at-dinner",
+   "text": "Dumped At Dinner",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:third-wheeling",
+   "text": "Third Wheeling",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:couples-fighting-at-dinner",
+   "text": "Couples Fighting At Dinner",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:too-much-pda",
+   "text": "Too Much PDA",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:couple-baby-talk",
+   "text": "Couple Baby Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:pet-names-in-public",
+   "text": "Pet Names In Public",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-valentine",
+   "text": "Wrong Valentine",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:love-note-to-wrong-person",
+   "text": "Love Note To Wrong Person",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:drunk-confession",
+   "text": "Drunk Confession",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:oversharing",
+   "text": "Oversharing",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:tmi",
+   "text": "TMI",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:too-much-information",
+   "text": "Too Much Information",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:telling-your-life-story",
+   "text": "Telling Your Life Story",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:trauma-dumping",
+   "text": "Trauma Dumping",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:crying-at-work",
+   "text": "Crying At Work",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:crying-in-public",
+   "text": "Crying In Public",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:ugly-crying",
+   "text": "Ugly Crying",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:crying-at-a-commercial",
+   "text": "Crying At A Commercial",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:crying-at-a-kids-movie",
+   "text": "Crying At A Kids' Movie",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:stuck-in-an-elevator",
+   "text": "Stuck In An Elevator",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stuck-in-a-revolving-door",
+   "text": "Stuck In A Revolving Door",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:assigned-seat-taken",
+   "text": "Assigned Seat Taken",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:middle-seat",
+   "text": "Middle Seat",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:armrest-battle",
+   "text": "Armrest Battle",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:seat-recliner",
+   "text": "Seat Recliner",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:seatmate-small-talk",
+   "text": "Seatmate Small Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:snoring-on-a-plane",
+   "text": "Snoring On A Plane",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:drooling-on-a-stranger",
+   "text": "Drooling On A Stranger",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:falling-asleep-on-a-stranger",
+   "text": "Falling Asleep On A Stranger",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:crying-baby-on-the-plane",
+   "text": "Crying Baby On The Plane",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:kicking-your-seat",
+   "text": "Kicking Your Seat",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:lost-luggage",
+   "text": "Lost Luggage",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:pat-down",
+   "text": "Pat-Down",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:bag-search",
+   "text": "Bag Search",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:beeping-at-security",
+   "text": "Beeping At Security",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:shoes-off-at-security",
+   "text": "Shoes Off At Security",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:public-restroom-small-talk",
+   "text": "Public Restroom Small Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:urinal-eye-contact",
+   "text": "Urinal Eye Contact",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:stall-next-to-your-boss",
+   "text": "Stall Next To Your Boss",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:automatic-toilet-flush",
+   "text": "Automatic Toilet Flush",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:hand-dryer-too-loud",
+   "text": "Hand Dryer Too Loud",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:gym-grunting",
+   "text": "Gym Grunting",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:gym-mirror-selfie",
+   "text": "Gym Mirror Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:locker-room-small-talk",
+   "text": "Locker Room Small Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sweaty-gym-machine",
+   "text": "Sweaty Gym Machine",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:walking-into-the-wrong-class",
+   "text": "Walking Into The Wrong Class",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:walking-into-the-wrong-bathroom",
+   "text": "Walking Into The Wrong Bathroom",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-party",
+   "text": "Wrong Party",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:crashing-the-wrong-wedding",
+   "text": "Crashing The Wrong Wedding",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:sitting-in-someone-s-seat",
+   "text": "Sitting In Someone's Seat",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:cutting-in-line",
+   "text": "Cutting In Line",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:accidentally-cutting-in-line",
+   "text": "Accidentally Cutting In Line",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-line",
+   "text": "Wrong Line",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:self-checkout-error",
+   "text": "Self-Checkout Error",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:unexpected-item-in-bagging-area",
+   "text": "Unexpected Item In Bagging Area",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:price-check-on-aisle-five",
+   "text": "Price Check On Aisle Five",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:forgot-your-pin",
+   "text": "Forgot Your PIN",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:embarrassing-purchase",
+   "text": "Embarrassing Purchase",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:cashier-you-know",
+   "text": "Cashier You Know",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:pronouncing-bruschetta",
+   "text": "Pronouncing Bruschetta",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:saying-expresso",
+   "text": "Saying Expresso",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:mispronouncing-the-menu",
+   "text": "Mispronouncing The Menu",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-gate",
+   "text": "Wrong Gate",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:missed-your-stop",
+   "text": "Missed Your Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:ran-for-the-bus",
+   "text": "Ran For The Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bus-driver-didn-t-stop",
+   "text": "Bus Driver Didn't Stop",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:waving-down-the-wrong-taxi",
+   "text": "Waving Down The Wrong Taxi",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:getting-in-a-stranger-s-uber",
+   "text": "Getting In A Stranger's Uber",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:parallel-parking-with-audience",
+   "text": "Parallel Parking With Audience",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stalled-car",
+   "text": "Stalled Car",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:honking-by-accident",
+   "text": "Honking By Accident",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:clapping-when-the-plane-lands",
+   "text": "Clapping When The Plane Lands",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stranger-asks-for-a-photo",
+   "text": "Stranger Asks For A Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:photobombed",
+   "text": "Photobombed",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:background-of-a-selfie",
+   "text": "Background Of A Selfie",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:bad-passport-photo",
+   "text": "Bad Passport Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bad-id-photo",
+   "text": "Bad ID Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:unflattering-tagged-photo",
+   "text": "Unflattering Tagged Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:mugshot-face",
+   "text": "Mugshot Face",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:mistaken-for-a-celebrity",
+   "text": "Mistaken For A Celebrity",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:mistaken-for-an-employee",
+   "text": "Mistaken For An Employee",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:mistaken-for-a-waiter",
+   "text": "Mistaken For A Waiter",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:wrong-room-at-a-hotel",
+   "text": "Wrong Room At A Hotel",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:hotel-room-key-fail",
+   "text": "Hotel Room Key Fail",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:locked-out-in-a-towel",
+   "text": "Locked Out In A Towel",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:housekeeping-walks-in",
+   "text": "Housekeeping Walks In",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:do-not-disturb-sign",
+   "text": "Do Not Disturb Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:speech-goes-too-long",
+   "text": "Speech Goes Too Long",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:bad-wedding-toast",
+   "text": "Bad Wedding Toast",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:mic-feedback",
+   "text": "Mic Feedback",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forgot-your-lines",
+   "text": "Forgot Your Lines",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:blanking-on-stage",
+   "text": "Blanking On Stage",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:stage-fright",
+   "text": "Stage Fright",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:speech-notes-blew-away",
+   "text": "Speech Notes Blew Away",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:clapping-at-the-wrong-time",
+   "text": "Clapping At The Wrong Time",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:standing-ovation-alone",
+   "text": "Standing Ovation Alone",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:only-one-clapping",
+   "text": "Only One Clapping",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:arriving-too-early",
+   "text": "Arriving Too Early",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:arriving-way-too-late",
+   "text": "Arriving Way Too Late",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:wrong-day",
+   "text": "Wrong Day",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:fashionably-late",
+   "text": "Fashionably Late",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:first-to-arrive",
+   "text": "First To Arrive",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:last-to-leave",
+   "text": "Last To Leave",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:didn-t-get-the-memo",
+   "text": "Didn't Get The Memo",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:showing-up-in-a-costume",
+   "text": "Showing Up In A Costume",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:nobody-else-dressed-up",
+   "text": "Nobody Else Dressed Up",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:forgot-your-phone-was-recording",
+   "text": "Forgot Your Phone Was Recording",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:sneeze-while-driving",
+   "text": "Sneeze While Driving",
+   "difficulty": 3
+  },
+  {
+   "id": "awkward-situations:brain-freeze",
+   "text": "Brain Freeze",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:brain-fart",
+   "text": "Brain Fart",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:senior-moment",
+   "text": "Senior Moment",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:mansplaining",
+   "text": "Mansplaining",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:unsolicited-advice",
+   "text": "Unsolicited Advice",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:nobody-asked",
+   "text": "Nobody Asked",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:humblebrag",
+   "text": "Humblebrag",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:name-dropping",
+   "text": "Name Dropping",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:one-upping",
+   "text": "One-Upping",
+   "difficulty": 1
+  },
+  {
+   "id": "awkward-situations:reply-guy",
+   "text": "Reply Guy",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:linkedin-cringe",
+   "text": "LinkedIn Cringe",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:influencer-in-the-wild",
+   "text": "Influencer In The Wild",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:doing-a-dance-trend",
+   "text": "Doing A Dance Trend",
+   "difficulty": 2
+  },
+  {
+   "id": "awkward-situations:dancing-alone-at-a-party",
+   "text": "Dancing Alone At A Party",
+   "difficulty": 1
+  }
+ ]
+}

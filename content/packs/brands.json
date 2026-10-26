@@ -1,0 +1,2767 @@
+{
+ "id": "brands",
+ "name": "Brands",
+ "emoji": "🏷️",
+ "description": "Logos you could draw from memory.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "brands:apple",
+   "text": "Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:iphone",
+   "text": "iPhone",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ipad",
+   "text": "iPad",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:macbook",
+   "text": "MacBook",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:airpods",
+   "text": "AirPods",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:apple-watch",
+   "text": "Apple Watch",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:itunes",
+   "text": "iTunes",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:siri",
+   "text": "Siri",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:samsung",
+   "text": "Samsung",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:galaxy-phone",
+   "text": "Galaxy Phone",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:google",
+   "text": "Google",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:google-maps",
+   "text": "Google Maps",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:gmail",
+   "text": "Gmail",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:youtube",
+   "text": "YouTube",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:android",
+   "text": "Android",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chrome",
+   "text": "Chrome",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:microsoft",
+   "text": "Microsoft",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:windows",
+   "text": "Windows",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:xbox",
+   "text": "Xbox",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:excel",
+   "text": "Excel",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:powerpoint",
+   "text": "PowerPoint",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:microsoft-word",
+   "text": "Microsoft Word",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:sony",
+   "text": "Sony",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:playstation",
+   "text": "PlayStation",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:nintendo",
+   "text": "Nintendo",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:nintendo-switch",
+   "text": "Nintendo Switch",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:wii",
+   "text": "Wii",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:amazon",
+   "text": "Amazon",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:alexa",
+   "text": "Alexa",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kindle",
+   "text": "Kindle",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:prime-video",
+   "text": "Prime Video",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:netflix",
+   "text": "Netflix",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:disney-plus",
+   "text": "Disney Plus",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:spotify",
+   "text": "Spotify",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:facebook",
+   "text": "Facebook",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:instagram",
+   "text": "Instagram",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:whatsapp",
+   "text": "WhatsApp",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tiktok",
+   "text": "TikTok",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:snapchat",
+   "text": "Snapchat",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:twitter",
+   "text": "Twitter",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:linkedin",
+   "text": "LinkedIn",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:pinterest",
+   "text": "Pinterest",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:reddit",
+   "text": "Reddit",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:zoom",
+   "text": "Zoom",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:skype",
+   "text": "Skype",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:uber",
+   "text": "Uber",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:airbnb",
+   "text": "Airbnb",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:paypal",
+   "text": "PayPal",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ebay",
+   "text": "eBay",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tesla",
+   "text": "Tesla",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:intel",
+   "text": "Intel",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:dell",
+   "text": "Dell",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hp",
+   "text": "HP",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lenovo",
+   "text": "Lenovo",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:canon",
+   "text": "Canon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nikon",
+   "text": "Nikon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:gopro",
+   "text": "GoPro",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:polaroid",
+   "text": "Polaroid",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kodak",
+   "text": "Kodak",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fitbit",
+   "text": "Fitbit",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bose",
+   "text": "Bose",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:beats-headphones",
+   "text": "Beats Headphones",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jbl",
+   "text": "JBL",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:panasonic",
+   "text": "Panasonic",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lg",
+   "text": "LG",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:philips",
+   "text": "Philips",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:dyson",
+   "text": "Dyson",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:roomba",
+   "text": "Roomba",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:nokia",
+   "text": "Nokia",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:motorola",
+   "text": "Motorola",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:huawei",
+   "text": "Huawei",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:xiaomi",
+   "text": "Xiaomi",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:garmin",
+   "text": "Garmin",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:duracell",
+   "text": "Duracell",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:energizer-bunny",
+   "text": "Energizer Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:post-it-note",
+   "text": "Post-it Note",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:sharpie",
+   "text": "Sharpie",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:scotch-tape",
+   "text": "Scotch Tape",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:bic-pen",
+   "text": "Bic Pen",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:crayola",
+   "text": "Crayola",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:wikipedia",
+   "text": "Wikipedia",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:yahoo",
+   "text": "Yahoo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bing",
+   "text": "Bing",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:chatgpt",
+   "text": "ChatGPT",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:discord",
+   "text": "Discord",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:twitch",
+   "text": "Twitch",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:shazam",
+   "text": "Shazam",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:duolingo",
+   "text": "Duolingo",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:candy-crush",
+   "text": "Candy Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:angry-birds",
+   "text": "Angry Birds",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:minecraft",
+   "text": "Minecraft",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:fortnite",
+   "text": "Fortnite",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pokemon",
+   "text": "Pokemon",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tetris",
+   "text": "Tetris",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pac-man",
+   "text": "Pac-Man",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:super-mario",
+   "text": "Super Mario",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:sonic-the-hedgehog",
+   "text": "Sonic The Hedgehog",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:roblox",
+   "text": "Roblox",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:uber-eats",
+   "text": "Uber Eats",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:doordash",
+   "text": "DoorDash",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:venmo",
+   "text": "Venmo",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:visa",
+   "text": "Visa",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mastercard",
+   "text": "Mastercard",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:american-express",
+   "text": "American Express",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:dropbox",
+   "text": "Dropbox",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:photoshop",
+   "text": "Photoshop",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:adobe",
+   "text": "Adobe",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:zara",
+   "text": "Zara",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:shopify",
+   "text": "Shopify",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:etsy",
+   "text": "Etsy",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:waze",
+   "text": "Waze",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:google-translate",
+   "text": "Google Translate",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:facetime",
+   "text": "FaceTime",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:apple-pay",
+   "text": "Apple Pay",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bluetooth",
+   "text": "Bluetooth",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:wi-fi",
+   "text": "Wi-Fi",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:usb-stick",
+   "text": "USB Stick",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nest-thermostat",
+   "text": "Nest Thermostat",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:ring-doorbell",
+   "text": "Ring Doorbell",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:echo-dot",
+   "text": "Echo Dot",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:instant-pot",
+   "text": "Instant Pot",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:vitamix",
+   "text": "Vitamix",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:kitchenaid",
+   "text": "KitchenAid",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:tupperware",
+   "text": "Tupperware",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ziploc-bag",
+   "text": "Ziploc Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pyrex",
+   "text": "Pyrex",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:keurig",
+   "text": "Keurig",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nespresso",
+   "text": "Nespresso",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:coca-cola",
+   "text": "Coca-Cola",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pepsi",
+   "text": "Pepsi",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:sprite",
+   "text": "Sprite",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:fanta",
+   "text": "Fanta",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:dr-pepper",
+   "text": "Dr Pepper",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mountain-dew",
+   "text": "Mountain Dew",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:7-up",
+   "text": "7 Up",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:red-bull",
+   "text": "Red Bull",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:gatorade",
+   "text": "Gatorade",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:monster-energy",
+   "text": "Monster Energy",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:starbucks",
+   "text": "Starbucks",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:dunkin",
+   "text": "Dunkin'",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mcdonald-s",
+   "text": "McDonald's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:big-mac",
+   "text": "Big Mac",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:happy-meal",
+   "text": "Happy Meal",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:burger-king",
+   "text": "Burger King",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:whopper",
+   "text": "Whopper",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kfc",
+   "text": "KFC",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:subway",
+   "text": "Subway",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pizza-hut",
+   "text": "Pizza Hut",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:domino-s",
+   "text": "Domino's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:taco-bell",
+   "text": "Taco Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:wendy-s",
+   "text": "Wendy's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chipotle",
+   "text": "Chipotle",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:five-guys",
+   "text": "Five Guys",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:in-n-out",
+   "text": "In-N-Out",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:shake-shack",
+   "text": "Shake Shack",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:dairy-queen",
+   "text": "Dairy Queen",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:krispy-kreme",
+   "text": "Krispy Kreme",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:tim-hortons",
+   "text": "Tim Hortons",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:chick-fil-a",
+   "text": "Chick-fil-A",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:popeyes",
+   "text": "Popeyes",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:panda-express",
+   "text": "Panda Express",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:papa-john-s",
+   "text": "Papa John's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:baskin-robbins",
+   "text": "Baskin-Robbins",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ben-and-jerry-s",
+   "text": "Ben & Jerry's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:haagen-dazs",
+   "text": "Haagen-Dazs",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:magnum-ice-cream",
+   "text": "Magnum Ice Cream",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nutella",
+   "text": "Nutella",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:oreo",
+   "text": "Oreo",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kit-kat",
+   "text": "Kit Kat",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:snickers",
+   "text": "Snickers",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:m-and-m-s",
+   "text": "M&M's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:twix",
+   "text": "Twix",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mars-bar",
+   "text": "Mars Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:milky-way",
+   "text": "Milky Way",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:toblerone",
+   "text": "Toblerone",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ferrero-rocher",
+   "text": "Ferrero Rocher",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kinder-egg",
+   "text": "Kinder Egg",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kinder-surprise",
+   "text": "Kinder Surprise",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cadbury",
+   "text": "Cadbury",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hershey-s",
+   "text": "Hershey's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:reese-s",
+   "text": "Reese's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:skittles",
+   "text": "Skittles",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:starburst",
+   "text": "Starburst",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:haribo",
+   "text": "Haribo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:gummy-bears",
+   "text": "Gummy Bears",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:jelly-belly",
+   "text": "Jelly Belly",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:tic-tac",
+   "text": "Tic Tac",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mentos",
+   "text": "Mentos",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pez",
+   "text": "Pez",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:chupa-chups",
+   "text": "Chupa Chups",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:pringles",
+   "text": "Pringles",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:doritos",
+   "text": "Doritos",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:cheetos",
+   "text": "Cheetos",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:lay-s",
+   "text": "Lay's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ruffles",
+   "text": "Ruffles",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:goldfish-crackers",
+   "text": "Goldfish Crackers",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ritz-crackers",
+   "text": "Ritz Crackers",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cheerios",
+   "text": "Cheerios",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:froot-loops",
+   "text": "Froot Loops",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:frosted-flakes",
+   "text": "Frosted Flakes",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:corn-flakes",
+   "text": "Corn Flakes",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:lucky-charms",
+   "text": "Lucky Charms",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:rice-krispies",
+   "text": "Rice Krispies",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kellogg-s",
+   "text": "Kellogg's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pop-tarts",
+   "text": "Pop-Tarts",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:eggo-waffles",
+   "text": "Eggo Waffles",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:heinz-ketchup",
+   "text": "Heinz Ketchup",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tabasco",
+   "text": "Tabasco",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:sriracha",
+   "text": "Sriracha",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kraft-mac-and-cheese",
+   "text": "Kraft Mac And Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:campbell-s-soup",
+   "text": "Campbell's Soup",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:spam",
+   "text": "SPAM",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hot-pockets",
+   "text": "Hot Pockets",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jell-o",
+   "text": "Jell-O",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kool-aid",
+   "text": "Kool-Aid",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:capri-sun",
+   "text": "Capri Sun",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tropicana",
+   "text": "Tropicana",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:minute-maid",
+   "text": "Minute Maid",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lipton-tea",
+   "text": "Lipton Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nescafe",
+   "text": "Nescafe",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nesquik",
+   "text": "Nesquik",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ovaltine",
+   "text": "Ovaltine",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:milo",
+   "text": "Milo",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:evian",
+   "text": "Evian",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:perrier",
+   "text": "Perrier",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:san-pellegrino",
+   "text": "San Pellegrino",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:vitaminwater",
+   "text": "Vitaminwater",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:snapple",
+   "text": "Snapple",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:arizona-iced-tea",
+   "text": "Arizona Iced Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:coke-zero",
+   "text": "Coke Zero",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:diet-coke",
+   "text": "Diet Coke",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pepsi-max",
+   "text": "Pepsi Max",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:frappuccino",
+   "text": "Frappuccino",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:pumpkin-spice-latte",
+   "text": "Pumpkin Spice Latte",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mcflurry",
+   "text": "McFlurry",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chicken-mcnuggets",
+   "text": "Chicken McNuggets",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:egg-mcmuffin",
+   "text": "Egg McMuffin",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:filet-o-fish",
+   "text": "Filet-O-Fish",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:frosty",
+   "text": "Frosty",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:blizzard",
+   "text": "Blizzard",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:baconator",
+   "text": "Baconator",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:crunchwrap",
+   "text": "Crunchwrap",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:doritos-locos-taco",
+   "text": "Doritos Locos Taco",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:stuffed-crust-pizza",
+   "text": "Stuffed Crust Pizza",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:twinkie",
+   "text": "Twinkie",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:hostess-cupcake",
+   "text": "Hostess Cupcake",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cool-whip",
+   "text": "Cool Whip",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:philadelphia-cream-cheese",
+   "text": "Philadelphia Cream Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:velveeta",
+   "text": "Velveeta",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kraft-singles",
+   "text": "Kraft Singles",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:oscar-mayer",
+   "text": "Oscar Mayer",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:quaker-oats",
+   "text": "Quaker Oats",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nature-valley",
+   "text": "Nature Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:clif-bar",
+   "text": "Clif Bar",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:hellmann-s-mayo",
+   "text": "Hellmann's Mayo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kikkoman",
+   "text": "Kikkoman",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:maggi",
+   "text": "Maggi",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:knorr",
+   "text": "Knorr",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:lindt",
+   "text": "Lindt",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:godiva",
+   "text": "Godiva",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:werther-s-original",
+   "text": "Werther's Original",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:life-savers",
+   "text": "Life Savers",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:airheads",
+   "text": "Airheads",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:sour-patch-kids",
+   "text": "Sour Patch Kids",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:swedish-fish",
+   "text": "Swedish Fish",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:twizzlers",
+   "text": "Twizzlers",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nerds",
+   "text": "Nerds",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:warheads",
+   "text": "Warheads",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jolly-rancher",
+   "text": "Jolly Rancher",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hubba-bubba",
+   "text": "Hubba Bubba",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:trident-gum",
+   "text": "Trident Gum",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:wrigley-s",
+   "text": "Wrigley's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:altoids",
+   "text": "Altoids",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fruit-roll-ups",
+   "text": "Fruit Roll-Ups",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:cheez-it",
+   "text": "Cheez-It",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:chips-ahoy",
+   "text": "Chips Ahoy",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fig-newtons",
+   "text": "Fig Newtons",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cinnabon",
+   "text": "Cinnabon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:wonder-bread",
+   "text": "Wonder Bread",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nike",
+   "text": "Nike",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:adidas",
+   "text": "Adidas",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:puma",
+   "text": "Puma",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:reebok",
+   "text": "Reebok",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:under-armour",
+   "text": "Under Armour",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:new-balance",
+   "text": "New Balance",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:converse",
+   "text": "Converse",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:vans",
+   "text": "Vans",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:crocs",
+   "text": "Crocs",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:birkenstock",
+   "text": "Birkenstock",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:dr-martens",
+   "text": "Dr. Martens",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:timberland",
+   "text": "Timberland",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ugg-boots",
+   "text": "UGG Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:air-jordans",
+   "text": "Air Jordans",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:levi-s",
+   "text": "Levi's",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:gap",
+   "text": "Gap",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:h-and-m",
+   "text": "H&M",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:uniqlo",
+   "text": "Uniqlo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:gucci",
+   "text": "Gucci",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:prada",
+   "text": "Prada",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:louis-vuitton",
+   "text": "Louis Vuitton",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chanel",
+   "text": "Chanel",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:versace",
+   "text": "Versace",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:armani",
+   "text": "Armani",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hermes",
+   "text": "Hermes",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:dior",
+   "text": "Dior",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:burberry",
+   "text": "Burberry",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:rolex",
+   "text": "Rolex",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tiffany-and-co",
+   "text": "Tiffany & Co",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ray-ban",
+   "text": "Ray-Ban",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:oakley",
+   "text": "Oakley",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:calvin-klein",
+   "text": "Calvin Klein",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:tommy-hilfiger",
+   "text": "Tommy Hilfiger",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ralph-lauren",
+   "text": "Ralph Lauren",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lacoste",
+   "text": "Lacoste",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:the-north-face",
+   "text": "The North Face",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:patagonia",
+   "text": "Patagonia",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lululemon",
+   "text": "Lululemon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fruit-of-the-loom",
+   "text": "Fruit Of The Loom",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:supreme",
+   "text": "Supreme",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:swatch",
+   "text": "Swatch",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:casio",
+   "text": "Casio",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:swarovski",
+   "text": "Swarovski",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:l-oreal",
+   "text": "L'Oreal",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:maybelline",
+   "text": "Maybelline",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mac-cosmetics",
+   "text": "MAC Cosmetics",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:revlon",
+   "text": "Revlon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:sephora",
+   "text": "Sephora",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nivea",
+   "text": "Nivea",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:dove",
+   "text": "Dove",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:olay",
+   "text": "Olay",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:neutrogena",
+   "text": "Neutrogena",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:clinique",
+   "text": "Clinique",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:estee-lauder",
+   "text": "Estee Lauder",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:chapstick",
+   "text": "Chapstick",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:vaseline",
+   "text": "Vaseline",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:old-spice",
+   "text": "Old Spice",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:axe-body-spray",
+   "text": "Axe Body Spray",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:gillette",
+   "text": "Gillette",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:head-and-shoulders",
+   "text": "Head & Shoulders",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pantene",
+   "text": "Pantene",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:colgate",
+   "text": "Colgate",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:crest",
+   "text": "Crest",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:listerine",
+   "text": "Listerine",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:q-tips",
+   "text": "Q-tips",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:band-aid",
+   "text": "Band-Aid",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:kleenex",
+   "text": "Kleenex",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tylenol",
+   "text": "Tylenol",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:advil",
+   "text": "Advil",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:purell",
+   "text": "Purell",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:pampers",
+   "text": "Pampers",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:huggies",
+   "text": "Huggies",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:charmin",
+   "text": "Charmin",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bounty",
+   "text": "Bounty",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:tide-pods",
+   "text": "Tide Pods",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:clorox",
+   "text": "Clorox",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:lysol",
+   "text": "Lysol",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:windex",
+   "text": "Windex",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:febreze",
+   "text": "Febreze",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mr-clean",
+   "text": "Mr. Clean",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:swiffer",
+   "text": "Swiffer",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:wd-40",
+   "text": "WD-40",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:duct-tape",
+   "text": "Duct Tape",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:velcro",
+   "text": "Velcro",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:bubble-wrap",
+   "text": "Bubble Wrap",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:super-glue",
+   "text": "Super Glue",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:walmart",
+   "text": "Walmart",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:target",
+   "text": "Target",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:costco",
+   "text": "Costco",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ikea",
+   "text": "IKEA",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:home-depot",
+   "text": "Home Depot",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:best-buy",
+   "text": "Best Buy",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:7-eleven",
+   "text": "7-Eleven",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:toys-r-us",
+   "text": "Toys R Us",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:gamestop",
+   "text": "GameStop",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:apple-store",
+   "text": "Apple Store",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:disney-store",
+   "text": "Disney Store",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:build-a-bear",
+   "text": "Build-A-Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:barnes-and-noble",
+   "text": "Barnes & Noble",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:whole-foods",
+   "text": "Whole Foods",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:trader-joe-s",
+   "text": "Trader Joe's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:aldi",
+   "text": "Aldi",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cvs",
+   "text": "CVS",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:walgreens",
+   "text": "Walgreens",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:macy-s",
+   "text": "Macy's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:old-navy",
+   "text": "Old Navy",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:forever-21",
+   "text": "Forever 21",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:abercrombie",
+   "text": "Abercrombie",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:american-eagle",
+   "text": "American Eagle",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hollister",
+   "text": "Hollister",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:foot-locker",
+   "text": "Foot Locker",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:claire-s",
+   "text": "Claire's",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bath-and-body-works",
+   "text": "Bath & Body Works",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:yankee-candle",
+   "text": "Yankee Candle",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hallmark",
+   "text": "Hallmark",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fedex",
+   "text": "FedEx",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ups",
+   "text": "UPS",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:dhl",
+   "text": "DHL",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:shell",
+   "text": "Shell",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:michelin-man",
+   "text": "Michelin Man",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:goodyear-blimp",
+   "text": "Goodyear Blimp",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:toyota",
+   "text": "Toyota",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:honda",
+   "text": "Honda",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ford",
+   "text": "Ford",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chevrolet",
+   "text": "Chevrolet",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:bmw",
+   "text": "BMW",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mercedes-benz",
+   "text": "Mercedes-Benz",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:audi",
+   "text": "Audi",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:volkswagen",
+   "text": "Volkswagen",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:vw-beetle",
+   "text": "VW Beetle",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:porsche",
+   "text": "Porsche",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ferrari",
+   "text": "Ferrari",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:lamborghini",
+   "text": "Lamborghini",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:rolls-royce",
+   "text": "Rolls-Royce",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:bentley",
+   "text": "Bentley",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jaguar",
+   "text": "Jaguar",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:land-rover",
+   "text": "Land Rover",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jeep",
+   "text": "Jeep",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mini-cooper",
+   "text": "Mini Cooper",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:volvo",
+   "text": "Volvo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:subaru",
+   "text": "Subaru",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nissan",
+   "text": "Nissan",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mazda",
+   "text": "Mazda",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hyundai",
+   "text": "Hyundai",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kia",
+   "text": "Kia",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fiat",
+   "text": "Fiat",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ford-mustang",
+   "text": "Ford Mustang",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:corvette",
+   "text": "Corvette",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cadillac",
+   "text": "Cadillac",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hummer",
+   "text": "Hummer",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:harley-davidson",
+   "text": "Harley-Davidson",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:vespa",
+   "text": "Vespa",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ducati",
+   "text": "Ducati",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:yamaha",
+   "text": "Yamaha",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kawasaki",
+   "text": "Kawasaki",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:michelin",
+   "text": "Michelin",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:boeing",
+   "text": "Boeing",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:airbus",
+   "text": "Airbus",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:concorde",
+   "text": "Concorde",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:emirates",
+   "text": "Emirates",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:ryanair",
+   "text": "Ryanair",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:greyhound-bus",
+   "text": "Greyhound Bus",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hilton",
+   "text": "Hilton",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:marriott",
+   "text": "Marriott",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:holiday-inn",
+   "text": "Holiday Inn",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:expedia",
+   "text": "Expedia",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:tripadvisor",
+   "text": "Tripadvisor",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:booking-com",
+   "text": "Booking.com",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:lego",
+   "text": "Lego",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:barbie",
+   "text": "Barbie",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ken-doll",
+   "text": "Ken Doll",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:hot-wheels",
+   "text": "Hot Wheels",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:matchbox-cars",
+   "text": "Matchbox Cars",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:nerf",
+   "text": "Nerf",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:play-doh",
+   "text": "Play-Doh",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:etch-a-sketch",
+   "text": "Etch A Sketch",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:rubik-s-cube",
+   "text": "Rubik's Cube",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:monopoly",
+   "text": "Monopoly",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:scrabble",
+   "text": "Scrabble",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:jenga",
+   "text": "Jenga",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:twister",
+   "text": "Twister",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:uno",
+   "text": "Uno",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:connect-four",
+   "text": "Connect Four",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:operation",
+   "text": "Operation",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hungry-hungry-hippos",
+   "text": "Hungry Hungry Hippos",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mr-potato-head",
+   "text": "Mr. Potato Head",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:slinky",
+   "text": "Slinky",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:frisbee",
+   "text": "Frisbee",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:hula-hoop",
+   "text": "Hula Hoop",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:silly-putty",
+   "text": "Silly Putty",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:fisher-price",
+   "text": "Fisher-Price",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hasbro",
+   "text": "Hasbro",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mattel",
+   "text": "Mattel",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:transformers",
+   "text": "Transformers",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:my-little-pony",
+   "text": "My Little Pony",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:g-i-joe",
+   "text": "G.I. Joe",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:american-girl-doll",
+   "text": "American Girl Doll",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:care-bears",
+   "text": "Care Bears",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hello-kitty",
+   "text": "Hello Kitty",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:sanrio",
+   "text": "Sanrio",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:squishmallow",
+   "text": "Squishmallow",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:clue",
+   "text": "Clue",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:battleship",
+   "text": "Battleship",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:candy-land",
+   "text": "Candy Land",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:chutes-and-ladders",
+   "text": "Chutes And Ladders",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:guess-who",
+   "text": "Guess Who",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pictionary",
+   "text": "Pictionary",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:trivial-pursuit",
+   "text": "Trivial Pursuit",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:yahtzee",
+   "text": "Yahtzee",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:boggle",
+   "text": "Boggle",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:catan",
+   "text": "Catan",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:magic-8-ball",
+   "text": "Magic 8 Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:crayola-crayons",
+   "text": "Crayola Crayons",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:elmer-s-glue",
+   "text": "Elmer's Glue",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:disney",
+   "text": "Disney",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:disneyland",
+   "text": "Disneyland",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:walt-disney-world",
+   "text": "Walt Disney World",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pixar",
+   "text": "Pixar",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:marvel",
+   "text": "Marvel",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:dc-comics",
+   "text": "DC Comics",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:star-wars",
+   "text": "Star Wars",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:warner-bros",
+   "text": "Warner Bros",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:universal-studios",
+   "text": "Universal Studios",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:paramount",
+   "text": "Paramount",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:nickelodeon",
+   "text": "Nickelodeon",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cartoon-network",
+   "text": "Cartoon Network",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mtv",
+   "text": "MTV",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hbo",
+   "text": "HBO",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:bbc",
+   "text": "BBC",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cnn",
+   "text": "CNN",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:national-geographic",
+   "text": "National Geographic",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:discovery-channel",
+   "text": "Discovery Channel",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hulu",
+   "text": "Hulu",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:peloton",
+   "text": "Peloton",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:weight-watchers",
+   "text": "Weight Watchers",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:xbox-controller",
+   "text": "Xbox Controller",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:game-of-life",
+   "text": "Game Of Life",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:sea-doo",
+   "text": "Sea-Doo",
+   "difficulty": 3
+  },
+  {
+   "id": "brands:jet-ski",
+   "text": "Jet Ski",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jacuzzi",
+   "text": "Jacuzzi",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:speedo",
+   "text": "Speedo",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:hard-rock-cafe",
+   "text": "Hard Rock Cafe",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:rainforest-cafe",
+   "text": "Rainforest Cafe",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:chuck-e-cheese",
+   "text": "Chuck E. Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:six-flags",
+   "text": "Six Flags",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:seaworld",
+   "text": "SeaWorld",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:legoland",
+   "text": "Legoland",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:michelin-star",
+   "text": "Michelin Star",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:golden-arches",
+   "text": "Golden Arches",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:nike-swoosh",
+   "text": "Nike Swoosh",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:twitter-bird",
+   "text": "Twitter Bird",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:apple-logo",
+   "text": "Apple Logo",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:starbucks-mermaid",
+   "text": "Starbucks Mermaid",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:colonel-sanders",
+   "text": "Colonel Sanders",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:ronald-mcdonald",
+   "text": "Ronald McDonald",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:tony-the-tiger",
+   "text": "Tony The Tiger",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pillsbury-doughboy",
+   "text": "Pillsbury Doughboy",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:mr-peanut",
+   "text": "Mr. Peanut",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:kool-aid-man",
+   "text": "Kool-Aid Man",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:m-and-m-characters",
+   "text": "M&M Characters",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:geico-gecko",
+   "text": "Geico Gecko",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:jolly-green-giant",
+   "text": "Jolly Green Giant",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:chester-cheetah",
+   "text": "Chester Cheetah",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:trix-rabbit",
+   "text": "Trix Rabbit",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:cap-n-crunch",
+   "text": "Cap'n Crunch",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:snap-crackle-pop",
+   "text": "Snap Crackle Pop",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:burger-king-crown",
+   "text": "Burger King Crown",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:duracell-bunny",
+   "text": "Duracell Bunny",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:monopoly-man",
+   "text": "Monopoly Man",
+   "difficulty": 1
+  },
+  {
+   "id": "brands:pringles-man",
+   "text": "Pringles Man",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:coca-cola-polar-bear",
+   "text": "Coca-Cola Polar Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "brands:mickey-mouse-ears",
+   "text": "Mickey Mouse Ears",
+   "difficulty": 1
+  }
+ ]
+}

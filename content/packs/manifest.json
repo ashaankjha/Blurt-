@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "id": "sports",
+  "name": "Sports",
+  "emoji": "🏀",
+  "description": "Games, gear and big moments.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 850
+ },
+ {
+  "id": "brands",
+  "name": "Brands",
+  "emoji": "🏷️",
+  "description": "Logos you could draw from memory.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 551
+ },
+ {
+  "id": "nostalgia-90s-2000s",
+  "name": "90s & 2000s Nostalgia",
+  "emoji": "📼",
+  "description": "Dial-up, flip phones and frosted tips.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 497
+ },
+ {
+  "id": "kids",
+  "name": "Kids",
+  "emoji": "🧸",
+  "description": "Easy words for little players.",
+  "tags": [
+   "family",
+   "kids"
+  ],
+  "version": 1,
+  "phraseCount": 675
+ },
+ {
+  "id": "party",
+  "name": "Party",
+  "emoji": "🍾",
+  "description": "18+. Late nights and bad decisions.",
+  "tags": [
+   "adult"
+  ],
+  "version": 1,
+  "phraseCount": 396
+ },
+ {
+  "id": "awkward-situations",
+  "name": "Awkward Situations",
+  "emoji": "😬",
+  "description": "18+. Cringe, but make it a game.",
+  "tags": [
+   "adult"
+  ],
+  "version": 1,
+  "phraseCount": 362
+ },
+ {
+  "id": "dating",
+  "name": "Dating",
+  "emoji": "💘",
+  "description": "18+. Swipes, sparks and situationships.",
+  "tags": [
+   "adult"
+  ],
+  "version": 1,
+  "phraseCount": 382
+ }
+]

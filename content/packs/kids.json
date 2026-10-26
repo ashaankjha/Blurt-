@@ -1,0 +1,3388 @@
+{
+ "id": "kids",
+ "name": "Kids",
+ "emoji": "🧸",
+ "description": "Easy words for little players.",
+ "tags": [
+  "family",
+  "kids"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "kids:teddy-bear",
+   "text": "Teddy Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:doll",
+   "text": "Doll",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dollhouse",
+   "text": "Dollhouse",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-car",
+   "text": "Toy Car",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-train",
+   "text": "Toy Train",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:building-blocks",
+   "text": "Building Blocks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:puzzle",
+   "text": "Puzzle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ball",
+   "text": "Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:beach-ball",
+   "text": "Beach Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bouncy-ball",
+   "text": "Bouncy Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:balloon",
+   "text": "Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kite",
+   "text": "Kite",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spinning-top",
+   "text": "Spinning Top",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:scooter",
+   "text": "Scooter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tricycle",
+   "text": "Tricycle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bicycle",
+   "text": "Bicycle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:training-wheels",
+   "text": "Training Wheels",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:roller-skates",
+   "text": "Roller Skates",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wagon",
+   "text": "Wagon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rocking-horse",
+   "text": "Rocking Horse",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stuffed-animal",
+   "text": "Stuffed Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:puppet",
+   "text": "Puppet",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sock-puppet",
+   "text": "Sock Puppet",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:robot-toy",
+   "text": "Robot Toy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rubber-duck",
+   "text": "Rubber Duck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bubbles",
+   "text": "Bubbles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bubble-wand",
+   "text": "Bubble Wand",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sandcastle",
+   "text": "Sandcastle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bucket-and-spade",
+   "text": "Bucket And Spade",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:play-dough",
+   "text": "Play Dough",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crayons",
+   "text": "Crayons",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:coloring-book",
+   "text": "Coloring Book",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:markers",
+   "text": "Markers",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stickers",
+   "text": "Stickers",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:glitter",
+   "text": "Glitter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:paint-brush",
+   "text": "Paint Brush",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:finger-paint",
+   "text": "Finger Paint",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sidewalk-chalk",
+   "text": "Sidewalk Chalk",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:play-tent",
+   "text": "Play Tent",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pillow-fort",
+   "text": "Pillow Fort",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blanket-fort",
+   "text": "Blanket Fort",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-box",
+   "text": "Toy Box",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:action-figure",
+   "text": "Action Figure",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-drum",
+   "text": "Toy Drum",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:xylophone",
+   "text": "Xylophone",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kazoo",
+   "text": "Kazoo",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-piano",
+   "text": "Toy Piano",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tambourine",
+   "text": "Tambourine",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:maracas",
+   "text": "Maracas",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rattle",
+   "text": "Rattle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dress-up-clothes",
+   "text": "Dress-Up Clothes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:costume",
+   "text": "Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:superhero-cape",
+   "text": "Superhero Cape",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:magic-wand",
+   "text": "Magic Wand",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crown",
+   "text": "Crown",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tiara",
+   "text": "Tiara",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:board-game",
+   "text": "Board Game",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:card-game",
+   "text": "Card Game",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dice",
+   "text": "Dice",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:marbles",
+   "text": "Marbles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jigsaw-puzzle",
+   "text": "Jigsaw Puzzle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-phone",
+   "text": "Toy Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:play-kitchen",
+   "text": "Play Kitchen",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tea-party",
+   "text": "Tea Party",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pinwheel",
+   "text": "Pinwheel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:paper-airplane",
+   "text": "Paper Airplane",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:paper-boat",
+   "text": "Paper Boat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snow-globe",
+   "text": "Snow Globe",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:kaleidoscope",
+   "text": "Kaleidoscope",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:jack-in-the-box",
+   "text": "Jack-In-The-Box",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fidget-spinner",
+   "text": "Fidget Spinner",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pop-it",
+   "text": "Pop It",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:slime",
+   "text": "Slime",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bath-toys",
+   "text": "Bath Toys",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:remote-control-car",
+   "text": "Remote Control Car",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:race-car-track",
+   "text": "Race Car Track",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-dinosaur",
+   "text": "Toy Dinosaur",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:train-set",
+   "text": "Train Set",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:piggy-bank",
+   "text": "Piggy Bank",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:treasure-chest",
+   "text": "Treasure Chest",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:treasure-map",
+   "text": "Treasure Map",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:playground",
+   "text": "Playground",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:slide",
+   "text": "Slide",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:swing",
+   "text": "Swing",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:seesaw",
+   "text": "Seesaw",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:monkey-bars",
+   "text": "Monkey Bars",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sandbox",
+   "text": "Sandbox",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jungle-gym",
+   "text": "Jungle Gym",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:merry-go-round",
+   "text": "Merry-Go-Round",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:climbing-frame",
+   "text": "Climbing Frame",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:treehouse",
+   "text": "Treehouse",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:trampoline",
+   "text": "Trampoline",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bouncy-castle",
+   "text": "Bouncy Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:splash-pad",
+   "text": "Splash Pad",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sprinkler",
+   "text": "Sprinkler",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kiddie-pool",
+   "text": "Kiddie Pool",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mud-puddle",
+   "text": "Mud Puddle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:puddle-jumping",
+   "text": "Puddle Jumping",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hide-and-seek",
+   "text": "Hide And Seek",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tag",
+   "text": "Tag",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:freeze-tag",
+   "text": "Freeze Tag",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:duck-duck-goose",
+   "text": "Duck Duck Goose",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:simon-says",
+   "text": "Simon Says",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:red-light-green-light",
+   "text": "Red Light Green Light",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hopscotch",
+   "text": "Hopscotch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:musical-chairs",
+   "text": "Musical Chairs",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hot-potato",
+   "text": "Hot Potato",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:follow-the-leader",
+   "text": "Follow The Leader",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:peekaboo",
+   "text": "Peekaboo",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ring-around-the-rosie",
+   "text": "Ring Around The Rosie",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:leapfrog",
+   "text": "Leapfrog",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:piggyback-ride",
+   "text": "Piggyback Ride",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wheelbarrow-race",
+   "text": "Wheelbarrow Race",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:catch",
+   "text": "Catch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rock-paper-scissors",
+   "text": "Rock Paper Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tic-tac-toe",
+   "text": "Tic-Tac-Toe",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:i-spy",
+   "text": "I Spy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:thumb-war",
+   "text": "Thumb War",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pat-a-cake",
+   "text": "Pat-A-Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:snowman",
+   "text": "Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snowball",
+   "text": "Snowball",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snow-angel",
+   "text": "Snow Angel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sled",
+   "text": "Sled",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mittens",
+   "text": "Mittens",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:leaf-pile",
+   "text": "Leaf Pile",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:picnic",
+   "text": "Picnic",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:picnic-blanket",
+   "text": "Picnic Blanket",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:camping",
+   "text": "Camping",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:campfire",
+   "text": "Campfire",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:marshmallow",
+   "text": "Marshmallow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:flashlight",
+   "text": "Flashlight",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bug-catching",
+   "text": "Bug Catching",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:butterfly-net",
+   "text": "Butterfly Net",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fishing-pole",
+   "text": "Fishing Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bird-nest",
+   "text": "Bird Nest",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rainbow",
+   "text": "Rainbow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sunshine",
+   "text": "Sunshine",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rain-cloud",
+   "text": "Rain Cloud",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:thunder",
+   "text": "Thunder",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lightning",
+   "text": "Lightning",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snowflake",
+   "text": "Snowflake",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wind",
+   "text": "Wind",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rain-boots",
+   "text": "Rain Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:raincoat",
+   "text": "Raincoat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:umbrella",
+   "text": "Umbrella",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sunglasses",
+   "text": "Sunglasses",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sun-hat",
+   "text": "Sun Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sunscreen",
+   "text": "Sunscreen",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:beach",
+   "text": "Beach",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:seashell",
+   "text": "Seashell",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:waves",
+   "text": "Waves",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:starfish",
+   "text": "Starfish",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:garden",
+   "text": "Garden",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:flower",
+   "text": "Flower",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sunflower",
+   "text": "Sunflower",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tree",
+   "text": "Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:leaf",
+   "text": "Leaf",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:acorn",
+   "text": "Acorn",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pinecone",
+   "text": "Pinecone",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rock",
+   "text": "Rock",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stick",
+   "text": "Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mud",
+   "text": "Mud",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grass",
+   "text": "Grass",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:moon",
+   "text": "Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:star",
+   "text": "Star",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sun",
+   "text": "Sun",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cloud",
+   "text": "Cloud",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shooting-star",
+   "text": "Shooting Star",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dandelion",
+   "text": "Dandelion",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ladybug",
+   "text": "Ladybug",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:worm",
+   "text": "Worm",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snail",
+   "text": "Snail",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:caterpillar",
+   "text": "Caterpillar",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:butterfly",
+   "text": "Butterfly",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ant-hill",
+   "text": "Ant Hill",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spider-web",
+   "text": "Spider Web",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bee",
+   "text": "Bee",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:firefly",
+   "text": "Firefly",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:school",
+   "text": "School",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:school-bus",
+   "text": "School Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:backpack",
+   "text": "Backpack",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lunchbox",
+   "text": "Lunchbox",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:teacher",
+   "text": "Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:classroom",
+   "text": "Classroom",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:desk",
+   "text": "Desk",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:whiteboard",
+   "text": "Whiteboard",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pencil",
+   "text": "Pencil",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pencil-sharpener",
+   "text": "Pencil Sharpener",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:eraser",
+   "text": "Eraser",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ruler",
+   "text": "Ruler",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:glue-stick",
+   "text": "Glue Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:scissors",
+   "text": "Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:notebook",
+   "text": "Notebook",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:homework",
+   "text": "Homework",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:recess",
+   "text": "Recess",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lunchtime",
+   "text": "Lunchtime",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:show-and-tell",
+   "text": "Show And Tell",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:story-time",
+   "text": "Story Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:library",
+   "text": "Library",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:library-book",
+   "text": "Library Book",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:alphabet",
+   "text": "Alphabet",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:abcs",
+   "text": "ABCs",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:counting",
+   "text": "Counting",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:numbers",
+   "text": "Numbers",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spelling",
+   "text": "Spelling",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:reading",
+   "text": "Reading",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:writing",
+   "text": "Writing",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:drawing",
+   "text": "Drawing",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:painting",
+   "text": "Painting",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:art-class",
+   "text": "Art Class",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:music-class",
+   "text": "Music Class",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:field-trip",
+   "text": "Field Trip",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:principal",
+   "text": "Principal",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hall-pass",
+   "text": "Hall Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:gold-star",
+   "text": "Gold Star",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:report-card",
+   "text": "Report Card",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:spelling-bee",
+   "text": "Spelling Bee",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:science-fair",
+   "text": "Science Fair",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:globe",
+   "text": "Globe",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:map",
+   "text": "Map",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:calendar",
+   "text": "Calendar",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:clock",
+   "text": "Clock",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bell",
+   "text": "Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:line-leader",
+   "text": "Line Leader",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:raise-your-hand",
+   "text": "Raise Your Hand",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:circle-time",
+   "text": "Circle Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:nap-time",
+   "text": "Nap Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snack-time",
+   "text": "Snack Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:clean-up-time",
+   "text": "Clean-Up Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kindergarten",
+   "text": "Kindergarten",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:preschool",
+   "text": "Preschool",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crossing-guard",
+   "text": "Crossing Guard",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lost-tooth",
+   "text": "Lost Tooth",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:birthday-party",
+   "text": "Birthday Party",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:birthday-cake",
+   "text": "Birthday Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:candles",
+   "text": "Candles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:party-hat",
+   "text": "Party Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:presents",
+   "text": "Presents",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wrapping-paper",
+   "text": "Wrapping Paper",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pinata",
+   "text": "Pinata",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:goody-bag",
+   "text": "Goody Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cupcake",
+   "text": "Cupcake",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:magic-show",
+   "text": "Magic Show",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:clown",
+   "text": "Clown",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:balloon-animal",
+   "text": "Balloon Animal",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bedtime",
+   "text": "Bedtime",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bedtime-story",
+   "text": "Bedtime Story",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pajamas",
+   "text": "Pajamas",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pillow",
+   "text": "Pillow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blanket",
+   "text": "Blanket",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bunk-bed",
+   "text": "Bunk Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:night-light",
+   "text": "Night Light",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lullaby",
+   "text": "Lullaby",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dream",
+   "text": "Dream",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:nightmare",
+   "text": "Nightmare",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:yawn",
+   "text": "Yawn",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:snoring",
+   "text": "Snoring",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:alarm-clock",
+   "text": "Alarm Clock",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wake-up",
+   "text": "Wake Up",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:breakfast",
+   "text": "Breakfast",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lunch",
+   "text": "Lunch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dinner",
+   "text": "Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bath-time",
+   "text": "Bath Time",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bubble-bath",
+   "text": "Bubble Bath",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toothbrush",
+   "text": "Toothbrush",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toothpaste",
+   "text": "Toothpaste",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:brushing-teeth",
+   "text": "Brushing Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:washing-hands",
+   "text": "Washing Hands",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:soap",
+   "text": "Soap",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:towel",
+   "text": "Towel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hairbrush",
+   "text": "Hairbrush",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:comb",
+   "text": "Comb",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shoes",
+   "text": "Shoes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:socks",
+   "text": "Socks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shoelaces",
+   "text": "Shoelaces",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tying-shoes",
+   "text": "Tying Shoes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jacket",
+   "text": "Jacket",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hat",
+   "text": "Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:scarf",
+   "text": "Scarf",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gloves",
+   "text": "Gloves",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:boots",
+   "text": "Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:slippers",
+   "text": "Slippers",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:t-shirt",
+   "text": "T-Shirt",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shorts",
+   "text": "Shorts",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dress",
+   "text": "Dress",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:skirt",
+   "text": "Skirt",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jeans",
+   "text": "Jeans",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sweater",
+   "text": "Sweater",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bib",
+   "text": "Bib",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:diaper",
+   "text": "Diaper",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:high-chair",
+   "text": "High Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stroller",
+   "text": "Stroller",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:car-seat",
+   "text": "Car Seat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crib",
+   "text": "Crib",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:baby-bottle",
+   "text": "Baby Bottle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pacifier",
+   "text": "Pacifier",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sippy-cup",
+   "text": "Sippy Cup",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:potty",
+   "text": "Potty",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bathtub",
+   "text": "Bathtub",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kitchen",
+   "text": "Kitchen",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bedroom",
+   "text": "Bedroom",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bathroom",
+   "text": "Bathroom",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:living-room",
+   "text": "Living Room",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:couch",
+   "text": "Couch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:television",
+   "text": "Television",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:remote-control",
+   "text": "Remote Control",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lamp",
+   "text": "Lamp",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:window",
+   "text": "Window",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:door",
+   "text": "Door",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stairs",
+   "text": "Stairs",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fridge",
+   "text": "Fridge",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:oven",
+   "text": "Oven",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:microwave",
+   "text": "Microwave",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spoon",
+   "text": "Spoon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fork",
+   "text": "Fork",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:plate",
+   "text": "Plate",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bowl",
+   "text": "Bowl",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cup",
+   "text": "Cup",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:straw",
+   "text": "Straw",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:napkin",
+   "text": "Napkin",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chores",
+   "text": "Chores",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:making-the-bed",
+   "text": "Making The Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:setting-the-table",
+   "text": "Setting The Table",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:laundry",
+   "text": "Laundry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:vacuum",
+   "text": "Vacuum",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:broom",
+   "text": "Broom",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:trash-can",
+   "text": "Trash Can",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mailbox",
+   "text": "Mailbox",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:doorbell",
+   "text": "Doorbell",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fence",
+   "text": "Fence",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:swing-set",
+   "text": "Swing Set",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grandma",
+   "text": "Grandma",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grandpa",
+   "text": "Grandpa",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mom",
+   "text": "Mom",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dad",
+   "text": "Dad",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:baby",
+   "text": "Baby",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:big-sister",
+   "text": "Big Sister",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:little-brother",
+   "text": "Little Brother",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:babysitter",
+   "text": "Babysitter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:family",
+   "text": "Family",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:best-friend",
+   "text": "Best Friend",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:neighbor",
+   "text": "Neighbor",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hug",
+   "text": "Hug",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kiss-goodnight",
+   "text": "Kiss Goodnight",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tickle",
+   "text": "Tickle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:allowance",
+   "text": "Allowance",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:red",
+   "text": "Red",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blue",
+   "text": "Blue",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:yellow",
+   "text": "Yellow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:green",
+   "text": "Green",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:orange",
+   "text": "Orange",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:purple",
+   "text": "Purple",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pink",
+   "text": "Pink",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:brown",
+   "text": "Brown",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:black",
+   "text": "Black",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:white",
+   "text": "White",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gray",
+   "text": "Gray",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gold",
+   "text": "Gold",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:silver",
+   "text": "Silver",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:circle",
+   "text": "Circle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:square",
+   "text": "Square",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:triangle",
+   "text": "Triangle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rectangle",
+   "text": "Rectangle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:heart-shape",
+   "text": "Heart Shape",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:star-shape",
+   "text": "Star Shape",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:diamond",
+   "text": "Diamond",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:oval",
+   "text": "Oval",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:one",
+   "text": "One",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:two",
+   "text": "Two",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:three",
+   "text": "Three",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ten",
+   "text": "Ten",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:big",
+   "text": "Big",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:little",
+   "text": "Little",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hot",
+   "text": "Hot",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cold",
+   "text": "Cold",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:up",
+   "text": "Up",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:down",
+   "text": "Down",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:happy",
+   "text": "Happy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sad",
+   "text": "Sad",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:angry",
+   "text": "Angry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:scared",
+   "text": "Scared",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:silly",
+   "text": "Silly",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sleepy",
+   "text": "Sleepy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hungry",
+   "text": "Hungry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:thirsty",
+   "text": "Thirsty",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grumpy",
+   "text": "Grumpy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:excited",
+   "text": "Excited",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shy",
+   "text": "Shy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:smile",
+   "text": "Smile",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:frown",
+   "text": "Frown",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:giggle",
+   "text": "Giggle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tears",
+   "text": "Tears",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:head",
+   "text": "Head",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hair",
+   "text": "Hair",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:eyes",
+   "text": "Eyes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ears",
+   "text": "Ears",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:nose",
+   "text": "Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mouth",
+   "text": "Mouth",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:teeth",
+   "text": "Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tongue",
+   "text": "Tongue",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chin",
+   "text": "Chin",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cheeks",
+   "text": "Cheeks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:eyebrows",
+   "text": "Eyebrows",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:eyelashes",
+   "text": "Eyelashes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:neck",
+   "text": "Neck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shoulders",
+   "text": "Shoulders",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:arm",
+   "text": "Arm",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:elbow",
+   "text": "Elbow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hand",
+   "text": "Hand",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fingers",
+   "text": "Fingers",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:thumb",
+   "text": "Thumb",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fingernails",
+   "text": "Fingernails",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tummy",
+   "text": "Tummy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:belly-button",
+   "text": "Belly Button",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:knee",
+   "text": "Knee",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:leg",
+   "text": "Leg",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:foot",
+   "text": "Foot",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toes",
+   "text": "Toes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:heel",
+   "text": "Heel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:freckles",
+   "text": "Freckles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hiccups",
+   "text": "Hiccups",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sneeze",
+   "text": "Sneeze",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:burp",
+   "text": "Burp",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:boo-boo",
+   "text": "Boo-Boo",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:loose-tooth",
+   "text": "Loose Tooth",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tooth-fairy",
+   "text": "Tooth Fairy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:growing-up",
+   "text": "Growing Up",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:muscles",
+   "text": "Muscles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:heartbeat",
+   "text": "Heartbeat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shadow",
+   "text": "Shadow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:footprint",
+   "text": "Footprint",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:handprint",
+   "text": "Handprint",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fingerprint",
+   "text": "Fingerprint",
+   "difficulty": 2
+  },
+  {
+   "id": "kids:jump",
+   "text": "Jump",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:run",
+   "text": "Run",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hop",
+   "text": "Hop",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:skip",
+   "text": "Skip",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:clap",
+   "text": "Clap",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wave",
+   "text": "Wave",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dance",
+   "text": "Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sing",
+   "text": "Sing",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:laugh",
+   "text": "Laugh",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cry",
+   "text": "Cry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:climb",
+   "text": "Climb",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crawl",
+   "text": "Crawl",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:swim",
+   "text": "Swim",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:throw",
+   "text": "Throw",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:kick",
+   "text": "Kick",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spin",
+   "text": "Spin",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tiptoe",
+   "text": "Tiptoe",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stomp",
+   "text": "Stomp",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wiggle",
+   "text": "Wiggle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shake",
+   "text": "Shake",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stretch",
+   "text": "Stretch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:push",
+   "text": "Push",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pull",
+   "text": "Pull",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blow",
+   "text": "Blow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:whisper",
+   "text": "Whisper",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:shout",
+   "text": "Shout",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:point",
+   "text": "Point",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:count",
+   "text": "Count",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:share",
+   "text": "Share",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hide",
+   "text": "Hide",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:build",
+   "text": "Build",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:color",
+   "text": "Color",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bake",
+   "text": "Bake",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cook",
+   "text": "Cook",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:eat",
+   "text": "Eat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:drink",
+   "text": "Drink",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sleep",
+   "text": "Sleep",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wash",
+   "text": "Wash",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:brush",
+   "text": "Brush",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:splash",
+   "text": "Splash",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:float",
+   "text": "Float",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fly",
+   "text": "Fly",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:flap",
+   "text": "Flap",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:roar",
+   "text": "Roar",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bark",
+   "text": "Bark",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:meow",
+   "text": "Meow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:moo",
+   "text": "Moo",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:quack",
+   "text": "Quack",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:oink",
+   "text": "Oink",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:buzz",
+   "text": "Buzz",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hiss",
+   "text": "Hiss",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gallop",
+   "text": "Gallop",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:roll-over",
+   "text": "Roll Over",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:thumbs-up",
+   "text": "Thumbs Up",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blowing-bubbles",
+   "text": "Blowing Bubbles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:blowing-kisses",
+   "text": "Blowing Kisses",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:making-a-wish",
+   "text": "Making A Wish",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:flying-a-kite",
+   "text": "Flying A Kite",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:riding-a-bike",
+   "text": "Riding A Bike",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:building-a-snowman",
+   "text": "Building A Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:feeding-the-ducks",
+   "text": "Feeding The Ducks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:walking-the-dog",
+   "text": "Walking The Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:petting-a-cat",
+   "text": "Petting A Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:licking-an-ice-cream",
+   "text": "Licking An Ice Cream",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jumping-in-puddles",
+   "text": "Jumping In Puddles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:catching-bubbles",
+   "text": "Catching Bubbles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:saying-please",
+   "text": "Saying Please",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:saying-thank-you",
+   "text": "Saying Thank You",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:saying-sorry",
+   "text": "Saying Sorry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:taking-turns",
+   "text": "Taking Turns",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sharing-toys",
+   "text": "Sharing Toys",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tidying-up",
+   "text": "Tidying Up",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tickle-fight",
+   "text": "Tickle Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pillow-fight",
+   "text": "Pillow Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:making-faces",
+   "text": "Making Faces",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:belly-laugh",
+   "text": "Belly Laugh",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:silly-dance",
+   "text": "Silly Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sticking-out-tongue",
+   "text": "Sticking Out Tongue",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:playing-pretend",
+   "text": "Playing Pretend",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pirate",
+   "text": "Pirate",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pirate-ship",
+   "text": "Pirate Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:princess",
+   "text": "Princess",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:prince",
+   "text": "Prince",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:king",
+   "text": "King",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:queen",
+   "text": "Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:castle",
+   "text": "Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:knight",
+   "text": "Knight",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dragon",
+   "text": "Dragon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:unicorn",
+   "text": "Unicorn",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mermaid",
+   "text": "Mermaid",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fairy",
+   "text": "Fairy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:wizard",
+   "text": "Wizard",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:witch",
+   "text": "Witch",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ghost",
+   "text": "Ghost",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:monster",
+   "text": "Monster",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:giant",
+   "text": "Giant",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:troll",
+   "text": "Troll",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:elf",
+   "text": "Elf",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:superhero",
+   "text": "Superhero",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:robot",
+   "text": "Robot",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:alien",
+   "text": "Alien",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:astronaut",
+   "text": "Astronaut",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rocket-ship",
+   "text": "Rocket Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spaceship",
+   "text": "Spaceship",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:flying-saucer",
+   "text": "Flying Saucer",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cowboy",
+   "text": "Cowboy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ninja",
+   "text": "Ninja",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:firefighter",
+   "text": "Firefighter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:police-officer",
+   "text": "Police Officer",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:doctor",
+   "text": "Doctor",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:nurse",
+   "text": "Nurse",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dentist",
+   "text": "Dentist",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:farmer",
+   "text": "Farmer",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chef",
+   "text": "Chef",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:baker",
+   "text": "Baker",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mail-carrier",
+   "text": "Mail Carrier",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bus-driver",
+   "text": "Bus Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:zookeeper",
+   "text": "Zookeeper",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:vet",
+   "text": "Vet",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:magician",
+   "text": "Magician",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:santa-claus",
+   "text": "Santa Claus",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:easter-bunny",
+   "text": "Easter Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gingerbread-man",
+   "text": "Gingerbread Man",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:scarecrow",
+   "text": "Scarecrow",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dinosaur",
+   "text": "Dinosaur",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:t-rex",
+   "text": "T-Rex",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fairy-godmother",
+   "text": "Fairy Godmother",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:big-bad-wolf",
+   "text": "Big Bad Wolf",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:three-little-pigs",
+   "text": "Three Little Pigs",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:goldilocks",
+   "text": "Goldilocks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:little-red-riding-hood",
+   "text": "Little Red Riding Hood",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jack-and-the-beanstalk",
+   "text": "Jack And The Beanstalk",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:humpty-dumpty",
+   "text": "Humpty Dumpty",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cinderella",
+   "text": "Cinderella",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:glass-slipper",
+   "text": "Glass Slipper",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:magic-carpet",
+   "text": "Magic Carpet",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:genie",
+   "text": "Genie",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:magic-lamp",
+   "text": "Magic Lamp",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:treasure",
+   "text": "Treasure",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:gold-coins",
+   "text": "Gold Coins",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rainbow-unicorn",
+   "text": "Rainbow Unicorn",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:haunted-house",
+   "text": "Haunted House",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spooky-skeleton",
+   "text": "Spooky Skeleton",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:jack-o-lantern",
+   "text": "Jack-O'-Lantern",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:trick-or-treat",
+   "text": "Trick Or Treat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:halloween-costume",
+   "text": "Halloween Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:christmas-tree",
+   "text": "Christmas Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stocking",
+   "text": "Stocking",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:reindeer",
+   "text": "Reindeer",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:elf-on-the-shelf",
+   "text": "Elf On The Shelf",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:easter-egg",
+   "text": "Easter Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:egg-hunt",
+   "text": "Egg Hunt",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:birthday-wish",
+   "text": "Birthday Wish",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:car",
+   "text": "Car",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bus",
+   "text": "Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:truck",
+   "text": "Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fire-truck",
+   "text": "Fire Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:police-car",
+   "text": "Police Car",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ambulance",
+   "text": "Ambulance",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:garbage-truck",
+   "text": "Garbage Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:dump-truck",
+   "text": "Dump Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tractor",
+   "text": "Tractor",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bulldozer",
+   "text": "Bulldozer",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:digger",
+   "text": "Digger",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:crane",
+   "text": "Crane",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:train",
+   "text": "Train",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:airplane",
+   "text": "Airplane",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:helicopter",
+   "text": "Helicopter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hot-air-balloon",
+   "text": "Hot Air Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:boat",
+   "text": "Boat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:sailboat",
+   "text": "Sailboat",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:submarine",
+   "text": "Submarine",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:rocket",
+   "text": "Rocket",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:motorcycle",
+   "text": "Motorcycle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:taxi",
+   "text": "Taxi",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ice-cream-truck",
+   "text": "Ice Cream Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:race-car",
+   "text": "Race Car",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:monster-truck",
+   "text": "Monster Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:steering-wheel",
+   "text": "Steering Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:traffic-light",
+   "text": "Traffic Light",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:stop-sign",
+   "text": "Stop Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:seat-belt",
+   "text": "Seat Belt",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:tire",
+   "text": "Tire",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ice-cream",
+   "text": "Ice Cream",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ice-cream-cone",
+   "text": "Ice Cream Cone",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:popsicle",
+   "text": "Popsicle",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lollipop",
+   "text": "Lollipop",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:candy",
+   "text": "Candy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cookie",
+   "text": "Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chocolate-chip-cookie",
+   "text": "Chocolate Chip Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:donut",
+   "text": "Donut",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pancakes",
+   "text": "Pancakes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:waffles",
+   "text": "Waffles",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cereal",
+   "text": "Cereal",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:pizza",
+   "text": "Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hot-dog",
+   "text": "Hot Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chicken-nuggets",
+   "text": "Chicken Nuggets",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:french-fries",
+   "text": "French Fries",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:spaghetti",
+   "text": "Spaghetti",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:mac-and-cheese",
+   "text": "Mac And Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:peanut-butter",
+   "text": "Peanut Butter",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:peanut-butter-sandwich",
+   "text": "Peanut Butter Sandwich",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:apple",
+   "text": "Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:banana",
+   "text": "Banana",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grapes",
+   "text": "Grapes",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:strawberry",
+   "text": "Strawberry",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:watermelon",
+   "text": "Watermelon",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:carrot",
+   "text": "Carrot",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:broccoli",
+   "text": "Broccoli",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:milk",
+   "text": "Milk",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:juice-box",
+   "text": "Juice Box",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lemonade",
+   "text": "Lemonade",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:popcorn",
+   "text": "Popcorn",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cotton-candy",
+   "text": "Cotton Candy",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:chocolate-milk",
+   "text": "Chocolate Milk",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:cheese",
+   "text": "Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bread",
+   "text": "Bread",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:egg",
+   "text": "Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:zoo",
+   "text": "Zoo",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:farm",
+   "text": "Farm",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:park",
+   "text": "Park",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:aquarium",
+   "text": "Aquarium",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:circus",
+   "text": "Circus",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fair",
+   "text": "Fair",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:carousel",
+   "text": "Carousel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:ferris-wheel",
+   "text": "Ferris Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:roller-coaster",
+   "text": "Roller Coaster",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:water-park",
+   "text": "Water Park",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:movie-theater",
+   "text": "Movie Theater",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:toy-store",
+   "text": "Toy Store",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:candy-store",
+   "text": "Candy Store",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:grocery-store",
+   "text": "Grocery Store",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:bakery",
+   "text": "Bakery",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fire-station",
+   "text": "Fire Station",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:hospital",
+   "text": "Hospital",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:swimming-pool",
+   "text": "Swimming Pool",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:museum",
+   "text": "Museum",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:puppet-show",
+   "text": "Puppet Show",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:fireworks",
+   "text": "Fireworks",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:parade",
+   "text": "Parade",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:lemonade-stand",
+   "text": "Lemonade Stand",
+   "difficulty": 1
+  },
+  {
+   "id": "kids:nap",
+   "text": "Nap",
+   "difficulty": 1
+  }
+ ]
+}

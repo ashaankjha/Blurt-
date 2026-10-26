@@ -5,5 +5,11 @@ export const PACK_MANIFEST: PackMeta[] = require('./manifest.json');
 
 /** Lazy loaders so cold start only parses packs that are actually played. */
 export const PACK_LOADERS: Record<string, () => Pack> = {
-
+  'sports': () => require('./sports.json') as Pack,
+  'brands': () => require('./brands.json') as Pack,
+  'nostalgia-90s-2000s': () => require('./nostalgia-90s-2000s.json') as Pack,
+  'kids': () => require('./kids.json') as Pack,
+  'party': () => require('./party.json') as Pack,
+  'awkward-situations': () => require('./awkward-situations.json') as Pack,
+  'dating': () => require('./dating.json') as Pack,
 };

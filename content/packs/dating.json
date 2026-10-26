@@ -1,0 +1,1922 @@
+{
+ "id": "dating",
+ "name": "Dating",
+ "emoji": "💘",
+ "description": "18+. Swipes, sparks and situationships.",
+ "tags": [
+  "adult"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "dating:dating-app",
+   "text": "Dating App",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:swipe-right",
+   "text": "Swipe Right",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:swipe-left",
+   "text": "Swipe Left",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:it-s-a-match",
+   "text": "It's A Match",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:super-like",
+   "text": "Super Like",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:tinder",
+   "text": "Tinder",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bumble",
+   "text": "Bumble",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hinge",
+   "text": "Hinge",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:dating-profile",
+   "text": "Dating Profile",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:profile-picture",
+   "text": "Profile Picture",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bio",
+   "text": "Bio",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:fish-pic",
+   "text": "Fish Pic",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:gym-selfie",
+   "text": "Gym Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:mirror-selfie",
+   "text": "Mirror Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:group-photo-guessing-game",
+   "text": "Group Photo Guessing Game",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:height-requirement",
+   "text": "Height Requirement",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:six-feet-tall",
+   "text": "Six Feet Tall",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:catfish",
+   "text": "Catfish",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:catfished",
+   "text": "Catfished",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:fake-profile",
+   "text": "Fake Profile",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bot-account",
+   "text": "Bot Account",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:old-photos",
+   "text": "Old Photos",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:filters",
+   "text": "Filters",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:opening-line",
+   "text": "Opening Line",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:pickup-line",
+   "text": "Pickup Line",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cheesy-pickup-line",
+   "text": "Cheesy Pickup Line",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:wyd",
+   "text": "Wyd",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:u-up",
+   "text": "U Up",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:late-night-text",
+   "text": "Late-Night Text",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:good-morning-text",
+   "text": "Good Morning Text",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:heart-emoji",
+   "text": "Heart Emoji",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:winky-face",
+   "text": "Winky Face",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:fire-emoji",
+   "text": "Fire Emoji",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:flirty-emoji",
+   "text": "Flirty Emoji",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:sliding-into-dms",
+   "text": "Sliding Into DMs",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:story-reply",
+   "text": "Story Reply",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:soft-launch",
+   "text": "Soft Launch",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hard-launch",
+   "text": "Hard Launch",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:relationship-status",
+   "text": "Relationship Status",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:facebook-official",
+   "text": "Facebook Official",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:it-s-complicated",
+   "text": "It's Complicated",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:instagram-couple",
+   "text": "Instagram Couple",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:couple-selfie",
+   "text": "Couple Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:unmatched",
+   "text": "Unmatched",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:ghosting",
+   "text": "Ghosting",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:ghosted",
+   "text": "Ghosted",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:breadcrumbing",
+   "text": "Breadcrumbing",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:benching",
+   "text": "Benching",
+   "difficulty": 3
+  },
+  {
+   "id": "dating:love-bombing",
+   "text": "Love Bombing",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:slow-fade",
+   "text": "Slow Fade",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:swipe-fatigue",
+   "text": "Swipe Fatigue",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:app-burnout",
+   "text": "App Burnout",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:deleting-the-apps",
+   "text": "Deleting The Apps",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:redownloading-the-apps",
+   "text": "Redownloading The Apps",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:premium-subscription",
+   "text": "Premium Subscription",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:who-liked-you",
+   "text": "Who Liked You",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:online-dating",
+   "text": "Online Dating",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:long-paragraph-text",
+   "text": "Long Paragraph Text",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:typing-bubble",
+   "text": "Typing Bubble",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:read-receipts",
+   "text": "Read Receipts",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:response-time",
+   "text": "Response Time",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:waiting-three-days",
+   "text": "Waiting Three Days",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:playing-it-cool",
+   "text": "Playing It Cool",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:playing-hard-to-get",
+   "text": "Playing Hard To Get",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:stalking-their-instagram",
+   "text": "Stalking Their Instagram",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:deep-dive-into-their-profile",
+   "text": "Deep Dive Into Their Profile",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:mutual-friends",
+   "text": "Mutual Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:video-call-date",
+   "text": "Video Call Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:facetime-date",
+   "text": "FaceTime Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:voice-memo",
+   "text": "Voice Memo",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:phone-call-anxiety",
+   "text": "Phone Call Anxiety",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:number-exchange",
+   "text": "Number Exchange",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:what-s-your-sign",
+   "text": "What's Your Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:astrology-compatibility",
+   "text": "Astrology Compatibility",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:love-language",
+   "text": "Love Language",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:red-flag",
+   "text": "Red Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:green-flag",
+   "text": "Green Flag",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:beige-flag",
+   "text": "Beige Flag",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:ick",
+   "text": "Ick",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:getting-the-ick",
+   "text": "Getting The Ick",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:dealbreaker",
+   "text": "Dealbreaker",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:out-of-your-league",
+   "text": "Out Of Your League",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:punching-above-your-weight",
+   "text": "Punching Above Your Weight",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:first-date",
+   "text": "First Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:blind-date",
+   "text": "Blind Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:double-date",
+   "text": "Double Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:coffee-date",
+   "text": "Coffee Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:dinner-date",
+   "text": "Dinner Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:drinks-date",
+   "text": "Drinks Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:movie-date",
+   "text": "Movie Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:picnic-date",
+   "text": "Picnic Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:mini-golf-date",
+   "text": "Mini Golf Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:bowling-date",
+   "text": "Bowling Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:museum-date",
+   "text": "Museum Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hiking-date",
+   "text": "Hiking Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:cooking-class-date",
+   "text": "Cooking Class Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:speed-dating",
+   "text": "Speed Dating",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:setup-by-friends",
+   "text": "Setup By Friends",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:set-up-by-mom",
+   "text": "Set Up By Mom",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:butterflies",
+   "text": "Butterflies",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:first-date-nerves",
+   "text": "First Date Nerves",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:first-date-outfit",
+   "text": "First Date Outfit",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:outfit-change",
+   "text": "Outfit Change",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:getting-ready",
+   "text": "Getting Ready",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:spritz-of-cologne",
+   "text": "Spritz Of Cologne",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:perfume",
+   "text": "Perfume",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:fresh-haircut",
+   "text": "Fresh Haircut",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:breath-mint",
+   "text": "Breath Mint",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:running-late",
+   "text": "Running Late",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:arriving-early",
+   "text": "Arriving Early",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:looks-nothing-like-their-photos",
+   "text": "Looks Nothing Like Their Photos",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:awkward-hug",
+   "text": "Awkward Hug",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:pulling-out-a-chair",
+   "text": "Pulling Out A Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:holding-the-door",
+   "text": "Holding The Door",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:chivalry",
+   "text": "Chivalry",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:gentleman",
+   "text": "Gentleman",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:splitting-the-check",
+   "text": "Splitting The Check",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:reaching-for-the-check",
+   "text": "Reaching For The Check",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:going-dutch",
+   "text": "Going Dutch",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:fake-emergency-call",
+   "text": "Fake Emergency Call",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:rescue-text",
+   "text": "Rescue Text",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bathroom-escape",
+   "text": "Bathroom Escape",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:date-went-long",
+   "text": "Date Went Long",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:second-date",
+   "text": "Second Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:third-date",
+   "text": "Third Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:walking-them-home",
+   "text": "Walking Them Home",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:doorstep-goodbye",
+   "text": "Doorstep Goodbye",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:goodnight-kiss",
+   "text": "Goodnight Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:first-kiss",
+   "text": "First Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:kiss-on-the-cheek",
+   "text": "Kiss On The Cheek",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:peck",
+   "text": "Peck",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:smooch",
+   "text": "Smooch",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:making-out",
+   "text": "Making Out",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:lip-balm",
+   "text": "Lip Balm",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hand-holding",
+   "text": "Hand Holding",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:footsie",
+   "text": "Footsie",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:arm-around-the-shoulder",
+   "text": "Arm Around The Shoulder",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:the-yawn-move",
+   "text": "The Yawn Move",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:eye-contact",
+   "text": "Eye Contact",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bedroom-eyes",
+   "text": "Bedroom Eyes",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:flirting",
+   "text": "Flirting",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:playful-banter",
+   "text": "Playful Banter",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:teasing",
+   "text": "Teasing",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:compliment",
+   "text": "Compliment",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:hair-flip",
+   "text": "Hair Flip",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:wink",
+   "text": "Wink",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:blushing",
+   "text": "Blushing",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:lingering-look",
+   "text": "Lingering Look",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:chemistry",
+   "text": "Chemistry",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:spark",
+   "text": "Spark",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:sparks-fly",
+   "text": "Sparks Fly",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-at-first-sight",
+   "text": "Love At First Sight",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:instant-connection",
+   "text": "Instant Connection",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:vibe",
+   "text": "Vibe",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:no-spark",
+   "text": "No Spark",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:friendly-vibes",
+   "text": "Friendly Vibes",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:let-s-just-be-friends",
+   "text": "Let's Just Be Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:mixed-signals",
+   "text": "Mixed Signals",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:reading-the-signs",
+   "text": "Reading The Signs",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hard-to-read",
+   "text": "Hard To Read",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:overthinking",
+   "text": "Overthinking",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:is-this-a-date",
+   "text": "Is This A Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:did-we-just-kiss",
+   "text": "Did We Just Kiss",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:text-me-when-you-re-home",
+   "text": "Text Me When You're Home",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:had-a-great-time",
+   "text": "Had A Great Time",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:post-date-text",
+   "text": "Post-Date Text",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:debrief-with-friends",
+   "text": "Debrief With Friends",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:screenshot-to-the-group-chat",
+   "text": "Screenshot To The Group Chat",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:group-chat-analysis",
+   "text": "Group Chat Analysis",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:situationship",
+   "text": "Situationship",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:talking-stage",
+   "text": "Talking Stage",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:just-talking",
+   "text": "Just Talking",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:seeing-each-other",
+   "text": "Seeing Each Other",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:exclusive",
+   "text": "Exclusive",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:defining-the-relationship",
+   "text": "Defining The Relationship",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:dtr-talk",
+   "text": "DTR Talk",
+   "difficulty": 3
+  },
+  {
+   "id": "dating:what-are-we",
+   "text": "What Are We",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:official",
+   "text": "Official",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:boyfriend",
+   "text": "Boyfriend",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:girlfriend",
+   "text": "Girlfriend",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:partner",
+   "text": "Partner",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:significant-other",
+   "text": "Significant Other",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:better-half",
+   "text": "Better Half",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:bae",
+   "text": "Bae",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:babe",
+   "text": "Babe",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:boo",
+   "text": "Boo",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:sweetheart",
+   "text": "Sweetheart",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:honey",
+   "text": "Honey",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:pet-names",
+   "text": "Pet Names",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:baby-talk",
+   "text": "Baby Talk",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:inside-joke",
+   "text": "Inside Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:our-song",
+   "text": "Our Song",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:couple-s-costume",
+   "text": "Couple's Costume",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:matching-outfits",
+   "text": "Matching Outfits",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:couple-goals",
+   "text": "Couple Goals",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:power-couple",
+   "text": "Power Couple",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:celebrity-couple-name",
+   "text": "Celebrity Couple Name",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:lovebirds",
+   "text": "Lovebirds",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:honeymoon-phase",
+   "text": "Honeymoon Phase",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:puppy-love",
+   "text": "Puppy Love",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:head-over-heels",
+   "text": "Head Over Heels",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:crush",
+   "text": "Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:secret-crush",
+   "text": "Secret Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:celebrity-crush",
+   "text": "Celebrity Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:workplace-romance",
+   "text": "Workplace Romance",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:office-romance",
+   "text": "Office Romance",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:friends-to-lovers",
+   "text": "Friends To Lovers",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:enemies-to-lovers",
+   "text": "Enemies To Lovers",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:rom-com",
+   "text": "Rom-Com",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:meet-cute",
+   "text": "Meet Cute",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:grand-gesture",
+   "text": "Grand Gesture",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:boombox-over-the-head",
+   "text": "Boombox Over The Head",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:running-through-the-airport",
+   "text": "Running Through The Airport",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-letter",
+   "text": "Love Letter",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-song",
+   "text": "Love Song",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:serenade",
+   "text": "Serenade",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:mixtape-for-a-crush",
+   "text": "Mixtape For A Crush",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:flowers",
+   "text": "Flowers",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:dozen-roses",
+   "text": "Dozen Roses",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:box-of-chocolates",
+   "text": "Box Of Chocolates",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:valentine-s-day",
+   "text": "Valentine's Day",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:valentine-s-card",
+   "text": "Valentine's Card",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cupid",
+   "text": "Cupid",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:candlelit-dinner",
+   "text": "Candlelit Dinner",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:romantic-getaway",
+   "text": "Romantic Getaway",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:weekend-away",
+   "text": "Weekend Away",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:bed-and-breakfast",
+   "text": "Bed And Breakfast",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:sunset-walk",
+   "text": "Sunset Walk",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:walk-on-the-beach",
+   "text": "Walk On The Beach",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:stargazing",
+   "text": "Stargazing",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:slow-dancing",
+   "text": "Slow Dancing",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:netflix-and-chill",
+   "text": "Netflix And Chill",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cuddling",
+   "text": "Cuddling",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:spooning",
+   "text": "Spooning",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:big-spoon",
+   "text": "Big Spoon",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:little-spoon",
+   "text": "Little Spoon",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cuddle-season",
+   "text": "Cuddle Season",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:cuffing-season",
+   "text": "Cuffing Season",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:morning-breath-kiss",
+   "text": "Morning Breath Kiss",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:stealing-the-covers",
+   "text": "Stealing The Covers",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:hogging-the-blanket",
+   "text": "Hogging The Blanket",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:leaving-a-toothbrush",
+   "text": "Leaving A Toothbrush",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:drawer-at-their-place",
+   "text": "Drawer At Their Place",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:wearing-their-hoodie",
+   "text": "Wearing Their Hoodie",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:boyfriend-jeans",
+   "text": "Boyfriend Jeans",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:meeting-the-friends",
+   "text": "Meeting The Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:meeting-the-family",
+   "text": "Meeting The Family",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:holidays-with-the-family",
+   "text": "Holidays With The Family",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:first-fight",
+   "text": "First Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:making-up",
+   "text": "Making Up",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:make-up-kiss",
+   "text": "Make-Up Kiss",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:silent-treatment",
+   "text": "Silent Treatment",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:i-m-fine",
+   "text": "I'm Fine",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:we-need-to-talk",
+   "text": "We Need To Talk",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:couples-therapy",
+   "text": "Couples Therapy",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:moving-in-together",
+   "text": "Moving In Together",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:splitting-rent",
+   "text": "Splitting Rent",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:joint-bank-account",
+   "text": "Joint Bank Account",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:adopting-a-dog-together",
+   "text": "Adopting A Dog Together",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:anniversary",
+   "text": "Anniversary",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:monthiversary",
+   "text": "Monthiversary",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:forgetting-the-anniversary",
+   "text": "Forgetting The Anniversary",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:saying-i-love-you",
+   "text": "Saying I Love You",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-you-too",
+   "text": "Love You Too",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-you-more",
+   "text": "Love You More",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:no-you-hang-up",
+   "text": "No You Hang Up",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:long-distance-relationship",
+   "text": "Long-Distance Relationship",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:jealous-partner",
+   "text": "Jealous Partner",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:clingy",
+   "text": "Clingy",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:needy",
+   "text": "Needy",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:overprotective",
+   "text": "Overprotective",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:high-maintenance",
+   "text": "High Maintenance",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:low-maintenance",
+   "text": "Low Maintenance",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:commitment-issues",
+   "text": "Commitment Issues",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:commitment-phobe",
+   "text": "Commitment-Phobe",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:player",
+   "text": "Player",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:heartbreaker",
+   "text": "Heartbreaker",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:smooth-talker",
+   "text": "Smooth Talker",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:hopeless-romantic",
+   "text": "Hopeless Romantic",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:wingman-duty",
+   "text": "Wingman Duty",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:matchmaker",
+   "text": "Matchmaker",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:love-guru",
+   "text": "Love Guru",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:dating-coach",
+   "text": "Dating Coach",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:relationship-advice",
+   "text": "Relationship Advice",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:breakup",
+   "text": "Breakup",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:dumped",
+   "text": "Dumped",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:getting-dumped",
+   "text": "Getting Dumped",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:it-s-not-you-it-s-me",
+   "text": "It's Not You It's Me",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:taking-a-break",
+   "text": "Taking A Break",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:we-were-on-a-break",
+   "text": "We Were On A Break",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:on-again-off-again",
+   "text": "On Again Off Again",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:conscious-uncoupling",
+   "text": "Conscious Uncoupling",
+   "difficulty": 3
+  },
+  {
+   "id": "dating:mutual-breakup",
+   "text": "Mutual Breakup",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:breakup-song",
+   "text": "Breakup Song",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:breakup-haircut",
+   "text": "Breakup Haircut",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:rebound",
+   "text": "Rebound",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:revenge-body",
+   "text": "Revenge Body",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:glow-up",
+   "text": "Glow Up",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:ice-cream-and-tears",
+   "text": "Ice Cream And Tears",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:heartbroken",
+   "text": "Heartbroken",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:broken-heart",
+   "text": "Broken Heart",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:heartache",
+   "text": "Heartache",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:moving-on",
+   "text": "Moving On",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:unfollowing-your-ex",
+   "text": "Unfollowing Your Ex",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:blocking-your-ex",
+   "text": "Blocking Your Ex",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:ex-texting-you",
+   "text": "Ex Texting You",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:drunk-texting-your-ex",
+   "text": "Drunk Texting Your Ex",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:getting-back-together",
+   "text": "Getting Back Together",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:ex-files",
+   "text": "Ex Files",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:the-one-that-got-away",
+   "text": "The One That Got Away",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:exes-being-friends",
+   "text": "Exes Being Friends",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:returning-their-stuff",
+   "text": "Returning Their Stuff",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:box-of-their-stuff",
+   "text": "Box Of Their Stuff",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:custody-of-the-dog",
+   "text": "Custody Of The Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:single-life",
+   "text": "Single Life",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:single-and-ready-to-mingle",
+   "text": "Single And Ready To Mingle",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:forever-alone",
+   "text": "Forever Alone",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cat-lady",
+   "text": "Cat Lady",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:eligible-bachelor",
+   "text": "Eligible Bachelor",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:bachelor-pad",
+   "text": "Bachelor Pad",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:galentine-s-day",
+   "text": "Galentine's Day",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:self-love",
+   "text": "Self-Love",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:dating-yourself",
+   "text": "Dating Yourself",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:table-for-one",
+   "text": "Table For One",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:engagement",
+   "text": "Engagement",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:engagement-ring",
+   "text": "Engagement Ring",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:down-on-one-knee",
+   "text": "Down On One Knee",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:popping-the-question",
+   "text": "Popping The Question",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:will-you-marry-me",
+   "text": "Will You Marry Me",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:she-said-yes",
+   "text": "She Said Yes",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:proposal",
+   "text": "Proposal",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:surprise-proposal",
+   "text": "Surprise Proposal",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:asking-for-permission",
+   "text": "Asking For Permission",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:fiance",
+   "text": "Fiance",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:engagement-photos",
+   "text": "Engagement Photos",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:wedding-bells",
+   "text": "Wedding Bells",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:wedding-planning",
+   "text": "Wedding Planning",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:save-the-date",
+   "text": "Save The Date",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:cold-feet",
+   "text": "Cold Feet",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:runaway-bride",
+   "text": "Runaway Bride",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:walking-down-the-aisle",
+   "text": "Walking Down The Aisle",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:exchanging-vows",
+   "text": "Exchanging Vows",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:you-may-kiss-the-bride",
+   "text": "You May Kiss The Bride",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:just-married",
+   "text": "Just Married",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:honeymoon",
+   "text": "Honeymoon",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:newlyweds",
+   "text": "Newlyweds",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:happily-ever-after",
+   "text": "Happily Ever After",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:soulmate",
+   "text": "Soulmate",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:the-one",
+   "text": "The One",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:twin-flame",
+   "text": "Twin Flame",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:meant-to-be",
+   "text": "Meant To Be",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:better-together",
+   "text": "Better Together",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:love-triangle",
+   "text": "Love Triangle",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:secret-admirer",
+   "text": "Secret Admirer",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:mystery-date",
+   "text": "Mystery Date",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:dating-show",
+   "text": "Dating Show",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:rose-ceremony",
+   "text": "Rose Ceremony",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:final-rose",
+   "text": "Final Rose",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:love-island",
+   "text": "Love Island",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:dating-reality-show",
+   "text": "Dating Reality Show",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:thirst-trap",
+   "text": "Thirst Trap",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:rizz",
+   "text": "Rizz",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:unspoken-rizz",
+   "text": "Unspoken Rizz",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:smooth-operator",
+   "text": "Smooth Operator",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:shooting-your-shot",
+   "text": "Shooting Your Shot",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:missed-connection",
+   "text": "Missed Connection",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hit-on",
+   "text": "Hit On",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:getting-their-number",
+   "text": "Getting Their Number",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:fake-number",
+   "text": "Fake Number",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:friend-of-a-friend",
+   "text": "Friend Of A Friend",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hot-neighbor",
+   "text": "Hot Neighbor",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:barista-crush",
+   "text": "Barista Crush",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:gym-crush",
+   "text": "Gym Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:work-wife",
+   "text": "Work Wife",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:work-husband",
+   "text": "Work Husband",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:age-gap",
+   "text": "Age Gap",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:wandering-eye",
+   "text": "Wandering Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:checking-them-out",
+   "text": "Checking Them Out",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:caught-checking-them-out",
+   "text": "Caught Checking Them Out",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:hickey",
+   "text": "Hickey",
+   "difficulty": 2
+  },
+  {
+   "id": "dating:kiss-and-tell",
+   "text": "Kiss And Tell",
+   "difficulty": 1
+  },
+  {
+   "id": "dating:spill-the-tea",
+   "text": "Spill The Tea",
+   "difficulty": 1
+  }
+ ]
+}
