@@ -20,4 +20,4 @@ that you choose to send. We never receive it.
 **Changes.** If this ever changes (for example, if an optional tip jar is added), this policy and
 the store privacy labels will be updated before the release that changes it.
 
-**Contact.** Questions: ajha5236@gmail.com
+**Contact.** Questions: SUPPORT_EMAIL (set before release; the store listings need a live support address)
