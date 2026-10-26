@@ -1,0 +1,580 @@
+# Food & Drink: dishes from many cuisines, snacks, desserts, drinks, ingredients, cooking terms.
+# Batch 1: dishes and meals
+Pizza | 1
+Hamburger | 1
+Cheeseburger | 1
+Hot Dog | 1
+Spaghetti And Meatballs | 1
+Macaroni And Cheese | 1
+Grilled Cheese | 1
+Peanut Butter And Jelly | 1
+Chicken Nuggets | 1
+Fried Chicken | 1
+Fish And Chips | 1
+Tacos | 1
+Burrito | 1
+Nachos | 1
+Quesadilla | 2
+Enchilada | 2
+Fajitas | 2
+Guacamole | 1
+Salsa | 1
+Sushi | 1
+Ramen | 1
+Fried Rice | 1
+Dumplings | 1
+Spring Roll | 2
+Egg Roll | 2
+Fortune Cookie | 1
+Sweet And Sour Chicken | 2
+Pad Thai | 2
+Curry | 1
+Butter Chicken | 2
+Naan Bread | 2
+Samosa | 2
+Lasagna | 1
+Ravioli | 2
+Fettuccine Alfredo | 2
+Risotto | 3
+Gnocchi | 3
+Pesto | 2
+Paella | 3
+Croissant | 2
+Crepes | 2
+French Toast | 1
+Quiche | 3
+Fondue | 2
+Hummus | 2
+Falafel | 2
+Kebab | 2
+Gyro | 3
+Pita Bread | 2
+Shepherd's Pie | 2
+Pot Roast | 2
+Meatloaf | 2
+Chicken Noodle Soup | 1
+Tomato Soup | 1
+Clam Chowder | 2
+Chili | 1
+Beef Stew | 2
+Corn Dog | 1
+Pigs In A Blanket | 2
+Buffalo Wings | 2
+Mashed Potatoes | 1
+Baked Potato | 1
+French Fries | 1
+Onion Rings | 1
+Potato Salad | 2
+Coleslaw | 2
+Caesar Salad | 2
+Corn On The Cob | 1
+Garlic Bread | 1
+Meatball Sub | 2
+Club Sandwich | 2
+BLT | 3
+Sloppy Joe | 2
+Philly Cheesesteak | 2
+Lobster Roll | 3
+Fish Taco | 2
+Chicken Parmesan | 2
+Stir Fry | 2
+Teriyaki Chicken | 2
+Orange Chicken | 2
+Kung Pao Chicken | 3
+Peking Duck | 3
+Dim Sum | 3
+Bibimbap | 3
+Pho | 3
+Tikka Masala | 3
+Biryani | 3
+Ceviche | 3
+Empanada | 3
+Pierogi | 3
+Goulash | 3
+Bratwurst | 3
+Sauerkraut | 3
+Pretzel | 1
+Bagel And Cream Cheese | 1
+Eggs Benedict | 3
+Breakfast Burrito | 2
+Chicken Pot Pie | 2
+Tuna Melt | 3
+# Batch 2: breakfast, snacks, sweets
+Pancakes | 1
+Waffles | 1
+Scrambled Eggs | 1
+Sunny Side Up | 2
+Omelette | 1
+Bacon And Eggs | 1
+Hash Browns | 2
+Breakfast In Bed | 1
+Cereal | 1
+Oatmeal | 1
+Granola | 2
+Yogurt Parfait | 2
+Toast And Jam | 1
+Avocado Toast | 2
+Cinnamon Roll | 1
+Blueberry Muffin | 1
+Donut | 1
+Maple Syrup | 1
+Popcorn | 1
+Potato Chips | 1
+Tortilla Chips | 2
+Cheese Puffs | 2
+Trail Mix | 2
+Beef Jerky | 2
+Granola Bar | 2
+Rice Cake | 2
+Animal Crackers | 1
+Goldfish Crackers | 2
+Cheese And Crackers | 1
+Mozzarella Sticks | 2
+Deviled Eggs | 3
+Pickle | 1
+Olives | 2
+Peanuts | 1
+Popsicle | 1
+Ice Cream Cone | 1
+Ice Cream Sundae | 1
+Banana Split | 1
+Milkshake | 1
+Root Beer Float | 2
+Snow Cone | 1
+Frozen Yogurt | 2
+Sherbet | 3
+Gelato | 2
+Chocolate Cake | 1
+Birthday Cake | 1
+Cupcake | 1
+Cheesecake | 1
+Carrot Cake | 2
+Wedding Cake | 1
+Upside Down Cake | 3
+Apple Pie | 1
+Pumpkin Pie | 1
+Key Lime Pie | 2
+Cherry Pie | 2
+Brownie | 1
+Chocolate Chip Cookie | 1
+Oatmeal Raisin Cookie | 2
+Gingerbread Man | 1
+Sugar Cookie | 2
+Macaron | 3
+Cannoli | 3
+Tiramisu | 3
+Creme Brulee | 3
+Chocolate Mousse | 3
+Pudding | 1
+Jell-O | 1
+Rice Pudding | 2
+Churros | 2
+Funnel Cake | 2
+Cotton Candy | 1
+Candy Apple | 1
+Candy Cane | 1
+Lollipop | 1
+Gummy Bears | 1
+Jelly Beans | 1
+Chocolate Bar | 1
+Marshmallow | 1
+S'mores | 1
+Bubble Gum | 1
+Licorice | 2
+Rock Candy | 2
+Candy Corn | 2
+Peppermint | 2
+Toffee | 3
+Fudge | 2
+Whipped Cream | 1
+Sprinkles | 1
+Frosting | 1
+Pop Tart | 2
+Chocolate Fountain | 2
+Baklava | 3
+Fruitcake | 2
+Strudel | 3
+Eclair | 3
+Cream Puff | 3
+Shortcake | 3
+Peach Cobbler | 3
+Bread Pudding | 3
+# Batch 3: fruits, vegetables, ingredients
+Apple | 1
+Banana | 1
+Orange | 1
+Strawberry | 1
+Watermelon | 1
+Pineapple | 1
+Grapes | 1
+Cherry | 1
+Lemon | 1
+Lime | 1
+Peach | 1
+Pear | 1
+Mango | 1
+Coconut | 1
+Blueberries | 1
+Raspberry | 2
+Kiwi | 2
+Cantaloupe | 2
+Grapefruit | 2
+Pomegranate | 2
+Avocado | 1
+Plum | 2
+Apricot | 2
+Fig | 3
+Papaya | 2
+Dragon Fruit | 3
+Passion Fruit | 3
+Cranberry | 2
+Raisin | 1
+Prune | 2
+Carrot | 1
+Broccoli | 1
+Corn | 1
+Potato | 1
+Sweet Potato | 1
+Tomato | 1
+Onion | 1
+Garlic | 1
+Lettuce | 1
+Cucumber | 1
+Celery | 2
+Spinach | 1
+Kale | 2
+Cauliflower | 2
+Brussels Sprouts | 2
+Asparagus | 2
+Zucchini | 2
+Eggplant | 2
+Bell Pepper | 1
+Jalapeno | 2
+Mushroom | 1
+Pumpkin | 1
+Peas In A Pod | 1
+Green Beans | 1
+Radish | 2
+Beet | 2
+Artichoke | 3
+Cabbage | 2
+Turnip | 3
+Bok Choy | 3
+Ginger | 2
+Basil | 2
+Cilantro | 3
+Parsley | 2
+Cinnamon | 1
+Black Pepper | 1
+Salt | 1
+Sugar | 1
+Honey | 1
+Flour | 1
+Butter | 1
+Olive Oil | 1
+Vinegar | 2
+Soy Sauce | 1
+Ketchup | 1
+Mustard | 1
+Mayonnaise | 1
+Ranch Dressing | 2
+Barbecue Sauce | 1
+Hot Sauce | 1
+Gravy | 2
+Peanut Butter | 1
+Nutella | 2
+Brown Sugar | 2
+Vanilla Extract | 2
+Baking Soda | 2
+Yeast | 3
+Cornstarch | 3
+Bread Crumbs | 2
+Tofu | 2
+Quinoa | 3
+Lentils | 3
+Chickpeas | 2
+Kidney Beans | 2
+Rice | 1
+Noodles | 1
+Tortilla | 2
+Sourdough | 2
+Baguette | 2
+Rye Bread | 3
+# Batch 4: drinks, dairy, meat and seafood
+Hot Chocolate | 1
+Lemonade | 1
+Orange Juice | 1
+Apple Juice | 1
+Chocolate Milk | 1
+Iced Tea | 1
+Green Tea | 2
+Bubble Tea | 2
+Smoothie | 1
+Coffee | 1
+Iced Coffee | 1
+Espresso | 2
+Cappuccino | 2
+Latte | 2
+Frappuccino | 2
+Decaf | 3
+Herbal Tea | 2
+Chai Tea | 3
+Soda Pop | 1
+Root Beer | 1
+Ginger Ale | 2
+Cola | 1
+Sparkling Water | 2
+Tap Water | 1
+Coconut Water | 2
+Energy Drink | 2
+Sports Drink | 2
+Fruit Punch | 1
+Slushie | 1
+Kombucha | 3
+Eggnog | 3
+Apple Cider | 2
+Almond Milk | 2
+Oat Milk | 2
+Buttermilk | 3
+Protein Shake | 2
+Juice Box | 1
+Milk | 1
+Cheese | 1
+Swiss Cheese | 1
+Cheddar | 2
+Mozzarella | 2
+Parmesan | 2
+Brie | 3
+Blue Cheese | 2
+Cottage Cheese | 2
+Cream Cheese | 2
+String Cheese | 1
+Sour Cream | 2
+Heavy Cream | 3
+Ice Cream | 1
+Yogurt | 1
+Egg | 1
+Bacon | 1
+Sausage | 1
+Ham | 1
+Steak | 1
+Pork Chop | 2
+Lamb Chop | 2
+Ribs | 1
+Meatball | 1
+Chicken Wing | 1
+Drumstick | 1
+Salami | 2
+Pepperoni | 1
+Prosciutto | 3
+Roast Beef | 2
+Corned Beef | 3
+Shrimp | 1
+Lobster | 1
+Crab Legs | 2
+Oysters | 2
+Clams | 2
+Mussels | 3
+Salmon | 1
+Tuna | 1
+Fish Sticks | 1
+Calamari | 3
+Scallops | 3
+Caviar | 3
+Smoked Salmon | 2
+Shrimp Scampi | 3
+Surf And Turf | 3
+Pulled Pork | 2
+Brisket | 3
+Rotisserie Chicken | 2
+Thanksgiving Turkey | 1
+Christmas Ham | 2
+Veggie Burger | 2
+Chicken Tenders | 1
+Hot Pot | 3
+Kimchi | 3
+Miso Soup | 2
+Edamame | 3
+Tempura | 3
+Wasabi | 2
+California Roll | 2
+# Batch 5: cooking terms, meals and food moments
+Barbecue | 1
+Picnic | 1
+Potluck | 2
+Buffet | 2
+Brunch | 2
+Midnight Snack | 1
+Leftovers | 1
+Takeout | 1
+Drive-Thru | 1
+Kids Menu | 1
+Happy Meal | 2
+Doggy Bag | 2
+Food Truck | 1
+Bake Sale | 1
+Lemonade Stand | 1
+Salad Bar | 2
+Tasting Menu | 3
+Chef's Special | 3
+Secret Recipe | 2
+Family Recipe | 2
+Comfort Food | 2
+Junk Food | 1
+Fast Food | 1
+Health Food | 2
+Finger Food | 2
+Street Food | 2
+Soul Food | 3
+Brain Freeze | 1
+Sugar Rush | 1
+Food Coma | 2
+Food Fight | 1
+Pie Eating Contest | 1
+Hot Dog Eating Contest | 2
+Chili Cook-Off | 3
+Taste Test | 2
+Blind Taste Test | 3
+Five Second Rule | 1
+Second Helping | 2
+Clean Plate Club | 3
+All You Can Eat | 1
+Spicy | 1
+Sweet And Salty | 2
+Sour | 1
+Bitter | 2
+Crunchy | 1
+Soggy | 2
+Gooey | 2
+Burnt Toast | 1
+Undercooked | 3
+Well Done | 2
+Medium Rare | 2
+Deep Fried | 1
+Sauteed | 3
+Marinade | 3
+Seasoning | 2
+Garnish | 3
+Dipping Sauce | 2
+Gluten Free | 2
+Vegetarian | 1
+Vegan | 2
+Sugar Free | 2
+Organic | 2
+Free Range | 3
+Farm To Table | 3
+Homemade | 1
+Microwave Dinner | 2
+TV Dinner | 2
+Frozen Pizza | 1
+Instant Noodles | 1
+Canned Soup | 2
+Baby Food | 1
+Sack Lunch | 2
+School Lunch | 1
+Cafeteria Tray | 2
+Bread Basket | 2
+Breadstick | 2
+Soup Of The Day | 2
+Pizza Delivery | 1
+Deep Dish Pizza | 2
+Pineapple Pizza | 2
+Thin Crust | 2
+Stuffed Crust | 2
+Extra Cheese | 1
+Double Cheeseburger | 2
+Slider | 2
+Combo Meal | 2
+Supersize | 3
+Ice Cream Truck | 1
+Gumball Machine | 1
+Vending Machine | 1
+Cooking Show | 2
+Recipe Card | 2
+Grocery List | 1
+# Batch 6: more dishes, breads, nuts and treats
+Lentil Soup | 3
+French Onion Soup | 2
+Gazpacho | 3
+Minestrone | 3
+Egg Drop Soup | 3
+Chicken Curry | 2
+Fried Egg | 1
+Hard Boiled Egg | 1
+Egg Salad | 2
+Chicken Salad | 2
+Fruit Salad | 1
+Greek Salad | 2
+Taco Salad | 2
+Garden Salad | 2
+Cornbread | 2
+Biscuits And Gravy | 2
+Grits | 3
+Jambalaya | 3
+Gumbo | 3
+Fried Green Tomatoes | 3
+Tater Tots | 1
+Curly Fries | 1
+Sweet Potato Fries | 2
+Chili Cheese Fries | 2
+Loaded Nachos | 2
+Poutine | 3
+Bruschetta | 3
+Caprese Salad | 3
+Calzone | 2
+Focaccia | 3
+Ciabatta | 3
+English Muffin | 2
+Dinner Roll | 1
+Banana Bread | 1
+Zucchini Bread | 3
+Pumpkin Spice | 2
+Gingerbread House | 1
+Candy Bar | 1
+Chocolate Truffle | 2
+Hot Cross Bun | 3
+Cinnamon Toast | 2
+Almond | 1
+Cashew | 2
+Walnut | 2
+Pistachio | 2
+Hazelnut | 3
+Pecan Pie | 2
+Macadamia Nut | 3
+Sunflower Seeds | 2
+Pumpkin Seeds | 2
+Popcorn Ball | 2
+Kettle Corn | 2
+Caramel Corn | 2
+Chocolate Covered Strawberry | 2
+Fruit Roll-Up | 2
+Applesauce | 1
+Fruit Cup | 2
+Pudding Cup | 2
+Lemon Meringue Pie | 3
+Boston Cream Pie | 3
+Black Forest Cake | 3
+Angel Food Cake | 3
+Pound Cake | 3
+Red Velvet Cake | 2
+Ice Cream Cake | 1
+Ice Cream Sandwich | 1
+Waffle Cone | 2
+Neapolitan Ice Cream | 3
+Mint Chocolate Chip | 2
+Cookie Dough | 1
+Cookies And Cream | 2
+Rocky Road | 3
+Butterscotch | 3
+Maple Bacon | 3
+Honey Mustard | 2
+Tartar Sauce | 3
+Salsa Verde | 3
+Queso Dip | 2
+Spinach Dip | 2
+French Onion Dip | 3
+Chips And Dip | 1
+Veggie Platter | 2
+Cheese Platter | 2
+Charcuterie Board | 3
+Peanut Butter Cup | 2

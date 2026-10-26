@@ -1,0 +1,483 @@
+# Places: types of places and buildings, plus world-famous landmarks.
+# Batch 1: everyday places in town
+School | 1
+Library | 1
+Hospital | 1
+Post Office | 1
+Fire Station | 1
+Police Station | 1
+Bank | 1
+Grocery Store | 1
+Supermarket | 1
+Shopping Mall | 1
+Movie Theater | 1
+Restaurant | 1
+Coffee Shop | 1
+Bakery | 1
+Pizzeria | 2
+Diner | 2
+Ice Cream Parlor | 1
+Candy Store | 1
+Toy Store | 1
+Bookstore | 1
+Pet Shop | 1
+Flower Shop | 1
+Hardware Store | 2
+Pharmacy | 1
+Gas Station | 1
+Car Wash | 1
+Laundromat | 2
+Barbershop | 1
+Hair Salon | 1
+Nail Salon | 2
+Dentist's Office | 1
+Doctor's Office | 1
+Waiting Room | 2
+Emergency Room | 1
+Gym | 1
+Swimming Pool | 1
+Bowling Alley | 1
+Roller Rink | 2
+Ice Rink | 1
+Arcade | 1
+Skate Park | 1
+Playground | 1
+Park | 1
+Dog Park | 1
+Community Center | 2
+Town Hall | 2
+City Hall | 2
+Courthouse | 2
+Jail | 1
+Museum | 1
+Art Gallery | 2
+Aquarium | 1
+Zoo | 1
+Planetarium | 2
+Concert Hall | 2
+Opera House | 2
+Stadium | 1
+Ballpark | 2
+Golf Course | 1
+Mini Golf | 1
+Tennis Court | 1
+Basketball Court | 1
+Football Field | 1
+Race Track | 2
+Parking Lot | 1
+Parking Garage | 2
+Bus Stop | 1
+Train Station | 1
+Subway Station | 2
+Airport | 1
+Harbor | 2
+Marina | 2
+Lighthouse | 1
+Bridge | 1
+Tunnel | 1
+Highway | 1
+Rest Stop | 2
+Truck Stop | 2
+Toll Booth | 2
+Motel | 2
+Hotel Lobby | 1
+Bed And Breakfast | 2
+Campground | 1
+Cabin In The Woods | 2
+Summer Camp | 1
+Retirement Home | 2
+Daycare | 1
+Kindergarten | 1
+High School | 1
+College Campus | 1
+Dorm Room | 1
+Classroom | 1
+Principal's Office | 1
+Teachers' Lounge | 2
+Cafeteria | 1
+Locker Room | 1
+Science Lab | 2
+# Batch 2: nature and outdoor places
+Beach | 1
+Desert | 1
+Jungle | 1
+Rainforest | 1
+Forest | 1
+Mountain | 1
+Volcano | 1
+Waterfall | 1
+Cave | 1
+Island | 1
+Desert Island | 1
+Lake | 1
+River | 1
+Pond | 1
+Swamp | 1
+Glacier | 2
+Iceberg | 1
+Canyon | 2
+Valley | 2
+Meadow | 2
+Prairie | 2
+Savanna | 3
+Tundra | 3
+Oasis | 2
+Lagoon | 3
+Hot Spring | 2
+Geyser | 2
+Sand Dune | 2
+Cliff | 1
+Hilltop | 3
+Mountain Peak | 2
+Ski Slope | 1
+Bunny Slope | 3
+Hiking Trail | 1
+Nature Trail | 2
+National Park | 1
+Botanical Garden | 2
+Rose Garden | 2
+Orchard | 2
+Pumpkin Patch | 1
+Corn Maze | 1
+Farm | 1
+Barn | 1
+Chicken Coop | 1
+Pig Pen | 1
+Stable | 2
+Ranch | 2
+Haunted House | 1
+Haunted Forest | 2
+Graveyard | 1
+Secret Garden | 2
+Hedge Maze | 2
+Treetop | 2
+Riverbank | 2
+Seashore | 3
+Boardwalk | 2
+Pier | 2
+Tide Pool | 2
+Sandbar | 3
+Coral Reef | 2
+Shipwreck | 2
+Deep Ocean | 2
+Ocean Floor | 2
+North Pole | 1
+South Pole | 1
+Arctic | 2
+Antarctica | 1
+Outer Space | 1
+The Moon | 1
+Mars | 1
+Space Station | 1
+Black Hole | 2
+Milky Way | 2
+Equator | 2
+Bermuda Triangle | 2
+Mountain Pass | 3
+Rainbow's End | 3
+Underwater Cave | 3
+Crater | 2
+Bog | 3
+Marsh | 3
+Fjord | 3
+Rice Paddy | 3
+Wheat Field | 2
+Sunflower Field | 2
+Tulip Field | 3
+Bamboo Forest | 2
+Redwood Forest | 2
+Picnic Spot | 2
+Fishing Hole | 3
+Swimming Hole | 3
+Bird Sanctuary | 3
+Nature Reserve | 3
+# Batch 3: buildings, venues and fun destinations
+Amusement Park | 1
+Theme Park | 1
+Water Park | 1
+Roller Coaster | 1
+Ferris Wheel | 1
+Haunted Hayride | 2
+Carnival | 1
+Circus Tent | 1
+County Fair | 2
+Flea Market | 2
+Farmers Market | 2
+Night Market | 3
+Drive-In Movie | 2
+Escape Room | 2
+Laser Tag Arena | 2
+Trampoline Park | 2
+Go-Kart Track | 2
+Batting Cage | 2
+Driving Range | 2
+Climbing Wall | 2
+Bounce House | 1
+Ball Pit | 1
+Indoor Playground | 2
+Comedy Club | 2
+Dance Studio | 2
+Recording Studio | 2
+TV Studio | 2
+Movie Set | 2
+Backstage | 2
+Front Row | 2
+Box Office | 2
+Concession Stand | 3
+Gift Shop | 1
+Lost And Found | 2
+Information Desk | 3
+Food Court | 1
+Elevator | 1
+Escalator | 1
+Rooftop | 1
+Penthouse | 2
+Skyscraper | 1
+Apartment Building | 1
+Office Building | 1
+Cubicle | 2
+Break Room | 2
+Conference Room | 2
+Boardroom | 3
+Warehouse | 2
+Factory | 1
+Assembly Line | 2
+Power Plant | 2
+Wind Farm | 2
+Junkyard | 1
+Landfill | 2
+Recycling Center | 2
+Construction Site | 1
+Oil Rig | 2
+Mine Shaft | 2
+Gold Mine | 2
+Castle | 1
+Palace | 1
+Mansion | 1
+Igloo | 1
+Tepee | 2
+Log Cabin | 1
+Farmhouse | 1
+Cottage | 1
+Houseboat | 2
+Tiny House | 2
+Bungalow | 3
+Townhouse | 3
+Duplex | 3
+Castle Tower | 2
+Dungeon | 1
+Moat | 2
+Drawbridge | 2
+Throne Room | 2
+Ballroom | 2
+Secret Passage | 2
+Hidden Room | 2
+Treasure Island | 2
+Pirate Ship | 1
+Submarine | 1
+Cruise Ship | 1
+Hot Air Balloon | 1
+Airplane Cabin | 2
+Cockpit | 2
+Control Tower | 2
+Baggage Claim | 1
+Security Line | 2
+Departure Gate | 2
+Duty Free Shop | 3
+Customs | 3
+# Batch 4: world-famous landmarks
+Eiffel Tower | 1
+Statue Of Liberty | 1
+Great Wall Of China | 1
+Pyramids Of Giza | 1
+The Sphinx | 2
+Taj Mahal | 1
+Big Ben | 1
+Leaning Tower Of Pisa | 1
+Colosseum | 1
+Stonehenge | 1
+Mount Everest | 1
+Grand Canyon | 1
+Niagara Falls | 1
+Golden Gate Bridge | 1
+Mount Rushmore | 1
+Hollywood Sign | 1
+Sydney Opera House | 1
+Machu Picchu | 2
+Christ The Redeemer | 2
+Easter Island | 2
+Great Barrier Reef | 1
+Amazon Rainforest | 1
+Sahara Desert | 1
+Nile River | 1
+Mount Fuji | 2
+Buckingham Palace | 1
+Tower Of London | 2
+Tower Bridge | 2
+London Eye | 2
+Louvre Museum | 2
+Arc De Triomphe | 2
+Notre Dame | 2
+Vatican City | 2
+Sistine Chapel | 2
+Trevi Fountain | 2
+Venice Canals | 2
+Acropolis | 3
+Parthenon | 3
+Forbidden City | 3
+Angkor Wat | 3
+Petra | 3
+Burj Khalifa | 2
+Empire State Building | 1
+Times Square | 1
+Central Park | 1
+Las Vegas Strip | 2
+Disneyland | 1
+Walt Disney World | 1
+White House | 1
+Brooklyn Bridge | 2
+Alcatraz | 2
+Yellowstone | 2
+Death Valley | 3
+Victoria Falls | 3
+Mount Kilimanjaro | 2
+Galapagos Islands | 2
+Northern Lights | 1
+Dead Sea | 2
+Red Square | 2
+Kremlin | 3
+Neuschwanstein Castle | 3
+Edinburgh Castle | 3
+Windsor Castle | 3
+Loch Ness | 2
+Panama Canal | 2
+Suez Canal | 3
+Valley Of The Kings | 3
+Table Mountain | 3
+Uluru | 3
+Golden Temple | 3
+Terracotta Army | 3
+Hagia Sophia | 3
+Blue Lagoon | 3
+Mount Vesuvius | 3
+Wall Street | 2
+Broadway | 1
+Hollywood Walk Of Fame | 2
+Abbey Road | 2
+Champs-Elysees | 3
+Shibuya Crossing | 3
+Matterhorn | 3
+Swiss Alps | 2
+Grand Bazaar | 3
+Amazon River | 1
+Mississippi River | 1
+Rocky Mountains | 1
+# Batch 5: more place types (leaning harder)
+Antique Shop | 2
+Thrift Store | 2
+Pawn Shop | 3
+Department Store | 2
+Dollar Store | 2
+Corner Store | 2
+Convenience Store | 2
+Outlet Mall | 3
+Shoe Store | 1
+Jewelry Store | 2
+Music Store | 2
+Video Store | 3
+Sporting Goods Store | 3
+Furniture Store | 2
+Craft Store | 2
+Tailor Shop | 3
+Butcher Shop | 2
+Fish Market | 2
+Deli Counter | 2
+Juice Bar | 3
+Tea House | 3
+Sushi Bar | 2
+Steakhouse | 2
+Fast Food Joint | 2
+Hot Dog Stand | 1
+Tattoo Parlor | 2
+Spa | 1
+Sauna | 2
+Yoga Studio | 2
+Martial Arts Dojo | 3
+Boxing Ring | 2
+Wrestling Ring | 2
+Bullpen | 3
+Dugout | 2
+End Zone | 2
+Penalty Box | 3
+Finish Line | 1
+Starting Line | 2
+Winner's Podium | 2
+Olympic Village | 3
+Press Box | 3
+Bleachers | 2
+Skybox | 3
+Pit Stop | 2
+Car Dealership | 2
+Auto Repair Shop | 2
+Fire Escape | 2
+Back Alley | 2
+Dead End | 2
+Cul-De-Sac | 3
+Roundabout | 2
+Crosswalk | 1
+Intersection | 2
+Overpass | 3
+Sidewalk | 1
+Main Street | 2
+Town Square | 2
+Village Green | 3
+Suburbs | 2
+Downtown | 1
+Chinatown | 2
+Old Town | 3
+Ghost Town | 2
+Small Town | 1
+Big City | 1
+Countryside | 2
+Wilderness | 2
+Middle Of Nowhere | 2
+Backyard | 1
+Front Yard | 1
+Tree Fort | 2
+Pillow Fort | 1
+Kids' Table | 2
+Embassy | 3
+Capitol Building | 3
+Observatory | 2
+Research Lab | 3
+Weather Station | 3
+Mission Control | 2
+Launch Pad | 2
+Radio Station | 2
+Newsroom | 3
+Bank Vault | 2
+Wishing Well | 2
+Fountain | 1
+# Batch 6: top-up
+Rainforest Canopy | 3
+Mountain Lodge | 3
+Ski Lodge | 2
+Beach Hut | 3
+Lifeguard Tower | 2
+Surf Shack | 3
+Snack Bar | 2
+Bus Terminal | 3
+Ferry Terminal | 3
+Cargo Ship | 3
+Dry Cleaner | 3
+Maternity Ward | 3
+Photo Booth | 2
+Fitting Room | 2
+Food Pantry | 3
+Soup Kitchen | 3
+Animal Hospital | 2
+Pet Hotel | 3
+Cat Cafe | 3
+Toy Factory | 2
+Chocolate Factory | 2
+Santa's Workshop | 2

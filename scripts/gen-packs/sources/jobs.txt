@@ -1,0 +1,367 @@
+# Jobs: occupations and roles, from everyday to unusual-but-known.
+# Batch 1: everyday jobs
+Teacher | 1
+Doctor | 1
+Nurse | 1
+Firefighter | 1
+Police Officer | 1
+Dentist | 1
+Chef | 1
+Baker | 1
+Farmer | 1
+Pilot | 1
+Astronaut | 1
+Mail Carrier | 1
+Bus Driver | 1
+Taxi Driver | 1
+Truck Driver | 1
+Lifeguard | 1
+Librarian | 1
+Mechanic | 1
+Plumber | 1
+Electrician | 1
+Carpenter | 1
+Construction Worker | 1
+Painter | 1
+Hairdresser | 1
+Barber | 1
+Waiter | 1
+Cashier | 1
+Janitor | 1
+Veterinarian | 1
+Zookeeper | 1
+Lawyer | 1
+Judge | 1
+Scientist | 1
+Banker | 1
+Accountant | 2
+Architect | 1
+Engineer | 2
+Pharmacist | 1
+Surgeon | 1
+Paramedic | 1
+Dental Hygienist | 2
+Optometrist | 3
+Pediatrician | 2
+Babysitter | 1
+Nanny | 1
+Principal | 1
+Coach | 1
+Referee | 1
+Umpire | 2
+Lunch Lady | 2
+Crossing Guard | 2
+School Bus Driver | 1
+Garbage Collector | 1
+Gardener | 1
+Landscaper | 2
+Florist | 1
+Butcher | 1
+Fisherman | 1
+Lumberjack | 1
+Cowboy | 1
+Rancher | 2
+Beekeeper | 1
+Sailor | 1
+Ship Captain | 1
+Soldier | 1
+Security Guard | 1
+Detective | 1
+Private Investigator | 2
+Spy | 1
+Secret Agent | 1
+Bodyguard | 1
+Mayor | 1
+President | 1
+Senator | 2
+Ambassador | 3
+Reporter | 1
+News Anchor | 2
+Weather Forecaster | 1
+Photographer | 1
+Artist | 1
+Musician | 1
+Singer | 1
+Dancer | 1
+Actor | 1
+Comedian | 1
+Magician | 1
+Clown | 1
+Juggler | 1
+Ringmaster | 2
+Acrobat | 1
+Author | 1
+Poet | 2
+Editor | 2
+Translator | 2
+Tour Guide | 1
+Travel Agent | 2
+Flight Attendant | 1
+Air Traffic Controller | 2
+Hotel Concierge | 3
+Bellhop | 1
+# Batch 2: trades, services, specialists
+Locksmith | 1
+Roofer | 2
+Welder | 2
+Bricklayer | 2
+Window Washer | 1
+Chimney Sweep | 2
+Exterminator | 2
+Handyman | 1
+Repairman | 2
+Tow Truck Driver | 2
+Delivery Driver | 1
+Pizza Delivery Guy | 1
+Paperboy | 2
+Furniture Mover | 2
+Personal Trainer | 1
+Yoga Instructor | 1
+Swim Instructor | 2
+Ski Instructor | 2
+Driving Instructor | 2
+Dog Walker | 1
+Dog Groomer | 2
+Pet Sitter | 2
+House Cleaner | 1
+Maid | 1
+Butler | 1
+Personal Chef | 2
+Personal Shopper | 3
+Wedding Planner | 2
+Event Planner | 2
+Party Clown | 2
+DJ | 1
+Barista | 1
+Sushi Chef | 1
+Pastry Chef | 1
+Line Cook | 3
+Food Critic | 2
+Food Taster | 3
+Waitress | 1
+Restaurant Host | 2
+Busboy | 3
+Hot Dog Vendor | 2
+Ice Cream Man | 1
+Street Performer | 2
+Mime | 1
+Puppeteer | 2
+Ventriloquist | 3
+Stuntman | 1
+Stunt Double | 2
+Movie Director | 1
+Film Producer | 2
+Screenwriter | 3
+Cameraman | 2
+Makeup Artist | 2
+Costume Designer | 2
+Fashion Designer | 1
+Model | 1
+Tailor | 1
+Seamstress | 3
+Shoemaker | 2
+Jeweler | 2
+Watchmaker | 3
+Potter | 2
+Sculptor | 1
+Glassblower | 3
+Blacksmith | 2
+Tattoo Artist | 1
+Graphic Designer | 2
+Interior Designer | 2
+Web Developer | 2
+Software Engineer | 2
+Computer Programmer | 2
+Video Game Designer | 2
+Game Show Host | 1
+Talk Show Host | 2
+Radio Host | 2
+Podcaster | 2
+YouTuber | 1
+Influencer | 1
+Social Media Manager | 2
+Blogger | 2
+Journalist | 2
+Cartoonist | 2
+Illustrator | 2
+Animator | 2
+Composer | 2
+Conductor | 2
+Opera Singer | 2
+Rock Star | 1
+Drummer | 1
+Guitarist | 1
+Pianist | 1
+Violinist | 2
+Backup Dancer | 2
+Ballerina | 1
+Choreographer | 3
+# Batch 3: science, health, public service, sports, unusual-but-known
+Astronomer | 2
+Marine Biologist | 2
+Archaeologist | 2
+Paleontologist | 3
+Geologist | 3
+Meteorologist | 2
+Chemist | 2
+Botanist | 3
+Zoologist | 3
+Inventor | 1
+Mad Scientist | 1
+Lab Technician | 3
+Psychologist | 2
+Therapist | 2
+Dermatologist | 3
+Orthodontist | 2
+Chiropractor | 3
+Physical Therapist | 2
+Anesthesiologist | 3
+Radiologist | 3
+Midwife | 2
+School Nurse | 2
+Brain Surgeon | 2
+Heart Surgeon | 2
+Park Ranger | 1
+Forest Ranger | 2
+Game Warden | 3
+Dog Catcher | 2
+Coast Guard | 2
+Sheriff | 1
+Deputy | 2
+Prison Guard | 2
+Bounty Hunter | 2
+Bailiff | 3
+Court Reporter | 3
+Tax Collector | 2
+City Planner | 3
+Diplomat | 3
+Queen | 1
+King | 1
+Royal Guard | 2
+Knight | 1
+Jester | 1
+Pirate | 1
+Cowgirl | 1
+Shepherd | 2
+Pro Wrestler | 1
+Jockey | 1
+Race Car Driver | 1
+Quarterback | 2
+Goalie | 1
+Pitcher | 2
+Caddie | 2
+Ball Boy | 3
+Cheerleader | 1
+Mascot | 1
+Sports Announcer | 2
+Talent Scout | 3
+Sports Agent | 3
+Gym Teacher | 1
+Substitute Teacher | 2
+Tutor | 2
+Professor | 1
+Dean | 3
+Guidance Counselor | 2
+Camp Counselor | 2
+Teaching Assistant | 3
+Kindergarten Teacher | 1
+Lion Tamer | 2
+Snake Charmer | 1
+Fortune Teller | 1
+Treasure Hunter | 2
+Deep Sea Diver | 2
+Storm Chaser | 2
+Crab Fisherman | 3
+Oil Rig Worker | 3
+Coal Miner | 2
+Gold Prospector | 3
+Ski Patrol | 3
+Mountain Guide | 3
+Hot Air Balloon Pilot | 3
+Helicopter Pilot | 1
+Fighter Pilot | 1
+# Batch 4: office, business, retail and more
+Boss | 1
+CEO | 2
+Manager | 2
+Receptionist | 1
+Secretary | 2
+Intern | 1
+Salesperson | 2
+Car Salesman | 1
+Real Estate Agent | 2
+Insurance Agent | 2
+Stock Broker | 2
+Financial Advisor | 3
+Bank Teller | 2
+Auctioneer | 2
+Telemarketer | 2
+Customer Service Rep | 2
+Life Coach | 2
+Motivational Speaker | 2
+HR Manager | 3
+Grocery Bagger | 2
+Shelf Stocker | 3
+Store Manager | 2
+Mall Santa | 1
+Elf | 2
+Personal Assistant | 1
+Chauffeur | 2
+Valet | 2
+Doorman | 2
+Usher | 1
+Ticket Taker | 3
+Night Watchman | 3
+Toll Booth Operator | 3
+Train Conductor | 1
+Subway Driver | 3
+Ferry Captain | 3
+Crane Operator | 2
+Bulldozer Driver | 2
+Forklift Driver | 3
+Garbage Truck Driver | 2
+Street Sweeper | 2
+Snowplow Driver | 2
+Lighthouse Keeper | 2
+Zip Line Guide | 3
+Scuba Instructor | 2
+Surf Instructor | 2
+Golf Pro | 2
+Tennis Coach | 2
+Dance Teacher | 1
+Music Teacher | 1
+Art Teacher | 1
+Piano Teacher | 2
+Voice Coach | 3
+Speech Therapist | 3
+Sign Language Interpreter | 3
+Rideshare Driver | 2
+Food Blogger | 2
+Travel Blogger | 3
+Wildlife Photographer | 2
+Wedding Photographer | 2
+Paparazzi | 2
+Movie Critic | 2
+Stand-Up Comedian | 2
+Voice Actor | 2
+Child Actor | 2
+Movie Extra | 3
+Stage Manager | 3
+Lighting Technician | 3
+Sound Engineer | 3
+Car Washer | 2
+Pool Cleaner | 2
+Tree Trimmer | 3
+Farmhand | 3
+Dairy Farmer | 2
+Fruit Picker | 2
+Chocolatier | 3
+Candy Maker | 2
+Cake Decorator | 2
+Toy Maker | 2
+Ice Sculptor | 3
+Balloon Artist | 2
+Face Painter | 2
+Caricature Artist | 3
+Sand Sculptor | 3
+Cobbler | 3
