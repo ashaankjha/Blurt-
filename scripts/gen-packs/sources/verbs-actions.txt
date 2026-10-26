@@ -1,0 +1,529 @@
+# Verbs & Actions: actions and activities as short verb phrases.
+# Batch 1: body actions and everyday routines
+Sneezing | 1
+Yawning | 1
+Hiccuping | 2
+Coughing | 1
+Snoring | 2
+Sleepwalking | 2
+Blinking | 1
+Winking | 1
+Whistling | 2
+Humming | 3
+Burping | 1
+Laughing | 1
+Giggling | 2
+Crying | 1
+Smiling | 1
+Frowning | 3
+Shrugging | 3
+Nodding | 2
+Clapping | 1
+Snapping Fingers | 1
+Waving Goodbye | 1
+High Five | 1
+Fist Bump | 2
+Thumbs Up | 1
+Shaking Hands | 1
+Hugging | 1
+Tickling | 1
+Pinching | 3
+Scratching An Itch | 1
+Stretching | 2
+Cracking Knuckles | 2
+Biting Nails | 2
+Picking Your Nose | 1
+Brushing Teeth | 1
+Flossing | 2
+Combing Hair | 2
+Braiding Hair | 3
+Taking A Shower | 1
+Taking A Bath | 1
+Shaving | 2
+Getting Dressed | 2
+Tying Shoelaces | 1
+Buttoning A Shirt | 3
+Zipping Up A Jacket | 2
+Putting On Makeup | 1
+Waking Up | 1
+Hitting Snooze | 1
+Oversleeping | 2
+Taking A Nap | 1
+Tossing And Turning | 2
+Counting Sheep | 1
+Daydreaming | 2
+Sleep Talking | 2
+Eating Breakfast | 1
+Washing Hands | 1
+Blowing Your Nose | 1
+Clearing Your Throat | 3
+Holding Your Breath | 1
+Gasping | 3
+Sighing | 3
+Panting | 3
+Shivering | 2
+Sweating | 2
+Blushing | 2
+Fainting | 2
+Tripping | 1
+Slipping On Ice | 1
+Falling Asleep | 1
+Stubbing A Toe | 2
+Bumping Your Head | 1
+Sitting Down | 1
+Standing Up | 1
+Lying Down | 1
+Kneeling | 3
+Crawling | 2
+Tiptoeing | 2
+Sneaking Around | 2
+Marching | 2
+Skipping | 1
+Hopping | 2
+Jumping | 1
+Running | 1
+Jogging | 2
+Sprinting | 2
+Walking Backwards | 2
+Limping | 2
+Stomping | 2
+Pacing | 3
+Spinning | 1
+Twirling | 2
+Bowing | 2
+Curtsying | 3
+Saluting | 2
+Pointing | 2
+Beckoning | 3
+Eye Rolling | 1
+Raising Your Hand | 1
+Slouching | 3
+# Batch 2: sports, play and hobbies
+Swimming | 1
+Diving | 1
+Doing A Cannonball | 1
+Doing A Belly Flop | 1
+Treading Water | 3
+Surfing | 1
+Skiing | 1
+Snowboarding | 1
+Ice Skating | 1
+Rollerblading | 1
+Skateboarding | 1
+Riding A Bike | 1
+Doing A Wheelie | 2
+Climbing A Tree | 1
+Rock Climbing | 1
+Hiking | 1
+Camping | 1
+Fishing | 1
+Kayaking | 3
+Rowing A Boat | 2
+Sailing | 2
+Paddleboarding | 3
+Snorkeling | 2
+Bungee Jumping | 1
+Skydiving | 1
+Parachuting | 2
+Hang Gliding | 2
+Ziplining | 2
+Horseback Riding | 2
+Playing Catch | 1
+Shooting Hoops | 2
+Dribbling | 2
+Kicking A Ball | 2
+Throwing A Frisbee | 1
+Bowling A Strike | 2
+Hitting A Home Run | 1
+Sliding Into Home | 2
+Swinging A Bat | 2
+Teeing Off | 3
+Doing A Cartwheel | 1
+Doing A Handstand | 1
+Doing A Somersault | 1
+Doing The Splits | 1
+Doing Push-Ups | 1
+Doing Sit-Ups | 1
+Jumping Jacks | 1
+Lifting Weights | 2
+Doing Yoga | 1
+Meditating | 2
+Juggling | 1
+Hula Hooping | 1
+Jumping Rope | 1
+Playing Hopscotch | 1
+Playing Tag | 1
+Hide And Seek | 1
+Musical Chairs | 1
+Leapfrog | 2
+Building A Sandcastle | 1
+Building A Snowman | 1
+Making Snow Angels | 1
+Having A Snowball Fight | 1
+Sledding | 1
+Flying A Kite | 1
+Blowing Bubbles | 1
+Skipping Stones | 2
+Swinging On A Swing | 1
+Going Down A Slide | 1
+Riding A Roller Coaster | 1
+Arm Wrestling | 1
+Thumb Wrestling | 2
+Tug Of War | 1
+Pillow Fighting | 1
+Three-Legged Race | 2
+Sack Race | 2
+Egg And Spoon Race | 3
+Playing Charades | 2
+Doing A Puzzle | 1
+Knitting | 2
+Sewing | 2
+Crocheting | 3
+Painting A Picture | 1
+Drawing | 1
+Coloring | 2
+Sculpting | 2
+Whittling | 3
+Scrapbooking | 3
+Gardening | 2
+Stargazing | 2
+Taking A Selfie | 1
+Playing Video Games | 1
+Playing Guitar | 1
+Playing The Drums | 1
+Playing Piano | 1
+Singing In The Shower | 1
+Karaoke | 1
+Beatboxing | 2
+# Batch 3: cooking, eating, talking and social actions
+Chopping Onions | 1
+Flipping Pancakes | 1
+Cracking An Egg | 1
+Peeling A Banana | 2
+Stirring A Pot | 2
+Kneading Dough | 2
+Frosting A Cake | 2
+Blowing Out Candles | 1
+Licking A Spoon | 2
+Taste Testing | 2
+Slurping Noodles | 1
+Chewing Gum | 1
+Sipping Through A Straw | 2
+Gulping | 2
+Nibbling | 2
+Munching | 2
+Pouring Cereal | 1
+Making A Sandwich | 1
+Toasting Marshmallows | 1
+Grilling Burgers | 1
+Ordering Takeout | 2
+Tipping The Waiter | 2
+Splitting The Bill | 2
+Talking On The Phone | 1
+Texting | 2
+Video Chatting | 2
+Whispering | 2
+Shouting | 1
+Mumbling | 3
+Stuttering | 3
+Gossiping | 2
+Bragging | 2
+Complaining | 3
+Apologizing | 2
+Arguing | 2
+Negotiating | 3
+Interrupting | 3
+Eavesdropping | 2
+Tattling | 2
+Lying | 2
+Promising | 3
+Pinky Swear | 1
+Telling A Joke | 1
+Telling A Story | 2
+Reading Aloud | 2
+Singing A Lullaby | 2
+Giving A Speech | 1
+Proposing | 2
+Waving A Flag | 2
+Cheering | 1
+Booing | 2
+Heckling | 3
+Giving A Standing Ovation | 2
+Taking A Bow | 2
+Introducing Yourself | 2
+Making Small Talk | 3
+Name Dropping | 3
+Making Eye Contact | 2
+Giving A Compliment | 2
+Saying Thank You | 1
+Saying Cheese | 1
+Making A Wish | 1
+Wishing On A Star | 1
+Crossing Your Fingers | 1
+Knocking On Wood | 2
+Making Faces | 1
+Sticking Out Your Tongue | 1
+Pulling A Prank | 1
+Playing Peekaboo | 1
+Sneaking A Cookie | 1
+Hiding Behind A Curtain | 2
+Throwing A Tantrum | 1
+Pouting | 2
+Sulking | 3
+Begging | 2
+Bargaining | 3
+Haggling | 3
+Waiting In Line | 1
+Cutting In Line | 1
+Saving A Seat | 2
+Holding The Door | 2
+Ringing The Doorbell | 2
+Knocking On A Door | 1
+Ding Dong Ditch | 2
+Sending A Letter | 2
+Wrapping A Present | 1
+Opening A Present | 1
+Throwing A Surprise Party | 1
+Blowing Up Balloons | 1
+Popping A Balloon | 1
+Leaving A Voicemail | 2
+Hanging Up | 2
+Dialing | 3
+Unboxing | 2
+# Batch 4: travel, school, work and tech
+Parallel Parking | 1
+Changing A Tire | 1
+Honking The Horn | 1
+Merging Lanes | 3
+Hitchhiking | 2
+Carpooling | 2
+Packing A Suitcase | 1
+Unpacking | 3
+Boarding A Plane | 1
+Going Through Security | 2
+Missing The Bus | 1
+Hailing A Cab | 2
+Reading A Map | 1
+Asking For Directions | 1
+Getting Lost | 1
+Taking A Road Trip | 1
+Riding Shotgun | 2
+Backseat Driving | 2
+Sightseeing | 2
+Sending A Postcard | 2
+Taking Notes | 1
+Cramming For A Test | 2
+Pulling An All-Nighter | 2
+Doing Homework | 1
+Copying Homework | 2
+Passing Notes | 2
+Sharpening A Pencil | 2
+Erasing | 2
+Doodling | 2
+Highlighting | 3
+Studying | 1
+Graduating | 1
+Applying For A Job | 2
+Going To An Interview | 2
+Getting Promoted | 2
+Getting Fired | 2
+Quitting | 2
+Clocking In | 2
+Working From Home | 1
+Commuting | 3
+Brainstorming | 2
+Multitasking | 3
+Procrastinating | 2
+Hitting Reply All | 2
+Typing | 2
+Clicking | 2
+Scrolling | 2
+Double Tapping | 3
+Copying And Pasting | 2
+Taking A Screenshot | 1
+Charging Your Phone | 1
+Downloading | 2
+Uploading | 2
+Updating Software | 3
+Restarting The Computer | 2
+Logging In | 3
+Forgetting Your Password | 1
+Going Viral | 2
+Live Streaming | 2
+Binge Watching | 1
+Channel Surfing | 2
+Fast Forwarding | 2
+Rewinding | 2
+Pausing | 2
+Turning Up The Volume | 1
+Muting | 2
+Photobombing | 2
+Posing For A Photo | 1
+Shopping | 1
+Window Shopping | 1
+Trying On Clothes | 1
+Paying With Cash | 2
+Swiping A Card | 2
+Counting Money | 2
+Saving Money | 2
+Splurging | 3
+Returning An Item | 3
+Signing Your Name | 2
+Filling Out A Form | 2
+Folding Paper | 2
+Making A Paper Airplane | 1
+Cutting With Scissors | 1
+Gluing | 2
+Stapling | 2
+Laminating | 3
+Shredding Paper | 2
+# Batch 5: fun, physical and miscellaneous actions
+Dancing | 1
+Breakdancing | 2
+Moonwalking | 1
+Doing The Robot | 1
+Line Dancing | 2
+Tap Dancing | 2
+Slow Dancing | 2
+Doing The Limbo | 1
+Doing The Worm | 2
+Headbanging | 2
+Air Guitar | 1
+Lip Syncing | 2
+Conducting An Orchestra | 2
+Directing Traffic | 2
+Rock Paper Scissors | 1
+Flipping A Coin | 1
+Rolling Dice | 1
+Shuffling Cards | 1
+Dealing Cards | 2
+Building A Card House | 2
+Stacking Blocks | 2
+Knocking Over Dominoes | 1
+Spinning A Top | 2
+Yo-Yoing | 2
+Solving A Rubik's Cube | 2
+Blowing A Whistle | 1
+Ringing A Bell | 1
+Banging A Drum | 1
+Playing The Triangle | 2
+Climbing A Ladder | 1
+Climbing Stairs | 2
+Sliding Down A Banister | 2
+Jumping On The Bed | 1
+Bouncing A Ball | 2
+Kicking A Can | 2
+Throwing A Dart | 2
+Shooting A Free Throw | 2
+Catching A Fly Ball | 2
+Ducking | 2
+Dodging | 2
+Swatting A Fly | 1
+Chasing A Butterfly | 1
+Catching Fireflies | 1
+Picking Flowers | 2
+Smelling The Roses | 2
+Planting A Seed | 2
+Climbing A Mountain | 1
+Crossing A River | 2
+Building A Campfire | 1
+Pitching A Tent | 1
+Roasting Hot Dogs | 2
+Telling Ghost Stories | 1
+Carving A Pumpkin | 1
+Trick Or Treating | 1
+Decorating The Tree | 1
+Hanging Stockings | 2
+Egg Hunting | 2
+Painting Eggs | 2
+Rubbing Your Belly | 1
+Patting Your Head | 1
+Twiddling Your Thumbs | 2
+Tapping Your Foot | 2
+Drumming Your Fingers | 2
+Rubbing Your Eyes | 2
+Scratching Your Head | 1
+Covering Your Ears | 2
+Plugging Your Nose | 1
+Biting Your Lip | 2
+Licking Your Lips | 2
+Puckering Up | 3
+Squinting | 3
+Staring Contest | 1
+Thinking Hard | 2
+Forgetting | 2
+Guessing | 3
+Counting To Ten | 1
+Spelling | 2
+Rhyming | 3
+Hesitating | 3
+Panicking | 2
+Celebrating | 1
+Dancing In The Rain | 1
+Jumping For Joy | 1
+Running Late | 1
+Catching Your Breath | 2
+Lounging | 3
+Relaxing | 2
+Sunbathing | 2
+# Batch 6: top-up, harder actions
+Babysitting | 2
+Sleepover | 2
+Housewarming | 3
+Eloping | 3
+Renovating | 3
+Recycling | 2
+Composting | 3
+Evaporating | 3
+Melting | 2
+Freezing Up | 3
+Sinking | 2
+Floating | 2
+Levitating | 3
+Teleporting | 3
+Time Traveling | 2
+Hypnotizing | 3
+Ventriloquism | 3
+Tightrope Walking | 2
+Sword Swallowing | 3
+Fire Breathing | 3
+Pole Vaulting | 3
+Hurdling | 3
+Synchronized Swimming | 3
+Figure Skating | 2
+Curling | 3
+Fencing | 3
+Archery | 2
+Speed Walking | 3
+Parkour | 3
+Crowd Surfing | 3
+Stage Diving | 3
+Doing A Backflip | 2
+Hot Potato | 2
+Freeze Tag | 2
+Simon Says | 1
+Red Light Green Light | 2
+Duck Duck Goose | 1
+Follow The Leader | 2
+Playing Fetch | 2
+Sleeping Like A Log | 3
+Fumbling | 3
+Stumbling | 3
+Wobbling | 3
+Hovering | 3
+Gliding | 3
+Swaying | 3
+Shimmying | 3
+Wiggling | 2
+Waddling | 2
+Galloping | 2
+Slithering | 2
+Pouncing | 2
+Prowling | 3
+Scurrying | 3
+Zigzagging | 3
+Snorting | 2
+Cackling | 3
+Grumbling | 3
+Muttering | 3
+Babbling | 3

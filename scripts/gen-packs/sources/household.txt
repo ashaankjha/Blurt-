@@ -1,0 +1,499 @@
+# Household: objects, furniture, appliances, chores, rooms, garden and garage items.
+# Batch 1: furniture, rooms, house parts
+Couch | 1
+Recliner | 2
+Bean Bag Chair | 2
+Rocking Chair | 1
+Bunk Bed | 1
+Futon | 3
+Ottoman | 3
+Coffee Table | 1
+Nightstand | 3
+Dresser | 1
+Bookshelf | 1
+Armchair | 1
+Love Seat | 2
+Hammock | 1
+Crib | 1
+High Chair | 1
+Kitchen Table | 1
+Bar Stool | 2
+Folding Chair | 1
+Murphy Bed | 3
+Canopy Bed | 2
+Waterbed | 2
+Chest Of Drawers | 2
+Filing Cabinet | 2
+Desk Chair | 1
+Wardrobe | 3
+Headboard | 3
+Vanity Mirror | 2
+Shoe Rack | 1
+Coat Rack | 1
+Hat Stand | 3
+Grandfather Clock | 2
+China Cabinet | 3
+Toy Chest | 2
+Sofa Bed | 2
+Footstool | 3
+Lazy Susan | 3
+Room Divider | 3
+Kitchen Island | 2
+Living Room | 1
+Bedroom | 1
+Bathroom | 1
+Kitchen | 1
+Dining Room | 1
+Basement | 1
+Attic | 1
+Garage | 1
+Laundry Room | 1
+Walk-In Closet | 2
+Pantry | 2
+Guest Room | 1
+Home Office | 1
+Nursery | 2
+Hallway | 1
+Staircase | 1
+Front Porch | 1
+Balcony | 1
+Patio | 2
+Sunroom | 2
+Mudroom | 3
+Crawl Space | 3
+Man Cave | 2
+Playroom | 1
+Linen Closet | 2
+Doghouse | 1
+Treehouse | 1
+Garden Shed | 1
+Back Door | 1
+Doorbell | 1
+Doormat | 2
+Mailbox | 1
+Peephole | 3
+Door Knob | 2
+Deadbolt | 3
+Chimney | 1
+Fireplace | 1
+Mantel | 3
+Skylight | 2
+Window Sill | 3
+Banister | 3
+Dumbwaiter | 3
+Trapdoor | 2
+Screen Door | 2
+Sliding Door | 1
+Revolving Door | 2
+Doggy Door | 1
+Picket Fence | 2
+Garage Door | 1
+Rain Gutter | 3
+Shingles | 3
+Wallpaper | 1
+Carpet | 1
+Hardwood Floor | 2
+Ceiling Fan | 1
+Light Switch | 2
+Power Outlet | 2
+Fuse Box | 3
+Thermostat | 3
+Smoke Detector | 1
+Chandelier | 2
+Lava Lamp | 2
+# Batch 2: kitchen and appliances
+Refrigerator | 1
+Freezer | 1
+Microwave | 1
+Toaster | 1
+Toaster Oven | 2
+Dishwasher | 1
+Blender | 1
+Food Processor | 3
+Stand Mixer | 3
+Coffee Maker | 1
+Kettle | 2
+Slow Cooker | 2
+Pressure Cooker | 2
+Air Fryer | 1
+Waffle Iron | 2
+Rice Cooker | 2
+Garbage Disposal | 2
+Ice Maker | 2
+Water Filter | 2
+Can Opener | 2
+Bottle Opener | 1
+Melon Baller | 3
+Cheese Grater | 2
+Vegetable Peeler | 2
+Potato Masher | 2
+Rolling Pin | 1
+Cookie Cutter | 2
+Cutting Board | 2
+Butcher Knife | 2
+Frying Pan | 1
+Saucepan | 3
+Wok | 2
+Cast Iron Skillet | 2
+Baking Sheet | 2
+Muffin Tin | 3
+Mixing Bowl | 2
+Measuring Cup | 2
+Measuring Spoons | 2
+Whisk | 1
+Spatula | 1
+Ladle | 3
+Tongs | 3
+Colander | 3
+Salad Spinner | 2
+Pizza Cutter | 1
+Ice Cream Scoop | 1
+Ice Cube Tray | 2
+Oven Mitt | 1
+Pot Holder | 3
+Apron | 1
+Dish Rack | 2
+Dish Soap | 2
+Sponge | 1
+Paper Towel | 2
+Napkin Holder | 2
+Salt Shaker | 1
+Pepper Grinder | 2
+Spice Rack | 2
+Cookie Jar | 1
+Bread Box | 2
+Lunch Box | 2
+Thermos | 2
+Tupperware | 2
+Plastic Wrap | 2
+Aluminum Foil | 1
+Chopsticks | 1
+Teapot | 1
+Coffee Mug | 1
+Sippy Cup | 1
+Drinking Straw | 2
+Placemat | 2
+Tablecloth | 2
+Gravy Boat | 3
+Butter Dish | 3
+Egg Timer | 2
+Meat Thermometer | 3
+Recipe Book | 2
+Junk Drawer | 2
+Kitchen Sink | 1
+Faucet | 2
+Stove | 1
+Oven | 1
+Range Hood | 3
+Trash Can | 1
+Recycling Bin | 2
+Compost Bin | 2
+Fridge Magnet | 2
+Silverware | 2
+Soup Bowl | 2
+Dinner Plate | 2
+Serving Tray | 2
+Cake Stand | 2
+Popcorn Maker | 2
+Juicer | 2
+Espresso Machine | 2
+Sandwich Bag | 2
+Nutcracker | 2
+Garlic Press | 3
+Pastry Brush | 3
+Mortar And Pestle | 3
+# Batch 3: bathroom, bedroom, laundry, cleaning
+Toothbrush | 1
+Toothpaste | 1
+Dental Floss | 2
+Mouthwash | 2
+Hair Dryer | 1
+Curling Iron | 2
+Hairbrush | 1
+Comb | 1
+Bathtub | 1
+Shower Curtain | 2
+Shower Cap | 2
+Rubber Duck | 1
+Bath Mat | 2
+Towel Rack | 2
+Toilet Paper | 1
+Plunger | 1
+Toilet Brush | 2
+Bath Bomb | 2
+Bubble Bath | 1
+Loofah | 2
+Medicine Cabinet | 3
+Band-Aid | 1
+Cotton Swab | 2
+Nail Clippers | 1
+Tweezers | 2
+Bathroom Scale | 1
+Razor | 1
+Shaving Cream | 1
+Soap Dispenser | 3
+Hand Towel | 2
+Pillow | 1
+Pillowcase | 2
+Blanket | 1
+Comforter | 3
+Duvet | 3
+Fitted Sheet | 3
+Electric Blanket | 2
+Mattress | 1
+Alarm Clock | 1
+Night Light | 1
+Bedside Lamp | 2
+Teddy Bear | 1
+Baby Monitor | 2
+Hanger | 1
+Laundry Basket | 2
+Washing Machine | 1
+Clothes Dryer | 1
+Dryer Sheet | 3
+Lint Roller | 3
+Lint Trap | 3
+Ironing Board | 1
+Clothespin | 2
+Clothesline | 2
+Sewing Kit | 2
+Laundry Detergent | 1
+Fabric Softener | 3
+Stain Remover | 3
+Bleach | 1
+Vacuum Cleaner | 1
+Robot Vacuum | 1
+Broom | 1
+Dustpan | 1
+Mop | 1
+Bucket | 1
+Feather Duster | 1
+Rubber Gloves | 2
+Scrub Brush | 2
+Window Cleaner | 2
+Squeegee | 3
+Steel Wool | 3
+Garbage Bag | 1
+Air Freshener | 2
+Scented Candle | 2
+Mothball | 3
+Fly Swatter | 1
+Mousetrap | 1
+Bug Spray | 2
+Flashlight | 1
+Batteries | 1
+Extension Cord | 2
+Power Strip | 2
+Light Bulb | 1
+Fire Extinguisher | 1
+First Aid Kit | 1
+Space Heater | 2
+Humidifier | 3
+Air Conditioner | 1
+Window Fan | 2
+Radiator | 3
+Water Heater | 2
+Furnace | 3
+Doorstop | 2
+Coat Hook | 3
+Umbrella Stand | 2
+Key Ring | 1
+Junk Mail | 2
+Phone Charger | 1
+Remote Control | 1
+Television | 1
+Houseplant | 1
+# Batch 4: garden, garage, tools
+Lawn Mower | 1
+Leaf Blower | 1
+Rake | 1
+Shovel | 1
+Wheelbarrow | 1
+Garden Hose | 2
+Sprinkler | 1
+Watering Can | 1
+Flower Pot | 1
+Garden Gnome | 1
+Bird Feeder | 1
+Birdbath | 2
+Hedge Trimmer | 3
+Pruning Shears | 3
+Trowel | 3
+Compost Heap | 3
+Seed Packet | 2
+Scarecrow | 1
+Vegetable Garden | 1
+Flower Bed | 2
+Window Box | 3
+Greenhouse | 2
+Lawn Chair | 2
+Patio Umbrella | 2
+Picnic Table | 1
+Barbecue Grill | 1
+Fire Pit | 1
+Porch Swing | 2
+Wind Chime | 1
+Trampoline | 1
+Swing Set | 1
+Sandbox | 1
+Kiddie Pool | 1
+Hot Tub | 1
+Pool Noodle | 1
+Tool Box | 1
+Hammer | 1
+Screwdriver | 1
+Wrench | 1
+Pliers | 1
+Tape Measure | 1
+Power Drill | 1
+Handsaw | 2
+Chainsaw | 1
+Sledgehammer | 2
+Crowbar | 2
+Duct Tape | 1
+Super Glue | 1
+Paintbrush | 1
+Paint Roller | 1
+Paint Can | 2
+Step Ladder | 2
+Workbench | 3
+Sandpaper | 3
+Nails And Screws | 2
+Spirit Level | 3
+Stud Finder | 3
+Hacksaw | 3
+Allen Wrench | 3
+Zip Tie | 2
+Bungee Cord | 3
+Jumper Cables | 3
+Car Jack | 3
+Tire Pump | 2
+Snow Shovel | 1
+Snow Blower | 2
+Ice Scraper | 3
+Bicycle Pump | 2
+Roller Skates | 1
+Camping Gear | 2
+Sleeping Bag | 1
+Cooler | 1
+Pegboard | 3
+Storage Bin | 2
+Cardboard Box | 1
+Bubble Wrap | 1
+Packing Tape | 2
+Padlock | 2
+Combination Lock | 2
+Spare Key | 1
+Rain Barrel | 3
+Weather Vane | 3
+Lawn Flamingo | 2
+Garden Fountain | 2
+Mulch | 3
+Fertilizer | 3
+Potting Soil | 3
+Leaf Pile | 1
+Garage Sale | 1
+Paint Swatch | 3
+Caulk Gun | 3
+Shop Vac | 3
+Sump Pump | 3
+Septic Tank | 3
+Pressure Washer | 2
+Tiki Torch | 2
+# Batch 5: chores, decor, everyday objects
+Doing The Dishes | 1
+Folding Laundry | 1
+Making The Bed | 1
+Taking Out The Trash | 1
+Mowing The Lawn | 1
+Raking Leaves | 1
+Vacuuming | 1
+Dusting | 1
+Mopping The Floor | 1
+Scrubbing The Toilet | 2
+Cleaning The Gutters | 2
+Unloading The Dishwasher | 2
+Ironing Shirts | 2
+Watering The Plants | 1
+Feeding The Pet | 2
+Walking The Dog | 1
+Changing A Light Bulb | 2
+Spring Cleaning | 2
+Defrosting The Freezer | 3
+Shoveling Snow | 1
+Washing The Car | 1
+Organizing The Closet | 2
+Unclogging The Drain | 2
+Changing The Sheets | 2
+Setting The Table | 1
+Clearing The Table | 3
+Chore Chart | 2
+Allowance | 2
+Throw Pillow | 1
+Area Rug | 2
+Curtains | 1
+Window Blinds | 2
+Picture Frame | 1
+Photo Album | 1
+Family Portrait | 2
+Wall Clock | 2
+Cuckoo Clock | 2
+Floor Lamp | 2
+Lampshade | 2
+Candle Holder | 2
+Vase | 1
+Fruit Bowl | 2
+Fish Tank | 1
+Bird Cage | 1
+Litter Box | 1
+Dog Bed | 1
+Scratching Post | 2
+Pet Bowl | 2
+Bookend | 3
+Coaster | 3
+Snow Globe | 1
+Music Box | 2
+Jewelry Box | 2
+Piggy Bank | 1
+Board Game | 1
+Jigsaw Puzzle | 1
+Deck Of Cards | 1
+Video Game Console | 1
+Record Player | 2
+Calendar | 1
+Sticky Note | 2
+Whiteboard | 2
+Bulletin Board | 2
+Thumbtack | 3
+Stapler | 1
+Paper Clip | 1
+Rubber Band | 1
+Scissors | 1
+Pencil Sharpener | 1
+Glue Stick | 1
+Envelope | 2
+Postage Stamp | 3
+Phone Book | 3
+Desk Lamp | 2
+Laptop | 1
+Printer | 1
+Router | 3
+Webcam | 2
+Headphones | 1
+Smart Speaker | 2
+Umbrella | 1
+Raincoat | 1
+Rain Boots | 1
+Slippers | 1
+Bathrobe | 1
+Pajamas | 1
+Sock Drawer | 2
+Shoe Horn | 3
+Key Hook | 3
+Baby Gate | 2
+Child Lock | 2
+Laundry Chute | 3
+Dirty Laundry | 1
+Lost Sock | 1
+Leaky Faucet | 2
+Squeaky Door | 2

@@ -1,0 +1,468 @@
+# Animals: mammals, birds, fish, insects, reptiles, dog breeds, farm animals, groups and behaviors.
+# Batch 1: mammals
+Dog | 1
+Cat | 1
+Elephant | 1
+Giraffe | 1
+Lion | 1
+Tiger | 1
+Zebra | 1
+Monkey | 1
+Gorilla | 1
+Chimpanzee | 1
+Orangutan | 2
+Baboon | 2
+Lemur | 2
+Sloth | 1
+Kangaroo | 1
+Koala | 1
+Wombat | 3
+Platypus | 2
+Tasmanian Devil | 2
+Panda | 1
+Red Panda | 2
+Polar Bear | 1
+Grizzly Bear | 1
+Brown Bear | 2
+Black Bear | 2
+Raccoon | 1
+Skunk | 1
+Squirrel | 1
+Chipmunk | 1
+Hedgehog | 1
+Porcupine | 2
+Armadillo | 2
+Anteater | 2
+Aardvark | 3
+Hippopotamus | 1
+Rhinoceros | 1
+Cheetah | 1
+Leopard | 1
+Jaguar | 2
+Panther | 2
+Mountain Lion | 2
+Lynx | 3
+Bobcat | 3
+Hyena | 2
+Wolf | 1
+Coyote | 1
+Fox | 1
+Arctic Fox | 2
+Badger | 2
+Otter | 1
+Sea Otter | 2
+Beaver | 1
+Weasel | 3
+Ferret | 2
+Mole | 3
+Meerkat | 2
+Mongoose | 3
+Warthog | 2
+Wild Boar | 2
+Moose | 1
+Elk | 2
+Reindeer | 1
+Deer | 1
+Antelope | 2
+Gazelle | 3
+Buffalo | 1
+Bison | 1
+Yak | 3
+Camel | 1
+Llama | 1
+Alpaca | 1
+Bat | 1
+Vampire Bat | 1
+Flying Squirrel | 2
+Opossum | 2
+Groundhog | 2
+Prairie Dog | 2
+Rabbit | 1
+Hare | 3
+Mouse | 1
+Rat | 1
+Hamster | 1
+Guinea Pig | 1
+Gerbil | 2
+Chinchilla | 3
+Capybara | 3
+Tapir | 3
+Okapi | 3
+Pangolin | 3
+Narwhal | 2
+Walrus | 1
+Seal | 1
+Sea Lion | 1
+Manatee | 2
+Dolphin | 1
+Whale | 1
+Blue Whale | 2
+Killer Whale | 1
+Beluga Whale | 2
+Humpback Whale | 2
+# Batch 2: birds and sea life
+Eagle | 1
+Bald Eagle | 1
+Owl | 1
+Parrot | 1
+Penguin | 1
+Flamingo | 1
+Peacock | 1
+Ostrich | 1
+Emu | 2
+Pelican | 1
+Seagull | 1
+Pigeon | 1
+Crow | 1
+Raven | 2
+Robin | 2
+Blue Jay | 2
+Cardinal | 2
+Hummingbird | 1
+Woodpecker | 1
+Toucan | 1
+Swan | 1
+Goose | 1
+Duck | 1
+Vulture | 1
+Hawk | 1
+Falcon | 2
+Condor | 3
+Stork | 2
+Crane | 3
+Heron | 3
+Kiwi Bird | 3
+Puffin | 2
+Albatross | 3
+Roadrunner | 2
+Canary | 2
+Parakeet | 2
+Cockatoo | 2
+Macaw | 3
+Sparrow | 2
+Bluebird | 2
+Kingfisher | 3
+Dodo | 2
+Barn Owl | 2
+Snowy Owl | 2
+Goldfish | 1
+Shark | 1
+Great White Shark | 1
+Hammerhead Shark | 2
+Whale Shark | 2
+Octopus | 1
+Squid | 1
+Jellyfish | 1
+Starfish | 1
+Seahorse | 1
+Sea Turtle | 1
+Crab | 1
+Hermit Crab | 1
+Clownfish | 1
+Pufferfish | 2
+Swordfish | 2
+Stingray | 1
+Manta Ray | 2
+Eel | 2
+Electric Eel | 2
+Piranha | 2
+Catfish | 2
+Trout | 2
+Salmon Swimming Upstream | 3
+Angelfish | 2
+Barracuda | 3
+Sea Urchin | 3
+Sea Cucumber | 3
+Sand Dollar | 3
+Anglerfish | 3
+Flying Fish | 3
+Koi Fish | 2
+Betta Fish | 3
+Snail | 1
+Slug | 2
+Krill | 3
+Plankton | 3
+Penguin Huddle | 3
+Sea Anemone | 3
+Lionfish | 3
+Tadpole | 2
+Frog | 1
+Toad | 2
+Bullfrog | 2
+Tree Frog | 2
+Salamander | 2
+Newt | 3
+Axolotl | 3
+# Batch 3: bugs, reptiles, farm animals
+Butterfly | 1
+Caterpillar | 1
+Bumblebee | 1
+Honeybee | 2
+Wasp | 2
+Hornet | 2
+Ant | 1
+Fire Ant | 2
+Ladybug | 1
+Grasshopper | 1
+Cricket | 1
+Praying Mantis | 2
+Dragonfly | 1
+Firefly | 1
+Mosquito | 1
+Housefly | 1
+Moth | 2
+Beetle | 1
+Dung Beetle | 3
+Stick Insect | 3
+Termite | 3
+Cockroach | 1
+Flea | 2
+Tick | 2
+Spider | 1
+Tarantula | 1
+Black Widow | 2
+Scorpion | 1
+Centipede | 2
+Millipede | 3
+Earthworm | 1
+Silkworm | 3
+Cicada | 3
+Snake | 1
+Rattlesnake | 1
+Cobra | 2
+Python | 2
+Boa Constrictor | 2
+Anaconda | 3
+Garter Snake | 3
+Lizard | 1
+Gecko | 2
+Iguana | 2
+Chameleon | 1
+Komodo Dragon | 2
+Alligator | 1
+Crocodile | 1
+Turtle | 1
+Tortoise | 1
+Snapping Turtle | 3
+Gila Monster | 3
+Cow | 1
+Pig | 1
+Sheep | 1
+Goat | 1
+Horse | 1
+Pony | 1
+Donkey | 1
+Mule | 2
+Chicken | 1
+Rooster | 1
+Hen | 2
+Baby Chick | 1
+Duckling | 1
+Turkey | 1
+Bull | 1
+Calf | 3
+Lamb | 1
+Piglet | 1
+Foal | 3
+Billy Goat | 2
+Ox | 3
+Water Buffalo | 3
+Sheepdog | 2
+Barn Cat | 2
+Kitten | 1
+Puppy | 1
+Bunny | 1
+Fawn | 2
+Cub | 2
+Joey | 3
+Bear Cub | 2
+Lion Cub | 2
+Ugly Duckling | 2
+Mother Hen | 2
+Guard Dog | 2
+Service Dog | 2
+Police Dog | 2
+Stray Cat | 2
+Alley Cat | 2
+Petting Zoo | 1
+Animal Shelter | 2
+Vet Visit | 2
+Flea Collar | 3
+# Batch 4: breeds, prehistoric, groups and behaviors
+Golden Retriever | 1
+Labrador | 1
+German Shepherd | 1
+Poodle | 1
+Chihuahua | 1
+Bulldog | 1
+French Bulldog | 2
+Beagle | 1
+Dachshund | 2
+Pug | 1
+Corgi | 1
+Husky | 1
+Dalmatian | 1
+Great Dane | 1
+Saint Bernard | 2
+Boxer | 2
+Rottweiler | 2
+Doberman | 2
+Greyhound | 2
+Border Collie | 2
+Shih Tzu | 3
+Pomeranian | 2
+Yorkshire Terrier | 3
+Jack Russell Terrier | 3
+Basset Hound | 3
+Bloodhound | 2
+Bernese Mountain Dog | 3
+Labradoodle | 2
+Mutt | 2
+Persian Cat | 2
+Siamese Cat | 2
+Hairless Cat | 2
+Maine Coon | 3
+Tabby Cat | 2
+Calico Cat | 3
+Black Cat | 1
+Tomcat | 3
+Dinosaur | 1
+T-Rex | 1
+Triceratops | 2
+Stegosaurus | 2
+Velociraptor | 2
+Pterodactyl | 2
+Brontosaurus | 2
+Woolly Mammoth | 2
+Saber-Toothed Tiger | 2
+Megalodon | 3
+Wolf Pack | 1
+School Of Fish | 1
+Flock Of Birds | 1
+Herd Of Cattle | 2
+Swarm Of Bees | 1
+Pride Of Lions | 2
+Pod Of Whales | 3
+Litter Of Puppies | 2
+Ant Colony | 2
+Beehive | 1
+Bird's Nest | 1
+Spider Web | 1
+Anthill | 1
+Beaver Dam | 2
+Rabbit Hole | 2
+Bat Cave | 2
+Cocoon | 2
+Hibernation | 2
+Migration | 2
+Camouflage | 2
+Molting | 3
+Shedding Skin | 2
+Nocturnal | 3
+Predator | 2
+Prey | 3
+Food Chain | 2
+Endangered Species | 2
+Extinct | 2
+Wildlife | 2
+Cold Blooded | 3
+Marsupial | 3
+Mammal | 2
+Reptile | 2
+Amphibian | 3
+Herbivore | 3
+Carnivore | 2
+Omnivore | 3
+Wagging Tail | 1
+Purring | 1
+Howling At The Moon | 1
+Playing Dead | 2
+Chasing Its Tail | 1
+Fetch | 1
+Roll Over | 1
+Shake A Paw | 2
+Peacock Feathers | 2
+Zebra Stripes | 1
+Leopard Spots | 2
+Elephant Trunk | 1
+Paw Print | 1
+Antlers | 2
+Whiskers | 1
+# Batch 5: more creatures and animal features
+Bighorn Sheep | 3
+Mountain Goat | 1
+Snow Leopard | 2
+Siberian Tiger | 3
+White Tiger | 2
+Bengal Tiger | 3
+Silverback Gorilla | 3
+Spider Monkey | 2
+Howler Monkey | 3
+Wildebeest | 3
+Poison Dart Frog | 3
+Bearded Dragon | 3
+Box Turtle | 3
+Glow Worm | 3
+Bed Bug | 1
+Lightning Bug | 2
+Daddy Long Legs | 2
+Inchworm | 2
+Pill Bug | 3
+Stink Bug | 2
+Horsefly | 3
+Fruit Fly | 2
+Monarch Butterfly | 2
+Queen Bee | 1
+Worker Bee | 2
+Bee Sting | 1
+Mosquito Bite | 1
+Hamster Wheel | 1
+Cat Nap | 2
+Dog Bone | 1
+Chew Toy | 1
+Dog Leash | 1
+Kitty Litter | 2
+Catnip | 2
+Hairball | 2
+Horseshoe | 1
+Saddle | 2
+Pony Ride | 1
+Cowbell | 2
+Sheep Shearing | 3
+Milking A Cow | 2
+Pecking Order | 3
+Duck Pond | 2
+Lily Pad | 1
+Lion's Roar | 1
+Lion's Mane | 2
+Rabbit Ears | 2
+Fish Scales | 2
+Shark Fin | 1
+Shark Tooth | 2
+Snake Skin | 2
+Turtle Shell | 1
+Crab Claw | 2
+Bird Beak | 2
+Feathers | 1
+Hooves | 2
+Tusks | 2
+Fangs | 2
+Venom | 3
+Stinger | 2
+Gills | 2
+Flippers | 2
+Blowhole | 2
+Kangaroo Pouch | 2
+Horns | 2
+Talons | 3
+Webbed Feet | 2
+Tail Feathers | 3
+Paws | 1
+Claws | 1
+Fur | 1
+Burrow | 3
+Animal Tracks | 2
+Animal Kingdom | 2
+Safari | 1
+Bird Watching | 2
+Whale Watching | 2
