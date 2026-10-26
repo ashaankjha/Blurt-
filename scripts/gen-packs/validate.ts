@@ -10,6 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 import { normalizePhraseKey, PackSchema, type Pack, type PackMeta } from '../../content/schema';
+import { SHIP_AFTER_DARK } from '../../src/config';
 import { checkRules } from './lib';
 import { PACKS } from './packs';
 
@@ -21,6 +22,7 @@ const allowIncomplete = process.argv.includes('--allow-incomplete');
 const errors: string[] = [];
 const warnings: string[] = [];
 const unique = new Set<string>();
+let shipped = 0;
 
 const files = fs.readdirSync(OUT_DIR).filter((f) => f.endsWith('.json') && f !== 'manifest.json');
 const manifest: PackMeta[] = fs.existsSync(path.join(OUT_DIR, 'manifest.json'))
@@ -44,10 +46,19 @@ for (const f of files) {
   if (`${pack.id}.json` !== f) errors.push(`${f}: id "${pack.id}" does not match filename`);
   if (!known.has(pack.id)) errors.push(`${f}: not listed in scripts/gen-packs/packs.ts`);
   const adult = pack.tags.includes('adult');
+  if (!SHIP_AFTER_DARK && adult) {
+    // Not shipped: must stay out of the manifest/index and doesn't count toward launch thresholds.
+    if (manifest.some((m) => m.id === pack.id))
+      errors.push(`${f}: adult pack is in manifest.json but SHIP_AFTER_DARK is false (run build.ts)`);
+    continue;
+  }
+  shipped++;
   // Near-duplicates the exact dedupe misses ("Hot Dog" / "Hotdog", "Pancake" / "Pancakes"): warn only.
   const compact = new Map<string, string>();
   for (const p of pack.phrases) {
-    const key = normalizePhraseKey(p.text).replace(/ /g, '').replace(/(es|s)$/, '');
+    const key = normalizePhraseKey(p.text)
+      .replace(/ /g, '')
+      .replace(/(es|s)$/, '');
     const prev = compact.get(key);
     if (prev) warnings.push(`${f}: near-duplicate "${prev}" / "${p.text}"`);
     else compact.set(key, p.text);
@@ -64,14 +75,14 @@ for (const f of files) {
 }
 for (const m of manifest) if (!files.includes(`${m.id}.json`)) errors.push(`manifest.json lists missing pack ${m.id}`);
 
-const packCount = files.length + 1; // + virtual everything-mix
+const packCount = shipped + 1; // + virtual everything-mix
 if (!allowIncomplete) {
   if (packCount < MIN_PACKS) errors.push(`only ${packCount} packs (need ${MIN_PACKS}+)`);
   if (unique.size < MIN_UNIQUE) errors.push(`only ${unique.size} unique phrases (need ${MIN_UNIQUE}+)`);
 }
 
 if (warnings.length) console.warn(warnings.map((w) => `! ${w}`).join('\n'));
-console.log(`${files.length} pack files (+1 virtual) · ${unique.size} unique phrases`);
+console.log(`${shipped} shipped pack files (+1 virtual) · ${unique.size} unique phrases`);
 if (errors.length) {
   console.error(errors.map((e) => `✗ ${e}`).join('\n'));
   process.exit(1);

@@ -42,5 +42,9 @@ export const PHRASE_RULES = {
 /** Pack id of the virtual "Everything Mix" pack (union of all family packs, built at runtime). */
 export const EVERYTHING_MIX_ID = 'everything-mix';
 
-/** Whether After Dark (18+) packs are compiled into the binary at all. See PRD open questions. */
+/**
+ * Whether After Dark (18+) packs are compiled into the binary at all. See PRD open questions.
+ * After changing this, run `npx tsx scripts/gen-packs/build.ts` so content/packs/index.ts stops
+ * (or starts) requiring the adult pack files; Metro only bundles packs that index.ts requires.
+ */
 export const SHIP_AFTER_DARK = true;
