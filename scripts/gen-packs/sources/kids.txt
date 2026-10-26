@@ -1,0 +1,684 @@
+# Kids: easy, concrete words a 6-year-old knows. Mostly difficulty 1.
+# Batch 1: toys and play
+Teddy Bear | 1
+Doll | 1
+Dollhouse | 1
+Toy Car | 1
+Toy Train | 1
+Building Blocks | 1
+Puzzle | 1
+Ball | 1
+Beach Ball | 1
+Bouncy Ball | 1
+Balloon | 1
+Kite | 1
+Spinning Top | 1
+Scooter | 1
+Tricycle | 1
+Bicycle | 1
+Training Wheels | 1
+Roller Skates | 1
+Wagon | 1
+Rocking Horse | 1
+Stuffed Animal | 1
+Puppet | 1
+Sock Puppet | 1
+Robot Toy | 1
+Rubber Duck | 1
+Bubbles | 1
+Bubble Wand | 1
+Sandcastle | 1
+Bucket And Spade | 1
+Play Dough | 1
+Crayons | 1
+Coloring Book | 1
+Markers | 1
+Stickers | 1
+Glitter | 1
+Paint Brush | 1
+Finger Paint | 1
+Sidewalk Chalk | 1
+Play Tent | 1
+Pillow Fort | 1
+Blanket Fort | 1
+Toy Box | 1
+Action Figure | 1
+Toy Drum | 1
+Xylophone | 1
+Kazoo | 1
+Toy Piano | 1
+Tambourine | 1
+Maracas | 1
+Rattle | 1
+Dress-Up Clothes | 1
+Costume | 1
+Superhero Cape | 1
+Magic Wand | 1
+Crown | 1
+Tiara | 1
+Board Game | 1
+Card Game | 1
+Dice | 1
+Marbles | 1
+Jigsaw Puzzle | 1
+Toy Phone | 1
+Play Kitchen | 1
+Tea Party | 1
+Pinwheel | 1
+Paper Airplane | 1
+Paper Boat | 1
+Snow Globe | 2
+Kaleidoscope | 2
+Jack-In-The-Box | 1
+Fidget Spinner | 1
+Pop It | 1
+Slime | 1
+Bath Toys | 1
+Remote Control Car | 1
+Race Car Track | 1
+Toy Dinosaur | 1
+Train Set | 1
+Piggy Bank | 1
+Treasure Chest | 1
+Treasure Map | 1
+# Batch 2: playground and outdoors
+Playground | 1
+Slide | 1
+Swing | 1
+Seesaw | 1
+Monkey Bars | 1
+Sandbox | 1
+Jungle Gym | 1
+Merry-Go-Round | 1
+Climbing Frame | 1
+Treehouse | 1
+Trampoline | 1
+Bouncy Castle | 1
+Splash Pad | 1
+Sprinkler | 1
+Kiddie Pool | 1
+Mud Puddle | 1
+Puddle Jumping | 1
+Hide And Seek | 1
+Tag | 1
+Freeze Tag | 1
+Duck Duck Goose | 1
+Simon Says | 1
+Red Light Green Light | 1
+Hopscotch | 1
+Musical Chairs | 1
+Hot Potato | 1
+Follow The Leader | 1
+Peekaboo | 1
+Ring Around The Rosie | 1
+Leapfrog | 1
+Piggyback Ride | 1
+Wheelbarrow Race | 1
+Catch | 1
+Rock Paper Scissors | 1
+Tic-Tac-Toe | 1
+I Spy | 1
+Thumb War | 1
+Pat-A-Cake | 2
+Snowman | 1
+Snowball | 1
+Snow Angel | 1
+Sled | 1
+Mittens | 1
+Leaf Pile | 1
+Picnic | 1
+Picnic Blanket | 1
+Camping | 1
+Campfire | 1
+Marshmallow | 1
+Flashlight | 1
+Bug Catching | 1
+Butterfly Net | 1
+Fishing Pole | 1
+Bird Nest | 1
+Rainbow | 1
+Sunshine | 1
+Rain Cloud | 1
+Thunder | 1
+Lightning | 1
+Snowflake | 1
+Wind | 1
+Rain Boots | 1
+Raincoat | 1
+Umbrella | 1
+Sunglasses | 1
+Sun Hat | 1
+Sunscreen | 1
+Beach | 1
+Seashell | 1
+Waves | 1
+Starfish | 1
+Garden | 1
+Flower | 1
+Sunflower | 1
+Tree | 1
+Leaf | 1
+Acorn | 1
+Pinecone | 1
+Rock | 1
+Stick | 1
+Mud | 1
+Grass | 1
+Moon | 1
+Star | 1
+Sun | 1
+Cloud | 1
+Shooting Star | 1
+Dandelion | 1
+Ladybug | 1
+Worm | 1
+Snail | 1
+Caterpillar | 1
+Butterfly | 1
+Ant Hill | 1
+Spider Web | 1
+Bee | 1
+Firefly | 1
+# Batch 3: school and learning
+School | 1
+School Bus | 1
+Backpack | 1
+Lunchbox | 1
+Teacher | 1
+Classroom | 1
+Desk | 1
+Whiteboard | 1
+Pencil | 1
+Pencil Sharpener | 1
+Eraser | 1
+Ruler | 1
+Glue Stick | 1
+Scissors | 1
+Notebook | 1
+Homework | 1
+Recess | 1
+Lunchtime | 1
+Show And Tell | 1
+Story Time | 1
+Library | 1
+Library Book | 1
+Alphabet | 1
+ABCs | 1
+Counting | 1
+Numbers | 1
+Spelling | 1
+Reading | 1
+Writing | 1
+Drawing | 1
+Painting | 1
+Art Class | 1
+Music Class | 1
+Field Trip | 1
+Principal | 1
+Hall Pass | 2
+Gold Star | 1
+Report Card | 2
+Spelling Bee | 2
+Science Fair | 2
+Globe | 1
+Map | 1
+Calendar | 1
+Clock | 1
+Bell | 1
+Line Leader | 1
+Raise Your Hand | 1
+Circle Time | 1
+Nap Time | 1
+Snack Time | 1
+Clean-Up Time | 1
+Kindergarten | 1
+Preschool | 1
+Crossing Guard | 1
+Lost Tooth | 1
+Birthday Party | 1
+Birthday Cake | 1
+Candles | 1
+Party Hat | 1
+Presents | 1
+Wrapping Paper | 1
+Pinata | 1
+Goody Bag | 1
+Cupcake | 1
+Magic Show | 1
+Clown | 1
+Balloon Animal | 1
+# Batch 4: home, bedtime and daily routine
+Bedtime | 1
+Bedtime Story | 1
+Pajamas | 1
+Pillow | 1
+Blanket | 1
+Bunk Bed | 1
+Night Light | 1
+Lullaby | 1
+Dream | 1
+Nightmare | 1
+Yawn | 1
+Snoring | 1
+Alarm Clock | 1
+Wake Up | 1
+Breakfast | 1
+Lunch | 1
+Dinner | 1
+Bath Time | 1
+Bubble Bath | 1
+Toothbrush | 1
+Toothpaste | 1
+Brushing Teeth | 1
+Washing Hands | 1
+Soap | 1
+Towel | 1
+Hairbrush | 1
+Comb | 1
+Shoes | 1
+Socks | 1
+Shoelaces | 1
+Tying Shoes | 1
+Jacket | 1
+Hat | 1
+Scarf | 1
+Gloves | 1
+Boots | 1
+Slippers | 1
+T-Shirt | 1
+Shorts | 1
+Dress | 1
+Skirt | 1
+Jeans | 1
+Sweater | 1
+Bib | 1
+Diaper | 1
+High Chair | 1
+Stroller | 1
+Car Seat | 1
+Crib | 1
+Baby Bottle | 1
+Pacifier | 1
+Sippy Cup | 1
+Potty | 1
+Bathtub | 1
+Kitchen | 1
+Bedroom | 1
+Bathroom | 1
+Living Room | 1
+Couch | 1
+Television | 1
+Remote Control | 1
+Lamp | 1
+Window | 1
+Door | 1
+Stairs | 1
+Fridge | 1
+Oven | 1
+Microwave | 1
+Spoon | 1
+Fork | 1
+Plate | 1
+Bowl | 1
+Cup | 1
+Straw | 1
+Napkin | 1
+Chores | 1
+Making The Bed | 1
+Setting The Table | 1
+Laundry | 1
+Vacuum | 1
+Broom | 1
+Trash Can | 1
+Mailbox | 1
+Doorbell | 1
+Fence | 1
+Swing Set | 1
+Grandma | 1
+Grandpa | 1
+Mom | 1
+Dad | 1
+Baby | 1
+Big Sister | 1
+Little Brother | 1
+Babysitter | 1
+Family | 1
+Best Friend | 1
+Neighbor | 1
+Hug | 1
+Kiss Goodnight | 1
+Tickle | 1
+Allowance | 2
+# Batch 5: colors, shapes, numbers and body
+Red | 1
+Blue | 1
+Yellow | 1
+Green | 1
+Orange | 1
+Purple | 1
+Pink | 1
+Brown | 1
+Black | 1
+White | 1
+Gray | 1
+Gold | 1
+Silver | 1
+Circle | 1
+Square | 1
+Triangle | 1
+Rectangle | 1
+Heart Shape | 1
+Star Shape | 1
+Diamond | 1
+Oval | 1
+One | 1
+Two | 1
+Three | 1
+Ten | 1
+Big | 1
+Little | 1
+Hot | 1
+Cold | 1
+Up | 1
+Down | 1
+Happy | 1
+Sad | 1
+Angry | 1
+Scared | 1
+Silly | 1
+Sleepy | 1
+Hungry | 1
+Thirsty | 1
+Grumpy | 1
+Excited | 1
+Shy | 1
+Smile | 1
+Frown | 1
+Giggle | 1
+Tears | 1
+Head | 1
+Hair | 1
+Eyes | 1
+Ears | 1
+Nose | 1
+Mouth | 1
+Teeth | 1
+Tongue | 1
+Chin | 1
+Cheeks | 1
+Eyebrows | 1
+Eyelashes | 1
+Neck | 1
+Shoulders | 1
+Arm | 1
+Elbow | 1
+Hand | 1
+Fingers | 1
+Thumb | 1
+Fingernails | 1
+Tummy | 1
+Belly Button | 1
+Knee | 1
+Leg | 1
+Foot | 1
+Toes | 1
+Heel | 1
+Freckles | 1
+Hiccups | 1
+Sneeze | 1
+Burp | 1
+Boo-Boo | 1
+Loose Tooth | 1
+Tooth Fairy | 1
+Growing Up | 1
+Muscles | 1
+Heartbeat | 1
+Shadow | 1
+Footprint | 1
+Handprint | 1
+Fingerprint | 2
+# Batch 6: actions
+Jump | 1
+Run | 1
+Hop | 1
+Skip | 1
+Clap | 1
+Wave | 1
+Dance | 1
+Sing | 1
+Laugh | 1
+Cry | 1
+Climb | 1
+Crawl | 1
+Swim | 1
+Throw | 1
+Kick | 1
+Spin | 1
+Tiptoe | 1
+Stomp | 1
+Wiggle | 1
+Shake | 1
+Stretch | 1
+Push | 1
+Pull | 1
+Blow | 1
+Whisper | 1
+Shout | 1
+Point | 1
+Count | 1
+Share | 1
+Hide | 1
+Build | 1
+Color | 1
+Bake | 1
+Cook | 1
+Eat | 1
+Drink | 1
+Sleep | 1
+Wash | 1
+Brush | 1
+Splash | 1
+Float | 1
+Fly | 1
+Flap | 1
+Roar | 1
+Bark | 1
+Meow | 1
+Moo | 1
+Quack | 1
+Oink | 1
+Buzz | 1
+Hiss | 1
+Gallop | 1
+Roll Over | 1
+Thumbs Up | 1
+Blowing Bubbles | 1
+Blowing Kisses | 1
+Making A Wish | 1
+Flying A Kite | 1
+Riding A Bike | 1
+Building A Snowman | 1
+Feeding The Ducks | 1
+Walking The Dog | 1
+Petting A Cat | 1
+Licking An Ice Cream | 1
+Jumping In Puddles | 1
+Catching Bubbles | 1
+Saying Please | 1
+Saying Thank You | 1
+Saying Sorry | 1
+Taking Turns | 1
+Sharing Toys | 1
+Tidying Up | 1
+Tickle Fight | 1
+Pillow Fight | 1
+Making Faces | 1
+Belly Laugh | 1
+Silly Dance | 1
+Sticking Out Tongue | 1
+Playing Pretend | 1
+# Batch 7: characters and make-believe
+Pirate | 1
+Pirate Ship | 1
+Princess | 1
+Prince | 1
+King | 1
+Queen | 1
+Castle | 1
+Knight | 1
+Dragon | 1
+Unicorn | 1
+Mermaid | 1
+Fairy | 1
+Wizard | 1
+Witch | 1
+Ghost | 1
+Monster | 1
+Giant | 1
+Troll | 1
+Elf | 1
+Superhero | 1
+Robot | 1
+Alien | 1
+Astronaut | 1
+Rocket Ship | 1
+Spaceship | 1
+Flying Saucer | 1
+Cowboy | 1
+Ninja | 1
+Firefighter | 1
+Police Officer | 1
+Doctor | 1
+Nurse | 1
+Dentist | 1
+Farmer | 1
+Chef | 1
+Baker | 1
+Mail Carrier | 1
+Bus Driver | 1
+Zookeeper | 1
+Vet | 1
+Magician | 1
+Santa Claus | 1
+Easter Bunny | 1
+Gingerbread Man | 1
+Scarecrow | 1
+Dinosaur | 1
+T-Rex | 1
+Fairy Godmother | 1
+Big Bad Wolf | 1
+Three Little Pigs | 1
+Goldilocks | 1
+Little Red Riding Hood | 1
+Jack And The Beanstalk | 1
+Humpty Dumpty | 1
+Cinderella | 1
+Glass Slipper | 1
+Magic Carpet | 1
+Genie | 1
+Magic Lamp | 1
+Treasure | 1
+Gold Coins | 1
+Rainbow Unicorn | 1
+Haunted House | 1
+Spooky Skeleton | 1
+Jack-O'-Lantern | 1
+Trick Or Treat | 1
+Halloween Costume | 1
+Christmas Tree | 1
+Stocking | 1
+Reindeer | 1
+Elf On The Shelf | 1
+Easter Egg | 1
+Egg Hunt | 1
+Birthday Wish | 1
+# Batch 8: things that go, food treats and places
+Car | 1
+Bus | 1
+Truck | 1
+Fire Truck | 1
+Police Car | 1
+Ambulance | 1
+Garbage Truck | 1
+Dump Truck | 1
+Tractor | 1
+Bulldozer | 1
+Digger | 1
+Crane | 1
+Train | 1
+Airplane | 1
+Helicopter | 1
+Hot Air Balloon | 1
+Boat | 1
+Sailboat | 1
+Submarine | 1
+Rocket | 1
+Motorcycle | 1
+Taxi | 1
+Ice Cream Truck | 1
+Race Car | 1
+Monster Truck | 1
+Steering Wheel | 1
+Traffic Light | 1
+Stop Sign | 1
+Seat Belt | 1
+Tire | 1
+Ice Cream | 1
+Ice Cream Cone | 1
+Popsicle | 1
+Lollipop | 1
+Candy | 1
+Cookie | 1
+Chocolate Chip Cookie | 1
+Donut | 1
+Pancakes | 1
+Waffles | 1
+Cereal | 1
+Pizza | 1
+Hot Dog | 1
+Chicken Nuggets | 1
+French Fries | 1
+Spaghetti | 1
+Mac And Cheese | 1
+Peanut Butter | 1
+Peanut Butter Sandwich | 1
+Apple | 1
+Banana | 1
+Grapes | 1
+Strawberry | 1
+Watermelon | 1
+Carrot | 1
+Broccoli | 1
+Milk | 1
+Juice Box | 1
+Lemonade | 1
+Popcorn | 1
+Cotton Candy | 1
+Chocolate Milk | 1
+Cheese | 1
+Bread | 1
+Egg | 1
+Zoo | 1
+Farm | 1
+Park | 1
+Aquarium | 1
+Circus | 1
+Fair | 1
+Carousel | 1
+Ferris Wheel | 1
+Roller Coaster | 1
+Water Park | 1
+Movie Theater | 1
+Toy Store | 1
+Candy Store | 1
+Grocery Store | 1
+Bakery | 1
+Fire Station | 1
+Hospital | 1
+Swimming Pool | 1
+Museum | 1
+Puppet Show | 1
+Fireworks | 1
+Parade | 1
+Lemonade Stand | 1
+Nap | 1

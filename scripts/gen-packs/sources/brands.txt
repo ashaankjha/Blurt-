@@ -1,0 +1,556 @@
+# Brands: globally famous brands and products. Names only. No alcohol or tobacco.
+# Batch 1: tech and electronics
+Apple | 1
+iPhone | 1
+iPad | 1
+MacBook | 2
+AirPods | 1
+Apple Watch | 1
+iTunes | 2
+Siri | 1
+Samsung | 1
+Galaxy Phone | 2
+Google | 1
+Google Maps | 1
+Gmail | 1
+YouTube | 1
+Android | 1
+Chrome | 2
+Microsoft | 1
+Windows | 1
+Xbox | 1
+Excel | 2
+PowerPoint | 1
+Microsoft Word | 2
+Sony | 1
+PlayStation | 1
+Nintendo | 1
+Nintendo Switch | 1
+Wii | 1
+Amazon | 1
+Alexa | 1
+Kindle | 1
+Prime Video | 2
+Netflix | 1
+Disney Plus | 1
+Spotify | 1
+Facebook | 1
+Instagram | 1
+WhatsApp | 1
+TikTok | 1
+Snapchat | 1
+Twitter | 1
+LinkedIn | 2
+Pinterest | 2
+Reddit | 2
+Zoom | 1
+Skype | 2
+Uber | 1
+Airbnb | 1
+PayPal | 2
+eBay | 1
+Tesla | 1
+Intel | 2
+Dell | 2
+HP | 2
+Lenovo | 3
+Canon | 2
+Nikon | 2
+GoPro | 2
+Polaroid | 1
+Kodak | 2
+Fitbit | 2
+Bose | 2
+Beats Headphones | 2
+JBL | 3
+Panasonic | 2
+LG | 2
+Philips | 2
+Dyson | 2
+Roomba | 1
+Nokia | 2
+Motorola | 2
+Huawei | 3
+Xiaomi | 3
+Garmin | 3
+Duracell | 2
+Energizer Bunny | 1
+Post-it Note | 1
+Sharpie | 1
+Scotch Tape | 1
+Bic Pen | 2
+Crayola | 1
+Wikipedia | 1
+Yahoo | 2
+Bing | 2
+ChatGPT | 1
+Discord | 2
+Twitch | 2
+Shazam | 2
+Duolingo | 1
+Candy Crush | 1
+Angry Birds | 1
+Minecraft | 1
+Fortnite | 1
+Pokemon | 1
+Tetris | 1
+Pac-Man | 1
+Super Mario | 1
+Sonic The Hedgehog | 1
+Roblox | 1
+Uber Eats | 2
+DoorDash | 2
+Venmo | 3
+Visa | 1
+Mastercard | 1
+American Express | 2
+Dropbox | 3
+Photoshop | 2
+Adobe | 2
+Zara | 2
+Shopify | 3
+Etsy | 2
+Waze | 3
+Google Translate | 2
+FaceTime | 1
+Apple Pay | 2
+Bluetooth | 2
+Wi-Fi | 1
+USB Stick | 2
+Nest Thermostat | 3
+Ring Doorbell | 2
+Echo Dot | 2
+Instant Pot | 2
+Vitamix | 3
+KitchenAid | 2
+Tupperware | 1
+Ziploc Bag | 1
+Pyrex | 2
+Keurig | 2
+Nespresso | 2
+# Batch 2: food, drink and restaurants
+Coca-Cola | 1
+Pepsi | 1
+Sprite | 1
+Fanta | 1
+Dr Pepper | 2
+Mountain Dew | 2
+7 Up | 2
+Red Bull | 1
+Gatorade | 1
+Monster Energy | 2
+Starbucks | 1
+Dunkin' | 1
+McDonald's | 1
+Big Mac | 1
+Happy Meal | 1
+Burger King | 1
+Whopper | 2
+KFC | 1
+Subway | 1
+Pizza Hut | 1
+Domino's | 1
+Taco Bell | 1
+Wendy's | 1
+Chipotle | 2
+Five Guys | 2
+In-N-Out | 2
+Shake Shack | 3
+Dairy Queen | 2
+Krispy Kreme | 2
+Tim Hortons | 3
+Chick-fil-A | 2
+Popeyes | 2
+Panda Express | 2
+Papa John's | 2
+Baskin-Robbins | 2
+Ben & Jerry's | 2
+Haagen-Dazs | 3
+Magnum Ice Cream | 2
+Nutella | 1
+Oreo | 1
+Kit Kat | 1
+Snickers | 1
+M&M's | 1
+Twix | 1
+Mars Bar | 2
+Milky Way | 2
+Toblerone | 2
+Ferrero Rocher | 2
+Kinder Egg | 2
+Kinder Surprise | 2
+Cadbury | 2
+Hershey's | 1
+Reese's | 1
+Skittles | 1
+Starburst | 1
+Haribo | 2
+Gummy Bears | 1
+Jelly Belly | 2
+Tic Tac | 1
+Mentos | 1
+Pez | 2
+Chupa Chups | 3
+Pringles | 1
+Doritos | 1
+Cheetos | 1
+Lay's | 1
+Ruffles | 2
+Goldfish Crackers | 1
+Ritz Crackers | 2
+Cheerios | 1
+Froot Loops | 1
+Frosted Flakes | 1
+Corn Flakes | 1
+Lucky Charms | 1
+Rice Krispies | 1
+Kellogg's | 1
+Pop-Tarts | 1
+Eggo Waffles | 2
+Heinz Ketchup | 1
+Tabasco | 2
+Sriracha | 2
+Kraft Mac And Cheese | 2
+Campbell's Soup | 2
+SPAM | 2
+Hot Pockets | 2
+Jell-O | 1
+Kool-Aid | 1
+Capri Sun | 1
+Tropicana | 2
+Minute Maid | 2
+Lipton Tea | 2
+Nescafe | 2
+Nesquik | 2
+Ovaltine | 3
+Milo | 3
+Evian | 2
+Perrier | 2
+San Pellegrino | 3
+Vitaminwater | 3
+Snapple | 2
+Arizona Iced Tea | 2
+Coke Zero | 1
+Diet Coke | 1
+Pepsi Max | 2
+Frappuccino | 2
+Pumpkin Spice Latte | 2
+McFlurry | 1
+Chicken McNuggets | 1
+Egg McMuffin | 2
+Filet-O-Fish | 2
+Frosty | 2
+Blizzard | 2
+Baconator | 3
+Crunchwrap | 3
+Doritos Locos Taco | 3
+Stuffed Crust Pizza | 2
+Twinkie | 1
+Hostess Cupcake | 2
+Cool Whip | 2
+Philadelphia Cream Cheese | 2
+Velveeta | 2
+Kraft Singles | 2
+Oscar Mayer | 2
+Quaker Oats | 2
+Nature Valley | 2
+Clif Bar | 3
+Hellmann's Mayo | 2
+Kikkoman | 3
+Maggi | 3
+Knorr | 3
+Lindt | 2
+Godiva | 2
+Werther's Original | 2
+Life Savers | 2
+Airheads | 2
+Sour Patch Kids | 1
+Swedish Fish | 2
+Twizzlers | 2
+Nerds | 2
+Warheads | 2
+Jolly Rancher | 2
+Hubba Bubba | 2
+Trident Gum | 2
+Wrigley's | 2
+Altoids | 2
+Fruit Roll-Ups | 1
+Cheez-It | 2
+Chips Ahoy | 2
+Fig Newtons | 2
+Cinnabon | 2
+Wonder Bread | 2
+# Batch 3: fashion, retail and beauty
+Nike | 1
+Adidas | 1
+Puma | 1
+Reebok | 2
+Under Armour | 2
+New Balance | 2
+Converse | 1
+Vans | 1
+Crocs | 1
+Birkenstock | 2
+Dr. Martens | 2
+Timberland | 2
+UGG Boots | 1
+Air Jordans | 1
+Levi's | 1
+Gap | 2
+H&M | 2
+Uniqlo | 2
+Gucci | 1
+Prada | 1
+Louis Vuitton | 1
+Chanel | 1
+Versace | 2
+Armani | 2
+Hermes | 3
+Dior | 2
+Burberry | 2
+Rolex | 1
+Tiffany & Co | 2
+Ray-Ban | 1
+Oakley | 2
+Calvin Klein | 2
+Tommy Hilfiger | 2
+Ralph Lauren | 2
+Lacoste | 2
+The North Face | 2
+Patagonia | 2
+Lululemon | 2
+Fruit Of The Loom | 2
+Supreme | 2
+Swatch | 2
+Casio | 2
+Swarovski | 2
+L'Oreal | 2
+Maybelline | 2
+MAC Cosmetics | 3
+Revlon | 2
+Sephora | 2
+Nivea | 2
+Dove | 1
+Olay | 2
+Neutrogena | 2
+Clinique | 3
+Estee Lauder | 3
+Chapstick | 1
+Vaseline | 1
+Old Spice | 2
+Axe Body Spray | 2
+Gillette | 1
+Head & Shoulders | 1
+Pantene | 2
+Colgate | 1
+Crest | 2
+Listerine | 1
+Q-tips | 1
+Band-Aid | 1
+Kleenex | 1
+Tylenol | 2
+Advil | 2
+Purell | 2
+Pampers | 1
+Huggies | 2
+Charmin | 2
+Bounty | 2
+Tide Pods | 1
+Clorox | 2
+Lysol | 2
+Windex | 1
+Febreze | 1
+Mr. Clean | 1
+Swiffer | 2
+WD-40 | 2
+Duct Tape | 1
+Velcro | 1
+Bubble Wrap | 1
+Super Glue | 1
+Walmart | 1
+Target | 1
+Costco | 1
+IKEA | 1
+Home Depot | 2
+Best Buy | 2
+7-Eleven | 1
+Toys R Us | 2
+GameStop | 2
+Apple Store | 1
+Disney Store | 2
+Build-A-Bear | 1
+Barnes & Noble | 2
+Whole Foods | 2
+Trader Joe's | 2
+Aldi | 2
+CVS | 2
+Walgreens | 2
+Macy's | 2
+Old Navy | 2
+Forever 21 | 2
+Abercrombie | 2
+American Eagle | 2
+Hollister | 2
+Foot Locker | 2
+Claire's | 2
+Bath & Body Works | 2
+Yankee Candle | 2
+Hallmark | 2
+FedEx | 1
+UPS | 1
+DHL | 2
+Shell | 2
+Michelin Man | 1
+Goodyear Blimp | 1
+# Batch 4: cars, travel, toys and entertainment
+Toyota | 1
+Honda | 1
+Ford | 1
+Chevrolet | 1
+BMW | 1
+Mercedes-Benz | 1
+Audi | 1
+Volkswagen | 1
+VW Beetle | 1
+Porsche | 1
+Ferrari | 1
+Lamborghini | 1
+Rolls-Royce | 1
+Bentley | 2
+Jaguar | 2
+Land Rover | 2
+Jeep | 1
+Mini Cooper | 1
+Volvo | 2
+Subaru | 2
+Nissan | 2
+Mazda | 2
+Hyundai | 2
+Kia | 2
+Fiat | 2
+Ford Mustang | 1
+Corvette | 2
+Cadillac | 2
+Hummer | 2
+Harley-Davidson | 1
+Vespa | 2
+Ducati | 3
+Yamaha | 2
+Kawasaki | 3
+Michelin | 2
+Boeing | 2
+Airbus | 2
+Concorde | 3
+Emirates | 2
+Ryanair | 3
+Greyhound Bus | 2
+Hilton | 2
+Marriott | 2
+Holiday Inn | 2
+Expedia | 3
+Tripadvisor | 3
+Booking.com | 3
+Lego | 1
+Barbie | 1
+Ken Doll | 1
+Hot Wheels | 1
+Matchbox Cars | 2
+Nerf | 1
+Play-Doh | 1
+Etch A Sketch | 1
+Rubik's Cube | 1
+Monopoly | 1
+Scrabble | 1
+Jenga | 1
+Twister | 1
+Uno | 1
+Connect Four | 1
+Operation | 2
+Hungry Hungry Hippos | 1
+Mr. Potato Head | 1
+Slinky | 1
+Frisbee | 1
+Hula Hoop | 1
+Silly Putty | 2
+Fisher-Price | 2
+Hasbro | 2
+Mattel | 2
+Transformers | 1
+My Little Pony | 1
+G.I. Joe | 2
+American Girl Doll | 2
+Care Bears | 2
+Hello Kitty | 1
+Sanrio | 3
+Squishmallow | 2
+Clue | 2
+Battleship | 1
+Candy Land | 1
+Chutes And Ladders | 1
+Guess Who | 1
+Pictionary | 1
+Trivial Pursuit | 2
+Yahtzee | 2
+Boggle | 2
+Catan | 3
+Magic 8 Ball | 1
+Crayola Crayons | 1
+Elmer's Glue | 2
+Disney | 1
+Disneyland | 1
+Walt Disney World | 1
+Pixar | 1
+Marvel | 1
+DC Comics | 2
+Star Wars | 1
+Warner Bros | 2
+Universal Studios | 2
+Paramount | 3
+Nickelodeon | 2
+Cartoon Network | 2
+MTV | 2
+HBO | 2
+BBC | 2
+CNN | 2
+National Geographic | 2
+Discovery Channel | 2
+Hulu | 2
+Peloton | 2
+Weight Watchers | 2
+Xbox Controller | 2
+Game Of Life | 2
+Sea-Doo | 3
+Jet Ski | 2
+Jacuzzi | 2
+Speedo | 2
+Hard Rock Cafe | 2
+Rainforest Cafe | 2
+Chuck E. Cheese | 1
+Six Flags | 2
+SeaWorld | 2
+Legoland | 1
+Michelin Star | 2
+Golden Arches | 1
+Nike Swoosh | 1
+Twitter Bird | 2
+Apple Logo | 1
+Starbucks Mermaid | 2
+Colonel Sanders | 1
+Ronald McDonald | 1
+Tony The Tiger | 1
+Pillsbury Doughboy | 1
+Mr. Peanut | 2
+Kool-Aid Man | 1
+M&M Characters | 2
+Geico Gecko | 2
+Jolly Green Giant | 2
+Chester Cheetah | 2
+Trix Rabbit | 2
+Cap'n Crunch | 2
+Snap Crackle Pop | 2
+Burger King Crown | 2
+Duracell Bunny | 2
+Monopoly Man | 1
+Pringles Man | 2
+Coca-Cola Polar Bear | 2
+Mickey Mouse Ears | 1

@@ -1,0 +1,856 @@
+# Sports: sports, equipment, positions, moves, famous events and terms.
+# Batch 1: sports and games
+Soccer | 1
+Basketball | 1
+Baseball | 1
+Football | 1
+Tennis | 1
+Golf | 1
+Hockey | 1
+Volleyball | 1
+Swimming | 1
+Boxing | 1
+Wrestling | 1
+Bowling | 1
+Skateboarding | 1
+Surfing | 1
+Skiing | 1
+Snowboarding | 1
+Ice Skating | 1
+Figure Skating | 1
+Gymnastics | 1
+Cycling | 1
+Running | 1
+Marathon | 1
+Karate | 1
+Judo | 2
+Taekwondo | 2
+Fencing | 2
+Archery | 1
+Badminton | 2
+Table Tennis | 1
+Ping Pong | 1
+Cricket | 2
+Rugby | 2
+Lacrosse | 2
+Water Polo | 2
+Polo | 2
+Rowing | 2
+Canoeing | 2
+Kayaking | 1
+Sailing | 1
+Diving | 1
+Synchronized Swimming | 2
+Rock Climbing | 1
+Bouldering | 3
+Mountain Biking | 2
+BMX | 2
+Motocross | 2
+Formula One | 2
+NASCAR | 2
+Drag Racing | 2
+Horse Racing | 1
+Rodeo | 2
+Bull Riding | 2
+Dodgeball | 1
+Kickball | 1
+Tetherball | 2
+Handball | 2
+Softball | 1
+Curling | 2
+Bobsled | 2
+Luge | 3
+Ski Jumping | 2
+Biathlon | 3
+Triathlon | 2
+Decathlon | 3
+Pole Vault | 2
+High Jump | 1
+Long Jump | 1
+Triple Jump | 2
+Hurdles | 1
+Shot Put | 2
+Discus | 2
+Javelin | 2
+Hammer Throw | 3
+Relay Race | 1
+Sprint | 1
+Weightlifting | 1
+Powerlifting | 2
+Bodybuilding | 2
+Sumo Wrestling | 1
+Kickboxing | 2
+Mixed Martial Arts | 2
+Jiu-Jitsu | 2
+Kung Fu | 1
+Pickleball | 2
+Squash | 2
+Racquetball | 2
+Ultimate Frisbee | 2
+Disc Golf | 2
+Mini Golf | 1
+Cornhole | 2
+Darts | 1
+Billiards | 2
+Pool | 1
+Snooker | 3
+Water Skiing | 2
+Wakeboarding | 3
+Parasailing | 2
+Skydiving | 1
+Bungee Jumping | 1
+Hang Gliding | 2
+Snorkeling | 1
+Scuba Diving | 1
+Kitesurfing | 3
+Paddleboarding | 2
+Speed Skating | 2
+Cross-Country Skiing | 2
+Roller Skating | 1
+Rollerblading | 1
+Jump Rope | 1
+Tug Of War | 1
+Sack Race | 1
+Egg And Spoon Race | 2
+Three-Legged Race | 2
+Arm Wrestling | 1
+Thumb Wrestling | 1
+Paintball | 2
+Laser Tag | 1
+Fishing | 1
+Hiking | 1
+Jogging | 1
+Yoga | 1
+Pilates | 2
+Aerobics | 2
+Zumba | 2
+Spin Class | 2
+CrossFit | 2
+Parkour | 2
+Cheerleading | 1
+Equestrian | 3
+Dressage | 3
+Show Jumping | 3
+Orienteering | 3
+Croquet | 2
+Bocce Ball | 2
+Lawn Bowling | 3
+Foosball | 2
+Air Hockey | 1
+Beach Volleyball | 1
+Street Hockey | 2
+Flag Football | 2
+Touch Football | 2
+Esports | 2
+Chess | 1
+Ballroom Dancing | 2
+Breakdancing | 2
+Bodyboarding | 3
+Sledding | 1
+Snowshoeing | 2
+Motorcycle Racing | 2
+Go-Karting | 1
+Monster Trucks | 1
+Demolition Derby | 2
+Tobogganing | 3
+Hurling | 3
+Netball | 3
+Field Hockey | 2
+Ice Fishing | 2
+Hula Hooping | 1
+Arm Curl | 3
+Speed Walking | 2
+Obstacle Course | 1
+Tough Mudder | 3
+Hot Yoga | 2
+Base Jumping | 3
+Free Diving | 3
+Cliff Diving | 2
+Zip Lining | 1
+Whitewater Rafting | 2
+Kite Flying | 1
+Horseback Riding | 1
+Sport Fishing | 3
+Roller Derby | 2
+Ski Cross | 3
+Snowmobiling | 2
+Jet Skiing | 1
+Ultramarathon | 3
+Half Marathon | 2
+Fun Run | 1
+Color Run | 2
+Spartan Race | 3
+# Batch 2: equipment, gear and venues
+Baseball Bat | 1
+Catcher's Mitt | 2
+Batting Helmet | 2
+Hockey Stick | 1
+Hockey Puck | 1
+Goalie Mask | 1
+Tennis Racket | 1
+Tennis Ball | 1
+Shuttlecock | 2
+Golf Club | 1
+Golf Ball | 1
+Golf Tee | 1
+Golf Cart | 1
+Putter | 2
+Bowling Ball | 1
+Bowling Pins | 1
+Boxing Gloves | 1
+Punching Bag | 1
+Mouthguard | 2
+Shin Guards | 2
+Shoulder Pads | 2
+Knee Pads | 1
+Football Helmet | 1
+Jersey | 1
+Cleats | 2
+Sweatband | 2
+Whistle | 1
+Stopwatch | 1
+Scoreboard | 1
+Jumbotron | 2
+Goal Post | 1
+Basketball Hoop | 1
+Backboard | 2
+Soccer Ball | 1
+Volleyball Net | 1
+Starting Block | 3
+Finish Line | 1
+Starting Gun | 2
+Balance Beam | 1
+Pommel Horse | 2
+Uneven Bars | 2
+Parallel Bars | 2
+Still Rings | 3
+Springboard | 2
+Diving Board | 1
+Swim Cap | 1
+Goggles | 1
+Life Jacket | 1
+Surfboard | 1
+Skateboard | 1
+Snowboard | 1
+Ski Poles | 1
+Ski Lift | 1
+Chairlift | 2
+Ice Skates | 1
+Bicycle Helmet | 1
+Gym Bag | 1
+Dumbbell | 1
+Barbell | 2
+Kettlebell | 2
+Treadmill | 1
+Exercise Bike | 1
+Rowing Machine | 2
+Yoga Mat | 1
+Medicine Ball | 2
+Resistance Band | 2
+Foam Roller | 2
+Fishing Rod | 1
+Tackle Box | 2
+Oar | 1
+Saddle | 1
+Stirrups | 2
+Horseshoe | 1
+Pool Cue | 1
+Dartboard | 1
+Bullseye | 1
+Bow And Arrow | 1
+Climbing Rope | 1
+Carabiner | 3
+Chalk Bag | 3
+Sports Bra | 2
+Penalty Flag | 2
+Red Card | 1
+Yellow Card | 1
+Trophy | 1
+Gold Medal | 1
+Silver Medal | 1
+Bronze Medal | 1
+Podium | 1
+Stanley Cup | 2
+Championship Ring | 2
+Pom-Poms | 1
+Foam Finger | 1
+Team Mascot | 1
+Bleachers | 1
+Dugout | 2
+Locker Room | 1
+Penalty Box | 2
+Batting Cage | 2
+Pitching Mound | 2
+Home Plate | 1
+Bullpen | 2
+Infield | 2
+Outfield | 2
+Center Court | 2
+Free Throw Line | 2
+Three-Point Line | 2
+End Zone | 1
+Fifty-Yard Line | 2
+Sideline | 1
+Penalty Spot | 2
+Corner Flag | 2
+Golf Course | 1
+Sand Trap | 2
+Putting Green | 2
+Driving Range | 2
+Ice Rink | 1
+Boxing Ring | 1
+Race Track | 1
+Velodrome | 3
+Skate Park | 1
+Halfpipe | 2
+Ski Slope | 1
+Bunny Hill | 2
+Lap Lane | 2
+Tennis Court | 1
+Stadium | 1
+Arena | 1
+Gym | 1
+Racing Helmet | 2
+Wetsuit | 1
+Flippers | 1
+Snorkel | 1
+Kneeboard | 3
+Elbow Pads | 1
+Wrist Guards | 2
+Ankle Brace | 2
+Hand Wraps | 3
+Chalk | 2
+Sports Tape | 2
+Heart Rate Monitor | 2
+Fitness Tracker | 1
+Pedometer | 2
+Lane Rope | 3
+Kickboard | 2
+Pace Car | 2
+Pit Crew | 2
+Grandstand | 2
+Luxury Box | 3
+Press Box | 3
+Team Bus | 2
+Game Ball | 2
+Football Tee | 2
+Tackling Dummy | 2
+Hurdle | 1
+Relay Baton | 2
+# Batch 3: positions and people
+Quarterback | 1
+Wide Receiver | 2
+Running Back | 2
+Linebacker | 2
+Tight End | 2
+Kicker | 1
+Punter | 2
+Goalie | 1
+Goalkeeper | 1
+Striker | 2
+Defender | 1
+Midfielder | 2
+Pitcher | 1
+Catcher | 1
+Shortstop | 2
+First Baseman | 2
+Designated Hitter | 3
+Point Guard | 2
+Power Forward | 3
+Coach | 1
+Referee | 1
+Umpire | 1
+Linesman | 2
+Team Captain | 1
+Benchwarmer | 2
+Rookie | 1
+Veteran | 2
+Free Agent | 2
+Draft Pick | 2
+Water Boy | 2
+Ball Boy | 2
+Caddie | 2
+Jockey | 1
+Lifeguard | 1
+Personal Trainer | 1
+Cheerleader | 1
+Mascot | 1
+Commentator | 2
+Sportscaster | 2
+Superfan | 1
+Team Owner | 2
+Underdog | 1
+Defending Champion | 2
+Heavyweight Champion | 2
+MVP | 1
+All-Star | 1
+Hall Of Famer | 2
+Olympian | 1
+Gold Medalist | 1
+Pinch Hitter | 3
+Sixth Man | 3
+Fullback | 2
+Ref | 1
+Bodybuilder | 1
+Gym Rat | 2
+Weekend Warrior | 2
+Armchair Quarterback | 3
+Scout | 2
+Sports Agent | 2
+Equipment Manager | 3
+Team Doctor | 2
+Assistant Coach | 2
+Head Coach | 1
+Trainer | 1
+Surfer Dude | 1
+Skater | 1
+Sprinter | 1
+Swimmer | 1
+Golfer | 1
+Boxer | 1
+Wrestler | 1
+Gymnast | 1
+Cyclist | 1
+Marathon Runner | 1
+Ballerina | 1
+# Batch 4: moves, plays and terms
+Touchdown | 1
+Field Goal | 1
+Home Run | 1
+Grand Slam | 2
+Strikeout | 1
+Hat Trick | 2
+Slam Dunk | 1
+Alley-Oop | 2
+Three-Pointer | 1
+Free Throw | 1
+Layup | 2
+Jump Shot | 2
+Buzzer Beater | 2
+Air Ball | 2
+Fast Break | 2
+Full-Court Press | 3
+Double Dribble | 2
+Traveling | 2
+Technical Foul | 2
+Hail Mary | 2
+Fumble | 1
+Interception | 2
+Quarterback Sack | 2
+Blitz | 2
+Onside Kick | 3
+Two-Minute Warning | 2
+Instant Replay | 2
+Overtime | 1
+Sudden Death | 2
+Penalty Kick | 1
+Corner Kick | 2
+Free Kick | 2
+Bicycle Kick | 2
+Header | 2
+Offside | 2
+Own Goal | 2
+Nutmeg | 3
+Diving Save | 2
+Ace | 2
+Deuce | 3
+Match Point | 2
+Tiebreaker | 2
+Backhand | 2
+Forehand | 2
+Volley | 2
+Drop Shot | 3
+Hole In One | 1
+Birdie | 2
+Eagle | 3
+Bogey | 2
+Par | 2
+Fore | 2
+Mulligan | 3
+Hook Shot | 3
+Strike | 1
+Spare | 2
+Gutter Ball | 1
+Perfect Game | 2
+Knockout | 1
+Uppercut | 2
+Left Hook | 2
+Jab | 2
+Rope-A-Dope | 3
+Below The Belt | 2
+Throw In The Towel | 2
+Body Slam | 1
+Headlock | 1
+Tap Out | 2
+Cartwheel | 1
+Backflip | 1
+Handstand | 1
+Somersault | 1
+Splits | 1
+Round-Off | 3
+Cannonball | 1
+Belly Flop | 1
+Swan Dive | 2
+Backstroke | 2
+Breaststroke | 2
+Butterfly Stroke | 2
+Doggy Paddle | 1
+Freestyle | 2
+Flip Turn | 3
+Ollie | 2
+Kickflip | 2
+Wipeout | 1
+Hang Ten | 2
+Pit Stop | 1
+Checkered Flag | 1
+Pole Position | 2
+Victory Lap | 1
+Photo Finish | 2
+False Start | 2
+Head Start | 2
+Personal Best | 2
+World Record | 1
+Stolen Base | 2
+Bunt | 2
+Curveball | 2
+Fastball | 2
+Knuckleball | 3
+Seventh-Inning Stretch | 2
+Foul Ball | 1
+Walk-Off Home Run | 3
+Triple Play | 3
+Double Play | 2
+No-Hitter | 3
+Power Play | 2
+Slap Shot | 2
+Face-Off | 2
+Shootout | 2
+Icing | 3
+Body Check | 2
+Penalty Shot | 2
+Zamboni | 2
+Checkmate | 1
+Stalemate | 2
+Victory Dance | 1
+End Zone Dance | 1
+Gatorade Shower | 2
+High Five | 1
+Chest Bump | 1
+Fist Bump | 1
+Team Huddle | 1
+Pep Talk | 1
+Halftime Show | 1
+Coin Toss | 1
+Timeout | 1
+Kickoff | 1
+Tip-Off | 2
+First Down | 2
+Home Field Advantage | 2
+Trash Talk | 1
+Bench Press | 2
+Push-Up | 1
+Sit-Up | 1
+Pull-Up | 1
+Jumping Jacks | 1
+Burpees | 2
+Squats | 1
+Lunges | 2
+Plank | 1
+Warm-Up | 1
+Cool Down | 2
+Stretching | 1
+Six-Pack Abs | 2
+Second Wind | 2
+Runner's High | 2
+Torn ACL | 3
+Pulled Hamstring | 2
+Ice Bath | 2
+Crossover Dribble | 2
+Behind The Back Pass | 2
+No-Look Pass | 2
+Bounce Pass | 2
+Rebound | 2
+Block Shot | 2
+Shot Clock | 2
+Swish | 1
+Brick | 2
+Posterize | 3
+Touchback | 3
+Two-Point Conversion | 3
+Extra Point | 2
+Pass Interference | 3
+Holding Penalty | 3
+Delay Of Game | 3
+Lateral Pass | 3
+Spike The Ball | 2
+Victory Formation | 3
+Scrum | 2
+Line Drive | 2
+Pop Fly | 2
+Fly Ball | 2
+Ground Ball | 2
+Slide Into Home | 1
+Steal Second | 2
+Base Hit | 2
+Bases Loaded | 2
+Full Count | 3
+Strike Three | 1
+You're Out | 1
+Safe | 1
+Wild Pitch | 2
+Bean Ball | 3
+Golden Goal | 3
+Stoppage Time | 3
+Penalty Shootout | 2
+Throw-In | 2
+Goal Kick | 2
+Clean Sheet | 3
+Long Pass | 2
+Through Ball | 3
+Serve | 1
+Double Fault | 2
+Lob | 2
+Smash | 2
+Rally | 2
+Break Point | 3
+Spike | 2
+Bump Set Spike | 2
+Dig | 3
+Chip Shot | 2
+Tee Off | 1
+Slice | 2
+Water Hazard | 2
+Albatross | 3
+Back Nine | 3
+Turkey | 3
+Split | 3
+Clean Sweep | 2
+Sucker Punch | 2
+Haymaker | 3
+Combo | 2
+Clinch | 3
+Split Decision | 3
+Pin Fall | 3
+Submission | 3
+Suplex | 3
+Pile Driver | 3
+Front Flip | 1
+Pike Position | 3
+Stick The Landing | 2
+Perfect Ten | 1
+Triple Axel | 2
+Toe Loop | 3
+Tuck | 3
+Drafting | 3
+Burnout | 2
+Lap Of Honor | 2
+Last Lap | 1
+Pace Yourself | 2
+Hitting The Wall | 2
+Carb Loading | 2
+Water Station | 2
+Personal Record | 2
+Bulking | 2
+Leg Day | 1
+Rest Day | 1
+Gains | 2
+Spotter | 2
+Shadowboxing | 2
+Footwork | 2
+Rope Climb | 2
+# Batch 5: events, leagues and fan culture
+Olympics | 1
+Winter Olympics | 1
+Olympic Torch | 1
+Olympic Rings | 1
+Opening Ceremony | 2
+Paralympics | 2
+World Cup | 1
+Super Bowl | 1
+World Series | 1
+NBA Finals | 1
+March Madness | 2
+Wimbledon | 2
+US Open | 2
+Tour De France | 2
+Kentucky Derby | 2
+Daytona 500 | 2
+Indy 500 | 2
+Boston Marathon | 2
+The Masters | 2
+Ryder Cup | 3
+Champions League | 2
+Premier League | 2
+NFL | 1
+NBA | 1
+MLB | 2
+NHL | 2
+FIFA | 2
+WWE | 1
+UFC | 2
+ESPN | 1
+Fantasy Football | 1
+Tailgate Party | 1
+Season Tickets | 2
+Box Seats | 2
+Nosebleed Seats | 2
+Kiss Cam | 1
+The Wave | 2
+Playoffs | 1
+Wild Card | 2
+Grand Final | 2
+Championship Game | 1
+All-Star Game | 1
+Draft Day | 2
+Spring Training | 2
+Training Camp | 2
+Preseason | 2
+Off-Season | 2
+Home Game | 1
+Away Game | 1
+Rivalry Game | 2
+Bowl Game | 2
+Homecoming Game | 2
+Varsity | 2
+Junior Varsity | 2
+Little League | 1
+Sports Day | 1
+Field Day | 1
+Gym Class | 1
+Pickup Game | 2
+Halftime | 1
+Inning | 2
+Home Team | 1
+Visiting Team | 1
+Dream Team | 1
+Dynasty | 2
+Comeback | 1
+Upset | 2
+Blowout | 2
+Nail-Biter | 2
+Tie Game | 1
+Shutout | 2
+Winning Streak | 1
+Losing Streak | 1
+Bandwagon Fan | 2
+Sore Loser | 1
+Good Sport | 1
+Sportsmanship | 2
+Team Spirit | 1
+Hometown Hero | 2
+Hall Of Fame | 1
+Retired Jersey | 2
+Trading Card | 1
+Sports Drink | 1
+Protein Shake | 1
+Energy Bar | 1
+Rain Delay | 2
+Cheer Squad | 1
+Marching Band | 1
+Fight Song | 2
+National Anthem | 1
+Green Jacket | 3
+Yellow Jersey | 3
+Heisman Trophy | 3
+Triple Crown | 2
+Grand Prix | 2
+Harlem Globetrotters | 2
+Manchester United | 2
+Real Madrid | 2
+New York Yankees | 2
+Dallas Cowboys | 2
+Los Angeles Lakers | 2
+Boston Red Sox | 2
+Chicago Bulls | 2
+Green Bay Packers | 2
+Golden State Warriors | 2
+Michael Jordan | 1
+Serena Williams | 2
+Lionel Messi | 1
+Cristiano Ronaldo | 1
+Usain Bolt | 1
+Tiger Woods | 1
+Muhammad Ali | 1
+Babe Ruth | 2
+Tom Brady | 1
+LeBron James | 1
+Simone Biles | 2
+Michael Phelps | 1
+Wayne Gretzky | 2
+Roger Federer | 2
+Tony Hawk | 2
+Shaquille O'Neal | 1
+Sports Commentary | 2
+Post-Game Interview | 2
+Press Conference | 2
+Victory Parade | 1
+Ticker Tape Parade | 2
+Trophy Ceremony | 2
+Medal Ceremony | 2
+Gold Medal Match | 2
+Bronze Medal Match | 3
+Qualifying Round | 3
+Group Stage | 3
+Knockout Stage | 3
+Quarterfinals | 2
+Semifinals | 2
+Grand Slam Tournament | 3
+Tournament Bracket | 2
+Bracket Buster | 3
+Cinderella Story | 2
+Underdog Story | 2
+Hail Mary Pass | 2
+Miracle On Ice | 3
+Game Seven | 2
+Home Run Derby | 2
+Slam Dunk Contest | 2
+Pro Bowl | 3
+Monday Night Football | 2
+Sunday Football | 2
+Thanksgiving Football | 2
+Super Bowl Commercial | 2
+Halftime Snack | 2
+Face Paint | 1
+Team Colors | 1
+Rally Towel | 3
+Rally Cap | 3
+Ball Kid | 2
+Fan Cam | 2
+Sold-Out Crowd | 2
+Standing Ovation | 1
+Booing The Ref | 1
+Instant Classic | 3
+Sports Highlight | 2
+Highlight Reel | 2
+Slow-Motion Replay | 2
+Video Review | 3
+Bad Call | 1
+Coach's Challenge | 3
+Jersey Number | 1
+Starting Lineup | 2
+Injury Time | 3
+Sports Camp | 1
+Swim Team | 1
+Track Meet | 2
+Swim Meet | 2
+Cross-Country Race | 2
+Gym Teacher | 1
+Team Photo | 1
+Participation Trophy | 1
+Orange Slices | 2
+Snack Mom | 2
+Soccer Mom | 1
+Hockey Dad | 2
+Team Bonding | 2
+Trick Shot | 1
+Lucky Socks | 1
+Game Face | 1
+Pregame Ritual | 2
+Pump-Up Song | 2
+Locker Room Speech | 2
+Ice Pack | 1
+Sports Physical | 3
+Tryouts | 1
+Cut From The Team | 2
+Varsity Jacket | 2
+Letterman Jacket | 2
