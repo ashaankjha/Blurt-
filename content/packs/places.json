@@ -1,0 +1,2392 @@
+{
+ "id": "places",
+ "name": "Places",
+ "emoji": "🏝️",
+ "description": "Spots to go, near and far.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "places:school",
+   "text": "School",
+   "difficulty": 1
+  },
+  {
+   "id": "places:library",
+   "text": "Library",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hospital",
+   "text": "Hospital",
+   "difficulty": 1
+  },
+  {
+   "id": "places:post-office",
+   "text": "Post Office",
+   "difficulty": 1
+  },
+  {
+   "id": "places:fire-station",
+   "text": "Fire Station",
+   "difficulty": 1
+  },
+  {
+   "id": "places:police-station",
+   "text": "Police Station",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bank",
+   "text": "Bank",
+   "difficulty": 1
+  },
+  {
+   "id": "places:grocery-store",
+   "text": "Grocery Store",
+   "difficulty": 1
+  },
+  {
+   "id": "places:supermarket",
+   "text": "Supermarket",
+   "difficulty": 1
+  },
+  {
+   "id": "places:shopping-mall",
+   "text": "Shopping Mall",
+   "difficulty": 1
+  },
+  {
+   "id": "places:movie-theater",
+   "text": "Movie Theater",
+   "difficulty": 1
+  },
+  {
+   "id": "places:restaurant",
+   "text": "Restaurant",
+   "difficulty": 1
+  },
+  {
+   "id": "places:coffee-shop",
+   "text": "Coffee Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bakery",
+   "text": "Bakery",
+   "difficulty": 1
+  },
+  {
+   "id": "places:pizzeria",
+   "text": "Pizzeria",
+   "difficulty": 2
+  },
+  {
+   "id": "places:diner",
+   "text": "Diner",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ice-cream-parlor",
+   "text": "Ice Cream Parlor",
+   "difficulty": 1
+  },
+  {
+   "id": "places:candy-store",
+   "text": "Candy Store",
+   "difficulty": 1
+  },
+  {
+   "id": "places:toy-store",
+   "text": "Toy Store",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bookstore",
+   "text": "Bookstore",
+   "difficulty": 1
+  },
+  {
+   "id": "places:pet-shop",
+   "text": "Pet Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:flower-shop",
+   "text": "Flower Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hardware-store",
+   "text": "Hardware Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pharmacy",
+   "text": "Pharmacy",
+   "difficulty": 1
+  },
+  {
+   "id": "places:gas-station",
+   "text": "Gas Station",
+   "difficulty": 1
+  },
+  {
+   "id": "places:car-wash",
+   "text": "Car Wash",
+   "difficulty": 1
+  },
+  {
+   "id": "places:laundromat",
+   "text": "Laundromat",
+   "difficulty": 2
+  },
+  {
+   "id": "places:barbershop",
+   "text": "Barbershop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hair-salon",
+   "text": "Hair Salon",
+   "difficulty": 1
+  },
+  {
+   "id": "places:nail-salon",
+   "text": "Nail Salon",
+   "difficulty": 2
+  },
+  {
+   "id": "places:dentist-s-office",
+   "text": "Dentist's Office",
+   "difficulty": 1
+  },
+  {
+   "id": "places:doctor-s-office",
+   "text": "Doctor's Office",
+   "difficulty": 1
+  },
+  {
+   "id": "places:waiting-room",
+   "text": "Waiting Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:emergency-room",
+   "text": "Emergency Room",
+   "difficulty": 1
+  },
+  {
+   "id": "places:gym",
+   "text": "Gym",
+   "difficulty": 1
+  },
+  {
+   "id": "places:swimming-pool",
+   "text": "Swimming Pool",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bowling-alley",
+   "text": "Bowling Alley",
+   "difficulty": 1
+  },
+  {
+   "id": "places:roller-rink",
+   "text": "Roller Rink",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ice-rink",
+   "text": "Ice Rink",
+   "difficulty": 1
+  },
+  {
+   "id": "places:arcade",
+   "text": "Arcade",
+   "difficulty": 1
+  },
+  {
+   "id": "places:skate-park",
+   "text": "Skate Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:playground",
+   "text": "Playground",
+   "difficulty": 1
+  },
+  {
+   "id": "places:park",
+   "text": "Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:dog-park",
+   "text": "Dog Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:community-center",
+   "text": "Community Center",
+   "difficulty": 2
+  },
+  {
+   "id": "places:town-hall",
+   "text": "Town Hall",
+   "difficulty": 2
+  },
+  {
+   "id": "places:city-hall",
+   "text": "City Hall",
+   "difficulty": 2
+  },
+  {
+   "id": "places:courthouse",
+   "text": "Courthouse",
+   "difficulty": 2
+  },
+  {
+   "id": "places:jail",
+   "text": "Jail",
+   "difficulty": 1
+  },
+  {
+   "id": "places:museum",
+   "text": "Museum",
+   "difficulty": 1
+  },
+  {
+   "id": "places:art-gallery",
+   "text": "Art Gallery",
+   "difficulty": 2
+  },
+  {
+   "id": "places:aquarium",
+   "text": "Aquarium",
+   "difficulty": 1
+  },
+  {
+   "id": "places:zoo",
+   "text": "Zoo",
+   "difficulty": 1
+  },
+  {
+   "id": "places:planetarium",
+   "text": "Planetarium",
+   "difficulty": 2
+  },
+  {
+   "id": "places:concert-hall",
+   "text": "Concert Hall",
+   "difficulty": 2
+  },
+  {
+   "id": "places:opera-house",
+   "text": "Opera House",
+   "difficulty": 2
+  },
+  {
+   "id": "places:stadium",
+   "text": "Stadium",
+   "difficulty": 1
+  },
+  {
+   "id": "places:ballpark",
+   "text": "Ballpark",
+   "difficulty": 2
+  },
+  {
+   "id": "places:golf-course",
+   "text": "Golf Course",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mini-golf",
+   "text": "Mini Golf",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tennis-court",
+   "text": "Tennis Court",
+   "difficulty": 1
+  },
+  {
+   "id": "places:basketball-court",
+   "text": "Basketball Court",
+   "difficulty": 1
+  },
+  {
+   "id": "places:football-field",
+   "text": "Football Field",
+   "difficulty": 1
+  },
+  {
+   "id": "places:race-track",
+   "text": "Race Track",
+   "difficulty": 2
+  },
+  {
+   "id": "places:parking-lot",
+   "text": "Parking Lot",
+   "difficulty": 1
+  },
+  {
+   "id": "places:parking-garage",
+   "text": "Parking Garage",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bus-stop",
+   "text": "Bus Stop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:train-station",
+   "text": "Train Station",
+   "difficulty": 1
+  },
+  {
+   "id": "places:subway-station",
+   "text": "Subway Station",
+   "difficulty": 2
+  },
+  {
+   "id": "places:airport",
+   "text": "Airport",
+   "difficulty": 1
+  },
+  {
+   "id": "places:harbor",
+   "text": "Harbor",
+   "difficulty": 2
+  },
+  {
+   "id": "places:marina",
+   "text": "Marina",
+   "difficulty": 2
+  },
+  {
+   "id": "places:lighthouse",
+   "text": "Lighthouse",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bridge",
+   "text": "Bridge",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tunnel",
+   "text": "Tunnel",
+   "difficulty": 1
+  },
+  {
+   "id": "places:highway",
+   "text": "Highway",
+   "difficulty": 1
+  },
+  {
+   "id": "places:rest-stop",
+   "text": "Rest Stop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:truck-stop",
+   "text": "Truck Stop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:toll-booth",
+   "text": "Toll Booth",
+   "difficulty": 2
+  },
+  {
+   "id": "places:motel",
+   "text": "Motel",
+   "difficulty": 2
+  },
+  {
+   "id": "places:hotel-lobby",
+   "text": "Hotel Lobby",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bed-and-breakfast",
+   "text": "Bed And Breakfast",
+   "difficulty": 2
+  },
+  {
+   "id": "places:campground",
+   "text": "Campground",
+   "difficulty": 1
+  },
+  {
+   "id": "places:cabin-in-the-woods",
+   "text": "Cabin In The Woods",
+   "difficulty": 2
+  },
+  {
+   "id": "places:summer-camp",
+   "text": "Summer Camp",
+   "difficulty": 1
+  },
+  {
+   "id": "places:retirement-home",
+   "text": "Retirement Home",
+   "difficulty": 2
+  },
+  {
+   "id": "places:daycare",
+   "text": "Daycare",
+   "difficulty": 1
+  },
+  {
+   "id": "places:kindergarten",
+   "text": "Kindergarten",
+   "difficulty": 1
+  },
+  {
+   "id": "places:high-school",
+   "text": "High School",
+   "difficulty": 1
+  },
+  {
+   "id": "places:college-campus",
+   "text": "College Campus",
+   "difficulty": 1
+  },
+  {
+   "id": "places:dorm-room",
+   "text": "Dorm Room",
+   "difficulty": 1
+  },
+  {
+   "id": "places:classroom",
+   "text": "Classroom",
+   "difficulty": 1
+  },
+  {
+   "id": "places:principal-s-office",
+   "text": "Principal's Office",
+   "difficulty": 1
+  },
+  {
+   "id": "places:teachers-lounge",
+   "text": "Teachers' Lounge",
+   "difficulty": 2
+  },
+  {
+   "id": "places:cafeteria",
+   "text": "Cafeteria",
+   "difficulty": 1
+  },
+  {
+   "id": "places:locker-room",
+   "text": "Locker Room",
+   "difficulty": 1
+  },
+  {
+   "id": "places:science-lab",
+   "text": "Science Lab",
+   "difficulty": 2
+  },
+  {
+   "id": "places:beach",
+   "text": "Beach",
+   "difficulty": 1
+  },
+  {
+   "id": "places:desert",
+   "text": "Desert",
+   "difficulty": 1
+  },
+  {
+   "id": "places:jungle",
+   "text": "Jungle",
+   "difficulty": 1
+  },
+  {
+   "id": "places:rainforest",
+   "text": "Rainforest",
+   "difficulty": 1
+  },
+  {
+   "id": "places:forest",
+   "text": "Forest",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mountain",
+   "text": "Mountain",
+   "difficulty": 1
+  },
+  {
+   "id": "places:volcano",
+   "text": "Volcano",
+   "difficulty": 1
+  },
+  {
+   "id": "places:waterfall",
+   "text": "Waterfall",
+   "difficulty": 1
+  },
+  {
+   "id": "places:cave",
+   "text": "Cave",
+   "difficulty": 1
+  },
+  {
+   "id": "places:island",
+   "text": "Island",
+   "difficulty": 1
+  },
+  {
+   "id": "places:desert-island",
+   "text": "Desert Island",
+   "difficulty": 1
+  },
+  {
+   "id": "places:lake",
+   "text": "Lake",
+   "difficulty": 1
+  },
+  {
+   "id": "places:river",
+   "text": "River",
+   "difficulty": 1
+  },
+  {
+   "id": "places:pond",
+   "text": "Pond",
+   "difficulty": 1
+  },
+  {
+   "id": "places:swamp",
+   "text": "Swamp",
+   "difficulty": 1
+  },
+  {
+   "id": "places:glacier",
+   "text": "Glacier",
+   "difficulty": 2
+  },
+  {
+   "id": "places:iceberg",
+   "text": "Iceberg",
+   "difficulty": 1
+  },
+  {
+   "id": "places:canyon",
+   "text": "Canyon",
+   "difficulty": 2
+  },
+  {
+   "id": "places:valley",
+   "text": "Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "places:meadow",
+   "text": "Meadow",
+   "difficulty": 2
+  },
+  {
+   "id": "places:prairie",
+   "text": "Prairie",
+   "difficulty": 2
+  },
+  {
+   "id": "places:savanna",
+   "text": "Savanna",
+   "difficulty": 3
+  },
+  {
+   "id": "places:tundra",
+   "text": "Tundra",
+   "difficulty": 3
+  },
+  {
+   "id": "places:oasis",
+   "text": "Oasis",
+   "difficulty": 2
+  },
+  {
+   "id": "places:lagoon",
+   "text": "Lagoon",
+   "difficulty": 3
+  },
+  {
+   "id": "places:hot-spring",
+   "text": "Hot Spring",
+   "difficulty": 2
+  },
+  {
+   "id": "places:geyser",
+   "text": "Geyser",
+   "difficulty": 2
+  },
+  {
+   "id": "places:sand-dune",
+   "text": "Sand Dune",
+   "difficulty": 2
+  },
+  {
+   "id": "places:cliff",
+   "text": "Cliff",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hilltop",
+   "text": "Hilltop",
+   "difficulty": 3
+  },
+  {
+   "id": "places:mountain-peak",
+   "text": "Mountain Peak",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ski-slope",
+   "text": "Ski Slope",
+   "difficulty": 1
+  },
+  {
+   "id": "places:bunny-slope",
+   "text": "Bunny Slope",
+   "difficulty": 3
+  },
+  {
+   "id": "places:hiking-trail",
+   "text": "Hiking Trail",
+   "difficulty": 1
+  },
+  {
+   "id": "places:nature-trail",
+   "text": "Nature Trail",
+   "difficulty": 2
+  },
+  {
+   "id": "places:national-park",
+   "text": "National Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:botanical-garden",
+   "text": "Botanical Garden",
+   "difficulty": 2
+  },
+  {
+   "id": "places:rose-garden",
+   "text": "Rose Garden",
+   "difficulty": 2
+  },
+  {
+   "id": "places:orchard",
+   "text": "Orchard",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pumpkin-patch",
+   "text": "Pumpkin Patch",
+   "difficulty": 1
+  },
+  {
+   "id": "places:corn-maze",
+   "text": "Corn Maze",
+   "difficulty": 1
+  },
+  {
+   "id": "places:farm",
+   "text": "Farm",
+   "difficulty": 1
+  },
+  {
+   "id": "places:barn",
+   "text": "Barn",
+   "difficulty": 1
+  },
+  {
+   "id": "places:chicken-coop",
+   "text": "Chicken Coop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:pig-pen",
+   "text": "Pig Pen",
+   "difficulty": 1
+  },
+  {
+   "id": "places:stable",
+   "text": "Stable",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ranch",
+   "text": "Ranch",
+   "difficulty": 2
+  },
+  {
+   "id": "places:haunted-house",
+   "text": "Haunted House",
+   "difficulty": 1
+  },
+  {
+   "id": "places:haunted-forest",
+   "text": "Haunted Forest",
+   "difficulty": 2
+  },
+  {
+   "id": "places:graveyard",
+   "text": "Graveyard",
+   "difficulty": 1
+  },
+  {
+   "id": "places:secret-garden",
+   "text": "Secret Garden",
+   "difficulty": 2
+  },
+  {
+   "id": "places:hedge-maze",
+   "text": "Hedge Maze",
+   "difficulty": 2
+  },
+  {
+   "id": "places:treetop",
+   "text": "Treetop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:riverbank",
+   "text": "Riverbank",
+   "difficulty": 2
+  },
+  {
+   "id": "places:seashore",
+   "text": "Seashore",
+   "difficulty": 3
+  },
+  {
+   "id": "places:boardwalk",
+   "text": "Boardwalk",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pier",
+   "text": "Pier",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tide-pool",
+   "text": "Tide Pool",
+   "difficulty": 2
+  },
+  {
+   "id": "places:sandbar",
+   "text": "Sandbar",
+   "difficulty": 3
+  },
+  {
+   "id": "places:coral-reef",
+   "text": "Coral Reef",
+   "difficulty": 2
+  },
+  {
+   "id": "places:shipwreck",
+   "text": "Shipwreck",
+   "difficulty": 2
+  },
+  {
+   "id": "places:deep-ocean",
+   "text": "Deep Ocean",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ocean-floor",
+   "text": "Ocean Floor",
+   "difficulty": 2
+  },
+  {
+   "id": "places:north-pole",
+   "text": "North Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "places:south-pole",
+   "text": "South Pole",
+   "difficulty": 1
+  },
+  {
+   "id": "places:arctic",
+   "text": "Arctic",
+   "difficulty": 2
+  },
+  {
+   "id": "places:antarctica",
+   "text": "Antarctica",
+   "difficulty": 1
+  },
+  {
+   "id": "places:outer-space",
+   "text": "Outer Space",
+   "difficulty": 1
+  },
+  {
+   "id": "places:the-moon",
+   "text": "The Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mars",
+   "text": "Mars",
+   "difficulty": 1
+  },
+  {
+   "id": "places:space-station",
+   "text": "Space Station",
+   "difficulty": 1
+  },
+  {
+   "id": "places:black-hole",
+   "text": "Black Hole",
+   "difficulty": 2
+  },
+  {
+   "id": "places:milky-way",
+   "text": "Milky Way",
+   "difficulty": 2
+  },
+  {
+   "id": "places:equator",
+   "text": "Equator",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bermuda-triangle",
+   "text": "Bermuda Triangle",
+   "difficulty": 2
+  },
+  {
+   "id": "places:mountain-pass",
+   "text": "Mountain Pass",
+   "difficulty": 3
+  },
+  {
+   "id": "places:rainbow-s-end",
+   "text": "Rainbow's End",
+   "difficulty": 3
+  },
+  {
+   "id": "places:underwater-cave",
+   "text": "Underwater Cave",
+   "difficulty": 3
+  },
+  {
+   "id": "places:crater",
+   "text": "Crater",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bog",
+   "text": "Bog",
+   "difficulty": 3
+  },
+  {
+   "id": "places:marsh",
+   "text": "Marsh",
+   "difficulty": 3
+  },
+  {
+   "id": "places:fjord",
+   "text": "Fjord",
+   "difficulty": 3
+  },
+  {
+   "id": "places:rice-paddy",
+   "text": "Rice Paddy",
+   "difficulty": 3
+  },
+  {
+   "id": "places:wheat-field",
+   "text": "Wheat Field",
+   "difficulty": 2
+  },
+  {
+   "id": "places:sunflower-field",
+   "text": "Sunflower Field",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tulip-field",
+   "text": "Tulip Field",
+   "difficulty": 3
+  },
+  {
+   "id": "places:bamboo-forest",
+   "text": "Bamboo Forest",
+   "difficulty": 2
+  },
+  {
+   "id": "places:redwood-forest",
+   "text": "Redwood Forest",
+   "difficulty": 2
+  },
+  {
+   "id": "places:picnic-spot",
+   "text": "Picnic Spot",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fishing-hole",
+   "text": "Fishing Hole",
+   "difficulty": 3
+  },
+  {
+   "id": "places:swimming-hole",
+   "text": "Swimming Hole",
+   "difficulty": 3
+  },
+  {
+   "id": "places:bird-sanctuary",
+   "text": "Bird Sanctuary",
+   "difficulty": 3
+  },
+  {
+   "id": "places:nature-reserve",
+   "text": "Nature Reserve",
+   "difficulty": 3
+  },
+  {
+   "id": "places:amusement-park",
+   "text": "Amusement Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:theme-park",
+   "text": "Theme Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:water-park",
+   "text": "Water Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:roller-coaster",
+   "text": "Roller Coaster",
+   "difficulty": 1
+  },
+  {
+   "id": "places:ferris-wheel",
+   "text": "Ferris Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "places:haunted-hayride",
+   "text": "Haunted Hayride",
+   "difficulty": 2
+  },
+  {
+   "id": "places:carnival",
+   "text": "Carnival",
+   "difficulty": 1
+  },
+  {
+   "id": "places:circus-tent",
+   "text": "Circus Tent",
+   "difficulty": 1
+  },
+  {
+   "id": "places:county-fair",
+   "text": "County Fair",
+   "difficulty": 2
+  },
+  {
+   "id": "places:flea-market",
+   "text": "Flea Market",
+   "difficulty": 2
+  },
+  {
+   "id": "places:farmers-market",
+   "text": "Farmers Market",
+   "difficulty": 2
+  },
+  {
+   "id": "places:night-market",
+   "text": "Night Market",
+   "difficulty": 3
+  },
+  {
+   "id": "places:drive-in-movie",
+   "text": "Drive-In Movie",
+   "difficulty": 2
+  },
+  {
+   "id": "places:escape-room",
+   "text": "Escape Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:laser-tag-arena",
+   "text": "Laser Tag Arena",
+   "difficulty": 2
+  },
+  {
+   "id": "places:trampoline-park",
+   "text": "Trampoline Park",
+   "difficulty": 2
+  },
+  {
+   "id": "places:go-kart-track",
+   "text": "Go-Kart Track",
+   "difficulty": 2
+  },
+  {
+   "id": "places:batting-cage",
+   "text": "Batting Cage",
+   "difficulty": 2
+  },
+  {
+   "id": "places:driving-range",
+   "text": "Driving Range",
+   "difficulty": 2
+  },
+  {
+   "id": "places:climbing-wall",
+   "text": "Climbing Wall",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bounce-house",
+   "text": "Bounce House",
+   "difficulty": 1
+  },
+  {
+   "id": "places:ball-pit",
+   "text": "Ball Pit",
+   "difficulty": 1
+  },
+  {
+   "id": "places:indoor-playground",
+   "text": "Indoor Playground",
+   "difficulty": 2
+  },
+  {
+   "id": "places:comedy-club",
+   "text": "Comedy Club",
+   "difficulty": 2
+  },
+  {
+   "id": "places:dance-studio",
+   "text": "Dance Studio",
+   "difficulty": 2
+  },
+  {
+   "id": "places:recording-studio",
+   "text": "Recording Studio",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tv-studio",
+   "text": "TV Studio",
+   "difficulty": 2
+  },
+  {
+   "id": "places:movie-set",
+   "text": "Movie Set",
+   "difficulty": 2
+  },
+  {
+   "id": "places:backstage",
+   "text": "Backstage",
+   "difficulty": 2
+  },
+  {
+   "id": "places:front-row",
+   "text": "Front Row",
+   "difficulty": 2
+  },
+  {
+   "id": "places:box-office",
+   "text": "Box Office",
+   "difficulty": 2
+  },
+  {
+   "id": "places:concession-stand",
+   "text": "Concession Stand",
+   "difficulty": 3
+  },
+  {
+   "id": "places:gift-shop",
+   "text": "Gift Shop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:lost-and-found",
+   "text": "Lost And Found",
+   "difficulty": 2
+  },
+  {
+   "id": "places:information-desk",
+   "text": "Information Desk",
+   "difficulty": 3
+  },
+  {
+   "id": "places:food-court",
+   "text": "Food Court",
+   "difficulty": 1
+  },
+  {
+   "id": "places:elevator",
+   "text": "Elevator",
+   "difficulty": 1
+  },
+  {
+   "id": "places:escalator",
+   "text": "Escalator",
+   "difficulty": 1
+  },
+  {
+   "id": "places:rooftop",
+   "text": "Rooftop",
+   "difficulty": 1
+  },
+  {
+   "id": "places:penthouse",
+   "text": "Penthouse",
+   "difficulty": 2
+  },
+  {
+   "id": "places:skyscraper",
+   "text": "Skyscraper",
+   "difficulty": 1
+  },
+  {
+   "id": "places:apartment-building",
+   "text": "Apartment Building",
+   "difficulty": 1
+  },
+  {
+   "id": "places:office-building",
+   "text": "Office Building",
+   "difficulty": 1
+  },
+  {
+   "id": "places:cubicle",
+   "text": "Cubicle",
+   "difficulty": 2
+  },
+  {
+   "id": "places:break-room",
+   "text": "Break Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:conference-room",
+   "text": "Conference Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:boardroom",
+   "text": "Boardroom",
+   "difficulty": 3
+  },
+  {
+   "id": "places:warehouse",
+   "text": "Warehouse",
+   "difficulty": 2
+  },
+  {
+   "id": "places:factory",
+   "text": "Factory",
+   "difficulty": 1
+  },
+  {
+   "id": "places:assembly-line",
+   "text": "Assembly Line",
+   "difficulty": 2
+  },
+  {
+   "id": "places:power-plant",
+   "text": "Power Plant",
+   "difficulty": 2
+  },
+  {
+   "id": "places:wind-farm",
+   "text": "Wind Farm",
+   "difficulty": 2
+  },
+  {
+   "id": "places:junkyard",
+   "text": "Junkyard",
+   "difficulty": 1
+  },
+  {
+   "id": "places:landfill",
+   "text": "Landfill",
+   "difficulty": 2
+  },
+  {
+   "id": "places:recycling-center",
+   "text": "Recycling Center",
+   "difficulty": 2
+  },
+  {
+   "id": "places:construction-site",
+   "text": "Construction Site",
+   "difficulty": 1
+  },
+  {
+   "id": "places:oil-rig",
+   "text": "Oil Rig",
+   "difficulty": 2
+  },
+  {
+   "id": "places:mine-shaft",
+   "text": "Mine Shaft",
+   "difficulty": 2
+  },
+  {
+   "id": "places:gold-mine",
+   "text": "Gold Mine",
+   "difficulty": 2
+  },
+  {
+   "id": "places:castle",
+   "text": "Castle",
+   "difficulty": 1
+  },
+  {
+   "id": "places:palace",
+   "text": "Palace",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mansion",
+   "text": "Mansion",
+   "difficulty": 1
+  },
+  {
+   "id": "places:igloo",
+   "text": "Igloo",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tepee",
+   "text": "Tepee",
+   "difficulty": 2
+  },
+  {
+   "id": "places:log-cabin",
+   "text": "Log Cabin",
+   "difficulty": 1
+  },
+  {
+   "id": "places:farmhouse",
+   "text": "Farmhouse",
+   "difficulty": 1
+  },
+  {
+   "id": "places:cottage",
+   "text": "Cottage",
+   "difficulty": 1
+  },
+  {
+   "id": "places:houseboat",
+   "text": "Houseboat",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tiny-house",
+   "text": "Tiny House",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bungalow",
+   "text": "Bungalow",
+   "difficulty": 3
+  },
+  {
+   "id": "places:townhouse",
+   "text": "Townhouse",
+   "difficulty": 3
+  },
+  {
+   "id": "places:duplex",
+   "text": "Duplex",
+   "difficulty": 3
+  },
+  {
+   "id": "places:castle-tower",
+   "text": "Castle Tower",
+   "difficulty": 2
+  },
+  {
+   "id": "places:dungeon",
+   "text": "Dungeon",
+   "difficulty": 1
+  },
+  {
+   "id": "places:moat",
+   "text": "Moat",
+   "difficulty": 2
+  },
+  {
+   "id": "places:drawbridge",
+   "text": "Drawbridge",
+   "difficulty": 2
+  },
+  {
+   "id": "places:throne-room",
+   "text": "Throne Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:ballroom",
+   "text": "Ballroom",
+   "difficulty": 2
+  },
+  {
+   "id": "places:secret-passage",
+   "text": "Secret Passage",
+   "difficulty": 2
+  },
+  {
+   "id": "places:hidden-room",
+   "text": "Hidden Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:treasure-island",
+   "text": "Treasure Island",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pirate-ship",
+   "text": "Pirate Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "places:submarine",
+   "text": "Submarine",
+   "difficulty": 1
+  },
+  {
+   "id": "places:cruise-ship",
+   "text": "Cruise Ship",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hot-air-balloon",
+   "text": "Hot Air Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "places:airplane-cabin",
+   "text": "Airplane Cabin",
+   "difficulty": 2
+  },
+  {
+   "id": "places:cockpit",
+   "text": "Cockpit",
+   "difficulty": 2
+  },
+  {
+   "id": "places:control-tower",
+   "text": "Control Tower",
+   "difficulty": 2
+  },
+  {
+   "id": "places:baggage-claim",
+   "text": "Baggage Claim",
+   "difficulty": 1
+  },
+  {
+   "id": "places:security-line",
+   "text": "Security Line",
+   "difficulty": 2
+  },
+  {
+   "id": "places:departure-gate",
+   "text": "Departure Gate",
+   "difficulty": 2
+  },
+  {
+   "id": "places:duty-free-shop",
+   "text": "Duty Free Shop",
+   "difficulty": 3
+  },
+  {
+   "id": "places:customs",
+   "text": "Customs",
+   "difficulty": 3
+  },
+  {
+   "id": "places:eiffel-tower",
+   "text": "Eiffel Tower",
+   "difficulty": 1
+  },
+  {
+   "id": "places:statue-of-liberty",
+   "text": "Statue Of Liberty",
+   "difficulty": 1
+  },
+  {
+   "id": "places:great-wall-of-china",
+   "text": "Great Wall Of China",
+   "difficulty": 1
+  },
+  {
+   "id": "places:pyramids-of-giza",
+   "text": "Pyramids Of Giza",
+   "difficulty": 1
+  },
+  {
+   "id": "places:the-sphinx",
+   "text": "The Sphinx",
+   "difficulty": 2
+  },
+  {
+   "id": "places:taj-mahal",
+   "text": "Taj Mahal",
+   "difficulty": 1
+  },
+  {
+   "id": "places:big-ben",
+   "text": "Big Ben",
+   "difficulty": 1
+  },
+  {
+   "id": "places:leaning-tower-of-pisa",
+   "text": "Leaning Tower Of Pisa",
+   "difficulty": 1
+  },
+  {
+   "id": "places:colosseum",
+   "text": "Colosseum",
+   "difficulty": 1
+  },
+  {
+   "id": "places:stonehenge",
+   "text": "Stonehenge",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mount-everest",
+   "text": "Mount Everest",
+   "difficulty": 1
+  },
+  {
+   "id": "places:grand-canyon",
+   "text": "Grand Canyon",
+   "difficulty": 1
+  },
+  {
+   "id": "places:niagara-falls",
+   "text": "Niagara Falls",
+   "difficulty": 1
+  },
+  {
+   "id": "places:golden-gate-bridge",
+   "text": "Golden Gate Bridge",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mount-rushmore",
+   "text": "Mount Rushmore",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hollywood-sign",
+   "text": "Hollywood Sign",
+   "difficulty": 1
+  },
+  {
+   "id": "places:sydney-opera-house",
+   "text": "Sydney Opera House",
+   "difficulty": 1
+  },
+  {
+   "id": "places:machu-picchu",
+   "text": "Machu Picchu",
+   "difficulty": 2
+  },
+  {
+   "id": "places:christ-the-redeemer",
+   "text": "Christ The Redeemer",
+   "difficulty": 2
+  },
+  {
+   "id": "places:easter-island",
+   "text": "Easter Island",
+   "difficulty": 2
+  },
+  {
+   "id": "places:great-barrier-reef",
+   "text": "Great Barrier Reef",
+   "difficulty": 1
+  },
+  {
+   "id": "places:amazon-rainforest",
+   "text": "Amazon Rainforest",
+   "difficulty": 1
+  },
+  {
+   "id": "places:sahara-desert",
+   "text": "Sahara Desert",
+   "difficulty": 1
+  },
+  {
+   "id": "places:nile-river",
+   "text": "Nile River",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mount-fuji",
+   "text": "Mount Fuji",
+   "difficulty": 2
+  },
+  {
+   "id": "places:buckingham-palace",
+   "text": "Buckingham Palace",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tower-of-london",
+   "text": "Tower Of London",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tower-bridge",
+   "text": "Tower Bridge",
+   "difficulty": 2
+  },
+  {
+   "id": "places:london-eye",
+   "text": "London Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "places:louvre-museum",
+   "text": "Louvre Museum",
+   "difficulty": 2
+  },
+  {
+   "id": "places:arc-de-triomphe",
+   "text": "Arc De Triomphe",
+   "difficulty": 2
+  },
+  {
+   "id": "places:notre-dame",
+   "text": "Notre Dame",
+   "difficulty": 2
+  },
+  {
+   "id": "places:vatican-city",
+   "text": "Vatican City",
+   "difficulty": 2
+  },
+  {
+   "id": "places:sistine-chapel",
+   "text": "Sistine Chapel",
+   "difficulty": 2
+  },
+  {
+   "id": "places:trevi-fountain",
+   "text": "Trevi Fountain",
+   "difficulty": 2
+  },
+  {
+   "id": "places:venice-canals",
+   "text": "Venice Canals",
+   "difficulty": 2
+  },
+  {
+   "id": "places:acropolis",
+   "text": "Acropolis",
+   "difficulty": 3
+  },
+  {
+   "id": "places:parthenon",
+   "text": "Parthenon",
+   "difficulty": 3
+  },
+  {
+   "id": "places:forbidden-city",
+   "text": "Forbidden City",
+   "difficulty": 3
+  },
+  {
+   "id": "places:angkor-wat",
+   "text": "Angkor Wat",
+   "difficulty": 3
+  },
+  {
+   "id": "places:petra",
+   "text": "Petra",
+   "difficulty": 3
+  },
+  {
+   "id": "places:burj-khalifa",
+   "text": "Burj Khalifa",
+   "difficulty": 2
+  },
+  {
+   "id": "places:empire-state-building",
+   "text": "Empire State Building",
+   "difficulty": 1
+  },
+  {
+   "id": "places:times-square",
+   "text": "Times Square",
+   "difficulty": 1
+  },
+  {
+   "id": "places:central-park",
+   "text": "Central Park",
+   "difficulty": 1
+  },
+  {
+   "id": "places:las-vegas-strip",
+   "text": "Las Vegas Strip",
+   "difficulty": 2
+  },
+  {
+   "id": "places:disneyland",
+   "text": "Disneyland",
+   "difficulty": 1
+  },
+  {
+   "id": "places:walt-disney-world",
+   "text": "Walt Disney World",
+   "difficulty": 1
+  },
+  {
+   "id": "places:white-house",
+   "text": "White House",
+   "difficulty": 1
+  },
+  {
+   "id": "places:brooklyn-bridge",
+   "text": "Brooklyn Bridge",
+   "difficulty": 2
+  },
+  {
+   "id": "places:alcatraz",
+   "text": "Alcatraz",
+   "difficulty": 2
+  },
+  {
+   "id": "places:yellowstone",
+   "text": "Yellowstone",
+   "difficulty": 2
+  },
+  {
+   "id": "places:death-valley",
+   "text": "Death Valley",
+   "difficulty": 3
+  },
+  {
+   "id": "places:victoria-falls",
+   "text": "Victoria Falls",
+   "difficulty": 3
+  },
+  {
+   "id": "places:mount-kilimanjaro",
+   "text": "Mount Kilimanjaro",
+   "difficulty": 2
+  },
+  {
+   "id": "places:galapagos-islands",
+   "text": "Galapagos Islands",
+   "difficulty": 2
+  },
+  {
+   "id": "places:northern-lights",
+   "text": "Northern Lights",
+   "difficulty": 1
+  },
+  {
+   "id": "places:dead-sea",
+   "text": "Dead Sea",
+   "difficulty": 2
+  },
+  {
+   "id": "places:red-square",
+   "text": "Red Square",
+   "difficulty": 2
+  },
+  {
+   "id": "places:kremlin",
+   "text": "Kremlin",
+   "difficulty": 3
+  },
+  {
+   "id": "places:neuschwanstein-castle",
+   "text": "Neuschwanstein Castle",
+   "difficulty": 3
+  },
+  {
+   "id": "places:edinburgh-castle",
+   "text": "Edinburgh Castle",
+   "difficulty": 3
+  },
+  {
+   "id": "places:windsor-castle",
+   "text": "Windsor Castle",
+   "difficulty": 3
+  },
+  {
+   "id": "places:loch-ness",
+   "text": "Loch Ness",
+   "difficulty": 2
+  },
+  {
+   "id": "places:panama-canal",
+   "text": "Panama Canal",
+   "difficulty": 2
+  },
+  {
+   "id": "places:suez-canal",
+   "text": "Suez Canal",
+   "difficulty": 3
+  },
+  {
+   "id": "places:valley-of-the-kings",
+   "text": "Valley Of The Kings",
+   "difficulty": 3
+  },
+  {
+   "id": "places:table-mountain",
+   "text": "Table Mountain",
+   "difficulty": 3
+  },
+  {
+   "id": "places:uluru",
+   "text": "Uluru",
+   "difficulty": 3
+  },
+  {
+   "id": "places:golden-temple",
+   "text": "Golden Temple",
+   "difficulty": 3
+  },
+  {
+   "id": "places:terracotta-army",
+   "text": "Terracotta Army",
+   "difficulty": 3
+  },
+  {
+   "id": "places:hagia-sophia",
+   "text": "Hagia Sophia",
+   "difficulty": 3
+  },
+  {
+   "id": "places:blue-lagoon",
+   "text": "Blue Lagoon",
+   "difficulty": 3
+  },
+  {
+   "id": "places:mount-vesuvius",
+   "text": "Mount Vesuvius",
+   "difficulty": 3
+  },
+  {
+   "id": "places:wall-street",
+   "text": "Wall Street",
+   "difficulty": 2
+  },
+  {
+   "id": "places:broadway",
+   "text": "Broadway",
+   "difficulty": 1
+  },
+  {
+   "id": "places:hollywood-walk-of-fame",
+   "text": "Hollywood Walk Of Fame",
+   "difficulty": 2
+  },
+  {
+   "id": "places:abbey-road",
+   "text": "Abbey Road",
+   "difficulty": 2
+  },
+  {
+   "id": "places:champs-elysees",
+   "text": "Champs-Elysees",
+   "difficulty": 3
+  },
+  {
+   "id": "places:shibuya-crossing",
+   "text": "Shibuya Crossing",
+   "difficulty": 3
+  },
+  {
+   "id": "places:matterhorn",
+   "text": "Matterhorn",
+   "difficulty": 3
+  },
+  {
+   "id": "places:swiss-alps",
+   "text": "Swiss Alps",
+   "difficulty": 2
+  },
+  {
+   "id": "places:grand-bazaar",
+   "text": "Grand Bazaar",
+   "difficulty": 3
+  },
+  {
+   "id": "places:amazon-river",
+   "text": "Amazon River",
+   "difficulty": 1
+  },
+  {
+   "id": "places:mississippi-river",
+   "text": "Mississippi River",
+   "difficulty": 1
+  },
+  {
+   "id": "places:rocky-mountains",
+   "text": "Rocky Mountains",
+   "difficulty": 1
+  },
+  {
+   "id": "places:antique-shop",
+   "text": "Antique Shop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:thrift-store",
+   "text": "Thrift Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pawn-shop",
+   "text": "Pawn Shop",
+   "difficulty": 3
+  },
+  {
+   "id": "places:department-store",
+   "text": "Department Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:dollar-store",
+   "text": "Dollar Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:corner-store",
+   "text": "Corner Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:convenience-store",
+   "text": "Convenience Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:outlet-mall",
+   "text": "Outlet Mall",
+   "difficulty": 3
+  },
+  {
+   "id": "places:shoe-store",
+   "text": "Shoe Store",
+   "difficulty": 1
+  },
+  {
+   "id": "places:jewelry-store",
+   "text": "Jewelry Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:music-store",
+   "text": "Music Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:video-store",
+   "text": "Video Store",
+   "difficulty": 3
+  },
+  {
+   "id": "places:sporting-goods-store",
+   "text": "Sporting Goods Store",
+   "difficulty": 3
+  },
+  {
+   "id": "places:furniture-store",
+   "text": "Furniture Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:craft-store",
+   "text": "Craft Store",
+   "difficulty": 2
+  },
+  {
+   "id": "places:tailor-shop",
+   "text": "Tailor Shop",
+   "difficulty": 3
+  },
+  {
+   "id": "places:butcher-shop",
+   "text": "Butcher Shop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fish-market",
+   "text": "Fish Market",
+   "difficulty": 2
+  },
+  {
+   "id": "places:deli-counter",
+   "text": "Deli Counter",
+   "difficulty": 2
+  },
+  {
+   "id": "places:juice-bar",
+   "text": "Juice Bar",
+   "difficulty": 3
+  },
+  {
+   "id": "places:tea-house",
+   "text": "Tea House",
+   "difficulty": 3
+  },
+  {
+   "id": "places:sushi-bar",
+   "text": "Sushi Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "places:steakhouse",
+   "text": "Steakhouse",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fast-food-joint",
+   "text": "Fast Food Joint",
+   "difficulty": 2
+  },
+  {
+   "id": "places:hot-dog-stand",
+   "text": "Hot Dog Stand",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tattoo-parlor",
+   "text": "Tattoo Parlor",
+   "difficulty": 2
+  },
+  {
+   "id": "places:spa",
+   "text": "Spa",
+   "difficulty": 1
+  },
+  {
+   "id": "places:sauna",
+   "text": "Sauna",
+   "difficulty": 2
+  },
+  {
+   "id": "places:yoga-studio",
+   "text": "Yoga Studio",
+   "difficulty": 2
+  },
+  {
+   "id": "places:martial-arts-dojo",
+   "text": "Martial Arts Dojo",
+   "difficulty": 3
+  },
+  {
+   "id": "places:boxing-ring",
+   "text": "Boxing Ring",
+   "difficulty": 2
+  },
+  {
+   "id": "places:wrestling-ring",
+   "text": "Wrestling Ring",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bullpen",
+   "text": "Bullpen",
+   "difficulty": 3
+  },
+  {
+   "id": "places:dugout",
+   "text": "Dugout",
+   "difficulty": 2
+  },
+  {
+   "id": "places:end-zone",
+   "text": "End Zone",
+   "difficulty": 2
+  },
+  {
+   "id": "places:penalty-box",
+   "text": "Penalty Box",
+   "difficulty": 3
+  },
+  {
+   "id": "places:finish-line",
+   "text": "Finish Line",
+   "difficulty": 1
+  },
+  {
+   "id": "places:starting-line",
+   "text": "Starting Line",
+   "difficulty": 2
+  },
+  {
+   "id": "places:winner-s-podium",
+   "text": "Winner's Podium",
+   "difficulty": 2
+  },
+  {
+   "id": "places:olympic-village",
+   "text": "Olympic Village",
+   "difficulty": 3
+  },
+  {
+   "id": "places:press-box",
+   "text": "Press Box",
+   "difficulty": 3
+  },
+  {
+   "id": "places:bleachers",
+   "text": "Bleachers",
+   "difficulty": 2
+  },
+  {
+   "id": "places:skybox",
+   "text": "Skybox",
+   "difficulty": 3
+  },
+  {
+   "id": "places:pit-stop",
+   "text": "Pit Stop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:car-dealership",
+   "text": "Car Dealership",
+   "difficulty": 2
+  },
+  {
+   "id": "places:auto-repair-shop",
+   "text": "Auto Repair Shop",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fire-escape",
+   "text": "Fire Escape",
+   "difficulty": 2
+  },
+  {
+   "id": "places:back-alley",
+   "text": "Back Alley",
+   "difficulty": 2
+  },
+  {
+   "id": "places:dead-end",
+   "text": "Dead End",
+   "difficulty": 2
+  },
+  {
+   "id": "places:cul-de-sac",
+   "text": "Cul-De-Sac",
+   "difficulty": 3
+  },
+  {
+   "id": "places:roundabout",
+   "text": "Roundabout",
+   "difficulty": 2
+  },
+  {
+   "id": "places:crosswalk",
+   "text": "Crosswalk",
+   "difficulty": 1
+  },
+  {
+   "id": "places:intersection",
+   "text": "Intersection",
+   "difficulty": 2
+  },
+  {
+   "id": "places:overpass",
+   "text": "Overpass",
+   "difficulty": 3
+  },
+  {
+   "id": "places:sidewalk",
+   "text": "Sidewalk",
+   "difficulty": 1
+  },
+  {
+   "id": "places:main-street",
+   "text": "Main Street",
+   "difficulty": 2
+  },
+  {
+   "id": "places:town-square",
+   "text": "Town Square",
+   "difficulty": 2
+  },
+  {
+   "id": "places:village-green",
+   "text": "Village Green",
+   "difficulty": 3
+  },
+  {
+   "id": "places:suburbs",
+   "text": "Suburbs",
+   "difficulty": 2
+  },
+  {
+   "id": "places:downtown",
+   "text": "Downtown",
+   "difficulty": 1
+  },
+  {
+   "id": "places:chinatown",
+   "text": "Chinatown",
+   "difficulty": 2
+  },
+  {
+   "id": "places:old-town",
+   "text": "Old Town",
+   "difficulty": 3
+  },
+  {
+   "id": "places:ghost-town",
+   "text": "Ghost Town",
+   "difficulty": 2
+  },
+  {
+   "id": "places:small-town",
+   "text": "Small Town",
+   "difficulty": 1
+  },
+  {
+   "id": "places:big-city",
+   "text": "Big City",
+   "difficulty": 1
+  },
+  {
+   "id": "places:countryside",
+   "text": "Countryside",
+   "difficulty": 2
+  },
+  {
+   "id": "places:wilderness",
+   "text": "Wilderness",
+   "difficulty": 2
+  },
+  {
+   "id": "places:middle-of-nowhere",
+   "text": "Middle Of Nowhere",
+   "difficulty": 2
+  },
+  {
+   "id": "places:backyard",
+   "text": "Backyard",
+   "difficulty": 1
+  },
+  {
+   "id": "places:front-yard",
+   "text": "Front Yard",
+   "difficulty": 1
+  },
+  {
+   "id": "places:tree-fort",
+   "text": "Tree Fort",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pillow-fort",
+   "text": "Pillow Fort",
+   "difficulty": 1
+  },
+  {
+   "id": "places:kids-table",
+   "text": "Kids' Table",
+   "difficulty": 2
+  },
+  {
+   "id": "places:embassy",
+   "text": "Embassy",
+   "difficulty": 3
+  },
+  {
+   "id": "places:capitol-building",
+   "text": "Capitol Building",
+   "difficulty": 3
+  },
+  {
+   "id": "places:observatory",
+   "text": "Observatory",
+   "difficulty": 2
+  },
+  {
+   "id": "places:research-lab",
+   "text": "Research Lab",
+   "difficulty": 3
+  },
+  {
+   "id": "places:weather-station",
+   "text": "Weather Station",
+   "difficulty": 3
+  },
+  {
+   "id": "places:mission-control",
+   "text": "Mission Control",
+   "difficulty": 2
+  },
+  {
+   "id": "places:launch-pad",
+   "text": "Launch Pad",
+   "difficulty": 2
+  },
+  {
+   "id": "places:radio-station",
+   "text": "Radio Station",
+   "difficulty": 2
+  },
+  {
+   "id": "places:newsroom",
+   "text": "Newsroom",
+   "difficulty": 3
+  },
+  {
+   "id": "places:bank-vault",
+   "text": "Bank Vault",
+   "difficulty": 2
+  },
+  {
+   "id": "places:wishing-well",
+   "text": "Wishing Well",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fountain",
+   "text": "Fountain",
+   "difficulty": 1
+  },
+  {
+   "id": "places:rainforest-canopy",
+   "text": "Rainforest Canopy",
+   "difficulty": 3
+  },
+  {
+   "id": "places:mountain-lodge",
+   "text": "Mountain Lodge",
+   "difficulty": 3
+  },
+  {
+   "id": "places:ski-lodge",
+   "text": "Ski Lodge",
+   "difficulty": 2
+  },
+  {
+   "id": "places:beach-hut",
+   "text": "Beach Hut",
+   "difficulty": 3
+  },
+  {
+   "id": "places:lifeguard-tower",
+   "text": "Lifeguard Tower",
+   "difficulty": 2
+  },
+  {
+   "id": "places:surf-shack",
+   "text": "Surf Shack",
+   "difficulty": 3
+  },
+  {
+   "id": "places:snack-bar",
+   "text": "Snack Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "places:bus-terminal",
+   "text": "Bus Terminal",
+   "difficulty": 3
+  },
+  {
+   "id": "places:ferry-terminal",
+   "text": "Ferry Terminal",
+   "difficulty": 3
+  },
+  {
+   "id": "places:cargo-ship",
+   "text": "Cargo Ship",
+   "difficulty": 3
+  },
+  {
+   "id": "places:dry-cleaner",
+   "text": "Dry Cleaner",
+   "difficulty": 3
+  },
+  {
+   "id": "places:maternity-ward",
+   "text": "Maternity Ward",
+   "difficulty": 3
+  },
+  {
+   "id": "places:photo-booth",
+   "text": "Photo Booth",
+   "difficulty": 2
+  },
+  {
+   "id": "places:fitting-room",
+   "text": "Fitting Room",
+   "difficulty": 2
+  },
+  {
+   "id": "places:food-pantry",
+   "text": "Food Pantry",
+   "difficulty": 3
+  },
+  {
+   "id": "places:soup-kitchen",
+   "text": "Soup Kitchen",
+   "difficulty": 3
+  },
+  {
+   "id": "places:animal-hospital",
+   "text": "Animal Hospital",
+   "difficulty": 2
+  },
+  {
+   "id": "places:pet-hotel",
+   "text": "Pet Hotel",
+   "difficulty": 3
+  },
+  {
+   "id": "places:cat-cafe",
+   "text": "Cat Cafe",
+   "difficulty": 3
+  },
+  {
+   "id": "places:toy-factory",
+   "text": "Toy Factory",
+   "difficulty": 2
+  },
+  {
+   "id": "places:chocolate-factory",
+   "text": "Chocolate Factory",
+   "difficulty": 2
+  },
+  {
+   "id": "places:santa-s-workshop",
+   "text": "Santa's Workshop",
+   "difficulty": 2
+  }
+ ]
+}

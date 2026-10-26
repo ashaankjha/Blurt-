@@ -1,0 +1,2622 @@
+{
+ "id": "verbs-actions",
+ "name": "Verbs & Actions",
+ "emoji": "🤸",
+ "description": "Things you can do.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "verbs-actions:sneezing",
+   "text": "Sneezing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:yawning",
+   "text": "Yawning",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hiccuping",
+   "text": "Hiccuping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:coughing",
+   "text": "Coughing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:snoring",
+   "text": "Snoring",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sleepwalking",
+   "text": "Sleepwalking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:blinking",
+   "text": "Blinking",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:winking",
+   "text": "Winking",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:whistling",
+   "text": "Whistling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:humming",
+   "text": "Humming",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:burping",
+   "text": "Burping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:laughing",
+   "text": "Laughing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:giggling",
+   "text": "Giggling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:crying",
+   "text": "Crying",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:smiling",
+   "text": "Smiling",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:frowning",
+   "text": "Frowning",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:shrugging",
+   "text": "Shrugging",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:nodding",
+   "text": "Nodding",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:clapping",
+   "text": "Clapping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:snapping-fingers",
+   "text": "Snapping Fingers",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:waving-goodbye",
+   "text": "Waving Goodbye",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:high-five",
+   "text": "High Five",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:fist-bump",
+   "text": "Fist Bump",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:thumbs-up",
+   "text": "Thumbs Up",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:shaking-hands",
+   "text": "Shaking Hands",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hugging",
+   "text": "Hugging",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:tickling",
+   "text": "Tickling",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:pinching",
+   "text": "Pinching",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:scratching-an-itch",
+   "text": "Scratching An Itch",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:stretching",
+   "text": "Stretching",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:cracking-knuckles",
+   "text": "Cracking Knuckles",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:biting-nails",
+   "text": "Biting Nails",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:picking-your-nose",
+   "text": "Picking Your Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:brushing-teeth",
+   "text": "Brushing Teeth",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:flossing",
+   "text": "Flossing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:combing-hair",
+   "text": "Combing Hair",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:braiding-hair",
+   "text": "Braiding Hair",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:taking-a-shower",
+   "text": "Taking A Shower",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:taking-a-bath",
+   "text": "Taking A Bath",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:shaving",
+   "text": "Shaving",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:getting-dressed",
+   "text": "Getting Dressed",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tying-shoelaces",
+   "text": "Tying Shoelaces",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:buttoning-a-shirt",
+   "text": "Buttoning A Shirt",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:zipping-up-a-jacket",
+   "text": "Zipping Up A Jacket",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:putting-on-makeup",
+   "text": "Putting On Makeup",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:waking-up",
+   "text": "Waking Up",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hitting-snooze",
+   "text": "Hitting Snooze",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:oversleeping",
+   "text": "Oversleeping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taking-a-nap",
+   "text": "Taking A Nap",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:tossing-and-turning",
+   "text": "Tossing And Turning",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:counting-sheep",
+   "text": "Counting Sheep",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:daydreaming",
+   "text": "Daydreaming",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sleep-talking",
+   "text": "Sleep Talking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:eating-breakfast",
+   "text": "Eating Breakfast",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:washing-hands",
+   "text": "Washing Hands",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:blowing-your-nose",
+   "text": "Blowing Your Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:clearing-your-throat",
+   "text": "Clearing Your Throat",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:holding-your-breath",
+   "text": "Holding Your Breath",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:gasping",
+   "text": "Gasping",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:sighing",
+   "text": "Sighing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:panting",
+   "text": "Panting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:shivering",
+   "text": "Shivering",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sweating",
+   "text": "Sweating",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:blushing",
+   "text": "Blushing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:fainting",
+   "text": "Fainting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tripping",
+   "text": "Tripping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:slipping-on-ice",
+   "text": "Slipping On Ice",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:falling-asleep",
+   "text": "Falling Asleep",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:stubbing-a-toe",
+   "text": "Stubbing A Toe",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:bumping-your-head",
+   "text": "Bumping Your Head",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sitting-down",
+   "text": "Sitting Down",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:standing-up",
+   "text": "Standing Up",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:lying-down",
+   "text": "Lying Down",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:kneeling",
+   "text": "Kneeling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:crawling",
+   "text": "Crawling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tiptoeing",
+   "text": "Tiptoeing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sneaking-around",
+   "text": "Sneaking Around",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:marching",
+   "text": "Marching",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:skipping",
+   "text": "Skipping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hopping",
+   "text": "Hopping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:jumping",
+   "text": "Jumping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:running",
+   "text": "Running",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:jogging",
+   "text": "Jogging",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sprinting",
+   "text": "Sprinting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:walking-backwards",
+   "text": "Walking Backwards",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:limping",
+   "text": "Limping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:stomping",
+   "text": "Stomping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pacing",
+   "text": "Pacing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:spinning",
+   "text": "Spinning",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:twirling",
+   "text": "Twirling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:bowing",
+   "text": "Bowing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:curtsying",
+   "text": "Curtsying",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:saluting",
+   "text": "Saluting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pointing",
+   "text": "Pointing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:beckoning",
+   "text": "Beckoning",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:eye-rolling",
+   "text": "Eye Rolling",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:raising-your-hand",
+   "text": "Raising Your Hand",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:slouching",
+   "text": "Slouching",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:swimming",
+   "text": "Swimming",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:diving",
+   "text": "Diving",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-a-cannonball",
+   "text": "Doing A Cannonball",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-a-belly-flop",
+   "text": "Doing A Belly Flop",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:treading-water",
+   "text": "Treading Water",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:surfing",
+   "text": "Surfing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:skiing",
+   "text": "Skiing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:snowboarding",
+   "text": "Snowboarding",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:ice-skating",
+   "text": "Ice Skating",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:rollerblading",
+   "text": "Rollerblading",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:skateboarding",
+   "text": "Skateboarding",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:riding-a-bike",
+   "text": "Riding A Bike",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-a-wheelie",
+   "text": "Doing A Wheelie",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:climbing-a-tree",
+   "text": "Climbing A Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:rock-climbing",
+   "text": "Rock Climbing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hiking",
+   "text": "Hiking",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:camping",
+   "text": "Camping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:fishing",
+   "text": "Fishing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:kayaking",
+   "text": "Kayaking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:rowing-a-boat",
+   "text": "Rowing A Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sailing",
+   "text": "Sailing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:paddleboarding",
+   "text": "Paddleboarding",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:snorkeling",
+   "text": "Snorkeling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:bungee-jumping",
+   "text": "Bungee Jumping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:skydiving",
+   "text": "Skydiving",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:parachuting",
+   "text": "Parachuting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hang-gliding",
+   "text": "Hang Gliding",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:ziplining",
+   "text": "Ziplining",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:horseback-riding",
+   "text": "Horseback Riding",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:playing-catch",
+   "text": "Playing Catch",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:shooting-hoops",
+   "text": "Shooting Hoops",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:dribbling",
+   "text": "Dribbling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:kicking-a-ball",
+   "text": "Kicking A Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:throwing-a-frisbee",
+   "text": "Throwing A Frisbee",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:bowling-a-strike",
+   "text": "Bowling A Strike",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hitting-a-home-run",
+   "text": "Hitting A Home Run",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sliding-into-home",
+   "text": "Sliding Into Home",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:swinging-a-bat",
+   "text": "Swinging A Bat",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:teeing-off",
+   "text": "Teeing Off",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:doing-a-cartwheel",
+   "text": "Doing A Cartwheel",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-a-handstand",
+   "text": "Doing A Handstand",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-a-somersault",
+   "text": "Doing A Somersault",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-the-splits",
+   "text": "Doing The Splits",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-push-ups",
+   "text": "Doing Push-Ups",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-sit-ups",
+   "text": "Doing Sit-Ups",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:jumping-jacks",
+   "text": "Jumping Jacks",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:lifting-weights",
+   "text": "Lifting Weights",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:doing-yoga",
+   "text": "Doing Yoga",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:meditating",
+   "text": "Meditating",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:juggling",
+   "text": "Juggling",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hula-hooping",
+   "text": "Hula Hooping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:jumping-rope",
+   "text": "Jumping Rope",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-hopscotch",
+   "text": "Playing Hopscotch",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-tag",
+   "text": "Playing Tag",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hide-and-seek",
+   "text": "Hide And Seek",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:musical-chairs",
+   "text": "Musical Chairs",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:leapfrog",
+   "text": "Leapfrog",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:building-a-sandcastle",
+   "text": "Building A Sandcastle",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:building-a-snowman",
+   "text": "Building A Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:making-snow-angels",
+   "text": "Making Snow Angels",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:having-a-snowball-fight",
+   "text": "Having A Snowball Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sledding",
+   "text": "Sledding",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:flying-a-kite",
+   "text": "Flying A Kite",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:blowing-bubbles",
+   "text": "Blowing Bubbles",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:skipping-stones",
+   "text": "Skipping Stones",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:swinging-on-a-swing",
+   "text": "Swinging On A Swing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:going-down-a-slide",
+   "text": "Going Down A Slide",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:riding-a-roller-coaster",
+   "text": "Riding A Roller Coaster",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:arm-wrestling",
+   "text": "Arm Wrestling",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:thumb-wrestling",
+   "text": "Thumb Wrestling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tug-of-war",
+   "text": "Tug Of War",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:pillow-fighting",
+   "text": "Pillow Fighting",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:three-legged-race",
+   "text": "Three-Legged Race",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sack-race",
+   "text": "Sack Race",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:egg-and-spoon-race",
+   "text": "Egg And Spoon Race",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:playing-charades",
+   "text": "Playing Charades",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:doing-a-puzzle",
+   "text": "Doing A Puzzle",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:knitting",
+   "text": "Knitting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sewing",
+   "text": "Sewing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:crocheting",
+   "text": "Crocheting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:painting-a-picture",
+   "text": "Painting A Picture",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:drawing",
+   "text": "Drawing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:coloring",
+   "text": "Coloring",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sculpting",
+   "text": "Sculpting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:whittling",
+   "text": "Whittling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:scrapbooking",
+   "text": "Scrapbooking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:gardening",
+   "text": "Gardening",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:stargazing",
+   "text": "Stargazing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taking-a-selfie",
+   "text": "Taking A Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-video-games",
+   "text": "Playing Video Games",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-guitar",
+   "text": "Playing Guitar",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-the-drums",
+   "text": "Playing The Drums",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-piano",
+   "text": "Playing Piano",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:singing-in-the-shower",
+   "text": "Singing In The Shower",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:karaoke",
+   "text": "Karaoke",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:beatboxing",
+   "text": "Beatboxing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:chopping-onions",
+   "text": "Chopping Onions",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:flipping-pancakes",
+   "text": "Flipping Pancakes",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:cracking-an-egg",
+   "text": "Cracking An Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:peeling-a-banana",
+   "text": "Peeling A Banana",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:stirring-a-pot",
+   "text": "Stirring A Pot",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:kneading-dough",
+   "text": "Kneading Dough",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:frosting-a-cake",
+   "text": "Frosting A Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:blowing-out-candles",
+   "text": "Blowing Out Candles",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:licking-a-spoon",
+   "text": "Licking A Spoon",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taste-testing",
+   "text": "Taste Testing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:slurping-noodles",
+   "text": "Slurping Noodles",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:chewing-gum",
+   "text": "Chewing Gum",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sipping-through-a-straw",
+   "text": "Sipping Through A Straw",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:gulping",
+   "text": "Gulping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:nibbling",
+   "text": "Nibbling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:munching",
+   "text": "Munching",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pouring-cereal",
+   "text": "Pouring Cereal",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:making-a-sandwich",
+   "text": "Making A Sandwich",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:toasting-marshmallows",
+   "text": "Toasting Marshmallows",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:grilling-burgers",
+   "text": "Grilling Burgers",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:ordering-takeout",
+   "text": "Ordering Takeout",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tipping-the-waiter",
+   "text": "Tipping The Waiter",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:splitting-the-bill",
+   "text": "Splitting The Bill",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:talking-on-the-phone",
+   "text": "Talking On The Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:texting",
+   "text": "Texting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:video-chatting",
+   "text": "Video Chatting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:whispering",
+   "text": "Whispering",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:shouting",
+   "text": "Shouting",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:mumbling",
+   "text": "Mumbling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:stuttering",
+   "text": "Stuttering",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:gossiping",
+   "text": "Gossiping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:bragging",
+   "text": "Bragging",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:complaining",
+   "text": "Complaining",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:apologizing",
+   "text": "Apologizing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:arguing",
+   "text": "Arguing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:negotiating",
+   "text": "Negotiating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:interrupting",
+   "text": "Interrupting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:eavesdropping",
+   "text": "Eavesdropping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tattling",
+   "text": "Tattling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:lying",
+   "text": "Lying",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:promising",
+   "text": "Promising",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:pinky-swear",
+   "text": "Pinky Swear",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:telling-a-joke",
+   "text": "Telling A Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:telling-a-story",
+   "text": "Telling A Story",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:reading-aloud",
+   "text": "Reading Aloud",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:singing-a-lullaby",
+   "text": "Singing A Lullaby",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:giving-a-speech",
+   "text": "Giving A Speech",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:proposing",
+   "text": "Proposing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:waving-a-flag",
+   "text": "Waving A Flag",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:cheering",
+   "text": "Cheering",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:booing",
+   "text": "Booing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:heckling",
+   "text": "Heckling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:giving-a-standing-ovation",
+   "text": "Giving A Standing Ovation",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taking-a-bow",
+   "text": "Taking A Bow",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:introducing-yourself",
+   "text": "Introducing Yourself",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:making-small-talk",
+   "text": "Making Small Talk",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:name-dropping",
+   "text": "Name Dropping",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:making-eye-contact",
+   "text": "Making Eye Contact",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:giving-a-compliment",
+   "text": "Giving A Compliment",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:saying-thank-you",
+   "text": "Saying Thank You",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:saying-cheese",
+   "text": "Saying Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:making-a-wish",
+   "text": "Making A Wish",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:wishing-on-a-star",
+   "text": "Wishing On A Star",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:crossing-your-fingers",
+   "text": "Crossing Your Fingers",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:knocking-on-wood",
+   "text": "Knocking On Wood",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:making-faces",
+   "text": "Making Faces",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sticking-out-your-tongue",
+   "text": "Sticking Out Your Tongue",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:pulling-a-prank",
+   "text": "Pulling A Prank",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-peekaboo",
+   "text": "Playing Peekaboo",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:sneaking-a-cookie",
+   "text": "Sneaking A Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hiding-behind-a-curtain",
+   "text": "Hiding Behind A Curtain",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:throwing-a-tantrum",
+   "text": "Throwing A Tantrum",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:pouting",
+   "text": "Pouting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sulking",
+   "text": "Sulking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:begging",
+   "text": "Begging",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:bargaining",
+   "text": "Bargaining",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:haggling",
+   "text": "Haggling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:waiting-in-line",
+   "text": "Waiting In Line",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:cutting-in-line",
+   "text": "Cutting In Line",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:saving-a-seat",
+   "text": "Saving A Seat",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:holding-the-door",
+   "text": "Holding The Door",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:ringing-the-doorbell",
+   "text": "Ringing The Doorbell",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:knocking-on-a-door",
+   "text": "Knocking On A Door",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:ding-dong-ditch",
+   "text": "Ding Dong Ditch",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sending-a-letter",
+   "text": "Sending A Letter",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:wrapping-a-present",
+   "text": "Wrapping A Present",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:opening-a-present",
+   "text": "Opening A Present",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:throwing-a-surprise-party",
+   "text": "Throwing A Surprise Party",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:blowing-up-balloons",
+   "text": "Blowing Up Balloons",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:popping-a-balloon",
+   "text": "Popping A Balloon",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:leaving-a-voicemail",
+   "text": "Leaving A Voicemail",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hanging-up",
+   "text": "Hanging Up",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:dialing",
+   "text": "Dialing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:unboxing",
+   "text": "Unboxing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:parallel-parking",
+   "text": "Parallel Parking",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:changing-a-tire",
+   "text": "Changing A Tire",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:honking-the-horn",
+   "text": "Honking The Horn",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:merging-lanes",
+   "text": "Merging Lanes",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:hitchhiking",
+   "text": "Hitchhiking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:carpooling",
+   "text": "Carpooling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:packing-a-suitcase",
+   "text": "Packing A Suitcase",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:unpacking",
+   "text": "Unpacking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:boarding-a-plane",
+   "text": "Boarding A Plane",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:going-through-security",
+   "text": "Going Through Security",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:missing-the-bus",
+   "text": "Missing The Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hailing-a-cab",
+   "text": "Hailing A Cab",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:reading-a-map",
+   "text": "Reading A Map",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:asking-for-directions",
+   "text": "Asking For Directions",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:getting-lost",
+   "text": "Getting Lost",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:taking-a-road-trip",
+   "text": "Taking A Road Trip",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:riding-shotgun",
+   "text": "Riding Shotgun",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:backseat-driving",
+   "text": "Backseat Driving",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sightseeing",
+   "text": "Sightseeing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sending-a-postcard",
+   "text": "Sending A Postcard",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taking-notes",
+   "text": "Taking Notes",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:cramming-for-a-test",
+   "text": "Cramming For A Test",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pulling-an-all-nighter",
+   "text": "Pulling An All-Nighter",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:doing-homework",
+   "text": "Doing Homework",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:copying-homework",
+   "text": "Copying Homework",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:passing-notes",
+   "text": "Passing Notes",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sharpening-a-pencil",
+   "text": "Sharpening A Pencil",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:erasing",
+   "text": "Erasing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:doodling",
+   "text": "Doodling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:highlighting",
+   "text": "Highlighting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:studying",
+   "text": "Studying",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:graduating",
+   "text": "Graduating",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:applying-for-a-job",
+   "text": "Applying For A Job",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:going-to-an-interview",
+   "text": "Going To An Interview",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:getting-promoted",
+   "text": "Getting Promoted",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:getting-fired",
+   "text": "Getting Fired",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:quitting",
+   "text": "Quitting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:clocking-in",
+   "text": "Clocking In",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:working-from-home",
+   "text": "Working From Home",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:commuting",
+   "text": "Commuting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:brainstorming",
+   "text": "Brainstorming",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:multitasking",
+   "text": "Multitasking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:procrastinating",
+   "text": "Procrastinating",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hitting-reply-all",
+   "text": "Hitting Reply All",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:typing",
+   "text": "Typing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:clicking",
+   "text": "Clicking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:scrolling",
+   "text": "Scrolling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:double-tapping",
+   "text": "Double Tapping",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:copying-and-pasting",
+   "text": "Copying And Pasting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:taking-a-screenshot",
+   "text": "Taking A Screenshot",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:charging-your-phone",
+   "text": "Charging Your Phone",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:downloading",
+   "text": "Downloading",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:uploading",
+   "text": "Uploading",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:updating-software",
+   "text": "Updating Software",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:restarting-the-computer",
+   "text": "Restarting The Computer",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:logging-in",
+   "text": "Logging In",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:forgetting-your-password",
+   "text": "Forgetting Your Password",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:going-viral",
+   "text": "Going Viral",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:live-streaming",
+   "text": "Live Streaming",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:binge-watching",
+   "text": "Binge Watching",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:channel-surfing",
+   "text": "Channel Surfing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:fast-forwarding",
+   "text": "Fast Forwarding",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:rewinding",
+   "text": "Rewinding",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pausing",
+   "text": "Pausing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:turning-up-the-volume",
+   "text": "Turning Up The Volume",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:muting",
+   "text": "Muting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:photobombing",
+   "text": "Photobombing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:posing-for-a-photo",
+   "text": "Posing For A Photo",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:shopping",
+   "text": "Shopping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:window-shopping",
+   "text": "Window Shopping",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:trying-on-clothes",
+   "text": "Trying On Clothes",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:paying-with-cash",
+   "text": "Paying With Cash",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:swiping-a-card",
+   "text": "Swiping A Card",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:counting-money",
+   "text": "Counting Money",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:saving-money",
+   "text": "Saving Money",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:splurging",
+   "text": "Splurging",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:returning-an-item",
+   "text": "Returning An Item",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:signing-your-name",
+   "text": "Signing Your Name",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:filling-out-a-form",
+   "text": "Filling Out A Form",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:folding-paper",
+   "text": "Folding Paper",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:making-a-paper-airplane",
+   "text": "Making A Paper Airplane",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:cutting-with-scissors",
+   "text": "Cutting With Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:gluing",
+   "text": "Gluing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:stapling",
+   "text": "Stapling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:laminating",
+   "text": "Laminating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:shredding-paper",
+   "text": "Shredding Paper",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:dancing",
+   "text": "Dancing",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:breakdancing",
+   "text": "Breakdancing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:moonwalking",
+   "text": "Moonwalking",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-the-robot",
+   "text": "Doing The Robot",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:line-dancing",
+   "text": "Line Dancing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tap-dancing",
+   "text": "Tap Dancing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:slow-dancing",
+   "text": "Slow Dancing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:doing-the-limbo",
+   "text": "Doing The Limbo",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:doing-the-worm",
+   "text": "Doing The Worm",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:headbanging",
+   "text": "Headbanging",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:air-guitar",
+   "text": "Air Guitar",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:lip-syncing",
+   "text": "Lip Syncing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:conducting-an-orchestra",
+   "text": "Conducting An Orchestra",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:directing-traffic",
+   "text": "Directing Traffic",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:rock-paper-scissors",
+   "text": "Rock Paper Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:flipping-a-coin",
+   "text": "Flipping A Coin",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:rolling-dice",
+   "text": "Rolling Dice",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:shuffling-cards",
+   "text": "Shuffling Cards",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:dealing-cards",
+   "text": "Dealing Cards",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:building-a-card-house",
+   "text": "Building A Card House",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:stacking-blocks",
+   "text": "Stacking Blocks",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:knocking-over-dominoes",
+   "text": "Knocking Over Dominoes",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:spinning-a-top",
+   "text": "Spinning A Top",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:yo-yoing",
+   "text": "Yo-Yoing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:solving-a-rubik-s-cube",
+   "text": "Solving A Rubik's Cube",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:blowing-a-whistle",
+   "text": "Blowing A Whistle",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:ringing-a-bell",
+   "text": "Ringing A Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:banging-a-drum",
+   "text": "Banging A Drum",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:playing-the-triangle",
+   "text": "Playing The Triangle",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:climbing-a-ladder",
+   "text": "Climbing A Ladder",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:climbing-stairs",
+   "text": "Climbing Stairs",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sliding-down-a-banister",
+   "text": "Sliding Down A Banister",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:jumping-on-the-bed",
+   "text": "Jumping On The Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:bouncing-a-ball",
+   "text": "Bouncing A Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:kicking-a-can",
+   "text": "Kicking A Can",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:throwing-a-dart",
+   "text": "Throwing A Dart",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:shooting-a-free-throw",
+   "text": "Shooting A Free Throw",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:catching-a-fly-ball",
+   "text": "Catching A Fly Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:ducking",
+   "text": "Ducking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:dodging",
+   "text": "Dodging",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:swatting-a-fly",
+   "text": "Swatting A Fly",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:chasing-a-butterfly",
+   "text": "Chasing A Butterfly",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:catching-fireflies",
+   "text": "Catching Fireflies",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:picking-flowers",
+   "text": "Picking Flowers",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:smelling-the-roses",
+   "text": "Smelling The Roses",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:planting-a-seed",
+   "text": "Planting A Seed",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:climbing-a-mountain",
+   "text": "Climbing A Mountain",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:crossing-a-river",
+   "text": "Crossing A River",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:building-a-campfire",
+   "text": "Building A Campfire",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:pitching-a-tent",
+   "text": "Pitching A Tent",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:roasting-hot-dogs",
+   "text": "Roasting Hot Dogs",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:telling-ghost-stories",
+   "text": "Telling Ghost Stories",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:carving-a-pumpkin",
+   "text": "Carving A Pumpkin",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:trick-or-treating",
+   "text": "Trick Or Treating",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:decorating-the-tree",
+   "text": "Decorating The Tree",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:hanging-stockings",
+   "text": "Hanging Stockings",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:egg-hunting",
+   "text": "Egg Hunting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:painting-eggs",
+   "text": "Painting Eggs",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:rubbing-your-belly",
+   "text": "Rubbing Your Belly",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:patting-your-head",
+   "text": "Patting Your Head",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:twiddling-your-thumbs",
+   "text": "Twiddling Your Thumbs",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:tapping-your-foot",
+   "text": "Tapping Your Foot",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:drumming-your-fingers",
+   "text": "Drumming Your Fingers",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:rubbing-your-eyes",
+   "text": "Rubbing Your Eyes",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:scratching-your-head",
+   "text": "Scratching Your Head",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:covering-your-ears",
+   "text": "Covering Your Ears",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:plugging-your-nose",
+   "text": "Plugging Your Nose",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:biting-your-lip",
+   "text": "Biting Your Lip",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:licking-your-lips",
+   "text": "Licking Your Lips",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:puckering-up",
+   "text": "Puckering Up",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:squinting",
+   "text": "Squinting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:staring-contest",
+   "text": "Staring Contest",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:thinking-hard",
+   "text": "Thinking Hard",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:forgetting",
+   "text": "Forgetting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:guessing",
+   "text": "Guessing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:counting-to-ten",
+   "text": "Counting To Ten",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:spelling",
+   "text": "Spelling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:rhyming",
+   "text": "Rhyming",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:hesitating",
+   "text": "Hesitating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:panicking",
+   "text": "Panicking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:celebrating",
+   "text": "Celebrating",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:dancing-in-the-rain",
+   "text": "Dancing In The Rain",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:jumping-for-joy",
+   "text": "Jumping For Joy",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:running-late",
+   "text": "Running Late",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:catching-your-breath",
+   "text": "Catching Your Breath",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:lounging",
+   "text": "Lounging",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:relaxing",
+   "text": "Relaxing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sunbathing",
+   "text": "Sunbathing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:babysitting",
+   "text": "Babysitting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sleepover",
+   "text": "Sleepover",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:housewarming",
+   "text": "Housewarming",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:eloping",
+   "text": "Eloping",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:renovating",
+   "text": "Renovating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:recycling",
+   "text": "Recycling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:composting",
+   "text": "Composting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:evaporating",
+   "text": "Evaporating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:melting",
+   "text": "Melting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:freezing-up",
+   "text": "Freezing Up",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:sinking",
+   "text": "Sinking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:floating",
+   "text": "Floating",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:levitating",
+   "text": "Levitating",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:teleporting",
+   "text": "Teleporting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:time-traveling",
+   "text": "Time Traveling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hypnotizing",
+   "text": "Hypnotizing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:ventriloquism",
+   "text": "Ventriloquism",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:tightrope-walking",
+   "text": "Tightrope Walking",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sword-swallowing",
+   "text": "Sword Swallowing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:fire-breathing",
+   "text": "Fire Breathing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:pole-vaulting",
+   "text": "Pole Vaulting",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:hurdling",
+   "text": "Hurdling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:synchronized-swimming",
+   "text": "Synchronized Swimming",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:figure-skating",
+   "text": "Figure Skating",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:curling",
+   "text": "Curling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:fencing",
+   "text": "Fencing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:archery",
+   "text": "Archery",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:speed-walking",
+   "text": "Speed Walking",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:parkour",
+   "text": "Parkour",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:crowd-surfing",
+   "text": "Crowd Surfing",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:stage-diving",
+   "text": "Stage Diving",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:doing-a-backflip",
+   "text": "Doing A Backflip",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:hot-potato",
+   "text": "Hot Potato",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:freeze-tag",
+   "text": "Freeze Tag",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:simon-says",
+   "text": "Simon Says",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:red-light-green-light",
+   "text": "Red Light Green Light",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:duck-duck-goose",
+   "text": "Duck Duck Goose",
+   "difficulty": 1
+  },
+  {
+   "id": "verbs-actions:follow-the-leader",
+   "text": "Follow The Leader",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:playing-fetch",
+   "text": "Playing Fetch",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:sleeping-like-a-log",
+   "text": "Sleeping Like A Log",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:fumbling",
+   "text": "Fumbling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:stumbling",
+   "text": "Stumbling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:wobbling",
+   "text": "Wobbling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:hovering",
+   "text": "Hovering",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:gliding",
+   "text": "Gliding",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:swaying",
+   "text": "Swaying",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:shimmying",
+   "text": "Shimmying",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:wiggling",
+   "text": "Wiggling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:waddling",
+   "text": "Waddling",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:galloping",
+   "text": "Galloping",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:slithering",
+   "text": "Slithering",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:pouncing",
+   "text": "Pouncing",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:prowling",
+   "text": "Prowling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:scurrying",
+   "text": "Scurrying",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:zigzagging",
+   "text": "Zigzagging",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:snorting",
+   "text": "Snorting",
+   "difficulty": 2
+  },
+  {
+   "id": "verbs-actions:cackling",
+   "text": "Cackling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:grumbling",
+   "text": "Grumbling",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:muttering",
+   "text": "Muttering",
+   "difficulty": 3
+  },
+  {
+   "id": "verbs-actions:babbling",
+   "text": "Babbling",
+   "difficulty": 3
+  }
+ ]
+}

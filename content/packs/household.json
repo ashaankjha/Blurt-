@@ -1,0 +1,2477 @@
+{
+ "id": "household",
+ "name": "Household",
+ "emoji": "🛋️",
+ "description": "Stuff around the house, room by room.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "household:couch",
+   "text": "Couch",
+   "difficulty": 1
+  },
+  {
+   "id": "household:recliner",
+   "text": "Recliner",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bean-bag-chair",
+   "text": "Bean Bag Chair",
+   "difficulty": 2
+  },
+  {
+   "id": "household:rocking-chair",
+   "text": "Rocking Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bunk-bed",
+   "text": "Bunk Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "household:futon",
+   "text": "Futon",
+   "difficulty": 3
+  },
+  {
+   "id": "household:ottoman",
+   "text": "Ottoman",
+   "difficulty": 3
+  },
+  {
+   "id": "household:coffee-table",
+   "text": "Coffee Table",
+   "difficulty": 1
+  },
+  {
+   "id": "household:nightstand",
+   "text": "Nightstand",
+   "difficulty": 3
+  },
+  {
+   "id": "household:dresser",
+   "text": "Dresser",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bookshelf",
+   "text": "Bookshelf",
+   "difficulty": 1
+  },
+  {
+   "id": "household:armchair",
+   "text": "Armchair",
+   "difficulty": 1
+  },
+  {
+   "id": "household:love-seat",
+   "text": "Love Seat",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hammock",
+   "text": "Hammock",
+   "difficulty": 1
+  },
+  {
+   "id": "household:crib",
+   "text": "Crib",
+   "difficulty": 1
+  },
+  {
+   "id": "household:high-chair",
+   "text": "High Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "household:kitchen-table",
+   "text": "Kitchen Table",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bar-stool",
+   "text": "Bar Stool",
+   "difficulty": 2
+  },
+  {
+   "id": "household:folding-chair",
+   "text": "Folding Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "household:murphy-bed",
+   "text": "Murphy Bed",
+   "difficulty": 3
+  },
+  {
+   "id": "household:canopy-bed",
+   "text": "Canopy Bed",
+   "difficulty": 2
+  },
+  {
+   "id": "household:waterbed",
+   "text": "Waterbed",
+   "difficulty": 2
+  },
+  {
+   "id": "household:chest-of-drawers",
+   "text": "Chest Of Drawers",
+   "difficulty": 2
+  },
+  {
+   "id": "household:filing-cabinet",
+   "text": "Filing Cabinet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:desk-chair",
+   "text": "Desk Chair",
+   "difficulty": 1
+  },
+  {
+   "id": "household:wardrobe",
+   "text": "Wardrobe",
+   "difficulty": 3
+  },
+  {
+   "id": "household:headboard",
+   "text": "Headboard",
+   "difficulty": 3
+  },
+  {
+   "id": "household:vanity-mirror",
+   "text": "Vanity Mirror",
+   "difficulty": 2
+  },
+  {
+   "id": "household:shoe-rack",
+   "text": "Shoe Rack",
+   "difficulty": 1
+  },
+  {
+   "id": "household:coat-rack",
+   "text": "Coat Rack",
+   "difficulty": 1
+  },
+  {
+   "id": "household:hat-stand",
+   "text": "Hat Stand",
+   "difficulty": 3
+  },
+  {
+   "id": "household:grandfather-clock",
+   "text": "Grandfather Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:china-cabinet",
+   "text": "China Cabinet",
+   "difficulty": 3
+  },
+  {
+   "id": "household:toy-chest",
+   "text": "Toy Chest",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sofa-bed",
+   "text": "Sofa Bed",
+   "difficulty": 2
+  },
+  {
+   "id": "household:footstool",
+   "text": "Footstool",
+   "difficulty": 3
+  },
+  {
+   "id": "household:lazy-susan",
+   "text": "Lazy Susan",
+   "difficulty": 3
+  },
+  {
+   "id": "household:room-divider",
+   "text": "Room Divider",
+   "difficulty": 3
+  },
+  {
+   "id": "household:kitchen-island",
+   "text": "Kitchen Island",
+   "difficulty": 2
+  },
+  {
+   "id": "household:living-room",
+   "text": "Living Room",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bedroom",
+   "text": "Bedroom",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bathroom",
+   "text": "Bathroom",
+   "difficulty": 1
+  },
+  {
+   "id": "household:kitchen",
+   "text": "Kitchen",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dining-room",
+   "text": "Dining Room",
+   "difficulty": 1
+  },
+  {
+   "id": "household:basement",
+   "text": "Basement",
+   "difficulty": 1
+  },
+  {
+   "id": "household:attic",
+   "text": "Attic",
+   "difficulty": 1
+  },
+  {
+   "id": "household:garage",
+   "text": "Garage",
+   "difficulty": 1
+  },
+  {
+   "id": "household:laundry-room",
+   "text": "Laundry Room",
+   "difficulty": 1
+  },
+  {
+   "id": "household:walk-in-closet",
+   "text": "Walk-In Closet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:pantry",
+   "text": "Pantry",
+   "difficulty": 2
+  },
+  {
+   "id": "household:guest-room",
+   "text": "Guest Room",
+   "difficulty": 1
+  },
+  {
+   "id": "household:home-office",
+   "text": "Home Office",
+   "difficulty": 1
+  },
+  {
+   "id": "household:nursery",
+   "text": "Nursery",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hallway",
+   "text": "Hallway",
+   "difficulty": 1
+  },
+  {
+   "id": "household:staircase",
+   "text": "Staircase",
+   "difficulty": 1
+  },
+  {
+   "id": "household:front-porch",
+   "text": "Front Porch",
+   "difficulty": 1
+  },
+  {
+   "id": "household:balcony",
+   "text": "Balcony",
+   "difficulty": 1
+  },
+  {
+   "id": "household:patio",
+   "text": "Patio",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sunroom",
+   "text": "Sunroom",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mudroom",
+   "text": "Mudroom",
+   "difficulty": 3
+  },
+  {
+   "id": "household:crawl-space",
+   "text": "Crawl Space",
+   "difficulty": 3
+  },
+  {
+   "id": "household:man-cave",
+   "text": "Man Cave",
+   "difficulty": 2
+  },
+  {
+   "id": "household:playroom",
+   "text": "Playroom",
+   "difficulty": 1
+  },
+  {
+   "id": "household:linen-closet",
+   "text": "Linen Closet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:doghouse",
+   "text": "Doghouse",
+   "difficulty": 1
+  },
+  {
+   "id": "household:treehouse",
+   "text": "Treehouse",
+   "difficulty": 1
+  },
+  {
+   "id": "household:garden-shed",
+   "text": "Garden Shed",
+   "difficulty": 1
+  },
+  {
+   "id": "household:back-door",
+   "text": "Back Door",
+   "difficulty": 1
+  },
+  {
+   "id": "household:doorbell",
+   "text": "Doorbell",
+   "difficulty": 1
+  },
+  {
+   "id": "household:doormat",
+   "text": "Doormat",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mailbox",
+   "text": "Mailbox",
+   "difficulty": 1
+  },
+  {
+   "id": "household:peephole",
+   "text": "Peephole",
+   "difficulty": 3
+  },
+  {
+   "id": "household:door-knob",
+   "text": "Door Knob",
+   "difficulty": 2
+  },
+  {
+   "id": "household:deadbolt",
+   "text": "Deadbolt",
+   "difficulty": 3
+  },
+  {
+   "id": "household:chimney",
+   "text": "Chimney",
+   "difficulty": 1
+  },
+  {
+   "id": "household:fireplace",
+   "text": "Fireplace",
+   "difficulty": 1
+  },
+  {
+   "id": "household:mantel",
+   "text": "Mantel",
+   "difficulty": 3
+  },
+  {
+   "id": "household:skylight",
+   "text": "Skylight",
+   "difficulty": 2
+  },
+  {
+   "id": "household:window-sill",
+   "text": "Window Sill",
+   "difficulty": 3
+  },
+  {
+   "id": "household:banister",
+   "text": "Banister",
+   "difficulty": 3
+  },
+  {
+   "id": "household:dumbwaiter",
+   "text": "Dumbwaiter",
+   "difficulty": 3
+  },
+  {
+   "id": "household:trapdoor",
+   "text": "Trapdoor",
+   "difficulty": 2
+  },
+  {
+   "id": "household:screen-door",
+   "text": "Screen Door",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sliding-door",
+   "text": "Sliding Door",
+   "difficulty": 1
+  },
+  {
+   "id": "household:revolving-door",
+   "text": "Revolving Door",
+   "difficulty": 2
+  },
+  {
+   "id": "household:doggy-door",
+   "text": "Doggy Door",
+   "difficulty": 1
+  },
+  {
+   "id": "household:picket-fence",
+   "text": "Picket Fence",
+   "difficulty": 2
+  },
+  {
+   "id": "household:garage-door",
+   "text": "Garage Door",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rain-gutter",
+   "text": "Rain Gutter",
+   "difficulty": 3
+  },
+  {
+   "id": "household:shingles",
+   "text": "Shingles",
+   "difficulty": 3
+  },
+  {
+   "id": "household:wallpaper",
+   "text": "Wallpaper",
+   "difficulty": 1
+  },
+  {
+   "id": "household:carpet",
+   "text": "Carpet",
+   "difficulty": 1
+  },
+  {
+   "id": "household:hardwood-floor",
+   "text": "Hardwood Floor",
+   "difficulty": 2
+  },
+  {
+   "id": "household:ceiling-fan",
+   "text": "Ceiling Fan",
+   "difficulty": 1
+  },
+  {
+   "id": "household:light-switch",
+   "text": "Light Switch",
+   "difficulty": 2
+  },
+  {
+   "id": "household:power-outlet",
+   "text": "Power Outlet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:fuse-box",
+   "text": "Fuse Box",
+   "difficulty": 3
+  },
+  {
+   "id": "household:thermostat",
+   "text": "Thermostat",
+   "difficulty": 3
+  },
+  {
+   "id": "household:smoke-detector",
+   "text": "Smoke Detector",
+   "difficulty": 1
+  },
+  {
+   "id": "household:chandelier",
+   "text": "Chandelier",
+   "difficulty": 2
+  },
+  {
+   "id": "household:lava-lamp",
+   "text": "Lava Lamp",
+   "difficulty": 2
+  },
+  {
+   "id": "household:refrigerator",
+   "text": "Refrigerator",
+   "difficulty": 1
+  },
+  {
+   "id": "household:freezer",
+   "text": "Freezer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:microwave",
+   "text": "Microwave",
+   "difficulty": 1
+  },
+  {
+   "id": "household:toaster",
+   "text": "Toaster",
+   "difficulty": 1
+  },
+  {
+   "id": "household:toaster-oven",
+   "text": "Toaster Oven",
+   "difficulty": 2
+  },
+  {
+   "id": "household:dishwasher",
+   "text": "Dishwasher",
+   "difficulty": 1
+  },
+  {
+   "id": "household:blender",
+   "text": "Blender",
+   "difficulty": 1
+  },
+  {
+   "id": "household:food-processor",
+   "text": "Food Processor",
+   "difficulty": 3
+  },
+  {
+   "id": "household:stand-mixer",
+   "text": "Stand Mixer",
+   "difficulty": 3
+  },
+  {
+   "id": "household:coffee-maker",
+   "text": "Coffee Maker",
+   "difficulty": 1
+  },
+  {
+   "id": "household:kettle",
+   "text": "Kettle",
+   "difficulty": 2
+  },
+  {
+   "id": "household:slow-cooker",
+   "text": "Slow Cooker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:pressure-cooker",
+   "text": "Pressure Cooker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:air-fryer",
+   "text": "Air Fryer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:waffle-iron",
+   "text": "Waffle Iron",
+   "difficulty": 2
+  },
+  {
+   "id": "household:rice-cooker",
+   "text": "Rice Cooker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:garbage-disposal",
+   "text": "Garbage Disposal",
+   "difficulty": 2
+  },
+  {
+   "id": "household:ice-maker",
+   "text": "Ice Maker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:water-filter",
+   "text": "Water Filter",
+   "difficulty": 2
+  },
+  {
+   "id": "household:can-opener",
+   "text": "Can Opener",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bottle-opener",
+   "text": "Bottle Opener",
+   "difficulty": 1
+  },
+  {
+   "id": "household:melon-baller",
+   "text": "Melon Baller",
+   "difficulty": 3
+  },
+  {
+   "id": "household:cheese-grater",
+   "text": "Cheese Grater",
+   "difficulty": 2
+  },
+  {
+   "id": "household:vegetable-peeler",
+   "text": "Vegetable Peeler",
+   "difficulty": 2
+  },
+  {
+   "id": "household:potato-masher",
+   "text": "Potato Masher",
+   "difficulty": 2
+  },
+  {
+   "id": "household:rolling-pin",
+   "text": "Rolling Pin",
+   "difficulty": 1
+  },
+  {
+   "id": "household:cookie-cutter",
+   "text": "Cookie Cutter",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cutting-board",
+   "text": "Cutting Board",
+   "difficulty": 2
+  },
+  {
+   "id": "household:butcher-knife",
+   "text": "Butcher Knife",
+   "difficulty": 2
+  },
+  {
+   "id": "household:frying-pan",
+   "text": "Frying Pan",
+   "difficulty": 1
+  },
+  {
+   "id": "household:saucepan",
+   "text": "Saucepan",
+   "difficulty": 3
+  },
+  {
+   "id": "household:wok",
+   "text": "Wok",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cast-iron-skillet",
+   "text": "Cast Iron Skillet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:baking-sheet",
+   "text": "Baking Sheet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:muffin-tin",
+   "text": "Muffin Tin",
+   "difficulty": 3
+  },
+  {
+   "id": "household:mixing-bowl",
+   "text": "Mixing Bowl",
+   "difficulty": 2
+  },
+  {
+   "id": "household:measuring-cup",
+   "text": "Measuring Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "household:measuring-spoons",
+   "text": "Measuring Spoons",
+   "difficulty": 2
+  },
+  {
+   "id": "household:whisk",
+   "text": "Whisk",
+   "difficulty": 1
+  },
+  {
+   "id": "household:spatula",
+   "text": "Spatula",
+   "difficulty": 1
+  },
+  {
+   "id": "household:ladle",
+   "text": "Ladle",
+   "difficulty": 3
+  },
+  {
+   "id": "household:tongs",
+   "text": "Tongs",
+   "difficulty": 3
+  },
+  {
+   "id": "household:colander",
+   "text": "Colander",
+   "difficulty": 3
+  },
+  {
+   "id": "household:salad-spinner",
+   "text": "Salad Spinner",
+   "difficulty": 2
+  },
+  {
+   "id": "household:pizza-cutter",
+   "text": "Pizza Cutter",
+   "difficulty": 1
+  },
+  {
+   "id": "household:ice-cream-scoop",
+   "text": "Ice Cream Scoop",
+   "difficulty": 1
+  },
+  {
+   "id": "household:ice-cube-tray",
+   "text": "Ice Cube Tray",
+   "difficulty": 2
+  },
+  {
+   "id": "household:oven-mitt",
+   "text": "Oven Mitt",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pot-holder",
+   "text": "Pot Holder",
+   "difficulty": 3
+  },
+  {
+   "id": "household:apron",
+   "text": "Apron",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dish-rack",
+   "text": "Dish Rack",
+   "difficulty": 2
+  },
+  {
+   "id": "household:dish-soap",
+   "text": "Dish Soap",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sponge",
+   "text": "Sponge",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paper-towel",
+   "text": "Paper Towel",
+   "difficulty": 2
+  },
+  {
+   "id": "household:napkin-holder",
+   "text": "Napkin Holder",
+   "difficulty": 2
+  },
+  {
+   "id": "household:salt-shaker",
+   "text": "Salt Shaker",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pepper-grinder",
+   "text": "Pepper Grinder",
+   "difficulty": 2
+  },
+  {
+   "id": "household:spice-rack",
+   "text": "Spice Rack",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cookie-jar",
+   "text": "Cookie Jar",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bread-box",
+   "text": "Bread Box",
+   "difficulty": 2
+  },
+  {
+   "id": "household:lunch-box",
+   "text": "Lunch Box",
+   "difficulty": 2
+  },
+  {
+   "id": "household:thermos",
+   "text": "Thermos",
+   "difficulty": 2
+  },
+  {
+   "id": "household:tupperware",
+   "text": "Tupperware",
+   "difficulty": 2
+  },
+  {
+   "id": "household:plastic-wrap",
+   "text": "Plastic Wrap",
+   "difficulty": 2
+  },
+  {
+   "id": "household:aluminum-foil",
+   "text": "Aluminum Foil",
+   "difficulty": 1
+  },
+  {
+   "id": "household:chopsticks",
+   "text": "Chopsticks",
+   "difficulty": 1
+  },
+  {
+   "id": "household:teapot",
+   "text": "Teapot",
+   "difficulty": 1
+  },
+  {
+   "id": "household:coffee-mug",
+   "text": "Coffee Mug",
+   "difficulty": 1
+  },
+  {
+   "id": "household:sippy-cup",
+   "text": "Sippy Cup",
+   "difficulty": 1
+  },
+  {
+   "id": "household:drinking-straw",
+   "text": "Drinking Straw",
+   "difficulty": 2
+  },
+  {
+   "id": "household:placemat",
+   "text": "Placemat",
+   "difficulty": 2
+  },
+  {
+   "id": "household:tablecloth",
+   "text": "Tablecloth",
+   "difficulty": 2
+  },
+  {
+   "id": "household:gravy-boat",
+   "text": "Gravy Boat",
+   "difficulty": 3
+  },
+  {
+   "id": "household:butter-dish",
+   "text": "Butter Dish",
+   "difficulty": 3
+  },
+  {
+   "id": "household:egg-timer",
+   "text": "Egg Timer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:meat-thermometer",
+   "text": "Meat Thermometer",
+   "difficulty": 3
+  },
+  {
+   "id": "household:recipe-book",
+   "text": "Recipe Book",
+   "difficulty": 2
+  },
+  {
+   "id": "household:junk-drawer",
+   "text": "Junk Drawer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:kitchen-sink",
+   "text": "Kitchen Sink",
+   "difficulty": 1
+  },
+  {
+   "id": "household:faucet",
+   "text": "Faucet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:stove",
+   "text": "Stove",
+   "difficulty": 1
+  },
+  {
+   "id": "household:oven",
+   "text": "Oven",
+   "difficulty": 1
+  },
+  {
+   "id": "household:range-hood",
+   "text": "Range Hood",
+   "difficulty": 3
+  },
+  {
+   "id": "household:trash-can",
+   "text": "Trash Can",
+   "difficulty": 1
+  },
+  {
+   "id": "household:recycling-bin",
+   "text": "Recycling Bin",
+   "difficulty": 2
+  },
+  {
+   "id": "household:compost-bin",
+   "text": "Compost Bin",
+   "difficulty": 2
+  },
+  {
+   "id": "household:fridge-magnet",
+   "text": "Fridge Magnet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:silverware",
+   "text": "Silverware",
+   "difficulty": 2
+  },
+  {
+   "id": "household:soup-bowl",
+   "text": "Soup Bowl",
+   "difficulty": 2
+  },
+  {
+   "id": "household:dinner-plate",
+   "text": "Dinner Plate",
+   "difficulty": 2
+  },
+  {
+   "id": "household:serving-tray",
+   "text": "Serving Tray",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cake-stand",
+   "text": "Cake Stand",
+   "difficulty": 2
+  },
+  {
+   "id": "household:popcorn-maker",
+   "text": "Popcorn Maker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:juicer",
+   "text": "Juicer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:espresso-machine",
+   "text": "Espresso Machine",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sandwich-bag",
+   "text": "Sandwich Bag",
+   "difficulty": 2
+  },
+  {
+   "id": "household:nutcracker",
+   "text": "Nutcracker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:garlic-press",
+   "text": "Garlic Press",
+   "difficulty": 3
+  },
+  {
+   "id": "household:pastry-brush",
+   "text": "Pastry Brush",
+   "difficulty": 3
+  },
+  {
+   "id": "household:mortar-and-pestle",
+   "text": "Mortar And Pestle",
+   "difficulty": 3
+  },
+  {
+   "id": "household:toothbrush",
+   "text": "Toothbrush",
+   "difficulty": 1
+  },
+  {
+   "id": "household:toothpaste",
+   "text": "Toothpaste",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dental-floss",
+   "text": "Dental Floss",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mouthwash",
+   "text": "Mouthwash",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hair-dryer",
+   "text": "Hair Dryer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:curling-iron",
+   "text": "Curling Iron",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hairbrush",
+   "text": "Hairbrush",
+   "difficulty": 1
+  },
+  {
+   "id": "household:comb",
+   "text": "Comb",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bathtub",
+   "text": "Bathtub",
+   "difficulty": 1
+  },
+  {
+   "id": "household:shower-curtain",
+   "text": "Shower Curtain",
+   "difficulty": 2
+  },
+  {
+   "id": "household:shower-cap",
+   "text": "Shower Cap",
+   "difficulty": 2
+  },
+  {
+   "id": "household:rubber-duck",
+   "text": "Rubber Duck",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bath-mat",
+   "text": "Bath Mat",
+   "difficulty": 2
+  },
+  {
+   "id": "household:towel-rack",
+   "text": "Towel Rack",
+   "difficulty": 2
+  },
+  {
+   "id": "household:toilet-paper",
+   "text": "Toilet Paper",
+   "difficulty": 1
+  },
+  {
+   "id": "household:plunger",
+   "text": "Plunger",
+   "difficulty": 1
+  },
+  {
+   "id": "household:toilet-brush",
+   "text": "Toilet Brush",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bath-bomb",
+   "text": "Bath Bomb",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bubble-bath",
+   "text": "Bubble Bath",
+   "difficulty": 1
+  },
+  {
+   "id": "household:loofah",
+   "text": "Loofah",
+   "difficulty": 2
+  },
+  {
+   "id": "household:medicine-cabinet",
+   "text": "Medicine Cabinet",
+   "difficulty": 3
+  },
+  {
+   "id": "household:band-aid",
+   "text": "Band-Aid",
+   "difficulty": 1
+  },
+  {
+   "id": "household:cotton-swab",
+   "text": "Cotton Swab",
+   "difficulty": 2
+  },
+  {
+   "id": "household:nail-clippers",
+   "text": "Nail Clippers",
+   "difficulty": 1
+  },
+  {
+   "id": "household:tweezers",
+   "text": "Tweezers",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bathroom-scale",
+   "text": "Bathroom Scale",
+   "difficulty": 1
+  },
+  {
+   "id": "household:razor",
+   "text": "Razor",
+   "difficulty": 1
+  },
+  {
+   "id": "household:shaving-cream",
+   "text": "Shaving Cream",
+   "difficulty": 1
+  },
+  {
+   "id": "household:soap-dispenser",
+   "text": "Soap Dispenser",
+   "difficulty": 3
+  },
+  {
+   "id": "household:hand-towel",
+   "text": "Hand Towel",
+   "difficulty": 2
+  },
+  {
+   "id": "household:pillow",
+   "text": "Pillow",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pillowcase",
+   "text": "Pillowcase",
+   "difficulty": 2
+  },
+  {
+   "id": "household:blanket",
+   "text": "Blanket",
+   "difficulty": 1
+  },
+  {
+   "id": "household:comforter",
+   "text": "Comforter",
+   "difficulty": 3
+  },
+  {
+   "id": "household:duvet",
+   "text": "Duvet",
+   "difficulty": 3
+  },
+  {
+   "id": "household:fitted-sheet",
+   "text": "Fitted Sheet",
+   "difficulty": 3
+  },
+  {
+   "id": "household:electric-blanket",
+   "text": "Electric Blanket",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mattress",
+   "text": "Mattress",
+   "difficulty": 1
+  },
+  {
+   "id": "household:alarm-clock",
+   "text": "Alarm Clock",
+   "difficulty": 1
+  },
+  {
+   "id": "household:night-light",
+   "text": "Night Light",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bedside-lamp",
+   "text": "Bedside Lamp",
+   "difficulty": 2
+  },
+  {
+   "id": "household:teddy-bear",
+   "text": "Teddy Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "household:baby-monitor",
+   "text": "Baby Monitor",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hanger",
+   "text": "Hanger",
+   "difficulty": 1
+  },
+  {
+   "id": "household:laundry-basket",
+   "text": "Laundry Basket",
+   "difficulty": 2
+  },
+  {
+   "id": "household:washing-machine",
+   "text": "Washing Machine",
+   "difficulty": 1
+  },
+  {
+   "id": "household:clothes-dryer",
+   "text": "Clothes Dryer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dryer-sheet",
+   "text": "Dryer Sheet",
+   "difficulty": 3
+  },
+  {
+   "id": "household:lint-roller",
+   "text": "Lint Roller",
+   "difficulty": 3
+  },
+  {
+   "id": "household:lint-trap",
+   "text": "Lint Trap",
+   "difficulty": 3
+  },
+  {
+   "id": "household:ironing-board",
+   "text": "Ironing Board",
+   "difficulty": 1
+  },
+  {
+   "id": "household:clothespin",
+   "text": "Clothespin",
+   "difficulty": 2
+  },
+  {
+   "id": "household:clothesline",
+   "text": "Clothesline",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sewing-kit",
+   "text": "Sewing Kit",
+   "difficulty": 2
+  },
+  {
+   "id": "household:laundry-detergent",
+   "text": "Laundry Detergent",
+   "difficulty": 1
+  },
+  {
+   "id": "household:fabric-softener",
+   "text": "Fabric Softener",
+   "difficulty": 3
+  },
+  {
+   "id": "household:stain-remover",
+   "text": "Stain Remover",
+   "difficulty": 3
+  },
+  {
+   "id": "household:bleach",
+   "text": "Bleach",
+   "difficulty": 1
+  },
+  {
+   "id": "household:vacuum-cleaner",
+   "text": "Vacuum Cleaner",
+   "difficulty": 1
+  },
+  {
+   "id": "household:robot-vacuum",
+   "text": "Robot Vacuum",
+   "difficulty": 1
+  },
+  {
+   "id": "household:broom",
+   "text": "Broom",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dustpan",
+   "text": "Dustpan",
+   "difficulty": 1
+  },
+  {
+   "id": "household:mop",
+   "text": "Mop",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bucket",
+   "text": "Bucket",
+   "difficulty": 1
+  },
+  {
+   "id": "household:feather-duster",
+   "text": "Feather Duster",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rubber-gloves",
+   "text": "Rubber Gloves",
+   "difficulty": 2
+  },
+  {
+   "id": "household:scrub-brush",
+   "text": "Scrub Brush",
+   "difficulty": 2
+  },
+  {
+   "id": "household:window-cleaner",
+   "text": "Window Cleaner",
+   "difficulty": 2
+  },
+  {
+   "id": "household:squeegee",
+   "text": "Squeegee",
+   "difficulty": 3
+  },
+  {
+   "id": "household:steel-wool",
+   "text": "Steel Wool",
+   "difficulty": 3
+  },
+  {
+   "id": "household:garbage-bag",
+   "text": "Garbage Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "household:air-freshener",
+   "text": "Air Freshener",
+   "difficulty": 2
+  },
+  {
+   "id": "household:scented-candle",
+   "text": "Scented Candle",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mothball",
+   "text": "Mothball",
+   "difficulty": 3
+  },
+  {
+   "id": "household:fly-swatter",
+   "text": "Fly Swatter",
+   "difficulty": 1
+  },
+  {
+   "id": "household:mousetrap",
+   "text": "Mousetrap",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bug-spray",
+   "text": "Bug Spray",
+   "difficulty": 2
+  },
+  {
+   "id": "household:flashlight",
+   "text": "Flashlight",
+   "difficulty": 1
+  },
+  {
+   "id": "household:batteries",
+   "text": "Batteries",
+   "difficulty": 1
+  },
+  {
+   "id": "household:extension-cord",
+   "text": "Extension Cord",
+   "difficulty": 2
+  },
+  {
+   "id": "household:power-strip",
+   "text": "Power Strip",
+   "difficulty": 2
+  },
+  {
+   "id": "household:light-bulb",
+   "text": "Light Bulb",
+   "difficulty": 1
+  },
+  {
+   "id": "household:fire-extinguisher",
+   "text": "Fire Extinguisher",
+   "difficulty": 1
+  },
+  {
+   "id": "household:first-aid-kit",
+   "text": "First Aid Kit",
+   "difficulty": 1
+  },
+  {
+   "id": "household:space-heater",
+   "text": "Space Heater",
+   "difficulty": 2
+  },
+  {
+   "id": "household:humidifier",
+   "text": "Humidifier",
+   "difficulty": 3
+  },
+  {
+   "id": "household:air-conditioner",
+   "text": "Air Conditioner",
+   "difficulty": 1
+  },
+  {
+   "id": "household:window-fan",
+   "text": "Window Fan",
+   "difficulty": 2
+  },
+  {
+   "id": "household:radiator",
+   "text": "Radiator",
+   "difficulty": 3
+  },
+  {
+   "id": "household:water-heater",
+   "text": "Water Heater",
+   "difficulty": 2
+  },
+  {
+   "id": "household:furnace",
+   "text": "Furnace",
+   "difficulty": 3
+  },
+  {
+   "id": "household:doorstop",
+   "text": "Doorstop",
+   "difficulty": 2
+  },
+  {
+   "id": "household:coat-hook",
+   "text": "Coat Hook",
+   "difficulty": 3
+  },
+  {
+   "id": "household:umbrella-stand",
+   "text": "Umbrella Stand",
+   "difficulty": 2
+  },
+  {
+   "id": "household:key-ring",
+   "text": "Key Ring",
+   "difficulty": 1
+  },
+  {
+   "id": "household:junk-mail",
+   "text": "Junk Mail",
+   "difficulty": 2
+  },
+  {
+   "id": "household:phone-charger",
+   "text": "Phone Charger",
+   "difficulty": 1
+  },
+  {
+   "id": "household:remote-control",
+   "text": "Remote Control",
+   "difficulty": 1
+  },
+  {
+   "id": "household:television",
+   "text": "Television",
+   "difficulty": 1
+  },
+  {
+   "id": "household:houseplant",
+   "text": "Houseplant",
+   "difficulty": 1
+  },
+  {
+   "id": "household:lawn-mower",
+   "text": "Lawn Mower",
+   "difficulty": 1
+  },
+  {
+   "id": "household:leaf-blower",
+   "text": "Leaf Blower",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rake",
+   "text": "Rake",
+   "difficulty": 1
+  },
+  {
+   "id": "household:shovel",
+   "text": "Shovel",
+   "difficulty": 1
+  },
+  {
+   "id": "household:wheelbarrow",
+   "text": "Wheelbarrow",
+   "difficulty": 1
+  },
+  {
+   "id": "household:garden-hose",
+   "text": "Garden Hose",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sprinkler",
+   "text": "Sprinkler",
+   "difficulty": 1
+  },
+  {
+   "id": "household:watering-can",
+   "text": "Watering Can",
+   "difficulty": 1
+  },
+  {
+   "id": "household:flower-pot",
+   "text": "Flower Pot",
+   "difficulty": 1
+  },
+  {
+   "id": "household:garden-gnome",
+   "text": "Garden Gnome",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bird-feeder",
+   "text": "Bird Feeder",
+   "difficulty": 1
+  },
+  {
+   "id": "household:birdbath",
+   "text": "Birdbath",
+   "difficulty": 2
+  },
+  {
+   "id": "household:hedge-trimmer",
+   "text": "Hedge Trimmer",
+   "difficulty": 3
+  },
+  {
+   "id": "household:pruning-shears",
+   "text": "Pruning Shears",
+   "difficulty": 3
+  },
+  {
+   "id": "household:trowel",
+   "text": "Trowel",
+   "difficulty": 3
+  },
+  {
+   "id": "household:compost-heap",
+   "text": "Compost Heap",
+   "difficulty": 3
+  },
+  {
+   "id": "household:seed-packet",
+   "text": "Seed Packet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:scarecrow",
+   "text": "Scarecrow",
+   "difficulty": 1
+  },
+  {
+   "id": "household:vegetable-garden",
+   "text": "Vegetable Garden",
+   "difficulty": 1
+  },
+  {
+   "id": "household:flower-bed",
+   "text": "Flower Bed",
+   "difficulty": 2
+  },
+  {
+   "id": "household:window-box",
+   "text": "Window Box",
+   "difficulty": 3
+  },
+  {
+   "id": "household:greenhouse",
+   "text": "Greenhouse",
+   "difficulty": 2
+  },
+  {
+   "id": "household:lawn-chair",
+   "text": "Lawn Chair",
+   "difficulty": 2
+  },
+  {
+   "id": "household:patio-umbrella",
+   "text": "Patio Umbrella",
+   "difficulty": 2
+  },
+  {
+   "id": "household:picnic-table",
+   "text": "Picnic Table",
+   "difficulty": 1
+  },
+  {
+   "id": "household:barbecue-grill",
+   "text": "Barbecue Grill",
+   "difficulty": 1
+  },
+  {
+   "id": "household:fire-pit",
+   "text": "Fire Pit",
+   "difficulty": 1
+  },
+  {
+   "id": "household:porch-swing",
+   "text": "Porch Swing",
+   "difficulty": 2
+  },
+  {
+   "id": "household:wind-chime",
+   "text": "Wind Chime",
+   "difficulty": 1
+  },
+  {
+   "id": "household:trampoline",
+   "text": "Trampoline",
+   "difficulty": 1
+  },
+  {
+   "id": "household:swing-set",
+   "text": "Swing Set",
+   "difficulty": 1
+  },
+  {
+   "id": "household:sandbox",
+   "text": "Sandbox",
+   "difficulty": 1
+  },
+  {
+   "id": "household:kiddie-pool",
+   "text": "Kiddie Pool",
+   "difficulty": 1
+  },
+  {
+   "id": "household:hot-tub",
+   "text": "Hot Tub",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pool-noodle",
+   "text": "Pool Noodle",
+   "difficulty": 1
+  },
+  {
+   "id": "household:tool-box",
+   "text": "Tool Box",
+   "difficulty": 1
+  },
+  {
+   "id": "household:hammer",
+   "text": "Hammer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:screwdriver",
+   "text": "Screwdriver",
+   "difficulty": 1
+  },
+  {
+   "id": "household:wrench",
+   "text": "Wrench",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pliers",
+   "text": "Pliers",
+   "difficulty": 1
+  },
+  {
+   "id": "household:tape-measure",
+   "text": "Tape Measure",
+   "difficulty": 1
+  },
+  {
+   "id": "household:power-drill",
+   "text": "Power Drill",
+   "difficulty": 1
+  },
+  {
+   "id": "household:handsaw",
+   "text": "Handsaw",
+   "difficulty": 2
+  },
+  {
+   "id": "household:chainsaw",
+   "text": "Chainsaw",
+   "difficulty": 1
+  },
+  {
+   "id": "household:sledgehammer",
+   "text": "Sledgehammer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:crowbar",
+   "text": "Crowbar",
+   "difficulty": 2
+  },
+  {
+   "id": "household:duct-tape",
+   "text": "Duct Tape",
+   "difficulty": 1
+  },
+  {
+   "id": "household:super-glue",
+   "text": "Super Glue",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paintbrush",
+   "text": "Paintbrush",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paint-roller",
+   "text": "Paint Roller",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paint-can",
+   "text": "Paint Can",
+   "difficulty": 2
+  },
+  {
+   "id": "household:step-ladder",
+   "text": "Step Ladder",
+   "difficulty": 2
+  },
+  {
+   "id": "household:workbench",
+   "text": "Workbench",
+   "difficulty": 3
+  },
+  {
+   "id": "household:sandpaper",
+   "text": "Sandpaper",
+   "difficulty": 3
+  },
+  {
+   "id": "household:nails-and-screws",
+   "text": "Nails And Screws",
+   "difficulty": 2
+  },
+  {
+   "id": "household:spirit-level",
+   "text": "Spirit Level",
+   "difficulty": 3
+  },
+  {
+   "id": "household:stud-finder",
+   "text": "Stud Finder",
+   "difficulty": 3
+  },
+  {
+   "id": "household:hacksaw",
+   "text": "Hacksaw",
+   "difficulty": 3
+  },
+  {
+   "id": "household:allen-wrench",
+   "text": "Allen Wrench",
+   "difficulty": 3
+  },
+  {
+   "id": "household:zip-tie",
+   "text": "Zip Tie",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bungee-cord",
+   "text": "Bungee Cord",
+   "difficulty": 3
+  },
+  {
+   "id": "household:jumper-cables",
+   "text": "Jumper Cables",
+   "difficulty": 3
+  },
+  {
+   "id": "household:car-jack",
+   "text": "Car Jack",
+   "difficulty": 3
+  },
+  {
+   "id": "household:tire-pump",
+   "text": "Tire Pump",
+   "difficulty": 2
+  },
+  {
+   "id": "household:snow-shovel",
+   "text": "Snow Shovel",
+   "difficulty": 1
+  },
+  {
+   "id": "household:snow-blower",
+   "text": "Snow Blower",
+   "difficulty": 2
+  },
+  {
+   "id": "household:ice-scraper",
+   "text": "Ice Scraper",
+   "difficulty": 3
+  },
+  {
+   "id": "household:bicycle-pump",
+   "text": "Bicycle Pump",
+   "difficulty": 2
+  },
+  {
+   "id": "household:roller-skates",
+   "text": "Roller Skates",
+   "difficulty": 1
+  },
+  {
+   "id": "household:camping-gear",
+   "text": "Camping Gear",
+   "difficulty": 2
+  },
+  {
+   "id": "household:sleeping-bag",
+   "text": "Sleeping Bag",
+   "difficulty": 1
+  },
+  {
+   "id": "household:cooler",
+   "text": "Cooler",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pegboard",
+   "text": "Pegboard",
+   "difficulty": 3
+  },
+  {
+   "id": "household:storage-bin",
+   "text": "Storage Bin",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cardboard-box",
+   "text": "Cardboard Box",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bubble-wrap",
+   "text": "Bubble Wrap",
+   "difficulty": 1
+  },
+  {
+   "id": "household:packing-tape",
+   "text": "Packing Tape",
+   "difficulty": 2
+  },
+  {
+   "id": "household:padlock",
+   "text": "Padlock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:combination-lock",
+   "text": "Combination Lock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:spare-key",
+   "text": "Spare Key",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rain-barrel",
+   "text": "Rain Barrel",
+   "difficulty": 3
+  },
+  {
+   "id": "household:weather-vane",
+   "text": "Weather Vane",
+   "difficulty": 3
+  },
+  {
+   "id": "household:lawn-flamingo",
+   "text": "Lawn Flamingo",
+   "difficulty": 2
+  },
+  {
+   "id": "household:garden-fountain",
+   "text": "Garden Fountain",
+   "difficulty": 2
+  },
+  {
+   "id": "household:mulch",
+   "text": "Mulch",
+   "difficulty": 3
+  },
+  {
+   "id": "household:fertilizer",
+   "text": "Fertilizer",
+   "difficulty": 3
+  },
+  {
+   "id": "household:potting-soil",
+   "text": "Potting Soil",
+   "difficulty": 3
+  },
+  {
+   "id": "household:leaf-pile",
+   "text": "Leaf Pile",
+   "difficulty": 1
+  },
+  {
+   "id": "household:garage-sale",
+   "text": "Garage Sale",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paint-swatch",
+   "text": "Paint Swatch",
+   "difficulty": 3
+  },
+  {
+   "id": "household:caulk-gun",
+   "text": "Caulk Gun",
+   "difficulty": 3
+  },
+  {
+   "id": "household:shop-vac",
+   "text": "Shop Vac",
+   "difficulty": 3
+  },
+  {
+   "id": "household:sump-pump",
+   "text": "Sump Pump",
+   "difficulty": 3
+  },
+  {
+   "id": "household:septic-tank",
+   "text": "Septic Tank",
+   "difficulty": 3
+  },
+  {
+   "id": "household:pressure-washer",
+   "text": "Pressure Washer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:tiki-torch",
+   "text": "Tiki Torch",
+   "difficulty": 2
+  },
+  {
+   "id": "household:doing-the-dishes",
+   "text": "Doing The Dishes",
+   "difficulty": 1
+  },
+  {
+   "id": "household:folding-laundry",
+   "text": "Folding Laundry",
+   "difficulty": 1
+  },
+  {
+   "id": "household:making-the-bed",
+   "text": "Making The Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "household:taking-out-the-trash",
+   "text": "Taking Out The Trash",
+   "difficulty": 1
+  },
+  {
+   "id": "household:mowing-the-lawn",
+   "text": "Mowing The Lawn",
+   "difficulty": 1
+  },
+  {
+   "id": "household:raking-leaves",
+   "text": "Raking Leaves",
+   "difficulty": 1
+  },
+  {
+   "id": "household:vacuuming",
+   "text": "Vacuuming",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dusting",
+   "text": "Dusting",
+   "difficulty": 1
+  },
+  {
+   "id": "household:mopping-the-floor",
+   "text": "Mopping The Floor",
+   "difficulty": 1
+  },
+  {
+   "id": "household:scrubbing-the-toilet",
+   "text": "Scrubbing The Toilet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cleaning-the-gutters",
+   "text": "Cleaning The Gutters",
+   "difficulty": 2
+  },
+  {
+   "id": "household:unloading-the-dishwasher",
+   "text": "Unloading The Dishwasher",
+   "difficulty": 2
+  },
+  {
+   "id": "household:ironing-shirts",
+   "text": "Ironing Shirts",
+   "difficulty": 2
+  },
+  {
+   "id": "household:watering-the-plants",
+   "text": "Watering The Plants",
+   "difficulty": 1
+  },
+  {
+   "id": "household:feeding-the-pet",
+   "text": "Feeding The Pet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:walking-the-dog",
+   "text": "Walking The Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "household:changing-a-light-bulb",
+   "text": "Changing A Light Bulb",
+   "difficulty": 2
+  },
+  {
+   "id": "household:spring-cleaning",
+   "text": "Spring Cleaning",
+   "difficulty": 2
+  },
+  {
+   "id": "household:defrosting-the-freezer",
+   "text": "Defrosting The Freezer",
+   "difficulty": 3
+  },
+  {
+   "id": "household:shoveling-snow",
+   "text": "Shoveling Snow",
+   "difficulty": 1
+  },
+  {
+   "id": "household:washing-the-car",
+   "text": "Washing The Car",
+   "difficulty": 1
+  },
+  {
+   "id": "household:organizing-the-closet",
+   "text": "Organizing The Closet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:unclogging-the-drain",
+   "text": "Unclogging The Drain",
+   "difficulty": 2
+  },
+  {
+   "id": "household:changing-the-sheets",
+   "text": "Changing The Sheets",
+   "difficulty": 2
+  },
+  {
+   "id": "household:setting-the-table",
+   "text": "Setting The Table",
+   "difficulty": 1
+  },
+  {
+   "id": "household:clearing-the-table",
+   "text": "Clearing The Table",
+   "difficulty": 3
+  },
+  {
+   "id": "household:chore-chart",
+   "text": "Chore Chart",
+   "difficulty": 2
+  },
+  {
+   "id": "household:allowance",
+   "text": "Allowance",
+   "difficulty": 2
+  },
+  {
+   "id": "household:throw-pillow",
+   "text": "Throw Pillow",
+   "difficulty": 1
+  },
+  {
+   "id": "household:area-rug",
+   "text": "Area Rug",
+   "difficulty": 2
+  },
+  {
+   "id": "household:curtains",
+   "text": "Curtains",
+   "difficulty": 1
+  },
+  {
+   "id": "household:window-blinds",
+   "text": "Window Blinds",
+   "difficulty": 2
+  },
+  {
+   "id": "household:picture-frame",
+   "text": "Picture Frame",
+   "difficulty": 1
+  },
+  {
+   "id": "household:photo-album",
+   "text": "Photo Album",
+   "difficulty": 1
+  },
+  {
+   "id": "household:family-portrait",
+   "text": "Family Portrait",
+   "difficulty": 2
+  },
+  {
+   "id": "household:wall-clock",
+   "text": "Wall Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:cuckoo-clock",
+   "text": "Cuckoo Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:floor-lamp",
+   "text": "Floor Lamp",
+   "difficulty": 2
+  },
+  {
+   "id": "household:lampshade",
+   "text": "Lampshade",
+   "difficulty": 2
+  },
+  {
+   "id": "household:candle-holder",
+   "text": "Candle Holder",
+   "difficulty": 2
+  },
+  {
+   "id": "household:vase",
+   "text": "Vase",
+   "difficulty": 1
+  },
+  {
+   "id": "household:fruit-bowl",
+   "text": "Fruit Bowl",
+   "difficulty": 2
+  },
+  {
+   "id": "household:fish-tank",
+   "text": "Fish Tank",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bird-cage",
+   "text": "Bird Cage",
+   "difficulty": 1
+  },
+  {
+   "id": "household:litter-box",
+   "text": "Litter Box",
+   "difficulty": 1
+  },
+  {
+   "id": "household:dog-bed",
+   "text": "Dog Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "household:scratching-post",
+   "text": "Scratching Post",
+   "difficulty": 2
+  },
+  {
+   "id": "household:pet-bowl",
+   "text": "Pet Bowl",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bookend",
+   "text": "Bookend",
+   "difficulty": 3
+  },
+  {
+   "id": "household:coaster",
+   "text": "Coaster",
+   "difficulty": 3
+  },
+  {
+   "id": "household:snow-globe",
+   "text": "Snow Globe",
+   "difficulty": 1
+  },
+  {
+   "id": "household:music-box",
+   "text": "Music Box",
+   "difficulty": 2
+  },
+  {
+   "id": "household:jewelry-box",
+   "text": "Jewelry Box",
+   "difficulty": 2
+  },
+  {
+   "id": "household:piggy-bank",
+   "text": "Piggy Bank",
+   "difficulty": 1
+  },
+  {
+   "id": "household:board-game",
+   "text": "Board Game",
+   "difficulty": 1
+  },
+  {
+   "id": "household:jigsaw-puzzle",
+   "text": "Jigsaw Puzzle",
+   "difficulty": 1
+  },
+  {
+   "id": "household:deck-of-cards",
+   "text": "Deck Of Cards",
+   "difficulty": 1
+  },
+  {
+   "id": "household:video-game-console",
+   "text": "Video Game Console",
+   "difficulty": 1
+  },
+  {
+   "id": "household:record-player",
+   "text": "Record Player",
+   "difficulty": 2
+  },
+  {
+   "id": "household:calendar",
+   "text": "Calendar",
+   "difficulty": 1
+  },
+  {
+   "id": "household:sticky-note",
+   "text": "Sticky Note",
+   "difficulty": 2
+  },
+  {
+   "id": "household:whiteboard",
+   "text": "Whiteboard",
+   "difficulty": 2
+  },
+  {
+   "id": "household:bulletin-board",
+   "text": "Bulletin Board",
+   "difficulty": 2
+  },
+  {
+   "id": "household:thumbtack",
+   "text": "Thumbtack",
+   "difficulty": 3
+  },
+  {
+   "id": "household:stapler",
+   "text": "Stapler",
+   "difficulty": 1
+  },
+  {
+   "id": "household:paper-clip",
+   "text": "Paper Clip",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rubber-band",
+   "text": "Rubber Band",
+   "difficulty": 1
+  },
+  {
+   "id": "household:scissors",
+   "text": "Scissors",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pencil-sharpener",
+   "text": "Pencil Sharpener",
+   "difficulty": 1
+  },
+  {
+   "id": "household:glue-stick",
+   "text": "Glue Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "household:envelope",
+   "text": "Envelope",
+   "difficulty": 2
+  },
+  {
+   "id": "household:postage-stamp",
+   "text": "Postage Stamp",
+   "difficulty": 3
+  },
+  {
+   "id": "household:phone-book",
+   "text": "Phone Book",
+   "difficulty": 3
+  },
+  {
+   "id": "household:desk-lamp",
+   "text": "Desk Lamp",
+   "difficulty": 2
+  },
+  {
+   "id": "household:laptop",
+   "text": "Laptop",
+   "difficulty": 1
+  },
+  {
+   "id": "household:printer",
+   "text": "Printer",
+   "difficulty": 1
+  },
+  {
+   "id": "household:router",
+   "text": "Router",
+   "difficulty": 3
+  },
+  {
+   "id": "household:webcam",
+   "text": "Webcam",
+   "difficulty": 2
+  },
+  {
+   "id": "household:headphones",
+   "text": "Headphones",
+   "difficulty": 1
+  },
+  {
+   "id": "household:smart-speaker",
+   "text": "Smart Speaker",
+   "difficulty": 2
+  },
+  {
+   "id": "household:umbrella",
+   "text": "Umbrella",
+   "difficulty": 1
+  },
+  {
+   "id": "household:raincoat",
+   "text": "Raincoat",
+   "difficulty": 1
+  },
+  {
+   "id": "household:rain-boots",
+   "text": "Rain Boots",
+   "difficulty": 1
+  },
+  {
+   "id": "household:slippers",
+   "text": "Slippers",
+   "difficulty": 1
+  },
+  {
+   "id": "household:bathrobe",
+   "text": "Bathrobe",
+   "difficulty": 1
+  },
+  {
+   "id": "household:pajamas",
+   "text": "Pajamas",
+   "difficulty": 1
+  },
+  {
+   "id": "household:sock-drawer",
+   "text": "Sock Drawer",
+   "difficulty": 2
+  },
+  {
+   "id": "household:shoe-horn",
+   "text": "Shoe Horn",
+   "difficulty": 3
+  },
+  {
+   "id": "household:key-hook",
+   "text": "Key Hook",
+   "difficulty": 3
+  },
+  {
+   "id": "household:baby-gate",
+   "text": "Baby Gate",
+   "difficulty": 2
+  },
+  {
+   "id": "household:child-lock",
+   "text": "Child Lock",
+   "difficulty": 2
+  },
+  {
+   "id": "household:laundry-chute",
+   "text": "Laundry Chute",
+   "difficulty": 3
+  },
+  {
+   "id": "household:dirty-laundry",
+   "text": "Dirty Laundry",
+   "difficulty": 1
+  },
+  {
+   "id": "household:lost-sock",
+   "text": "Lost Sock",
+   "difficulty": 1
+  },
+  {
+   "id": "household:leaky-faucet",
+   "text": "Leaky Faucet",
+   "difficulty": 2
+  },
+  {
+   "id": "household:squeaky-door",
+   "text": "Squeaky Door",
+   "difficulty": 2
+  }
+ ]
+}

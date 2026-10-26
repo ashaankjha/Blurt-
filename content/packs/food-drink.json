@@ -1,0 +1,2877 @@
+{
+ "id": "food-drink",
+ "name": "Food & Drink",
+ "emoji": "🍕",
+ "description": "Dishes, snacks, drinks and kitchen favorites.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "food-drink:pizza",
+   "text": "Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hamburger",
+   "text": "Hamburger",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cheeseburger",
+   "text": "Cheeseburger",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hot-dog",
+   "text": "Hot Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:spaghetti-and-meatballs",
+   "text": "Spaghetti And Meatballs",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:macaroni-and-cheese",
+   "text": "Macaroni And Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:grilled-cheese",
+   "text": "Grilled Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:peanut-butter-and-jelly",
+   "text": "Peanut Butter And Jelly",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chicken-nuggets",
+   "text": "Chicken Nuggets",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fried-chicken",
+   "text": "Fried Chicken",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fish-and-chips",
+   "text": "Fish And Chips",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tacos",
+   "text": "Tacos",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:burrito",
+   "text": "Burrito",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:nachos",
+   "text": "Nachos",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:quesadilla",
+   "text": "Quesadilla",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:enchilada",
+   "text": "Enchilada",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fajitas",
+   "text": "Fajitas",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:guacamole",
+   "text": "Guacamole",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:salsa",
+   "text": "Salsa",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sushi",
+   "text": "Sushi",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ramen",
+   "text": "Ramen",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fried-rice",
+   "text": "Fried Rice",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:dumplings",
+   "text": "Dumplings",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:spring-roll",
+   "text": "Spring Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:egg-roll",
+   "text": "Egg Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fortune-cookie",
+   "text": "Fortune Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sweet-and-sour-chicken",
+   "text": "Sweet And Sour Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pad-thai",
+   "text": "Pad Thai",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:curry",
+   "text": "Curry",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:butter-chicken",
+   "text": "Butter Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:naan-bread",
+   "text": "Naan Bread",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:samosa",
+   "text": "Samosa",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:lasagna",
+   "text": "Lasagna",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ravioli",
+   "text": "Ravioli",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fettuccine-alfredo",
+   "text": "Fettuccine Alfredo",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:risotto",
+   "text": "Risotto",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:gnocchi",
+   "text": "Gnocchi",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pesto",
+   "text": "Pesto",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:paella",
+   "text": "Paella",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:croissant",
+   "text": "Croissant",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:crepes",
+   "text": "Crepes",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:french-toast",
+   "text": "French Toast",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:quiche",
+   "text": "Quiche",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:fondue",
+   "text": "Fondue",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:hummus",
+   "text": "Hummus",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:falafel",
+   "text": "Falafel",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:kebab",
+   "text": "Kebab",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gyro",
+   "text": "Gyro",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pita-bread",
+   "text": "Pita Bread",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:shepherd-s-pie",
+   "text": "Shepherd's Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pot-roast",
+   "text": "Pot Roast",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:meatloaf",
+   "text": "Meatloaf",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chicken-noodle-soup",
+   "text": "Chicken Noodle Soup",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tomato-soup",
+   "text": "Tomato Soup",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:clam-chowder",
+   "text": "Clam Chowder",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chili",
+   "text": "Chili",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:beef-stew",
+   "text": "Beef Stew",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:corn-dog",
+   "text": "Corn Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pigs-in-a-blanket",
+   "text": "Pigs In A Blanket",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:buffalo-wings",
+   "text": "Buffalo Wings",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:mashed-potatoes",
+   "text": "Mashed Potatoes",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:baked-potato",
+   "text": "Baked Potato",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:french-fries",
+   "text": "French Fries",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:onion-rings",
+   "text": "Onion Rings",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:potato-salad",
+   "text": "Potato Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:coleslaw",
+   "text": "Coleslaw",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:caesar-salad",
+   "text": "Caesar Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:corn-on-the-cob",
+   "text": "Corn On The Cob",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:garlic-bread",
+   "text": "Garlic Bread",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:meatball-sub",
+   "text": "Meatball Sub",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:club-sandwich",
+   "text": "Club Sandwich",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:blt",
+   "text": "BLT",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:sloppy-joe",
+   "text": "Sloppy Joe",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:philly-cheesesteak",
+   "text": "Philly Cheesesteak",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:lobster-roll",
+   "text": "Lobster Roll",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:fish-taco",
+   "text": "Fish Taco",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chicken-parmesan",
+   "text": "Chicken Parmesan",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:stir-fry",
+   "text": "Stir Fry",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:teriyaki-chicken",
+   "text": "Teriyaki Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:orange-chicken",
+   "text": "Orange Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:kung-pao-chicken",
+   "text": "Kung Pao Chicken",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:peking-duck",
+   "text": "Peking Duck",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:dim-sum",
+   "text": "Dim Sum",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bibimbap",
+   "text": "Bibimbap",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pho",
+   "text": "Pho",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:tikka-masala",
+   "text": "Tikka Masala",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:biryani",
+   "text": "Biryani",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:ceviche",
+   "text": "Ceviche",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:empanada",
+   "text": "Empanada",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pierogi",
+   "text": "Pierogi",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:goulash",
+   "text": "Goulash",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bratwurst",
+   "text": "Bratwurst",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:sauerkraut",
+   "text": "Sauerkraut",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pretzel",
+   "text": "Pretzel",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bagel-and-cream-cheese",
+   "text": "Bagel And Cream Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:eggs-benedict",
+   "text": "Eggs Benedict",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:breakfast-burrito",
+   "text": "Breakfast Burrito",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chicken-pot-pie",
+   "text": "Chicken Pot Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tuna-melt",
+   "text": "Tuna Melt",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pancakes",
+   "text": "Pancakes",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:waffles",
+   "text": "Waffles",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:scrambled-eggs",
+   "text": "Scrambled Eggs",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sunny-side-up",
+   "text": "Sunny Side Up",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:omelette",
+   "text": "Omelette",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bacon-and-eggs",
+   "text": "Bacon And Eggs",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hash-browns",
+   "text": "Hash Browns",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:breakfast-in-bed",
+   "text": "Breakfast In Bed",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cereal",
+   "text": "Cereal",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:oatmeal",
+   "text": "Oatmeal",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:granola",
+   "text": "Granola",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:yogurt-parfait",
+   "text": "Yogurt Parfait",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:toast-and-jam",
+   "text": "Toast And Jam",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:avocado-toast",
+   "text": "Avocado Toast",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cinnamon-roll",
+   "text": "Cinnamon Roll",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:blueberry-muffin",
+   "text": "Blueberry Muffin",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:donut",
+   "text": "Donut",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:maple-syrup",
+   "text": "Maple Syrup",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:popcorn",
+   "text": "Popcorn",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:potato-chips",
+   "text": "Potato Chips",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tortilla-chips",
+   "text": "Tortilla Chips",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cheese-puffs",
+   "text": "Cheese Puffs",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:trail-mix",
+   "text": "Trail Mix",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:beef-jerky",
+   "text": "Beef Jerky",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:granola-bar",
+   "text": "Granola Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:rice-cake",
+   "text": "Rice Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:animal-crackers",
+   "text": "Animal Crackers",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:goldfish-crackers",
+   "text": "Goldfish Crackers",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cheese-and-crackers",
+   "text": "Cheese And Crackers",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:mozzarella-sticks",
+   "text": "Mozzarella Sticks",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:deviled-eggs",
+   "text": "Deviled Eggs",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pickle",
+   "text": "Pickle",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:olives",
+   "text": "Olives",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:peanuts",
+   "text": "Peanuts",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:popsicle",
+   "text": "Popsicle",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ice-cream-cone",
+   "text": "Ice Cream Cone",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ice-cream-sundae",
+   "text": "Ice Cream Sundae",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:banana-split",
+   "text": "Banana Split",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:milkshake",
+   "text": "Milkshake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:root-beer-float",
+   "text": "Root Beer Float",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:snow-cone",
+   "text": "Snow Cone",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:frozen-yogurt",
+   "text": "Frozen Yogurt",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:sherbet",
+   "text": "Sherbet",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:gelato",
+   "text": "Gelato",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chocolate-cake",
+   "text": "Chocolate Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:birthday-cake",
+   "text": "Birthday Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cupcake",
+   "text": "Cupcake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cheesecake",
+   "text": "Cheesecake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:carrot-cake",
+   "text": "Carrot Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:wedding-cake",
+   "text": "Wedding Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:upside-down-cake",
+   "text": "Upside Down Cake",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:apple-pie",
+   "text": "Apple Pie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pumpkin-pie",
+   "text": "Pumpkin Pie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:key-lime-pie",
+   "text": "Key Lime Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cherry-pie",
+   "text": "Cherry Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brownie",
+   "text": "Brownie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chocolate-chip-cookie",
+   "text": "Chocolate Chip Cookie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:oatmeal-raisin-cookie",
+   "text": "Oatmeal Raisin Cookie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gingerbread-man",
+   "text": "Gingerbread Man",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sugar-cookie",
+   "text": "Sugar Cookie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:macaron",
+   "text": "Macaron",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cannoli",
+   "text": "Cannoli",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:tiramisu",
+   "text": "Tiramisu",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:creme-brulee",
+   "text": "Creme Brulee",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:chocolate-mousse",
+   "text": "Chocolate Mousse",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pudding",
+   "text": "Pudding",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:jell-o",
+   "text": "Jell-O",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:rice-pudding",
+   "text": "Rice Pudding",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:churros",
+   "text": "Churros",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:funnel-cake",
+   "text": "Funnel Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cotton-candy",
+   "text": "Cotton Candy",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:candy-apple",
+   "text": "Candy Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:candy-cane",
+   "text": "Candy Cane",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lollipop",
+   "text": "Lollipop",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:gummy-bears",
+   "text": "Gummy Bears",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:jelly-beans",
+   "text": "Jelly Beans",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chocolate-bar",
+   "text": "Chocolate Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:marshmallow",
+   "text": "Marshmallow",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:s-mores",
+   "text": "S'mores",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bubble-gum",
+   "text": "Bubble Gum",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:licorice",
+   "text": "Licorice",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:rock-candy",
+   "text": "Rock Candy",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:candy-corn",
+   "text": "Candy Corn",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:peppermint",
+   "text": "Peppermint",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:toffee",
+   "text": "Toffee",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:fudge",
+   "text": "Fudge",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:whipped-cream",
+   "text": "Whipped Cream",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sprinkles",
+   "text": "Sprinkles",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:frosting",
+   "text": "Frosting",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pop-tart",
+   "text": "Pop Tart",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chocolate-fountain",
+   "text": "Chocolate Fountain",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:baklava",
+   "text": "Baklava",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:fruitcake",
+   "text": "Fruitcake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:strudel",
+   "text": "Strudel",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:eclair",
+   "text": "Eclair",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cream-puff",
+   "text": "Cream Puff",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:shortcake",
+   "text": "Shortcake",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:peach-cobbler",
+   "text": "Peach Cobbler",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bread-pudding",
+   "text": "Bread Pudding",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:apple",
+   "text": "Apple",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:banana",
+   "text": "Banana",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:orange",
+   "text": "Orange",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:strawberry",
+   "text": "Strawberry",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:watermelon",
+   "text": "Watermelon",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pineapple",
+   "text": "Pineapple",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:grapes",
+   "text": "Grapes",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cherry",
+   "text": "Cherry",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lemon",
+   "text": "Lemon",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lime",
+   "text": "Lime",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:peach",
+   "text": "Peach",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pear",
+   "text": "Pear",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:mango",
+   "text": "Mango",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:coconut",
+   "text": "Coconut",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:blueberries",
+   "text": "Blueberries",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:raspberry",
+   "text": "Raspberry",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:kiwi",
+   "text": "Kiwi",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cantaloupe",
+   "text": "Cantaloupe",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:grapefruit",
+   "text": "Grapefruit",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pomegranate",
+   "text": "Pomegranate",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:avocado",
+   "text": "Avocado",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:plum",
+   "text": "Plum",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:apricot",
+   "text": "Apricot",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fig",
+   "text": "Fig",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:papaya",
+   "text": "Papaya",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:dragon-fruit",
+   "text": "Dragon Fruit",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:passion-fruit",
+   "text": "Passion Fruit",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cranberry",
+   "text": "Cranberry",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:raisin",
+   "text": "Raisin",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:prune",
+   "text": "Prune",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:carrot",
+   "text": "Carrot",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:broccoli",
+   "text": "Broccoli",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:corn",
+   "text": "Corn",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:potato",
+   "text": "Potato",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sweet-potato",
+   "text": "Sweet Potato",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tomato",
+   "text": "Tomato",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:onion",
+   "text": "Onion",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:garlic",
+   "text": "Garlic",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lettuce",
+   "text": "Lettuce",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cucumber",
+   "text": "Cucumber",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:celery",
+   "text": "Celery",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:spinach",
+   "text": "Spinach",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:kale",
+   "text": "Kale",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cauliflower",
+   "text": "Cauliflower",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brussels-sprouts",
+   "text": "Brussels Sprouts",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:asparagus",
+   "text": "Asparagus",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:zucchini",
+   "text": "Zucchini",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:eggplant",
+   "text": "Eggplant",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:bell-pepper",
+   "text": "Bell Pepper",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:jalapeno",
+   "text": "Jalapeno",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:mushroom",
+   "text": "Mushroom",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pumpkin",
+   "text": "Pumpkin",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:peas-in-a-pod",
+   "text": "Peas In A Pod",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:green-beans",
+   "text": "Green Beans",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:radish",
+   "text": "Radish",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:beet",
+   "text": "Beet",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:artichoke",
+   "text": "Artichoke",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cabbage",
+   "text": "Cabbage",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:turnip",
+   "text": "Turnip",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bok-choy",
+   "text": "Bok Choy",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:ginger",
+   "text": "Ginger",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:basil",
+   "text": "Basil",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cilantro",
+   "text": "Cilantro",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:parsley",
+   "text": "Parsley",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cinnamon",
+   "text": "Cinnamon",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:black-pepper",
+   "text": "Black Pepper",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:salt",
+   "text": "Salt",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sugar",
+   "text": "Sugar",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:honey",
+   "text": "Honey",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:flour",
+   "text": "Flour",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:butter",
+   "text": "Butter",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:olive-oil",
+   "text": "Olive Oil",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:vinegar",
+   "text": "Vinegar",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:soy-sauce",
+   "text": "Soy Sauce",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ketchup",
+   "text": "Ketchup",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:mustard",
+   "text": "Mustard",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:mayonnaise",
+   "text": "Mayonnaise",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ranch-dressing",
+   "text": "Ranch Dressing",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:barbecue-sauce",
+   "text": "Barbecue Sauce",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hot-sauce",
+   "text": "Hot Sauce",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:gravy",
+   "text": "Gravy",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:peanut-butter",
+   "text": "Peanut Butter",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:nutella",
+   "text": "Nutella",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brown-sugar",
+   "text": "Brown Sugar",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:vanilla-extract",
+   "text": "Vanilla Extract",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:baking-soda",
+   "text": "Baking Soda",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:yeast",
+   "text": "Yeast",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cornstarch",
+   "text": "Cornstarch",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bread-crumbs",
+   "text": "Bread Crumbs",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tofu",
+   "text": "Tofu",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:quinoa",
+   "text": "Quinoa",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:lentils",
+   "text": "Lentils",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:chickpeas",
+   "text": "Chickpeas",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:kidney-beans",
+   "text": "Kidney Beans",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:rice",
+   "text": "Rice",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:noodles",
+   "text": "Noodles",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tortilla",
+   "text": "Tortilla",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:sourdough",
+   "text": "Sourdough",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:baguette",
+   "text": "Baguette",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:rye-bread",
+   "text": "Rye Bread",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:hot-chocolate",
+   "text": "Hot Chocolate",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lemonade",
+   "text": "Lemonade",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:orange-juice",
+   "text": "Orange Juice",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:apple-juice",
+   "text": "Apple Juice",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chocolate-milk",
+   "text": "Chocolate Milk",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:iced-tea",
+   "text": "Iced Tea",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:green-tea",
+   "text": "Green Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:bubble-tea",
+   "text": "Bubble Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:smoothie",
+   "text": "Smoothie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:coffee",
+   "text": "Coffee",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:iced-coffee",
+   "text": "Iced Coffee",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:espresso",
+   "text": "Espresso",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cappuccino",
+   "text": "Cappuccino",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:latte",
+   "text": "Latte",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:frappuccino",
+   "text": "Frappuccino",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:decaf",
+   "text": "Decaf",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:herbal-tea",
+   "text": "Herbal Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chai-tea",
+   "text": "Chai Tea",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:soda-pop",
+   "text": "Soda Pop",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:root-beer",
+   "text": "Root Beer",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ginger-ale",
+   "text": "Ginger Ale",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cola",
+   "text": "Cola",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sparkling-water",
+   "text": "Sparkling Water",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tap-water",
+   "text": "Tap Water",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:coconut-water",
+   "text": "Coconut Water",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:energy-drink",
+   "text": "Energy Drink",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:sports-drink",
+   "text": "Sports Drink",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fruit-punch",
+   "text": "Fruit Punch",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:slushie",
+   "text": "Slushie",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:kombucha",
+   "text": "Kombucha",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:eggnog",
+   "text": "Eggnog",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:apple-cider",
+   "text": "Apple Cider",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:almond-milk",
+   "text": "Almond Milk",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:oat-milk",
+   "text": "Oat Milk",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:buttermilk",
+   "text": "Buttermilk",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:protein-shake",
+   "text": "Protein Shake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:juice-box",
+   "text": "Juice Box",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:milk",
+   "text": "Milk",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cheese",
+   "text": "Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:swiss-cheese",
+   "text": "Swiss Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cheddar",
+   "text": "Cheddar",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:mozzarella",
+   "text": "Mozzarella",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:parmesan",
+   "text": "Parmesan",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brie",
+   "text": "Brie",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:blue-cheese",
+   "text": "Blue Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cottage-cheese",
+   "text": "Cottage Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cream-cheese",
+   "text": "Cream Cheese",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:string-cheese",
+   "text": "String Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sour-cream",
+   "text": "Sour Cream",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:heavy-cream",
+   "text": "Heavy Cream",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:ice-cream",
+   "text": "Ice Cream",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:yogurt",
+   "text": "Yogurt",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:egg",
+   "text": "Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bacon",
+   "text": "Bacon",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sausage",
+   "text": "Sausage",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ham",
+   "text": "Ham",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:steak",
+   "text": "Steak",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pork-chop",
+   "text": "Pork Chop",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:lamb-chop",
+   "text": "Lamb Chop",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:ribs",
+   "text": "Ribs",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:meatball",
+   "text": "Meatball",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chicken-wing",
+   "text": "Chicken Wing",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:drumstick",
+   "text": "Drumstick",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:salami",
+   "text": "Salami",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pepperoni",
+   "text": "Pepperoni",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:prosciutto",
+   "text": "Prosciutto",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:roast-beef",
+   "text": "Roast Beef",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:corned-beef",
+   "text": "Corned Beef",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:shrimp",
+   "text": "Shrimp",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lobster",
+   "text": "Lobster",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:crab-legs",
+   "text": "Crab Legs",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:oysters",
+   "text": "Oysters",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:clams",
+   "text": "Clams",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:mussels",
+   "text": "Mussels",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:salmon",
+   "text": "Salmon",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:tuna",
+   "text": "Tuna",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fish-sticks",
+   "text": "Fish Sticks",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:calamari",
+   "text": "Calamari",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:scallops",
+   "text": "Scallops",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:caviar",
+   "text": "Caviar",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:smoked-salmon",
+   "text": "Smoked Salmon",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:shrimp-scampi",
+   "text": "Shrimp Scampi",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:surf-and-turf",
+   "text": "Surf And Turf",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pulled-pork",
+   "text": "Pulled Pork",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brisket",
+   "text": "Brisket",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:rotisserie-chicken",
+   "text": "Rotisserie Chicken",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:thanksgiving-turkey",
+   "text": "Thanksgiving Turkey",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:christmas-ham",
+   "text": "Christmas Ham",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:veggie-burger",
+   "text": "Veggie Burger",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chicken-tenders",
+   "text": "Chicken Tenders",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hot-pot",
+   "text": "Hot Pot",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:kimchi",
+   "text": "Kimchi",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:miso-soup",
+   "text": "Miso Soup",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:edamame",
+   "text": "Edamame",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:tempura",
+   "text": "Tempura",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:wasabi",
+   "text": "Wasabi",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:california-roll",
+   "text": "California Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:barbecue",
+   "text": "Barbecue",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:picnic",
+   "text": "Picnic",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:potluck",
+   "text": "Potluck",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:buffet",
+   "text": "Buffet",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:brunch",
+   "text": "Brunch",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:midnight-snack",
+   "text": "Midnight Snack",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:leftovers",
+   "text": "Leftovers",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:takeout",
+   "text": "Takeout",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:drive-thru",
+   "text": "Drive-Thru",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:kids-menu",
+   "text": "Kids Menu",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:happy-meal",
+   "text": "Happy Meal",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:doggy-bag",
+   "text": "Doggy Bag",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:food-truck",
+   "text": "Food Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bake-sale",
+   "text": "Bake Sale",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lemonade-stand",
+   "text": "Lemonade Stand",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:salad-bar",
+   "text": "Salad Bar",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tasting-menu",
+   "text": "Tasting Menu",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:chef-s-special",
+   "text": "Chef's Special",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:secret-recipe",
+   "text": "Secret Recipe",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:family-recipe",
+   "text": "Family Recipe",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:comfort-food",
+   "text": "Comfort Food",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:junk-food",
+   "text": "Junk Food",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fast-food",
+   "text": "Fast Food",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:health-food",
+   "text": "Health Food",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:finger-food",
+   "text": "Finger Food",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:street-food",
+   "text": "Street Food",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:soul-food",
+   "text": "Soul Food",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:brain-freeze",
+   "text": "Brain Freeze",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sugar-rush",
+   "text": "Sugar Rush",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:food-coma",
+   "text": "Food Coma",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:food-fight",
+   "text": "Food Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:pie-eating-contest",
+   "text": "Pie Eating Contest",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hot-dog-eating-contest",
+   "text": "Hot Dog Eating Contest",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chili-cook-off",
+   "text": "Chili Cook-Off",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:taste-test",
+   "text": "Taste Test",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:blind-taste-test",
+   "text": "Blind Taste Test",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:five-second-rule",
+   "text": "Five Second Rule",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:second-helping",
+   "text": "Second Helping",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:clean-plate-club",
+   "text": "Clean Plate Club",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:all-you-can-eat",
+   "text": "All You Can Eat",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:spicy",
+   "text": "Spicy",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sweet-and-salty",
+   "text": "Sweet And Salty",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:sour",
+   "text": "Sour",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:bitter",
+   "text": "Bitter",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:crunchy",
+   "text": "Crunchy",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:soggy",
+   "text": "Soggy",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gooey",
+   "text": "Gooey",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:burnt-toast",
+   "text": "Burnt Toast",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:undercooked",
+   "text": "Undercooked",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:well-done",
+   "text": "Well Done",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:medium-rare",
+   "text": "Medium Rare",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:deep-fried",
+   "text": "Deep Fried",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sauteed",
+   "text": "Sauteed",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:marinade",
+   "text": "Marinade",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:seasoning",
+   "text": "Seasoning",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:garnish",
+   "text": "Garnish",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:dipping-sauce",
+   "text": "Dipping Sauce",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gluten-free",
+   "text": "Gluten Free",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:vegetarian",
+   "text": "Vegetarian",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:vegan",
+   "text": "Vegan",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:sugar-free",
+   "text": "Sugar Free",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:organic",
+   "text": "Organic",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:free-range",
+   "text": "Free Range",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:farm-to-table",
+   "text": "Farm To Table",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:homemade",
+   "text": "Homemade",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:microwave-dinner",
+   "text": "Microwave Dinner",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tv-dinner",
+   "text": "TV Dinner",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:frozen-pizza",
+   "text": "Frozen Pizza",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:instant-noodles",
+   "text": "Instant Noodles",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:canned-soup",
+   "text": "Canned Soup",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:baby-food",
+   "text": "Baby Food",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sack-lunch",
+   "text": "Sack Lunch",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:school-lunch",
+   "text": "School Lunch",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cafeteria-tray",
+   "text": "Cafeteria Tray",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:bread-basket",
+   "text": "Bread Basket",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:breadstick",
+   "text": "Breadstick",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:soup-of-the-day",
+   "text": "Soup Of The Day",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pizza-delivery",
+   "text": "Pizza Delivery",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:deep-dish-pizza",
+   "text": "Deep Dish Pizza",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pineapple-pizza",
+   "text": "Pineapple Pizza",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:thin-crust",
+   "text": "Thin Crust",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:stuffed-crust",
+   "text": "Stuffed Crust",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:extra-cheese",
+   "text": "Extra Cheese",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:double-cheeseburger",
+   "text": "Double Cheeseburger",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:slider",
+   "text": "Slider",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:combo-meal",
+   "text": "Combo Meal",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:supersize",
+   "text": "Supersize",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:ice-cream-truck",
+   "text": "Ice Cream Truck",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:gumball-machine",
+   "text": "Gumball Machine",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:vending-machine",
+   "text": "Vending Machine",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cooking-show",
+   "text": "Cooking Show",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:recipe-card",
+   "text": "Recipe Card",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:grocery-list",
+   "text": "Grocery List",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:lentil-soup",
+   "text": "Lentil Soup",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:french-onion-soup",
+   "text": "French Onion Soup",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gazpacho",
+   "text": "Gazpacho",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:minestrone",
+   "text": "Minestrone",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:egg-drop-soup",
+   "text": "Egg Drop Soup",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:chicken-curry",
+   "text": "Chicken Curry",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fried-egg",
+   "text": "Fried Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:hard-boiled-egg",
+   "text": "Hard Boiled Egg",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:egg-salad",
+   "text": "Egg Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chicken-salad",
+   "text": "Chicken Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fruit-salad",
+   "text": "Fruit Salad",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:greek-salad",
+   "text": "Greek Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:taco-salad",
+   "text": "Taco Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:garden-salad",
+   "text": "Garden Salad",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cornbread",
+   "text": "Cornbread",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:biscuits-and-gravy",
+   "text": "Biscuits And Gravy",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:grits",
+   "text": "Grits",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:jambalaya",
+   "text": "Jambalaya",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:gumbo",
+   "text": "Gumbo",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:fried-green-tomatoes",
+   "text": "Fried Green Tomatoes",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:tater-tots",
+   "text": "Tater Tots",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:curly-fries",
+   "text": "Curly Fries",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:sweet-potato-fries",
+   "text": "Sweet Potato Fries",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chili-cheese-fries",
+   "text": "Chili Cheese Fries",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:loaded-nachos",
+   "text": "Loaded Nachos",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:poutine",
+   "text": "Poutine",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:bruschetta",
+   "text": "Bruschetta",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:caprese-salad",
+   "text": "Caprese Salad",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:calzone",
+   "text": "Calzone",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:focaccia",
+   "text": "Focaccia",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:ciabatta",
+   "text": "Ciabatta",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:english-muffin",
+   "text": "English Muffin",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:dinner-roll",
+   "text": "Dinner Roll",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:banana-bread",
+   "text": "Banana Bread",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:zucchini-bread",
+   "text": "Zucchini Bread",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pumpkin-spice",
+   "text": "Pumpkin Spice",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:gingerbread-house",
+   "text": "Gingerbread House",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:candy-bar",
+   "text": "Candy Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:chocolate-truffle",
+   "text": "Chocolate Truffle",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:hot-cross-bun",
+   "text": "Hot Cross Bun",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:cinnamon-toast",
+   "text": "Cinnamon Toast",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:almond",
+   "text": "Almond",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cashew",
+   "text": "Cashew",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:walnut",
+   "text": "Walnut",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pistachio",
+   "text": "Pistachio",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:hazelnut",
+   "text": "Hazelnut",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pecan-pie",
+   "text": "Pecan Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:macadamia-nut",
+   "text": "Macadamia Nut",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:sunflower-seeds",
+   "text": "Sunflower Seeds",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pumpkin-seeds",
+   "text": "Pumpkin Seeds",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:popcorn-ball",
+   "text": "Popcorn Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:kettle-corn",
+   "text": "Kettle Corn",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:caramel-corn",
+   "text": "Caramel Corn",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:chocolate-covered-strawberry",
+   "text": "Chocolate Covered Strawberry",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:fruit-roll-up",
+   "text": "Fruit Roll-Up",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:applesauce",
+   "text": "Applesauce",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:fruit-cup",
+   "text": "Fruit Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:pudding-cup",
+   "text": "Pudding Cup",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:lemon-meringue-pie",
+   "text": "Lemon Meringue Pie",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:boston-cream-pie",
+   "text": "Boston Cream Pie",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:black-forest-cake",
+   "text": "Black Forest Cake",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:angel-food-cake",
+   "text": "Angel Food Cake",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:pound-cake",
+   "text": "Pound Cake",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:red-velvet-cake",
+   "text": "Red Velvet Cake",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:ice-cream-cake",
+   "text": "Ice Cream Cake",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:ice-cream-sandwich",
+   "text": "Ice Cream Sandwich",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:waffle-cone",
+   "text": "Waffle Cone",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:neapolitan-ice-cream",
+   "text": "Neapolitan Ice Cream",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:mint-chocolate-chip",
+   "text": "Mint Chocolate Chip",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cookie-dough",
+   "text": "Cookie Dough",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:cookies-and-cream",
+   "text": "Cookies And Cream",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:rocky-road",
+   "text": "Rocky Road",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:butterscotch",
+   "text": "Butterscotch",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:maple-bacon",
+   "text": "Maple Bacon",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:honey-mustard",
+   "text": "Honey Mustard",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:tartar-sauce",
+   "text": "Tartar Sauce",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:salsa-verde",
+   "text": "Salsa Verde",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:queso-dip",
+   "text": "Queso Dip",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:spinach-dip",
+   "text": "Spinach Dip",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:french-onion-dip",
+   "text": "French Onion Dip",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:chips-and-dip",
+   "text": "Chips And Dip",
+   "difficulty": 1
+  },
+  {
+   "id": "food-drink:veggie-platter",
+   "text": "Veggie Platter",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:cheese-platter",
+   "text": "Cheese Platter",
+   "difficulty": 2
+  },
+  {
+   "id": "food-drink:charcuterie-board",
+   "text": "Charcuterie Board",
+   "difficulty": 3
+  },
+  {
+   "id": "food-drink:peanut-butter-cup",
+   "text": "Peanut Butter Cup",
+   "difficulty": 2
+  }
+ ]
+}

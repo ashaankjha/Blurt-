@@ -1,0 +1,2322 @@
+{
+ "id": "animals",
+ "name": "Animals",
+ "emoji": "🦒",
+ "description": "Creatures great and small.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "animals:dog",
+   "text": "Dog",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cat",
+   "text": "Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:elephant",
+   "text": "Elephant",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:giraffe",
+   "text": "Giraffe",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:lion",
+   "text": "Lion",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:tiger",
+   "text": "Tiger",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:zebra",
+   "text": "Zebra",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:monkey",
+   "text": "Monkey",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:gorilla",
+   "text": "Gorilla",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:chimpanzee",
+   "text": "Chimpanzee",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:orangutan",
+   "text": "Orangutan",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:baboon",
+   "text": "Baboon",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:lemur",
+   "text": "Lemur",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:sloth",
+   "text": "Sloth",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:kangaroo",
+   "text": "Kangaroo",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:koala",
+   "text": "Koala",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:wombat",
+   "text": "Wombat",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:platypus",
+   "text": "Platypus",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:tasmanian-devil",
+   "text": "Tasmanian Devil",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:panda",
+   "text": "Panda",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:red-panda",
+   "text": "Red Panda",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:polar-bear",
+   "text": "Polar Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:grizzly-bear",
+   "text": "Grizzly Bear",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:brown-bear",
+   "text": "Brown Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:black-bear",
+   "text": "Black Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:raccoon",
+   "text": "Raccoon",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:skunk",
+   "text": "Skunk",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:squirrel",
+   "text": "Squirrel",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:chipmunk",
+   "text": "Chipmunk",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hedgehog",
+   "text": "Hedgehog",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:porcupine",
+   "text": "Porcupine",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:armadillo",
+   "text": "Armadillo",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:anteater",
+   "text": "Anteater",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:aardvark",
+   "text": "Aardvark",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:hippopotamus",
+   "text": "Hippopotamus",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:rhinoceros",
+   "text": "Rhinoceros",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cheetah",
+   "text": "Cheetah",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:leopard",
+   "text": "Leopard",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:jaguar",
+   "text": "Jaguar",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:panther",
+   "text": "Panther",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:mountain-lion",
+   "text": "Mountain Lion",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:lynx",
+   "text": "Lynx",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:bobcat",
+   "text": "Bobcat",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:hyena",
+   "text": "Hyena",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:wolf",
+   "text": "Wolf",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:coyote",
+   "text": "Coyote",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:fox",
+   "text": "Fox",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:arctic-fox",
+   "text": "Arctic Fox",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:badger",
+   "text": "Badger",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:otter",
+   "text": "Otter",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:sea-otter",
+   "text": "Sea Otter",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:beaver",
+   "text": "Beaver",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:weasel",
+   "text": "Weasel",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:ferret",
+   "text": "Ferret",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:mole",
+   "text": "Mole",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:meerkat",
+   "text": "Meerkat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:mongoose",
+   "text": "Mongoose",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:warthog",
+   "text": "Warthog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:wild-boar",
+   "text": "Wild Boar",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:moose",
+   "text": "Moose",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:elk",
+   "text": "Elk",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:reindeer",
+   "text": "Reindeer",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:deer",
+   "text": "Deer",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:antelope",
+   "text": "Antelope",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:gazelle",
+   "text": "Gazelle",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:buffalo",
+   "text": "Buffalo",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bison",
+   "text": "Bison",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:yak",
+   "text": "Yak",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:camel",
+   "text": "Camel",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:llama",
+   "text": "Llama",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:alpaca",
+   "text": "Alpaca",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bat",
+   "text": "Bat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:vampire-bat",
+   "text": "Vampire Bat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:flying-squirrel",
+   "text": "Flying Squirrel",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:opossum",
+   "text": "Opossum",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:groundhog",
+   "text": "Groundhog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:prairie-dog",
+   "text": "Prairie Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:rabbit",
+   "text": "Rabbit",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hare",
+   "text": "Hare",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:mouse",
+   "text": "Mouse",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:rat",
+   "text": "Rat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hamster",
+   "text": "Hamster",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:guinea-pig",
+   "text": "Guinea Pig",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:gerbil",
+   "text": "Gerbil",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:chinchilla",
+   "text": "Chinchilla",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:capybara",
+   "text": "Capybara",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:tapir",
+   "text": "Tapir",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:okapi",
+   "text": "Okapi",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:pangolin",
+   "text": "Pangolin",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:narwhal",
+   "text": "Narwhal",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:walrus",
+   "text": "Walrus",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:seal",
+   "text": "Seal",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:sea-lion",
+   "text": "Sea Lion",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:manatee",
+   "text": "Manatee",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:dolphin",
+   "text": "Dolphin",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:whale",
+   "text": "Whale",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:blue-whale",
+   "text": "Blue Whale",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:killer-whale",
+   "text": "Killer Whale",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:beluga-whale",
+   "text": "Beluga Whale",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:humpback-whale",
+   "text": "Humpback Whale",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:eagle",
+   "text": "Eagle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bald-eagle",
+   "text": "Bald Eagle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:owl",
+   "text": "Owl",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:parrot",
+   "text": "Parrot",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:penguin",
+   "text": "Penguin",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:flamingo",
+   "text": "Flamingo",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:peacock",
+   "text": "Peacock",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:ostrich",
+   "text": "Ostrich",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:emu",
+   "text": "Emu",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pelican",
+   "text": "Pelican",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:seagull",
+   "text": "Seagull",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:pigeon",
+   "text": "Pigeon",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:crow",
+   "text": "Crow",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:raven",
+   "text": "Raven",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:robin",
+   "text": "Robin",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:blue-jay",
+   "text": "Blue Jay",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:cardinal",
+   "text": "Cardinal",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:hummingbird",
+   "text": "Hummingbird",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:woodpecker",
+   "text": "Woodpecker",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:toucan",
+   "text": "Toucan",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:swan",
+   "text": "Swan",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:goose",
+   "text": "Goose",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:duck",
+   "text": "Duck",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:vulture",
+   "text": "Vulture",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hawk",
+   "text": "Hawk",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:falcon",
+   "text": "Falcon",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:condor",
+   "text": "Condor",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:stork",
+   "text": "Stork",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:crane",
+   "text": "Crane",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:heron",
+   "text": "Heron",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:kiwi-bird",
+   "text": "Kiwi Bird",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:puffin",
+   "text": "Puffin",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:albatross",
+   "text": "Albatross",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:roadrunner",
+   "text": "Roadrunner",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:canary",
+   "text": "Canary",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:parakeet",
+   "text": "Parakeet",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:cockatoo",
+   "text": "Cockatoo",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:macaw",
+   "text": "Macaw",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sparrow",
+   "text": "Sparrow",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bluebird",
+   "text": "Bluebird",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:kingfisher",
+   "text": "Kingfisher",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:dodo",
+   "text": "Dodo",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:barn-owl",
+   "text": "Barn Owl",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:snowy-owl",
+   "text": "Snowy Owl",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:goldfish",
+   "text": "Goldfish",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:shark",
+   "text": "Shark",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:great-white-shark",
+   "text": "Great White Shark",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hammerhead-shark",
+   "text": "Hammerhead Shark",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:whale-shark",
+   "text": "Whale Shark",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:octopus",
+   "text": "Octopus",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:squid",
+   "text": "Squid",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:jellyfish",
+   "text": "Jellyfish",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:starfish",
+   "text": "Starfish",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:seahorse",
+   "text": "Seahorse",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:sea-turtle",
+   "text": "Sea Turtle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:crab",
+   "text": "Crab",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hermit-crab",
+   "text": "Hermit Crab",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:clownfish",
+   "text": "Clownfish",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:pufferfish",
+   "text": "Pufferfish",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:swordfish",
+   "text": "Swordfish",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:stingray",
+   "text": "Stingray",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:manta-ray",
+   "text": "Manta Ray",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:eel",
+   "text": "Eel",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:electric-eel",
+   "text": "Electric Eel",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:piranha",
+   "text": "Piranha",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:catfish",
+   "text": "Catfish",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:trout",
+   "text": "Trout",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:salmon-swimming-upstream",
+   "text": "Salmon Swimming Upstream",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:angelfish",
+   "text": "Angelfish",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:barracuda",
+   "text": "Barracuda",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sea-urchin",
+   "text": "Sea Urchin",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sea-cucumber",
+   "text": "Sea Cucumber",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sand-dollar",
+   "text": "Sand Dollar",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:anglerfish",
+   "text": "Anglerfish",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:flying-fish",
+   "text": "Flying Fish",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:koi-fish",
+   "text": "Koi Fish",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:betta-fish",
+   "text": "Betta Fish",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:snail",
+   "text": "Snail",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:slug",
+   "text": "Slug",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:krill",
+   "text": "Krill",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:plankton",
+   "text": "Plankton",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:penguin-huddle",
+   "text": "Penguin Huddle",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sea-anemone",
+   "text": "Sea Anemone",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:lionfish",
+   "text": "Lionfish",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:tadpole",
+   "text": "Tadpole",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:frog",
+   "text": "Frog",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:toad",
+   "text": "Toad",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bullfrog",
+   "text": "Bullfrog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:tree-frog",
+   "text": "Tree Frog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:salamander",
+   "text": "Salamander",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:newt",
+   "text": "Newt",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:axolotl",
+   "text": "Axolotl",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:butterfly",
+   "text": "Butterfly",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:caterpillar",
+   "text": "Caterpillar",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bumblebee",
+   "text": "Bumblebee",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:honeybee",
+   "text": "Honeybee",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:wasp",
+   "text": "Wasp",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:hornet",
+   "text": "Hornet",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:ant",
+   "text": "Ant",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:fire-ant",
+   "text": "Fire Ant",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:ladybug",
+   "text": "Ladybug",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:grasshopper",
+   "text": "Grasshopper",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cricket",
+   "text": "Cricket",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:praying-mantis",
+   "text": "Praying Mantis",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:dragonfly",
+   "text": "Dragonfly",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:firefly",
+   "text": "Firefly",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:mosquito",
+   "text": "Mosquito",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:housefly",
+   "text": "Housefly",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:moth",
+   "text": "Moth",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:beetle",
+   "text": "Beetle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:dung-beetle",
+   "text": "Dung Beetle",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:stick-insect",
+   "text": "Stick Insect",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:termite",
+   "text": "Termite",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:cockroach",
+   "text": "Cockroach",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:flea",
+   "text": "Flea",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:tick",
+   "text": "Tick",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:spider",
+   "text": "Spider",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:tarantula",
+   "text": "Tarantula",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:black-widow",
+   "text": "Black Widow",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:scorpion",
+   "text": "Scorpion",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:centipede",
+   "text": "Centipede",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:millipede",
+   "text": "Millipede",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:earthworm",
+   "text": "Earthworm",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:silkworm",
+   "text": "Silkworm",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:cicada",
+   "text": "Cicada",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:snake",
+   "text": "Snake",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:rattlesnake",
+   "text": "Rattlesnake",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cobra",
+   "text": "Cobra",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:python",
+   "text": "Python",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:boa-constrictor",
+   "text": "Boa Constrictor",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:anaconda",
+   "text": "Anaconda",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:garter-snake",
+   "text": "Garter Snake",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:lizard",
+   "text": "Lizard",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:gecko",
+   "text": "Gecko",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:iguana",
+   "text": "Iguana",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:chameleon",
+   "text": "Chameleon",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:komodo-dragon",
+   "text": "Komodo Dragon",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:alligator",
+   "text": "Alligator",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:crocodile",
+   "text": "Crocodile",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:turtle",
+   "text": "Turtle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:tortoise",
+   "text": "Tortoise",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:snapping-turtle",
+   "text": "Snapping Turtle",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:gila-monster",
+   "text": "Gila Monster",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:cow",
+   "text": "Cow",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:pig",
+   "text": "Pig",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:sheep",
+   "text": "Sheep",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:goat",
+   "text": "Goat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:horse",
+   "text": "Horse",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:pony",
+   "text": "Pony",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:donkey",
+   "text": "Donkey",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:mule",
+   "text": "Mule",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:chicken",
+   "text": "Chicken",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:rooster",
+   "text": "Rooster",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hen",
+   "text": "Hen",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:baby-chick",
+   "text": "Baby Chick",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:duckling",
+   "text": "Duckling",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:turkey",
+   "text": "Turkey",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bull",
+   "text": "Bull",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:calf",
+   "text": "Calf",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:lamb",
+   "text": "Lamb",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:piglet",
+   "text": "Piglet",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:foal",
+   "text": "Foal",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:billy-goat",
+   "text": "Billy Goat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:ox",
+   "text": "Ox",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:water-buffalo",
+   "text": "Water Buffalo",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:sheepdog",
+   "text": "Sheepdog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:barn-cat",
+   "text": "Barn Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:kitten",
+   "text": "Kitten",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:puppy",
+   "text": "Puppy",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bunny",
+   "text": "Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:fawn",
+   "text": "Fawn",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:cub",
+   "text": "Cub",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:joey",
+   "text": "Joey",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:bear-cub",
+   "text": "Bear Cub",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:lion-cub",
+   "text": "Lion Cub",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:ugly-duckling",
+   "text": "Ugly Duckling",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:mother-hen",
+   "text": "Mother Hen",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:guard-dog",
+   "text": "Guard Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:service-dog",
+   "text": "Service Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:police-dog",
+   "text": "Police Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:stray-cat",
+   "text": "Stray Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:alley-cat",
+   "text": "Alley Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:petting-zoo",
+   "text": "Petting Zoo",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:animal-shelter",
+   "text": "Animal Shelter",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:vet-visit",
+   "text": "Vet Visit",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:flea-collar",
+   "text": "Flea Collar",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:golden-retriever",
+   "text": "Golden Retriever",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:labrador",
+   "text": "Labrador",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:german-shepherd",
+   "text": "German Shepherd",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:poodle",
+   "text": "Poodle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:chihuahua",
+   "text": "Chihuahua",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bulldog",
+   "text": "Bulldog",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:french-bulldog",
+   "text": "French Bulldog",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:beagle",
+   "text": "Beagle",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:dachshund",
+   "text": "Dachshund",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pug",
+   "text": "Pug",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:corgi",
+   "text": "Corgi",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:husky",
+   "text": "Husky",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:dalmatian",
+   "text": "Dalmatian",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:great-dane",
+   "text": "Great Dane",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:saint-bernard",
+   "text": "Saint Bernard",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:boxer",
+   "text": "Boxer",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:rottweiler",
+   "text": "Rottweiler",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:doberman",
+   "text": "Doberman",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:greyhound",
+   "text": "Greyhound",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:border-collie",
+   "text": "Border Collie",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:shih-tzu",
+   "text": "Shih Tzu",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:pomeranian",
+   "text": "Pomeranian",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:yorkshire-terrier",
+   "text": "Yorkshire Terrier",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:jack-russell-terrier",
+   "text": "Jack Russell Terrier",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:basset-hound",
+   "text": "Basset Hound",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:bloodhound",
+   "text": "Bloodhound",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bernese-mountain-dog",
+   "text": "Bernese Mountain Dog",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:labradoodle",
+   "text": "Labradoodle",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:mutt",
+   "text": "Mutt",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:persian-cat",
+   "text": "Persian Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:siamese-cat",
+   "text": "Siamese Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:hairless-cat",
+   "text": "Hairless Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:maine-coon",
+   "text": "Maine Coon",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:tabby-cat",
+   "text": "Tabby Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:calico-cat",
+   "text": "Calico Cat",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:black-cat",
+   "text": "Black Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:tomcat",
+   "text": "Tomcat",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:dinosaur",
+   "text": "Dinosaur",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:t-rex",
+   "text": "T-Rex",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:triceratops",
+   "text": "Triceratops",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:stegosaurus",
+   "text": "Stegosaurus",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:velociraptor",
+   "text": "Velociraptor",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pterodactyl",
+   "text": "Pterodactyl",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:brontosaurus",
+   "text": "Brontosaurus",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:woolly-mammoth",
+   "text": "Woolly Mammoth",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:saber-toothed-tiger",
+   "text": "Saber-Toothed Tiger",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:megalodon",
+   "text": "Megalodon",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:wolf-pack",
+   "text": "Wolf Pack",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:school-of-fish",
+   "text": "School Of Fish",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:flock-of-birds",
+   "text": "Flock Of Birds",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:herd-of-cattle",
+   "text": "Herd Of Cattle",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:swarm-of-bees",
+   "text": "Swarm Of Bees",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:pride-of-lions",
+   "text": "Pride Of Lions",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pod-of-whales",
+   "text": "Pod Of Whales",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:litter-of-puppies",
+   "text": "Litter Of Puppies",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:ant-colony",
+   "text": "Ant Colony",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:beehive",
+   "text": "Beehive",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bird-s-nest",
+   "text": "Bird's Nest",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:spider-web",
+   "text": "Spider Web",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:anthill",
+   "text": "Anthill",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:beaver-dam",
+   "text": "Beaver Dam",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:rabbit-hole",
+   "text": "Rabbit Hole",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bat-cave",
+   "text": "Bat Cave",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:cocoon",
+   "text": "Cocoon",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:hibernation",
+   "text": "Hibernation",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:migration",
+   "text": "Migration",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:camouflage",
+   "text": "Camouflage",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:molting",
+   "text": "Molting",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:shedding-skin",
+   "text": "Shedding Skin",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:nocturnal",
+   "text": "Nocturnal",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:predator",
+   "text": "Predator",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:prey",
+   "text": "Prey",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:food-chain",
+   "text": "Food Chain",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:endangered-species",
+   "text": "Endangered Species",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:extinct",
+   "text": "Extinct",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:wildlife",
+   "text": "Wildlife",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:cold-blooded",
+   "text": "Cold Blooded",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:marsupial",
+   "text": "Marsupial",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:mammal",
+   "text": "Mammal",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:reptile",
+   "text": "Reptile",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:amphibian",
+   "text": "Amphibian",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:herbivore",
+   "text": "Herbivore",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:carnivore",
+   "text": "Carnivore",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:omnivore",
+   "text": "Omnivore",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:wagging-tail",
+   "text": "Wagging Tail",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:purring",
+   "text": "Purring",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:howling-at-the-moon",
+   "text": "Howling At The Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:playing-dead",
+   "text": "Playing Dead",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:chasing-its-tail",
+   "text": "Chasing Its Tail",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:fetch",
+   "text": "Fetch",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:roll-over",
+   "text": "Roll Over",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:shake-a-paw",
+   "text": "Shake A Paw",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:peacock-feathers",
+   "text": "Peacock Feathers",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:zebra-stripes",
+   "text": "Zebra Stripes",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:leopard-spots",
+   "text": "Leopard Spots",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:elephant-trunk",
+   "text": "Elephant Trunk",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:paw-print",
+   "text": "Paw Print",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:antlers",
+   "text": "Antlers",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:whiskers",
+   "text": "Whiskers",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bighorn-sheep",
+   "text": "Bighorn Sheep",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:mountain-goat",
+   "text": "Mountain Goat",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:snow-leopard",
+   "text": "Snow Leopard",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:siberian-tiger",
+   "text": "Siberian Tiger",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:white-tiger",
+   "text": "White Tiger",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bengal-tiger",
+   "text": "Bengal Tiger",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:silverback-gorilla",
+   "text": "Silverback Gorilla",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:spider-monkey",
+   "text": "Spider Monkey",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:howler-monkey",
+   "text": "Howler Monkey",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:wildebeest",
+   "text": "Wildebeest",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:poison-dart-frog",
+   "text": "Poison Dart Frog",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:bearded-dragon",
+   "text": "Bearded Dragon",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:box-turtle",
+   "text": "Box Turtle",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:glow-worm",
+   "text": "Glow Worm",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:bed-bug",
+   "text": "Bed Bug",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:lightning-bug",
+   "text": "Lightning Bug",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:daddy-long-legs",
+   "text": "Daddy Long Legs",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:inchworm",
+   "text": "Inchworm",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pill-bug",
+   "text": "Pill Bug",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:stink-bug",
+   "text": "Stink Bug",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:horsefly",
+   "text": "Horsefly",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:fruit-fly",
+   "text": "Fruit Fly",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:monarch-butterfly",
+   "text": "Monarch Butterfly",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:queen-bee",
+   "text": "Queen Bee",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:worker-bee",
+   "text": "Worker Bee",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bee-sting",
+   "text": "Bee Sting",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:mosquito-bite",
+   "text": "Mosquito Bite",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hamster-wheel",
+   "text": "Hamster Wheel",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cat-nap",
+   "text": "Cat Nap",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:dog-bone",
+   "text": "Dog Bone",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:chew-toy",
+   "text": "Chew Toy",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:dog-leash",
+   "text": "Dog Leash",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:kitty-litter",
+   "text": "Kitty Litter",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:catnip",
+   "text": "Catnip",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:hairball",
+   "text": "Hairball",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:horseshoe",
+   "text": "Horseshoe",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:saddle",
+   "text": "Saddle",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pony-ride",
+   "text": "Pony Ride",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:cowbell",
+   "text": "Cowbell",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:sheep-shearing",
+   "text": "Sheep Shearing",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:milking-a-cow",
+   "text": "Milking A Cow",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:pecking-order",
+   "text": "Pecking Order",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:duck-pond",
+   "text": "Duck Pond",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:lily-pad",
+   "text": "Lily Pad",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:lion-s-roar",
+   "text": "Lion's Roar",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:lion-s-mane",
+   "text": "Lion's Mane",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:rabbit-ears",
+   "text": "Rabbit Ears",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:fish-scales",
+   "text": "Fish Scales",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:shark-fin",
+   "text": "Shark Fin",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:shark-tooth",
+   "text": "Shark Tooth",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:snake-skin",
+   "text": "Snake Skin",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:turtle-shell",
+   "text": "Turtle Shell",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:crab-claw",
+   "text": "Crab Claw",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:bird-beak",
+   "text": "Bird Beak",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:feathers",
+   "text": "Feathers",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:hooves",
+   "text": "Hooves",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:tusks",
+   "text": "Tusks",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:fangs",
+   "text": "Fangs",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:venom",
+   "text": "Venom",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:stinger",
+   "text": "Stinger",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:gills",
+   "text": "Gills",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:flippers",
+   "text": "Flippers",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:blowhole",
+   "text": "Blowhole",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:kangaroo-pouch",
+   "text": "Kangaroo Pouch",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:horns",
+   "text": "Horns",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:talons",
+   "text": "Talons",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:webbed-feet",
+   "text": "Webbed Feet",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:tail-feathers",
+   "text": "Tail Feathers",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:paws",
+   "text": "Paws",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:claws",
+   "text": "Claws",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:fur",
+   "text": "Fur",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:burrow",
+   "text": "Burrow",
+   "difficulty": 3
+  },
+  {
+   "id": "animals:animal-tracks",
+   "text": "Animal Tracks",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:animal-kingdom",
+   "text": "Animal Kingdom",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:safari",
+   "text": "Safari",
+   "difficulty": 1
+  },
+  {
+   "id": "animals:bird-watching",
+   "text": "Bird Watching",
+   "difficulty": 2
+  },
+  {
+   "id": "animals:whale-watching",
+   "text": "Whale Watching",
+   "difficulty": 2
+  }
+ ]
+}

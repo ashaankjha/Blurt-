@@ -2,12 +2,12 @@
 
 | pack | kept | rejected | duplicates | target | status |
 | --- | --- | --- | --- | --- | --- |
-| household | - | - | - | 440 | missing source |
-| food-drink | - | - | - | 550 | missing source |
-| animals | - | - | - | 440 | missing source |
-| jobs | - | - | - | 330 | missing source |
-| places | - | - | - | 440 | missing source |
-| verbs-actions | - | - | - | 440 | missing source |
+| household | 493 | 0 | 0 | 440 | ok |
+| food-drink | 573 | 0 | 0 | 550 | ok |
+| animals | 462 | 0 | 0 | 440 | ok |
+| jobs | 362 | 0 | 0 | 330 | ok |
+| places | 476 | 0 | 0 | 440 | ok |
+| verbs-actions | 522 | 0 | 0 | 440 | ok |
 | movies | - | - | - | 550 | missing source |
 | tv-shows | - | - | - | 440 | missing source |
 | music-artists | - | - | - | 440 | missing source |

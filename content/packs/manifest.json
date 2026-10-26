@@ -1,5 +1,71 @@
 [
  {
+  "id": "household",
+  "name": "Household",
+  "emoji": "🛋️",
+  "description": "Stuff around the house, room by room.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 493
+ },
+ {
+  "id": "food-drink",
+  "name": "Food & Drink",
+  "emoji": "🍕",
+  "description": "Dishes, snacks, drinks and kitchen favorites.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 573
+ },
+ {
+  "id": "animals",
+  "name": "Animals",
+  "emoji": "🦒",
+  "description": "Creatures great and small.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 462
+ },
+ {
+  "id": "jobs",
+  "name": "Jobs",
+  "emoji": "👩‍🚒",
+  "description": "Who does what for a living.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 362
+ },
+ {
+  "id": "places",
+  "name": "Places",
+  "emoji": "🏝️",
+  "description": "Spots to go, near and far.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 476
+ },
+ {
+  "id": "verbs-actions",
+  "name": "Verbs & Actions",
+  "emoji": "🤸",
+  "description": "Things you can do.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 522
+ },
+ {
   "id": "sports",
   "name": "Sports",
   "emoji": "🏀",

@@ -1,0 +1,1822 @@
+{
+ "id": "jobs",
+ "name": "Jobs",
+ "emoji": "👩‍🚒",
+ "description": "Who does what for a living.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "jobs:teacher",
+   "text": "Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:doctor",
+   "text": "Doctor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:nurse",
+   "text": "Nurse",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:firefighter",
+   "text": "Firefighter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:police-officer",
+   "text": "Police Officer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:dentist",
+   "text": "Dentist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:chef",
+   "text": "Chef",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:baker",
+   "text": "Baker",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:farmer",
+   "text": "Farmer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pilot",
+   "text": "Pilot",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:astronaut",
+   "text": "Astronaut",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:mail-carrier",
+   "text": "Mail Carrier",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:bus-driver",
+   "text": "Bus Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:taxi-driver",
+   "text": "Taxi Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:truck-driver",
+   "text": "Truck Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:lifeguard",
+   "text": "Lifeguard",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:librarian",
+   "text": "Librarian",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:mechanic",
+   "text": "Mechanic",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:plumber",
+   "text": "Plumber",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:electrician",
+   "text": "Electrician",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:carpenter",
+   "text": "Carpenter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:construction-worker",
+   "text": "Construction Worker",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:painter",
+   "text": "Painter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:hairdresser",
+   "text": "Hairdresser",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:barber",
+   "text": "Barber",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:waiter",
+   "text": "Waiter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:cashier",
+   "text": "Cashier",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:janitor",
+   "text": "Janitor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:veterinarian",
+   "text": "Veterinarian",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:zookeeper",
+   "text": "Zookeeper",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:lawyer",
+   "text": "Lawyer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:judge",
+   "text": "Judge",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:scientist",
+   "text": "Scientist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:banker",
+   "text": "Banker",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:accountant",
+   "text": "Accountant",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:architect",
+   "text": "Architect",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:engineer",
+   "text": "Engineer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:pharmacist",
+   "text": "Pharmacist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:surgeon",
+   "text": "Surgeon",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:paramedic",
+   "text": "Paramedic",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:dental-hygienist",
+   "text": "Dental Hygienist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:optometrist",
+   "text": "Optometrist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:pediatrician",
+   "text": "Pediatrician",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:babysitter",
+   "text": "Babysitter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:nanny",
+   "text": "Nanny",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:principal",
+   "text": "Principal",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:coach",
+   "text": "Coach",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:referee",
+   "text": "Referee",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:umpire",
+   "text": "Umpire",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:lunch-lady",
+   "text": "Lunch Lady",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:crossing-guard",
+   "text": "Crossing Guard",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:school-bus-driver",
+   "text": "School Bus Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:garbage-collector",
+   "text": "Garbage Collector",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:gardener",
+   "text": "Gardener",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:landscaper",
+   "text": "Landscaper",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:florist",
+   "text": "Florist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:butcher",
+   "text": "Butcher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:fisherman",
+   "text": "Fisherman",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:lumberjack",
+   "text": "Lumberjack",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:cowboy",
+   "text": "Cowboy",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:rancher",
+   "text": "Rancher",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:beekeeper",
+   "text": "Beekeeper",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:sailor",
+   "text": "Sailor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:ship-captain",
+   "text": "Ship Captain",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:soldier",
+   "text": "Soldier",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:security-guard",
+   "text": "Security Guard",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:detective",
+   "text": "Detective",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:private-investigator",
+   "text": "Private Investigator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:spy",
+   "text": "Spy",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:secret-agent",
+   "text": "Secret Agent",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:bodyguard",
+   "text": "Bodyguard",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:mayor",
+   "text": "Mayor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:president",
+   "text": "President",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:senator",
+   "text": "Senator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ambassador",
+   "text": "Ambassador",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:reporter",
+   "text": "Reporter",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:news-anchor",
+   "text": "News Anchor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:weather-forecaster",
+   "text": "Weather Forecaster",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:photographer",
+   "text": "Photographer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:artist",
+   "text": "Artist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:musician",
+   "text": "Musician",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:singer",
+   "text": "Singer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:dancer",
+   "text": "Dancer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:actor",
+   "text": "Actor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:comedian",
+   "text": "Comedian",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:magician",
+   "text": "Magician",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:clown",
+   "text": "Clown",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:juggler",
+   "text": "Juggler",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:ringmaster",
+   "text": "Ringmaster",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:acrobat",
+   "text": "Acrobat",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:author",
+   "text": "Author",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:poet",
+   "text": "Poet",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:editor",
+   "text": "Editor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:translator",
+   "text": "Translator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tour-guide",
+   "text": "Tour Guide",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:travel-agent",
+   "text": "Travel Agent",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:flight-attendant",
+   "text": "Flight Attendant",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:air-traffic-controller",
+   "text": "Air Traffic Controller",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:hotel-concierge",
+   "text": "Hotel Concierge",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:bellhop",
+   "text": "Bellhop",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:locksmith",
+   "text": "Locksmith",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:roofer",
+   "text": "Roofer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:welder",
+   "text": "Welder",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:bricklayer",
+   "text": "Bricklayer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:window-washer",
+   "text": "Window Washer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:chimney-sweep",
+   "text": "Chimney Sweep",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:exterminator",
+   "text": "Exterminator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:handyman",
+   "text": "Handyman",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:repairman",
+   "text": "Repairman",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tow-truck-driver",
+   "text": "Tow Truck Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:delivery-driver",
+   "text": "Delivery Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pizza-delivery-guy",
+   "text": "Pizza Delivery Guy",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:paperboy",
+   "text": "Paperboy",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:furniture-mover",
+   "text": "Furniture Mover",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:personal-trainer",
+   "text": "Personal Trainer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:yoga-instructor",
+   "text": "Yoga Instructor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:swim-instructor",
+   "text": "Swim Instructor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ski-instructor",
+   "text": "Ski Instructor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:driving-instructor",
+   "text": "Driving Instructor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:dog-walker",
+   "text": "Dog Walker",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:dog-groomer",
+   "text": "Dog Groomer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:pet-sitter",
+   "text": "Pet Sitter",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:house-cleaner",
+   "text": "House Cleaner",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:maid",
+   "text": "Maid",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:butler",
+   "text": "Butler",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:personal-chef",
+   "text": "Personal Chef",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:personal-shopper",
+   "text": "Personal Shopper",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:wedding-planner",
+   "text": "Wedding Planner",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:event-planner",
+   "text": "Event Planner",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:party-clown",
+   "text": "Party Clown",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:dj",
+   "text": "DJ",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:barista",
+   "text": "Barista",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:sushi-chef",
+   "text": "Sushi Chef",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pastry-chef",
+   "text": "Pastry Chef",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:line-cook",
+   "text": "Line Cook",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:food-critic",
+   "text": "Food Critic",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:food-taster",
+   "text": "Food Taster",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:waitress",
+   "text": "Waitress",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:restaurant-host",
+   "text": "Restaurant Host",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:busboy",
+   "text": "Busboy",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:hot-dog-vendor",
+   "text": "Hot Dog Vendor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ice-cream-man",
+   "text": "Ice Cream Man",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:street-performer",
+   "text": "Street Performer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:mime",
+   "text": "Mime",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:puppeteer",
+   "text": "Puppeteer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ventriloquist",
+   "text": "Ventriloquist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:stuntman",
+   "text": "Stuntman",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:stunt-double",
+   "text": "Stunt Double",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:movie-director",
+   "text": "Movie Director",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:film-producer",
+   "text": "Film Producer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:screenwriter",
+   "text": "Screenwriter",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:cameraman",
+   "text": "Cameraman",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:makeup-artist",
+   "text": "Makeup Artist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:costume-designer",
+   "text": "Costume Designer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:fashion-designer",
+   "text": "Fashion Designer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:model",
+   "text": "Model",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:tailor",
+   "text": "Tailor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:seamstress",
+   "text": "Seamstress",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:shoemaker",
+   "text": "Shoemaker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:jeweler",
+   "text": "Jeweler",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:watchmaker",
+   "text": "Watchmaker",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:potter",
+   "text": "Potter",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:sculptor",
+   "text": "Sculptor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:glassblower",
+   "text": "Glassblower",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:blacksmith",
+   "text": "Blacksmith",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tattoo-artist",
+   "text": "Tattoo Artist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:graphic-designer",
+   "text": "Graphic Designer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:interior-designer",
+   "text": "Interior Designer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:web-developer",
+   "text": "Web Developer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:software-engineer",
+   "text": "Software Engineer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:computer-programmer",
+   "text": "Computer Programmer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:video-game-designer",
+   "text": "Video Game Designer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:game-show-host",
+   "text": "Game Show Host",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:talk-show-host",
+   "text": "Talk Show Host",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:radio-host",
+   "text": "Radio Host",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:podcaster",
+   "text": "Podcaster",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:youtuber",
+   "text": "YouTuber",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:influencer",
+   "text": "Influencer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:social-media-manager",
+   "text": "Social Media Manager",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:blogger",
+   "text": "Blogger",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:journalist",
+   "text": "Journalist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:cartoonist",
+   "text": "Cartoonist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:illustrator",
+   "text": "Illustrator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:animator",
+   "text": "Animator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:composer",
+   "text": "Composer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:conductor",
+   "text": "Conductor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:opera-singer",
+   "text": "Opera Singer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:rock-star",
+   "text": "Rock Star",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:drummer",
+   "text": "Drummer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:guitarist",
+   "text": "Guitarist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pianist",
+   "text": "Pianist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:violinist",
+   "text": "Violinist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:backup-dancer",
+   "text": "Backup Dancer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ballerina",
+   "text": "Ballerina",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:choreographer",
+   "text": "Choreographer",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:astronomer",
+   "text": "Astronomer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:marine-biologist",
+   "text": "Marine Biologist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:archaeologist",
+   "text": "Archaeologist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:paleontologist",
+   "text": "Paleontologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:geologist",
+   "text": "Geologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:meteorologist",
+   "text": "Meteorologist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:chemist",
+   "text": "Chemist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:botanist",
+   "text": "Botanist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:zoologist",
+   "text": "Zoologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:inventor",
+   "text": "Inventor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:mad-scientist",
+   "text": "Mad Scientist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:lab-technician",
+   "text": "Lab Technician",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:psychologist",
+   "text": "Psychologist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:therapist",
+   "text": "Therapist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:dermatologist",
+   "text": "Dermatologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:orthodontist",
+   "text": "Orthodontist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:chiropractor",
+   "text": "Chiropractor",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:physical-therapist",
+   "text": "Physical Therapist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:anesthesiologist",
+   "text": "Anesthesiologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:radiologist",
+   "text": "Radiologist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:midwife",
+   "text": "Midwife",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:school-nurse",
+   "text": "School Nurse",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:brain-surgeon",
+   "text": "Brain Surgeon",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:heart-surgeon",
+   "text": "Heart Surgeon",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:park-ranger",
+   "text": "Park Ranger",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:forest-ranger",
+   "text": "Forest Ranger",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:game-warden",
+   "text": "Game Warden",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:dog-catcher",
+   "text": "Dog Catcher",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:coast-guard",
+   "text": "Coast Guard",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:sheriff",
+   "text": "Sheriff",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:deputy",
+   "text": "Deputy",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:prison-guard",
+   "text": "Prison Guard",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:bounty-hunter",
+   "text": "Bounty Hunter",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:bailiff",
+   "text": "Bailiff",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:court-reporter",
+   "text": "Court Reporter",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:tax-collector",
+   "text": "Tax Collector",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:city-planner",
+   "text": "City Planner",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:diplomat",
+   "text": "Diplomat",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:queen",
+   "text": "Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:king",
+   "text": "King",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:royal-guard",
+   "text": "Royal Guard",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:knight",
+   "text": "Knight",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:jester",
+   "text": "Jester",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pirate",
+   "text": "Pirate",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:cowgirl",
+   "text": "Cowgirl",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:shepherd",
+   "text": "Shepherd",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:pro-wrestler",
+   "text": "Pro Wrestler",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:jockey",
+   "text": "Jockey",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:race-car-driver",
+   "text": "Race Car Driver",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:quarterback",
+   "text": "Quarterback",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:goalie",
+   "text": "Goalie",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:pitcher",
+   "text": "Pitcher",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:caddie",
+   "text": "Caddie",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ball-boy",
+   "text": "Ball Boy",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:cheerleader",
+   "text": "Cheerleader",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:mascot",
+   "text": "Mascot",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:sports-announcer",
+   "text": "Sports Announcer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:talent-scout",
+   "text": "Talent Scout",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:sports-agent",
+   "text": "Sports Agent",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:gym-teacher",
+   "text": "Gym Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:substitute-teacher",
+   "text": "Substitute Teacher",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tutor",
+   "text": "Tutor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:professor",
+   "text": "Professor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:dean",
+   "text": "Dean",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:guidance-counselor",
+   "text": "Guidance Counselor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:camp-counselor",
+   "text": "Camp Counselor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:teaching-assistant",
+   "text": "Teaching Assistant",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:kindergarten-teacher",
+   "text": "Kindergarten Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:lion-tamer",
+   "text": "Lion Tamer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:snake-charmer",
+   "text": "Snake Charmer",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:fortune-teller",
+   "text": "Fortune Teller",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:treasure-hunter",
+   "text": "Treasure Hunter",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:deep-sea-diver",
+   "text": "Deep Sea Diver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:storm-chaser",
+   "text": "Storm Chaser",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:crab-fisherman",
+   "text": "Crab Fisherman",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:oil-rig-worker",
+   "text": "Oil Rig Worker",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:coal-miner",
+   "text": "Coal Miner",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:gold-prospector",
+   "text": "Gold Prospector",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:ski-patrol",
+   "text": "Ski Patrol",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:mountain-guide",
+   "text": "Mountain Guide",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:hot-air-balloon-pilot",
+   "text": "Hot Air Balloon Pilot",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:helicopter-pilot",
+   "text": "Helicopter Pilot",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:fighter-pilot",
+   "text": "Fighter Pilot",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:boss",
+   "text": "Boss",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:ceo",
+   "text": "CEO",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:manager",
+   "text": "Manager",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:receptionist",
+   "text": "Receptionist",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:secretary",
+   "text": "Secretary",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:intern",
+   "text": "Intern",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:salesperson",
+   "text": "Salesperson",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:car-salesman",
+   "text": "Car Salesman",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:real-estate-agent",
+   "text": "Real Estate Agent",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:insurance-agent",
+   "text": "Insurance Agent",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:stock-broker",
+   "text": "Stock Broker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:financial-advisor",
+   "text": "Financial Advisor",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:bank-teller",
+   "text": "Bank Teller",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:auctioneer",
+   "text": "Auctioneer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:telemarketer",
+   "text": "Telemarketer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:customer-service-rep",
+   "text": "Customer Service Rep",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:life-coach",
+   "text": "Life Coach",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:motivational-speaker",
+   "text": "Motivational Speaker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:hr-manager",
+   "text": "HR Manager",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:grocery-bagger",
+   "text": "Grocery Bagger",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:shelf-stocker",
+   "text": "Shelf Stocker",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:store-manager",
+   "text": "Store Manager",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:mall-santa",
+   "text": "Mall Santa",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:elf",
+   "text": "Elf",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:personal-assistant",
+   "text": "Personal Assistant",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:chauffeur",
+   "text": "Chauffeur",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:valet",
+   "text": "Valet",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:doorman",
+   "text": "Doorman",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:usher",
+   "text": "Usher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:ticket-taker",
+   "text": "Ticket Taker",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:night-watchman",
+   "text": "Night Watchman",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:toll-booth-operator",
+   "text": "Toll Booth Operator",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:train-conductor",
+   "text": "Train Conductor",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:subway-driver",
+   "text": "Subway Driver",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:ferry-captain",
+   "text": "Ferry Captain",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:crane-operator",
+   "text": "Crane Operator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:bulldozer-driver",
+   "text": "Bulldozer Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:forklift-driver",
+   "text": "Forklift Driver",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:garbage-truck-driver",
+   "text": "Garbage Truck Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:street-sweeper",
+   "text": "Street Sweeper",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:snowplow-driver",
+   "text": "Snowplow Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:lighthouse-keeper",
+   "text": "Lighthouse Keeper",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:zip-line-guide",
+   "text": "Zip Line Guide",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:scuba-instructor",
+   "text": "Scuba Instructor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:surf-instructor",
+   "text": "Surf Instructor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:golf-pro",
+   "text": "Golf Pro",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tennis-coach",
+   "text": "Tennis Coach",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:dance-teacher",
+   "text": "Dance Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:music-teacher",
+   "text": "Music Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:art-teacher",
+   "text": "Art Teacher",
+   "difficulty": 1
+  },
+  {
+   "id": "jobs:piano-teacher",
+   "text": "Piano Teacher",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:voice-coach",
+   "text": "Voice Coach",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:speech-therapist",
+   "text": "Speech Therapist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:sign-language-interpreter",
+   "text": "Sign Language Interpreter",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:rideshare-driver",
+   "text": "Rideshare Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:food-blogger",
+   "text": "Food Blogger",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:travel-blogger",
+   "text": "Travel Blogger",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:wildlife-photographer",
+   "text": "Wildlife Photographer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:wedding-photographer",
+   "text": "Wedding Photographer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:paparazzi",
+   "text": "Paparazzi",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:movie-critic",
+   "text": "Movie Critic",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:stand-up-comedian",
+   "text": "Stand-Up Comedian",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:voice-actor",
+   "text": "Voice Actor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:child-actor",
+   "text": "Child Actor",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:movie-extra",
+   "text": "Movie Extra",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:stage-manager",
+   "text": "Stage Manager",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:lighting-technician",
+   "text": "Lighting Technician",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:sound-engineer",
+   "text": "Sound Engineer",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:car-washer",
+   "text": "Car Washer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:pool-cleaner",
+   "text": "Pool Cleaner",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:tree-trimmer",
+   "text": "Tree Trimmer",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:farmhand",
+   "text": "Farmhand",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:dairy-farmer",
+   "text": "Dairy Farmer",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:fruit-picker",
+   "text": "Fruit Picker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:chocolatier",
+   "text": "Chocolatier",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:candy-maker",
+   "text": "Candy Maker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:cake-decorator",
+   "text": "Cake Decorator",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:toy-maker",
+   "text": "Toy Maker",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:ice-sculptor",
+   "text": "Ice Sculptor",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:balloon-artist",
+   "text": "Balloon Artist",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:face-painter",
+   "text": "Face Painter",
+   "difficulty": 2
+  },
+  {
+   "id": "jobs:caricature-artist",
+   "text": "Caricature Artist",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:sand-sculptor",
+   "text": "Sand Sculptor",
+   "difficulty": 3
+  },
+  {
+   "id": "jobs:cobbler",
+   "text": "Cobbler",
+   "difficulty": 3
+  }
+ ]
+}
