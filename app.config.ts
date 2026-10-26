@@ -39,7 +39,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     'expo-router',
     'expo-font',
     'expo-sqlite',
-    ['expo-audio', { microphonePermission: false, recordAudioAndroid: false }],
+    ['expo-audio', { microphonePermission: false, recordAudioAndroid: false, enableBackgroundPlayback: false }],
     ['expo-splash-screen', { image: './assets/splash-icon.png', imageWidth: 200, backgroundColor: '#FF4F64' }],
   ],
   experiments: { typedRoutes: true },
