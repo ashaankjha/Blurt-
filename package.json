@@ -59,7 +59,8 @@
     "preset": "jest-expo",
     "testPathIgnorePatterns": [
       "/node_modules/",
-      "/e2e/"
+      "/e2e/",
+      "<rootDir>/.claude/"
     ],
     "setupFilesAfterEnv": [
       "<rootDir>/jest.setup.ts"
@@ -68,6 +69,9 @@
       "src/**/*.{ts,tsx}",
       "!src/**/*.test.{ts,tsx}",
       "!src/**/jest.setup.ts"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/.claude/"
     ]
   }
 }

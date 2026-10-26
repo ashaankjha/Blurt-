@@ -5,7 +5,7 @@ const expoConfig = require('eslint-config-expo/flat');
 module.exports = defineConfig([
   expoConfig,
   {
-    ignores: ['dist/*', 'node_modules/*', '.expo/*', 'content/packs/index.ts'],
+    ignores: ['dist/*', 'node_modules/*', '.expo/*', '.claude/*', 'content/packs/index.ts'],
   },
   {
     // The engine is pure TypeScript: no React, React Native or Expo.

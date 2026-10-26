@@ -44,7 +44,7 @@ export interface GameSettings {
  * playing|paused -> END_ROUND_NO_SCORE -> scoreboard
  * caught     -> SHOW_SCOREBOARD -> scoreboard, or won if a single team leads at >= targetScore
  * scoreboard -> NEXT_ROUND -> playing
- * caught|scoreboard|won -> UNDO_LAST_POINT -> scoreboard (stays caught if in caught)
+ * caught|scoreboard|won -> UNDO_LAST_POINT -> scoreboard
  */
 export type Phase = 'setup' | 'playing' | 'paused' | 'caught' | 'scoreboard' | 'won';
 
