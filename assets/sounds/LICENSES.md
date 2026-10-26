@@ -1,0 +1,56 @@
+# Sound licenses
+
+Every sound in this folder is original: synthesized from scratch (oscillators, filtered noise,
+envelopes) by `scripts/gen-sounds/`. No samples, recordings or third-party sounds are used.
+All files are owned by the project and dedicated to the public domain under
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Regenerate with `npx tsx scripts/gen-sounds/build.ts` (requires ffmpeg for the .m4a files).
+
+| File                        | Name                | Description                                                                   | Size    | License                                                                             |
+| --------------------------- | ------------------- | ----------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------- |
+| `buzzer-air-horn.m4a`       | Air Horn            | One long, brassy stadium air-horn blast built from detuned sawtooth reeds.    | 16.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-triple-horn.m4a`    | Triple Air Horn     | Three rapid air-horn blasts, the last one long.                               | 18.0 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-game-show.m4a`      | Wrong Answer Buzzer | Harsh low game-show "ehhhh" buzzer: beating square waves through heavy drive. | 13.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-klaxon.m4a`         | Klaxon              | Old-car "a-woo-ga" klaxon, twice: a rising then falling nasal sawtooth.       | 16.9 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-sad-trombone.m4a`   | Sad Trombone        | Four descending "wah" notes, the last one long and wobbly.                    | 25.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-boing.m4a`          | Boing               | Cartoon spring boing: a sine whose pitch wobbles and droops as it decays.     | 14.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-slide-whistle.m4a`  | Slide Whistle       | A quick "fwee" up, then a long slide-whistle dive down.                       | 17.2 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-kaboom.m4a`         | Kaboom              | Explosion: a noise burst with sweeping low-pass, sub thump and crackle.       | 24.9 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-laser.m4a`          | Laser Blaster       | Three sci-fi "pew" zaps with fast exponential pitch drops.                    | 12.7 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-robot-error.m4a`    | Robot Error         | Random computer bleeps, then a crushed, ring-modulated "bzzt".                | 15.6 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-siren.m4a`          | Siren               | Two cycles of a rising and falling emergency siren wail.                      | 21.4 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-alarm-bell.m4a`     | Alarm Bell          | A school-style alarm bell ringing hard with a rapid clapper.                  | 20.2 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-fog-horn.m4a`       | Fog Horn            | A deep, slow ship fog horn that ends in a low grunt.                          | 25.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-gong.m4a`           | Big Gong            | A huge shimmering gong with blooming inharmonic partials.                     | 26.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-cymbal-crash.m4a`   | Cymbal Crash        | A bright crash cymbal: metallic square clusters plus high noise.              | 22.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-kazoo.m4a`          | Kazoo Taunt         | A buzzy kazoo playing a teasing "nyah-nyah" phrase.                           | 16.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-chip-fail.m4a`      | 8-Bit Game Over     | A chiptune descending arpeggio ending on a low wobbling note.                 | 12.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-chip-wipeout.m4a`   | 8-Bit Wipeout       | A stepped chiptune pitch dive followed by a crunchy noise burst.              | 15.0 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-clown-horn.m4a`     | Clown Honk          | A squeezy bulb horn: honk, honk, HONK.                                        | 22.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-rubber-chicken.m4a` | Rubber Chicken      | A squawking rubber chicken: a rising then falling nasal squeal.               | 14.2 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-zapped.m4a`         | Zapped              | An electric shock: crackling mains buzz with random sparks.                   | 15.7 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-raspberry.m4a`      | Raspberry           | A rude, flappy blown raspberry.                                               | 15.5 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-ba-dum-tss.m4a`     | Ba-Dum-Tss          | A comedy rimshot: two tom hits and a sizzling cymbal.                         | 16.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-cuckoo.m4a`         | Cuckoo Clock        | A wooden clack and two "cuck-oo" calls from a cuckoo clock.                   | 17.0 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-ufo.m4a`            | UFO Warble          | A descending flying-saucer warble with metallic ring modulation and echo.     | 22.0 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-record-scratch.m4a` | Record Scratch      | A DJ "wikka-wikka" record scratch over a stopped beat.                        | 9.9 KB  | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-power-down.m4a`     | Power Down          | A chord that grinds to a halt like a tape stop or dying robot.                | 17.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-shatter.m4a`        | Glass Shatter       | A sharp crack followed by a shower of tinkling shards.                        | 16.7 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-whistle.m4a`        | Referee Whistle     | A trilling pea whistle: tweet, tweet, tweeeeet!                               | 24.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-cowbell.m4a`        | More Cowbell        | A clanky drum-machine cowbell rhythm.                                         | 13.3 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-boxing-bell.m4a`    | Ding Ding Ding      | A boxing-ring bell struck three times.                                        | 20.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-dun-dun-dun.m4a`    | Dramatic Sting      | Orchestral "dun, dun, DUNNN" stabs with timpani.                              | 22.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-bomb-beeper.m4a`    | Bomb Beeper         | A ticking-bomb beeper speeding up into a short boom.                          | 25.2 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-balloon-pop.m4a`    | Balloon Pop         | A sharp balloon pop and a squealing, fluttering deflate.                      | 16.5 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-jaw-harp.m4a`       | Jaw Harp            | A twangy "boing-oing-oing" jaw harp with a sweeping resonance.                | 16.7 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-harp-plunge.m4a`    | Harp Plunge         | A plucked whole-tone harp glissando tumbling down into a sour cluster.        | 21.5 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-pan-bonk.m4a`       | Frying Pan Bonk     | A cartoon frying-pan bonk with a wobbly metallic ring.                        | 14.2 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-car-horn.m4a`       | Car Horn            | A two-tone car horn: beep, beeeeep.                                           | 25.4 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `buzzer-sour-fanfare.m4a`   | Sour Fanfare        | A proud trumpet fanfare whose last note droops badly out of tune.             | 16.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `tick.wav`                  | Tick                | Short, crisp high woodblock tick for the fuse.                                | 6.9 KB  | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `tock.wav`                  | Tock                | Short woodblock tock, a fourth lower than the tick.                           | 6.9 KB  | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `sfx-got-it.wav`            | Got It              | Bright two-note "di-ding" chime for a correct guess.                          | 43.1 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `sfx-skip.wav`              | Skip                | Quick airy whoosh for skipping a phrase.                                      | 32.8 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `sfx-point.wav`             | Point               | Sparkly rising three-note "+1" glockenspiel chime.                            | 53.4 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
+| `sfx-win.m4a`               | Win                 | Triumphant brass fanfare with a held major chord and cymbal swell.            | 22.7 KB | Original, synthesized by scripts/gen-sounds; owned by the project, dedicated to CC0 |
