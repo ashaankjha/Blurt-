@@ -23,6 +23,8 @@ export interface Theme {
 export interface ThemeProviderProps {
   /** 'system' follows the OS. Default 'system'. */
   scheme?: ColorScheme | 'system';
+  /** (E, optional) Override the OS reduce-motion setting (tests, gallery). */
+  reduceMotion?: boolean;
   children: ReactNode;
 }
 
@@ -36,6 +38,8 @@ export interface ScreenProps {
   scroll?: boolean;
   /** Extra padding inside safe area. Default true. */
   padded?: boolean;
+  /** (E, optional) Style for the inner content container. */
+  contentStyle?: StyleProp<ViewStyle>;
   testID?: string;
 }
 
@@ -49,6 +53,10 @@ export interface AppTextProps {
   numberOfLines?: number;
   style?: StyleProp<TextStyle>;
   accessibilityRole?: 'header' | 'text' | 'summary';
+  /** (E, optional) Overrides the variant's Dynamic Type cap. */
+  maxFontSizeMultiplier?: number;
+  /** (E, optional) Hide from screen readers (decorative text). */
+  decorative?: boolean;
   testID?: string;
 }
 
@@ -70,6 +78,8 @@ export interface ButtonProps {
   accessibilityLabel?: string;
   accessibilityHint?: string;
   style?: StyleProp<ViewStyle>;
+  /** (E, optional) Ignore presses within this many ms of the last accepted one (Got it: 300). */
+  debounceMs?: number;
   testID?: string;
 }
 
@@ -83,6 +93,12 @@ export interface IconButtonProps {
   size?: 'sm' | 'md' | 'lg';
   /** ms the user must hold before onLongPress fires. */
   delayLongPress?: number;
+  /** (E, optional) */
+  accessibilityHint?: string;
+  /** (E, optional) Face color. Default theme surface. */
+  color?: string;
+  /** (E, optional) */
+  disabled?: boolean;
   testID?: string;
 }
 
@@ -91,6 +107,10 @@ export interface PhraseTextProps {
   color?: string;
   /** When true, render a neutral placeholder instead of the phrase (paused). */
   hidden?: boolean;
+  /** (E, optional) Text shown in the paused placeholder. Default "Paused". */
+  hiddenLabel?: string;
+  /** (E, optional) Largest font size to try. Default fontSizes.phraseMax. */
+  maxFontSize?: number;
   testID?: string;
 }
 
@@ -104,6 +124,9 @@ export interface TeamCardProps {
   usedColors: string[];
   /** Show the optional player-name editor. Default true. */
   showPlayers?: boolean;
+  /** (E, optional) Max team name length. Default 20. */
+  maxNameLength?: number;
+  testID?: string;
 }
 
 export interface PackTileProps {
@@ -146,6 +169,8 @@ export interface SegmentedProps<T> {
   options: SegmentedOption<T>[];
   value: T;
   onChange: (value: T) => void;
+  /** (E, optional) Dims the group and ignores presses. */
+  disabled?: boolean;
   testID?: string;
 }
 
@@ -154,6 +179,8 @@ export interface ToggleRowProps {
   description?: string;
   value: boolean;
   onChange: (value: boolean) => void;
+  /** (E, optional) Dims the row and ignores presses. */
+  disabled?: boolean;
   testID?: string;
 }
 
@@ -169,6 +196,13 @@ export interface ChipProps {
   label: string;
   selected?: boolean;
   onPress?: () => void;
+  /** (E, optional) Emoji or glyph before the label. */
+  icon?: string;
+  /** (E, optional) Fill color when selected. Default theme secondary. */
+  color?: string;
+  /** (E, optional) Dims the chip and ignores presses. */
+  disabled?: boolean;
+  accessibilityLabel?: string;
   testID?: string;
 }
 
@@ -185,11 +219,19 @@ export interface ScoreRowProps {
 
 export interface ConfettiProps {
   active: boolean;
+  /** (E, optional) Particle colors. Default: all team colors. */
+  colors?: string[];
+  /** (E, optional) Number of particles. Default 60. */
+  count?: number;
+  /** (E, optional) Called once the burst has finished falling. */
+  onDone?: () => void;
+  testID?: string;
 }
 
 export interface FuseBarProps {
   /** 0 = just lit, 1 = blown. */
   progress: number;
+  testID?: string;
 }
 
 export interface TextFieldProps {
@@ -198,6 +240,15 @@ export interface TextFieldProps {
   onChangeText: (text: string) => void;
   placeholder?: string;
   maxLength?: number;
+  /** (E, optional) */
+  autoFocus?: boolean;
+  /** (E, optional) */
+  onSubmitEditing?: () => void;
+  /** (E, optional) Multi-line input (e.g. paste a phrase list). */
+  multiline?: boolean;
+  /** (E, optional) Shown under the field; announced to screen readers. */
+  error?: string;
+  accessibilityHint?: string;
   testID?: string;
 }
 
@@ -205,5 +256,12 @@ export interface SearchFieldProps {
   value: string;
   onChangeText: (text: string) => void;
   placeholder?: string;
+  /** (E, optional) Default: placeholder or "Search". */
+  accessibilityLabel?: string;
   testID?: string;
+}
+
+export interface GalleryProps {
+  /** (E) Which scheme(s) to show first. Default 'both'. */
+  initialScheme?: ColorScheme | 'both';
 }
