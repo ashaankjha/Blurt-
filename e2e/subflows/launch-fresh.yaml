@@ -1,0 +1,21 @@
+# Cold launch with a clean install state, then skip the first-launch tutorial if it shows.
+appId: com.ashaankjha.blurt
+---
+- launchApp:
+    clearState: true
+    stopApp: true
+- extendedWaitUntil:
+    visible:
+      id: '(home-screen|how-to-play-screen)'
+    timeout: 30000
+- runFlow:
+    when:
+      visible:
+        id: tutorial-skip
+    commands:
+      - tapOn:
+          id: tutorial-skip
+- extendedWaitUntil:
+    visible:
+      id: home-quick-play
+    timeout: 10000

@@ -1,0 +1,116 @@
+# Settings: sound, haptics, volume, buzzer preview, default rules, After Dark gate, reset.
+appId: com.ashaankjha.blurt
+name: Settings
+---
+- runFlow: subflows/launch-fresh.yaml
+- tapOn:
+    id: home-settings
+- assertVisible:
+    id: settings-screen
+
+# Sound & haptics.
+- tapOn:
+    id: settings-sound
+- assertVisible:
+    id: settings-sound
+    checked: false
+- tapOn:
+    id: settings-sound
+- assertVisible:
+    id: settings-sound
+    checked: true
+- tapOn:
+    id: settings-volume-1 # 50%
+- tapOn:
+    id: settings-haptics
+- assertVisible:
+    id: settings-haptics
+    checked: false
+
+# Buzzer: a tap selects it and plays a preview.
+- scrollUntilVisible:
+    element:
+      id: settings-buzzer-air-horn
+    direction: DOWN
+- tapOn:
+    id: settings-buzzer-air-horn
+- assertVisible:
+    text: '.*Selected: Air Horn.*'
+
+# Default rules (also used by Quick Play).
+- scrollUntilVisible:
+    element:
+      id: settings-target-inc
+    direction: DOWN
+- tapOn:
+    id: settings-target-inc
+- assertVisible:
+    id: settings-target-value
+    text: '8'
+- scrollUntilVisible:
+    element:
+      id: settings-skips-3 # Unlimited
+    direction: DOWN
+- tapOn:
+    id: settings-skips-3
+
+# After Dark is gated by an 18+ confirmation.
+- scrollUntilVisible:
+    element:
+      id: settings-after-dark
+    direction: DOWN
+- tapOn:
+    id: settings-after-dark
+- tapOn:
+    text: "(?i)i.m 18\\+, turn on"
+- assertVisible:
+    id: settings-after-dark
+    checked: true
+
+# Home's Quick Play caption follows the saved target.
+- scrollUntilVisible:
+    element:
+      id: settings-back
+    direction: UP
+- tapOn:
+    id: settings-back
+- assertVisible:
+    text: '.*first to 8.*'
+
+# After Dark packs appear in the pack picker only now.
+- tapOn:
+    id: home-custom-game
+- scrollUntilVisible:
+    element:
+      id: setup-choose-packs
+    direction: DOWN
+- tapOn:
+    id: setup-choose-packs
+- assertVisible:
+    id: packs-tag-adult
+- tapOn:
+    id: packs-back
+- tapOn:
+    id: setup-back
+
+# Reset all settings (confirm), then Home shows the default target again.
+- tapOn:
+    id: home-settings
+- scrollUntilVisible:
+    element:
+      id: settings-reset-all
+    direction: DOWN
+- tapOn:
+    id: settings-reset-all
+- tapOn:
+    text: '(?i)reset'
+- assertVisible:
+    id: settings-notice
+- scrollUntilVisible:
+    element:
+      id: settings-back
+    direction: UP
+- tapOn:
+    id: settings-back
+- assertVisible:
+    text: '.*first to 7.*'

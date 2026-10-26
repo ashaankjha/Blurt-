@@ -1,0 +1,24 @@
+# On the Round screen: pass the phone a few times, then wait for the hidden fuse to blow.
+# Taps are optional because the fuse may blow at any moment.
+appId: com.ashaankjha.blurt
+---
+- extendedWaitUntil:
+    visible:
+      id: round-screen
+    timeout: 10000
+- repeat:
+    times: 3
+    commands:
+      - tapOn:
+          id: round-got-it
+          optional: true
+      - waitForAnimationToEnd:
+          timeout: 500
+- extendedWaitUntil:
+    visible:
+      id: caught-screen
+    # Longest fuse is 75 s with the default rules (15 s with the shortest custom fuse).
+    timeout: 120000
+- assertVisible:
+    id: caught-headline
+    text: '.*got caught!.*'
