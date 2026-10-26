@@ -1,0 +1,1842 @@
+{
+ "id": "song-titles",
+ "name": "Songs (Title Only)",
+ "emoji": "🎶",
+ "description": "Name that tune, no singing allowed.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "song-titles:happy-birthday",
+   "text": "Happy Birthday",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:bohemian-rhapsody",
+   "text": "Bohemian Rhapsody",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:billie-jean",
+   "text": "Billie Jean",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:thriller",
+   "text": "Thriller",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:beat-it",
+   "text": "Beat It",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:like-a-prayer",
+   "text": "Like a Prayer",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:material-girl",
+   "text": "Material Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:vogue",
+   "text": "Vogue",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:shake-it-off",
+   "text": "Shake It Off",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:love-story",
+   "text": "Love Story",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:blank-space",
+   "text": "Blank Space",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:anti-hero",
+   "text": "Anti-Hero",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:cruel-summer",
+   "text": "Cruel Summer",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:single-ladies",
+   "text": "Single Ladies",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:crazy-in-love",
+   "text": "Crazy in Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:umbrella",
+   "text": "Umbrella",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:bad-romance",
+   "text": "Bad Romance",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:poker-face",
+   "text": "Poker Face",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:shallow",
+   "text": "Shallow",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:rolling-in-the-deep",
+   "text": "Rolling in the Deep",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:someone-like-you",
+   "text": "Someone Like You",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:shape-of-you",
+   "text": "Shape of You",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:uptown-funk",
+   "text": "Uptown Funk",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:just-the-way-you-are",
+   "text": "Just the Way You Are",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bad-guy",
+   "text": "Bad Guy",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:watermelon-sugar",
+   "text": "Watermelon Sugar",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:as-it-was",
+   "text": "As It Was",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:levitating",
+   "text": "Levitating",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:drivers-license",
+   "text": "Drivers License",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:wrecking-ball",
+   "text": "Wrecking Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:party-in-the-u-s-a",
+   "text": "Party in the U.S.A.",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:oops-i-did-it-again",
+   "text": "Oops!... I Did It Again",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:toxic",
+   "text": "Toxic",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:genie-in-a-bottle",
+   "text": "Genie in a Bottle",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:since-u-been-gone",
+   "text": "Since U Been Gone",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:firework",
+   "text": "Firework",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:roar",
+   "text": "Roar",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:california-gurls",
+   "text": "California Gurls",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:teenage-dream",
+   "text": "Teenage Dream",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:call-me-maybe",
+   "text": "Call Me Maybe",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:gangnam-style",
+   "text": "Gangnam Style",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:despacito",
+   "text": "Despacito",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:macarena",
+   "text": "Macarena",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:y-m-c-a",
+   "text": "Y.M.C.A.",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:dancing-queen",
+   "text": "Dancing Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:waterloo",
+   "text": "Waterloo",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:i-will-survive",
+   "text": "I Will Survive",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:stayin-alive",
+   "text": "Stayin' Alive",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:september",
+   "text": "September",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:celebration",
+   "text": "Celebration",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:don-t-stop-believin",
+   "text": "Don't Stop Believin'",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:livin-on-a-prayer",
+   "text": "Livin' on a Prayer",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:sweet-child-o-mine",
+   "text": "Sweet Child o' Mine",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:paradise-city",
+   "text": "Paradise City",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:welcome-to-the-jungle",
+   "text": "Welcome to the Jungle",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:back-in-black",
+   "text": "Back in Black",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:thunderstruck",
+   "text": "Thunderstruck",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:we-will-rock-you",
+   "text": "We Will Rock You",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:we-are-the-champions",
+   "text": "We Are the Champions",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:don-t-stop-me-now",
+   "text": "Don't Stop Me Now",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:another-one-bites-the-dust",
+   "text": "Another One Bites the Dust",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:under-pressure",
+   "text": "Under Pressure",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:somebody-to-love",
+   "text": "Somebody to Love",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:stairway-to-heaven",
+   "text": "Stairway to Heaven",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:hotel-california",
+   "text": "Hotel California",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:free-bird",
+   "text": "Free Bird",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:sweet-home-alabama",
+   "text": "Sweet Home Alabama",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:born-in-the-u-s-a",
+   "text": "Born in the U.S.A.",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:dancing-in-the-dark",
+   "text": "Dancing in the Dark",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:jailhouse-rock",
+   "text": "Jailhouse Rock",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:hound-dog",
+   "text": "Hound Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:blue-suede-shoes",
+   "text": "Blue Suede Shoes",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:can-t-help-falling-in-love",
+   "text": "Can't Help Falling in Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:johnny-b-goode",
+   "text": "Johnny B. Goode",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:rock-around-the-clock",
+   "text": "Rock Around the Clock",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:twist-and-shout",
+   "text": "Twist and Shout",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-twist",
+   "text": "The Twist",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:hey-jude",
+   "text": "Hey Jude",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:let-it-be",
+   "text": "Let It Be",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:yesterday",
+   "text": "Yesterday",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:here-comes-the-sun",
+   "text": "Here Comes the Sun",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:yellow-submarine",
+   "text": "Yellow Submarine",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:come-together",
+   "text": "Come Together",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:all-you-need-is-love",
+   "text": "All You Need Is Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:strawberry-fields-forever",
+   "text": "Strawberry Fields Forever",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:penny-lane",
+   "text": "Penny Lane",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:satisfaction",
+   "text": "Satisfaction",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:paint-it-black",
+   "text": "Paint It Black",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:imagine",
+   "text": "Imagine",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:purple-rain",
+   "text": "Purple Rain",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:when-doves-cry",
+   "text": "When Doves Cry",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:respect",
+   "text": "Respect",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:superstition",
+   "text": "Superstition",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:isn-t-she-lovely",
+   "text": "Isn't She Lovely",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:my-girl",
+   "text": "My Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:lean-on-me",
+   "text": "Lean on Me",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:stand-by-me",
+   "text": "Stand by Me",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:what-s-going-on",
+   "text": "What's Going On",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:ain-t-no-mountain-high-enough",
+   "text": "Ain't No Mountain High Enough",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:sweet-caroline",
+   "text": "Sweet Caroline",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:piano-man",
+   "text": "Piano Man",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:uptown-girl",
+   "text": "Uptown Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:we-didn-t-start-the-fire",
+   "text": "We Didn't Start the Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:tiny-dancer",
+   "text": "Tiny Dancer",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:rocket-man",
+   "text": "Rocket Man",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:your-song",
+   "text": "Your Song",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:i-m-still-standing",
+   "text": "I'm Still Standing",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:time-after-time",
+   "text": "Time After Time",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:like-a-rolling-stone",
+   "text": "Like a Rolling Stone",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:blowin-in-the-wind",
+   "text": "Blowin' in the Wind",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:ring-of-fire",
+   "text": "Ring of Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:jolene",
+   "text": "Jolene",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:9-to-5",
+   "text": "9 to 5",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:islands-in-the-stream",
+   "text": "Islands in the Stream",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:i-will-always-love-you",
+   "text": "I Will Always Love You",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:i-wanna-dance-with-somebody",
+   "text": "I Wanna Dance with Somebody",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:my-heart-will-go-on",
+   "text": "My Heart Will Go On",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:take-me-home-country-roads",
+   "text": "Take Me Home, Country Roads",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:friends-in-low-places",
+   "text": "Friends in Low Places",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-gambler",
+   "text": "The Gambler",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:achy-breaky-heart",
+   "text": "Achy Breaky Heart",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:before-he-cheats",
+   "text": "Before He Cheats",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:you-re-still-the-one",
+   "text": "You're Still the One",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:fast-car",
+   "text": "Fast Car",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:on-the-road-again",
+   "text": "On the Road Again",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:cotton-eye-joe",
+   "text": "Cotton-Eye Joe",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:old-town-road",
+   "text": "Old Town Road",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:hit-the-road-jack",
+   "text": "Hit the Road Jack",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:georgia-on-my-mind",
+   "text": "Georgia on My Mind",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:what-a-wonderful-world",
+   "text": "What a Wonderful World",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:fly-me-to-the-moon",
+   "text": "Fly Me to the Moon",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:new-york-new-york",
+   "text": "New York, New York",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:my-way",
+   "text": "My Way",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:strangers-in-the-night",
+   "text": "Strangers in the Night",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:that-s-amore",
+   "text": "That's Amore",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:moon-river",
+   "text": "Moon River",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:somewhere-over-the-rainbow",
+   "text": "Somewhere Over the Rainbow",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:unchained-melody",
+   "text": "Unchained Melody",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:great-balls-of-fire",
+   "text": "Great Balls of Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:tutti-frutti",
+   "text": "Tutti Frutti",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:dancing-in-the-street",
+   "text": "Dancing in the Street",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:brown-eyed-girl",
+   "text": "Brown Eyed Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:wild-thing",
+   "text": "Wild Thing",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:born-to-be-wild",
+   "text": "Born to Be Wild",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bad-moon-rising",
+   "text": "Bad Moon Rising",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:proud-mary",
+   "text": "Proud Mary",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:american-pie",
+   "text": "American Pie",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bridge-over-troubled-water",
+   "text": "Bridge over Troubled Water",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:mrs-robinson",
+   "text": "Mrs. Robinson",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-sound-of-silence",
+   "text": "The Sound of Silence",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:dust-in-the-wind",
+   "text": "Dust in the Wind",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:more-than-a-feeling",
+   "text": "More Than a Feeling",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:go-your-own-way",
+   "text": "Go Your Own Way",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:landslide",
+   "text": "Landslide",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:rhiannon",
+   "text": "Rhiannon",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:i-want-to-break-free",
+   "text": "I Want to Break Free",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:crazy-train",
+   "text": "Crazy Train",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:enter-sandman",
+   "text": "Enter Sandman",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:nothing-else-matters",
+   "text": "Nothing Else Matters",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:smoke-on-the-water",
+   "text": "Smoke on the Water",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:light-my-fire",
+   "text": "Light My Fire",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:good-vibrations",
+   "text": "Good Vibrations",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:surfin-u-s-a",
+   "text": "Surfin' U.S.A.",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:kokomo",
+   "text": "Kokomo",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:in-the-air-tonight",
+   "text": "In the Air Tonight",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:careless-whisper",
+   "text": "Careless Whisper",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:man-in-the-mirror",
+   "text": "Man in the Mirror",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:smooth-criminal",
+   "text": "Smooth Criminal",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:abc",
+   "text": "ABC",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:i-want-you-back",
+   "text": "I Want You Back",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:shout",
+   "text": "Shout",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:killing-me-softly",
+   "text": "Killing Me Softly",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:wind-beneath-my-wings",
+   "text": "Wind Beneath My Wings",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:we-are-the-world",
+   "text": "We Are the World",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:take-on-me",
+   "text": "Take On Me",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:tainted-love",
+   "text": "Tainted Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:don-t-you-forget-about-me",
+   "text": "Don't You Forget About Me",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:every-breath-you-take",
+   "text": "Every Breath You Take",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:roxanne",
+   "text": "Roxanne",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:sweet-dreams",
+   "text": "Sweet Dreams",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:africa",
+   "text": "Africa",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:eye-of-the-tiger",
+   "text": "Eye of the Tiger",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:danger-zone",
+   "text": "Danger Zone",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:take-my-breath-away",
+   "text": "Take My Breath Away",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:total-eclipse-of-the-heart",
+   "text": "Total Eclipse of the Heart",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:jessie-s-girl",
+   "text": "Jessie's Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:don-t-worry-be-happy",
+   "text": "Don't Worry, Be Happy",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:walk-like-an-egyptian",
+   "text": "Walk Like an Egyptian",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:here-i-go-again",
+   "text": "Here I Go Again",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:karma-chameleon",
+   "text": "Karma Chameleon",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:come-on-eileen",
+   "text": "Come On Eileen",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:super-freak",
+   "text": "Super Freak",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:funkytown",
+   "text": "Funkytown",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-final-countdown",
+   "text": "The Final Countdown",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:we-re-not-gonna-take-it",
+   "text": "We're Not Gonna Take It",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:i-love-rock-n-roll",
+   "text": "I Love Rock 'n' Roll",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bad-to-the-bone",
+   "text": "Bad to the Bone",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:every-rose-has-its-thorn",
+   "text": "Every Rose Has Its Thorn",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:manic-monday",
+   "text": "Manic Monday",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:walking-on-sunshine",
+   "text": "Walking on Sunshine",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:i-want-it-that-way",
+   "text": "I Want It That Way",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:bye-bye-bye",
+   "text": "Bye Bye Bye",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:wannabe",
+   "text": "Wannabe",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:mmmbop",
+   "text": "MMMBop",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:no-scrubs",
+   "text": "No Scrubs",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:waterfalls",
+   "text": "Waterfalls",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:torn",
+   "text": "Torn",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:ironic",
+   "text": "Ironic",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:you-oughta-know",
+   "text": "You Oughta Know",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:zombie",
+   "text": "Zombie",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:losing-my-religion",
+   "text": "Losing My Religion",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:mambo-no-5",
+   "text": "Mambo No. 5",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:barbie-girl",
+   "text": "Barbie Girl",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:blue-da-ba-dee",
+   "text": "Blue (Da Ba Dee)",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:who-let-the-dogs-out",
+   "text": "Who Let the Dogs Out",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:believe",
+   "text": "Believe",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:kiss-from-a-rose",
+   "text": "Kiss from a Rose",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:livin-la-vida-loca",
+   "text": "Livin' la Vida Loca",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:bailando",
+   "text": "Bailando",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:hips-don-t-lie",
+   "text": "Hips Don't Lie",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:waka-waka",
+   "text": "Waka Waka",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:whenever-wherever",
+   "text": "Whenever, Wherever",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:la-bamba",
+   "text": "La Bamba",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:cha-cha-slide",
+   "text": "Cha Cha Slide",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:cupid-shuffle",
+   "text": "Cupid Shuffle",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:electric-slide",
+   "text": "Electric Slide",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:hey-ya",
+   "text": "Hey Ya!",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:in-da-club",
+   "text": "In Da Club",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:lose-yourself",
+   "text": "Lose Yourself",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:the-real-slim-shady",
+   "text": "The Real Slim Shady",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:california-love",
+   "text": "California Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:u-can-t-touch-this",
+   "text": "U Can't Touch This",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:ice-ice-baby",
+   "text": "Ice Ice Baby",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:rapper-s-delight",
+   "text": "Rapper's Delight",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:jump-around",
+   "text": "Jump Around",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:party-rock-anthem",
+   "text": "Party Rock Anthem",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:thrift-shop",
+   "text": "Thrift Shop",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:get-lucky",
+   "text": "Get Lucky",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:shut-up-and-dance",
+   "text": "Shut Up and Dance",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:royals",
+   "text": "Royals",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:chandelier",
+   "text": "Chandelier",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:titanium",
+   "text": "Titanium",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:counting-stars",
+   "text": "Counting Stars",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:radioactive",
+   "text": "Radioactive",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:believer",
+   "text": "Believer",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:viva-la-vida",
+   "text": "Viva la Vida",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:yellow",
+   "text": "Yellow",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:fix-you",
+   "text": "Fix You",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:clocks",
+   "text": "Clocks",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:the-scientist",
+   "text": "The Scientist",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:moves-like-jagger",
+   "text": "Moves Like Jagger",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:she-will-be-loved",
+   "text": "She Will Be Loved",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:payphone",
+   "text": "Payphone",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:stay-with-me",
+   "text": "Stay with Me",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:thinking-out-loud",
+   "text": "Thinking Out Loud",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:let-her-go",
+   "text": "Let Her Go",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:hey-there-delilah",
+   "text": "Hey There Delilah",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:mr-brightside",
+   "text": "Mr. Brightside",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:wonderwall",
+   "text": "Wonderwall",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:smells-like-teen-spirit",
+   "text": "Smells Like Teen Spirit",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:come-as-you-are",
+   "text": "Come As You Are",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:creep",
+   "text": "Creep",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:basket-case",
+   "text": "Basket Case",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:boulevard-of-broken-dreams",
+   "text": "Boulevard of Broken Dreams",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:american-idiot",
+   "text": "American Idiot",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:in-the-end",
+   "text": "In the End",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:numb",
+   "text": "Numb",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bring-me-to-life",
+   "text": "Bring Me to Life",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:seven-nation-army",
+   "text": "Seven Nation Army",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:iris",
+   "text": "Iris",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:all-star",
+   "text": "All Star",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:smooth",
+   "text": "Smooth",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:all-too-well",
+   "text": "All Too Well",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:you-belong-with-me",
+   "text": "You Belong with Me",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bad-blood",
+   "text": "Bad Blood",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:blinding-lights",
+   "text": "Blinding Lights",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:can-t-feel-my-face",
+   "text": "Can't Feel My Face",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:hotline-bling",
+   "text": "Hotline Bling",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:god-s-plan",
+   "text": "God's Plan",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:not-like-us",
+   "text": "Not Like Us",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:super-bass",
+   "text": "Super Bass",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:truth-hurts",
+   "text": "Truth Hurts",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:espresso",
+   "text": "Espresso",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:please-please-please",
+   "text": "Please Please Please",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:birds-of-a-feather",
+   "text": "Birds of a Feather",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:love-yourself",
+   "text": "Love Yourself",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:what-do-you-mean",
+   "text": "What Do You Mean?",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:senorita",
+   "text": "Señorita",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:havana",
+   "text": "Havana",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:thank-u-next",
+   "text": "Thank U, Next",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:7-rings",
+   "text": "7 Rings",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:dynamite",
+   "text": "Dynamite",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:easy-on-me",
+   "text": "Easy on Me",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:set-fire-to-the-rain",
+   "text": "Set Fire to the Rain",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:telephone",
+   "text": "Telephone",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:paparazzi",
+   "text": "Paparazzi",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:born-this-way",
+   "text": "Born This Way",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:we-found-love",
+   "text": "We Found Love",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:irreplaceable",
+   "text": "Irreplaceable",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:say-my-name",
+   "text": "Say My Name",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:hollaback-girl",
+   "text": "Hollaback Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:don-t-speak",
+   "text": "Don't Speak",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:complicated",
+   "text": "Complicated",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:sk8er-boi",
+   "text": "Sk8er Boi",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:a-thousand-miles",
+   "text": "A Thousand Miles",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:hey-soul-sister",
+   "text": "Hey Soul Sister",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:fireflies",
+   "text": "Fireflies",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:i-gotta-feeling",
+   "text": "I Gotta Feeling",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:where-is-the-love",
+   "text": "Where Is the Love?",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:what-makes-you-beautiful",
+   "text": "What Makes You Beautiful",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:all-of-me",
+   "text": "All of Me",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:all-about-that-bass",
+   "text": "All About That Bass",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:texas-hold-em",
+   "text": "Texas Hold 'Em",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:jingle-bells",
+   "text": "Jingle Bells",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:jingle-bell-rock",
+   "text": "Jingle Bell Rock",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:rudolph-the-red-nosed-reindeer",
+   "text": "Rudolph the Red-Nosed Reindeer",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:frosty-the-snowman",
+   "text": "Frosty the Snowman",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:silent-night",
+   "text": "Silent Night",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:feliz-navidad",
+   "text": "Feliz Navidad",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:last-christmas",
+   "text": "Last Christmas",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:let-it-snow",
+   "text": "Let It Snow",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:here-comes-santa-claus",
+   "text": "Here Comes Santa Claus",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:deck-the-halls",
+   "text": "Deck the Halls",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:auld-lang-syne",
+   "text": "Auld Lang Syne",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:amazing-grace",
+   "text": "Amazing Grace",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-star-spangled-banner",
+   "text": "The Star-Spangled Banner",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:america-the-beautiful",
+   "text": "America the Beautiful",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:god-bless-america",
+   "text": "God Bless America",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:yankee-doodle",
+   "text": "Yankee Doodle",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:let-it-go",
+   "text": "Let It Go",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:hakuna-matata",
+   "text": "Hakuna Matata",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:under-the-sea",
+   "text": "Under the Sea",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:a-whole-new-world",
+   "text": "A Whole New World",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:circle-of-life",
+   "text": "Circle of Life",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:be-our-guest",
+   "text": "Be Our Guest",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:how-far-i-ll-go",
+   "text": "How Far I'll Go",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:we-don-t-talk-about-bruno",
+   "text": "We Don't Talk About Bruno",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:into-the-unknown",
+   "text": "Into the Unknown",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:a-spoonful-of-sugar",
+   "text": "A Spoonful of Sugar",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:bibbidi-bobbidi-boo",
+   "text": "Bibbidi-Bobbidi-Boo",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:zip-a-dee-doo-dah",
+   "text": "Zip-a-Dee-Doo-Dah",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-bare-necessities",
+   "text": "The Bare Necessities",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:whistle-while-you-work",
+   "text": "Whistle While You Work",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:part-of-your-world",
+   "text": "Part of Your World",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:kiss-the-girl",
+   "text": "Kiss the Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:colors-of-the-wind",
+   "text": "Colors of the Wind",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:do-re-mi",
+   "text": "Do-Re-Mi",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:my-favorite-things",
+   "text": "My Favorite Things",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:edelweiss",
+   "text": "Edelweiss",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:defying-gravity",
+   "text": "Defying Gravity",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-phantom-of-the-opera",
+   "text": "The Phantom of the Opera",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:seasons-of-love",
+   "text": "Seasons of Love",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:summer-nights",
+   "text": "Summer Nights",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-time-warp",
+   "text": "The Time Warp",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:the-rainbow-connection",
+   "text": "The Rainbow Connection",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:mahna-mahna",
+   "text": "Mahna Mahna",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:rubber-duckie",
+   "text": "Rubber Duckie",
+   "difficulty": 2
+  },
+  {
+   "id": "song-titles:this-is-me",
+   "text": "This Is Me",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:a-million-dreams",
+   "text": "A Million Dreams",
+   "difficulty": 3
+  },
+  {
+   "id": "song-titles:baby-shark",
+   "text": "Baby Shark",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:twinkle-twinkle-little-star",
+   "text": "Twinkle Twinkle Little Star",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:old-macdonald",
+   "text": "Old MacDonald",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:row-row-row-your-boat",
+   "text": "Row, Row, Row Your Boat",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:the-wheels-on-the-bus",
+   "text": "The Wheels on the Bus",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:hokey-pokey",
+   "text": "Hokey Pokey",
+   "difficulty": 1
+  },
+  {
+   "id": "song-titles:the-chicken-dance",
+   "text": "The Chicken Dance",
+   "difficulty": 1
+  }
+ ]
+}

@@ -1,0 +1,2382 @@
+{
+ "id": "music-artists",
+ "name": "Music Artists",
+ "emoji": "🎤",
+ "description": "Singers and bands everyone knows.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "music-artists:taylor-swift",
+   "text": "Taylor Swift",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:beyonce",
+   "text": "Beyoncé",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:madonna",
+   "text": "Madonna",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:michael-jackson",
+   "text": "Michael Jackson",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:lady-gaga",
+   "text": "Lady Gaga",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:britney-spears",
+   "text": "Britney Spears",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:justin-bieber",
+   "text": "Justin Bieber",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:rihanna",
+   "text": "Rihanna",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:ariana-grande",
+   "text": "Ariana Grande",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:katy-perry",
+   "text": "Katy Perry",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:adele",
+   "text": "Adele",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:ed-sheeran",
+   "text": "Ed Sheeran",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:bruno-mars",
+   "text": "Bruno Mars",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:billie-eilish",
+   "text": "Billie Eilish",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:harry-styles",
+   "text": "Harry Styles",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:dua-lipa",
+   "text": "Dua Lipa",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:olivia-rodrigo",
+   "text": "Olivia Rodrigo",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:selena-gomez",
+   "text": "Selena Gomez",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:miley-cyrus",
+   "text": "Miley Cyrus",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:demi-lovato",
+   "text": "Demi Lovato",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:shakira",
+   "text": "Shakira",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:jennifer-lopez",
+   "text": "Jennifer Lopez",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:christina-aguilera",
+   "text": "Christina Aguilera",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:mariah-carey",
+   "text": "Mariah Carey",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:whitney-houston",
+   "text": "Whitney Houston",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:celine-dion",
+   "text": "Celine Dion",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:cher",
+   "text": "Cher",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:janet-jackson",
+   "text": "Janet Jackson",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:prince",
+   "text": "Prince",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:elton-john",
+   "text": "Elton John",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:billy-joel",
+   "text": "Billy Joel",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:stevie-wonder",
+   "text": "Stevie Wonder",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:lionel-richie",
+   "text": "Lionel Richie",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:cyndi-lauper",
+   "text": "Cyndi Lauper",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kylie-minogue",
+   "text": "Kylie Minogue",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:pink",
+   "text": "Pink",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kelly-clarkson",
+   "text": "Kelly Clarkson",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:carrie-underwood",
+   "text": "Carrie Underwood",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:justin-timberlake",
+   "text": "Justin Timberlake",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:usher",
+   "text": "Usher",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:shawn-mendes",
+   "text": "Shawn Mendes",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:charlie-puth",
+   "text": "Charlie Puth",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:sam-smith",
+   "text": "Sam Smith",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:lizzo",
+   "text": "Lizzo",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:doja-cat",
+   "text": "Doja Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sabrina-carpenter",
+   "text": "Sabrina Carpenter",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:chappell-roan",
+   "text": "Chappell Roan",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sza",
+   "text": "SZA",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-weeknd",
+   "text": "The Weeknd",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:post-malone",
+   "text": "Post Malone",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:lana-del-rey",
+   "text": "Lana Del Rey",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:lorde",
+   "text": "Lorde",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sia",
+   "text": "Sia",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:meghan-trainor",
+   "text": "Meghan Trainor",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:fergie",
+   "text": "Fergie",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:gwen-stefani",
+   "text": "Gwen Stefani",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:avril-lavigne",
+   "text": "Avril Lavigne",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:alicia-keys",
+   "text": "Alicia Keys",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:norah-jones",
+   "text": "Norah Jones",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:john-legend",
+   "text": "John Legend",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sheryl-crow",
+   "text": "Sheryl Crow",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:alanis-morissette",
+   "text": "Alanis Morissette",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:shania-twain",
+   "text": "Shania Twain",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jessica-simpson",
+   "text": "Jessica Simpson",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:hilary-duff",
+   "text": "Hilary Duff",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jonas-brothers",
+   "text": "Jonas Brothers",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:nsync",
+   "text": "NSYNC",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:backstreet-boys",
+   "text": "Backstreet Boys",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:spice-girls",
+   "text": "Spice Girls",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:destiny-s-child",
+   "text": "Destiny's Child",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:one-direction",
+   "text": "One Direction",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:new-kids-on-the-block",
+   "text": "New Kids on the Block",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:boyz-ii-men",
+   "text": "Boyz II Men",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:tlc",
+   "text": "TLC",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:hanson",
+   "text": "Hanson",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:fifth-harmony",
+   "text": "Fifth Harmony",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:black-eyed-peas",
+   "text": "Black Eyed Peas",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:maroon-5",
+   "text": "Maroon 5",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:onerepublic",
+   "text": "OneRepublic",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:imagine-dragons",
+   "text": "Imagine Dragons",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:coldplay",
+   "text": "Coldplay",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:the-chainsmokers",
+   "text": "The Chainsmokers",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:calvin-harris",
+   "text": "Calvin Harris",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:david-guetta",
+   "text": "David Guetta",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:daft-punk",
+   "text": "Daft Punk",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:pitbull",
+   "text": "Pitbull",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:flo-rida",
+   "text": "Flo Rida",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kesha",
+   "text": "Kesha",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:carly-rae-jepsen",
+   "text": "Carly Rae Jepsen",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:psy",
+   "text": "Psy",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bts",
+   "text": "BTS",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:blackpink",
+   "text": "Blackpink",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:bad-bunny",
+   "text": "Bad Bunny",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:j-balvin",
+   "text": "J Balvin",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:karol-g",
+   "text": "Karol G",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:daddy-yankee",
+   "text": "Daddy Yankee",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ricky-martin",
+   "text": "Ricky Martin",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:enrique-iglesias",
+   "text": "Enrique Iglesias",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:marc-anthony",
+   "text": "Marc Anthony",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:gloria-estefan",
+   "text": "Gloria Estefan",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:luis-fonsi",
+   "text": "Luis Fonsi",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-beatles",
+   "text": "The Beatles",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:the-rolling-stones",
+   "text": "The Rolling Stones",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:queen",
+   "text": "Queen",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:led-zeppelin",
+   "text": "Led Zeppelin",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:pink-floyd",
+   "text": "Pink Floyd",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:the-who",
+   "text": "The Who",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ac-dc",
+   "text": "AC/DC",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:aerosmith",
+   "text": "Aerosmith",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:guns-n-roses",
+   "text": "Guns N' Roses",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:metallica",
+   "text": "Metallica",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:nirvana",
+   "text": "Nirvana",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:pearl-jam",
+   "text": "Pearl Jam",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:foo-fighters",
+   "text": "Foo Fighters",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:red-hot-chili-peppers",
+   "text": "Red Hot Chili Peppers",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:u2",
+   "text": "U2",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:the-eagles",
+   "text": "The Eagles",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:fleetwood-mac",
+   "text": "Fleetwood Mac",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:bon-jovi",
+   "text": "Bon Jovi",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:def-leppard",
+   "text": "Def Leppard",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:journey",
+   "text": "Journey",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kiss",
+   "text": "Kiss",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:van-halen",
+   "text": "Van Halen",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bruce-springsteen",
+   "text": "Bruce Springsteen",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:tom-petty",
+   "text": "Tom Petty",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bob-dylan",
+   "text": "Bob Dylan",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:jimi-hendrix",
+   "text": "Jimi Hendrix",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:janis-joplin",
+   "text": "Janis Joplin",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-doors",
+   "text": "The Doors",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-beach-boys",
+   "text": "The Beach Boys",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:elvis-presley",
+   "text": "Elvis Presley",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:chuck-berry",
+   "text": "Chuck Berry",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:buddy-holly",
+   "text": "Buddy Holly",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:little-richard",
+   "text": "Little Richard",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jerry-lee-lewis",
+   "text": "Jerry Lee Lewis",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:johnny-cash",
+   "text": "Johnny Cash",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:roy-orbison",
+   "text": "Roy Orbison",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-kinks",
+   "text": "The Kinks",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-police",
+   "text": "The Police",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sting",
+   "text": "Sting",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-clash",
+   "text": "The Clash",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:ramones",
+   "text": "Ramones",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:green-day",
+   "text": "Green Day",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:blink-182",
+   "text": "Blink-182",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:linkin-park",
+   "text": "Linkin Park",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:weezer",
+   "text": "Weezer",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-killers",
+   "text": "The Killers",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:fall-out-boy",
+   "text": "Fall Out Boy",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:panic-at-the-disco",
+   "text": "Panic! at the Disco",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:my-chemical-romance",
+   "text": "My Chemical Romance",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:paramore",
+   "text": "Paramore",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:arctic-monkeys",
+   "text": "Arctic Monkeys",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-strokes",
+   "text": "The Strokes",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-white-stripes",
+   "text": "The White Stripes",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kings-of-leon",
+   "text": "Kings of Leon",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:radiohead",
+   "text": "Radiohead",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:oasis",
+   "text": "Oasis",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:muse",
+   "text": "Muse",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:nickelback",
+   "text": "Nickelback",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:matchbox-twenty",
+   "text": "Matchbox Twenty",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:goo-goo-dolls",
+   "text": "Goo Goo Dolls",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:third-eye-blind",
+   "text": "Third Eye Blind",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:smash-mouth",
+   "text": "Smash Mouth",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:hootie-and-the-blowfish",
+   "text": "Hootie & the Blowfish",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:dave-matthews-band",
+   "text": "Dave Matthews Band",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:counting-crows",
+   "text": "Counting Crows",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:barenaked-ladies",
+   "text": "Barenaked Ladies",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:no-doubt",
+   "text": "No Doubt",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-cranberries",
+   "text": "The Cranberries",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:soundgarden",
+   "text": "Soundgarden",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:stone-temple-pilots",
+   "text": "Stone Temple Pilots",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:alice-in-chains",
+   "text": "Alice in Chains",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:rage-against-the-machine",
+   "text": "Rage Against the Machine",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:system-of-a-down",
+   "text": "System of a Down",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:limp-bizkit",
+   "text": "Limp Bizkit",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:evanescence",
+   "text": "Evanescence",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:slipknot",
+   "text": "Slipknot",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:ozzy-osbourne",
+   "text": "Ozzy Osbourne",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:black-sabbath",
+   "text": "Black Sabbath",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:iron-maiden",
+   "text": "Iron Maiden",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:judas-priest",
+   "text": "Judas Priest",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:motley-crue",
+   "text": "Mötley Crüe",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:scorpions",
+   "text": "Scorpions",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:lynyrd-skynyrd",
+   "text": "Lynyrd Skynyrd",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:zz-top",
+   "text": "ZZ Top",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:creedence-clearwater-revival",
+   "text": "Creedence Clearwater Revival",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:santana",
+   "text": "Santana",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:steely-dan",
+   "text": "Steely Dan",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:reo-speedwagon",
+   "text": "REO Speedwagon",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:foreigner",
+   "text": "Foreigner",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:toto",
+   "text": "Toto",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:talking-heads",
+   "text": "Talking Heads",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:blondie",
+   "text": "Blondie",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-go-go-s",
+   "text": "The Go-Go's",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:duran-duran",
+   "text": "Duran Duran",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:depeche-mode",
+   "text": "Depeche Mode",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-cure",
+   "text": "The Cure",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:tears-for-fears",
+   "text": "Tears for Fears",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:wham",
+   "text": "Wham!",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:george-michael",
+   "text": "George Michael",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:boy-george",
+   "text": "Boy George",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:billy-idol",
+   "text": "Billy Idol",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:phil-collins",
+   "text": "Phil Collins",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:genesis",
+   "text": "Genesis",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:peter-gabriel",
+   "text": "Peter Gabriel",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:david-bowie",
+   "text": "David Bowie",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:rod-stewart",
+   "text": "Rod Stewart",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:freddie-mercury",
+   "text": "Freddie Mercury",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:mick-jagger",
+   "text": "Mick Jagger",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:paul-mccartney",
+   "text": "Paul McCartney",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:john-lennon",
+   "text": "John Lennon",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:ringo-starr",
+   "text": "Ringo Starr",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:george-harrison",
+   "text": "George Harrison",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:eric-clapton",
+   "text": "Eric Clapton",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:keith-richards",
+   "text": "Keith Richards",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bono",
+   "text": "Bono",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:dave-grohl",
+   "text": "Dave Grohl",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:grateful-dead",
+   "text": "Grateful Dead",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-mamas-and-the-papas",
+   "text": "The Mamas & the Papas",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bob-seger",
+   "text": "Bob Seger",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:john-mellencamp",
+   "text": "John Mellencamp",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bryan-adams",
+   "text": "Bryan Adams",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bonnie-tyler",
+   "text": "Bonnie Tyler",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:meat-loaf",
+   "text": "Meat Loaf",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:huey-lewis",
+   "text": "Huey Lewis",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:hall-and-oates",
+   "text": "Hall & Oates",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:air-supply",
+   "text": "Air Supply",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:kenny-loggins",
+   "text": "Kenny Loggins",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:alice-cooper",
+   "text": "Alice Cooper",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:nine-inch-nails",
+   "text": "Nine Inch Nails",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-doobie-brothers",
+   "text": "The Doobie Brothers",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:steve-miller-band",
+   "text": "Steve Miller Band",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:eminem",
+   "text": "Eminem",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:drake",
+   "text": "Drake",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:jay-z",
+   "text": "Jay-Z",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:kendrick-lamar",
+   "text": "Kendrick Lamar",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:snoop-dogg",
+   "text": "Snoop Dogg",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:dr-dre",
+   "text": "Dr. Dre",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:tupac",
+   "text": "Tupac",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:the-notorious-b-i-g",
+   "text": "The Notorious B.I.G.",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:50-cent",
+   "text": "50 Cent",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:nicki-minaj",
+   "text": "Nicki Minaj",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:cardi-b",
+   "text": "Cardi B",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:missy-elliott",
+   "text": "Missy Elliott",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:lil-wayne",
+   "text": "Lil Wayne",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:megan-thee-stallion",
+   "text": "Megan Thee Stallion",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:run-dmc",
+   "text": "Run-DMC",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:beastie-boys",
+   "text": "Beastie Boys",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:public-enemy",
+   "text": "Public Enemy",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:ll-cool-j",
+   "text": "LL Cool J",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ice-cube",
+   "text": "Ice Cube",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ice-t",
+   "text": "Ice-T",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:queen-latifah",
+   "text": "Queen Latifah",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:mc-hammer",
+   "text": "MC Hammer",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:vanilla-ice",
+   "text": "Vanilla Ice",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:salt-n-pepa",
+   "text": "Salt-N-Pepa",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:outkast",
+   "text": "OutKast",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:wu-tang-clan",
+   "text": "Wu-Tang Clan",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:nelly",
+   "text": "Nelly",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ludacris",
+   "text": "Ludacris",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:pharrell-williams",
+   "text": "Pharrell Williams",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:busta-rhymes",
+   "text": "Busta Rhymes",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:lauryn-hill",
+   "text": "Lauryn Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-fugees",
+   "text": "The Fugees",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:mary-j-blige",
+   "text": "Mary J. Blige",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:childish-gambino",
+   "text": "Childish Gambino",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:chance-the-rapper",
+   "text": "Chance the Rapper",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:j-cole",
+   "text": "J. Cole",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:macklemore",
+   "text": "Macklemore",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:wiz-khalifa",
+   "text": "Wiz Khalifa",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:tyler-the-creator",
+   "text": "Tyler, the Creator",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:akon",
+   "text": "Akon",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:t-pain",
+   "text": "T-Pain",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sean-paul",
+   "text": "Sean Paul",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:shaggy",
+   "text": "Shaggy",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bob-marley",
+   "text": "Bob Marley",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:lil-nas-x",
+   "text": "Lil Nas X",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ne-yo",
+   "text": "Ne-Yo",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:brandy",
+   "text": "Brandy",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:toni-braxton",
+   "text": "Toni Braxton",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:luther-vandross",
+   "text": "Luther Vandross",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:frank-ocean",
+   "text": "Frank Ocean",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:sade",
+   "text": "Sade",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:erykah-badu",
+   "text": "Erykah Badu",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:chaka-khan",
+   "text": "Chaka Khan",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:patti-labelle",
+   "text": "Patti LaBelle",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:gladys-knight",
+   "text": "Gladys Knight",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:barry-white",
+   "text": "Barry White",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:tina-turner",
+   "text": "Tina Turner",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:aretha-franklin",
+   "text": "Aretha Franklin",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:diana-ross",
+   "text": "Diana Ross",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-supremes",
+   "text": "The Supremes",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-temptations",
+   "text": "The Temptations",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-jackson-5",
+   "text": "The Jackson 5",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:marvin-gaye",
+   "text": "Marvin Gaye",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:otis-redding",
+   "text": "Otis Redding",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:ray-charles",
+   "text": "Ray Charles",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:james-brown",
+   "text": "James Brown",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sam-cooke",
+   "text": "Sam Cooke",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:etta-james",
+   "text": "Etta James",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:nina-simone",
+   "text": "Nina Simone",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:smokey-robinson",
+   "text": "Smokey Robinson",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:al-green",
+   "text": "Al Green",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:earth-wind-and-fire",
+   "text": "Earth, Wind & Fire",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kool-and-the-gang",
+   "text": "Kool & the Gang",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bee-gees",
+   "text": "Bee Gees",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:abba",
+   "text": "ABBA",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:donna-summer",
+   "text": "Donna Summer",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:gloria-gaynor",
+   "text": "Gloria Gaynor",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:village-people",
+   "text": "Village People",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-four-tops",
+   "text": "The Four Tops",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-righteous-brothers",
+   "text": "The Righteous Brothers",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-everly-brothers",
+   "text": "The Everly Brothers",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:sly-and-the-family-stone",
+   "text": "Sly and the Family Stone",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:lenny-kravitz",
+   "text": "Lenny Kravitz",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:seal",
+   "text": "Seal",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:amy-winehouse",
+   "text": "Amy Winehouse",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:garth-brooks",
+   "text": "Garth Brooks",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:dolly-parton",
+   "text": "Dolly Parton",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:willie-nelson",
+   "text": "Willie Nelson",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:reba-mcentire",
+   "text": "Reba McEntire",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kenny-rogers",
+   "text": "Kenny Rogers",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:george-strait",
+   "text": "George Strait",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:tim-mcgraw",
+   "text": "Tim McGraw",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:faith-hill",
+   "text": "Faith Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:blake-shelton",
+   "text": "Blake Shelton",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:luke-bryan",
+   "text": "Luke Bryan",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:keith-urban",
+   "text": "Keith Urban",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kenny-chesney",
+   "text": "Kenny Chesney",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:toby-keith",
+   "text": "Toby Keith",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:brad-paisley",
+   "text": "Brad Paisley",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:alan-jackson",
+   "text": "Alan Jackson",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:luke-combs",
+   "text": "Luke Combs",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:chris-stapleton",
+   "text": "Chris Stapleton",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:zach-bryan",
+   "text": "Zach Bryan",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:kacey-musgraves",
+   "text": "Kacey Musgraves",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:miranda-lambert",
+   "text": "Miranda Lambert",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:rascal-flatts",
+   "text": "Rascal Flatts",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:florida-georgia-line",
+   "text": "Florida Georgia Line",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-chicks",
+   "text": "The Chicks",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:patsy-cline",
+   "text": "Patsy Cline",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:loretta-lynn",
+   "text": "Loretta Lynn",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:hank-williams",
+   "text": "Hank Williams",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:merle-haggard",
+   "text": "Merle Haggard",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:waylon-jennings",
+   "text": "Waylon Jennings",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:glen-campbell",
+   "text": "Glen Campbell",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:john-denver",
+   "text": "John Denver",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:billy-ray-cyrus",
+   "text": "Billy Ray Cyrus",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:brooks-and-dunn",
+   "text": "Brooks & Dunn",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:simon-and-garfunkel",
+   "text": "Simon & Garfunkel",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:paul-simon",
+   "text": "Paul Simon",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:neil-diamond",
+   "text": "Neil Diamond",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:barry-manilow",
+   "text": "Barry Manilow",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:neil-young",
+   "text": "Neil Young",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:crosby-stills-and-nash",
+   "text": "Crosby, Stills & Nash",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:joni-mitchell",
+   "text": "Joni Mitchell",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:carole-king",
+   "text": "Carole King",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:james-taylor",
+   "text": "James Taylor",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:cat-stevens",
+   "text": "Cat Stevens",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:van-morrison",
+   "text": "Van Morrison",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:joe-cocker",
+   "text": "Joe Cocker",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bonnie-raitt",
+   "text": "Bonnie Raitt",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:melissa-etheridge",
+   "text": "Melissa Etheridge",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:tracy-chapman",
+   "text": "Tracy Chapman",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:sarah-mclachlan",
+   "text": "Sarah McLachlan",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:jack-johnson",
+   "text": "Jack Johnson",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:john-mayer",
+   "text": "John Mayer",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jason-mraz",
+   "text": "Jason Mraz",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:stevie-nicks",
+   "text": "Stevie Nicks",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:joan-jett",
+   "text": "Joan Jett",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:pat-benatar",
+   "text": "Pat Benatar",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-carpenters",
+   "text": "The Carpenters",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:sonny-and-cher",
+   "text": "Sonny & Cher",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:olivia-newton-john",
+   "text": "Olivia Newton-John",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-osmonds",
+   "text": "The Osmonds",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:donny-osmond",
+   "text": "Donny Osmond",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-monkees",
+   "text": "The Monkees",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jimmy-buffett",
+   "text": "Jimmy Buffett",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:mumford-and-sons",
+   "text": "Mumford & Sons",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:the-lumineers",
+   "text": "The Lumineers",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:hozier",
+   "text": "Hozier",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:noah-kahan",
+   "text": "Noah Kahan",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:louis-armstrong",
+   "text": "Louis Armstrong",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:frank-sinatra",
+   "text": "Frank Sinatra",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:dean-martin",
+   "text": "Dean Martin",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bing-crosby",
+   "text": "Bing Crosby",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:nat-king-cole",
+   "text": "Nat King Cole",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ella-fitzgerald",
+   "text": "Ella Fitzgerald",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:billie-holiday",
+   "text": "Billie Holiday",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:duke-ellington",
+   "text": "Duke Ellington",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:miles-davis",
+   "text": "Miles Davis",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:tony-bennett",
+   "text": "Tony Bennett",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:michael-buble",
+   "text": "Michael Bublé",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:josh-groban",
+   "text": "Josh Groban",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:andrea-bocelli",
+   "text": "Andrea Bocelli",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:luciano-pavarotti",
+   "text": "Luciano Pavarotti",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:mozart",
+   "text": "Mozart",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:bach",
+   "text": "Bach",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:chopin",
+   "text": "Chopin",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:tchaikovsky",
+   "text": "Tchaikovsky",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:vivaldi",
+   "text": "Vivaldi",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:yo-yo-ma",
+   "text": "Yo-Yo Ma",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:kenny-g",
+   "text": "Kenny G",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:yanni",
+   "text": "Yanni",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:enya",
+   "text": "Enya",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:liberace",
+   "text": "Liberace",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:weird-al-yankovic",
+   "text": "Weird Al Yankovic",
+   "difficulty": 1
+  },
+  {
+   "id": "music-artists:barbra-streisand",
+   "text": "Barbra Streisand",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:bette-midler",
+   "text": "Bette Midler",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:liza-minnelli",
+   "text": "Liza Minnelli",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:sammy-davis-jr",
+   "text": "Sammy Davis Jr.",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:harry-belafonte",
+   "text": "Harry Belafonte",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:chubby-checker",
+   "text": "Chubby Checker",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:frankie-valli",
+   "text": "Frankie Valli",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:john-williams",
+   "text": "John Williams",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:hans-zimmer",
+   "text": "Hans Zimmer",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:andrew-lloyd-webber",
+   "text": "Andrew Lloyd Webber",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:rick-astley",
+   "text": "Rick Astley",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:michael-bolton",
+   "text": "Michael Bolton",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:paula-abdul",
+   "text": "Paula Abdul",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:ace-of-base",
+   "text": "Ace of Base",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:aqua",
+   "text": "Aqua",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:savage-garden",
+   "text": "Savage Garden",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:mandy-moore",
+   "text": "Mandy Moore",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:nelly-furtado",
+   "text": "Nelly Furtado",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:jewel",
+   "text": "Jewel",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:dido",
+   "text": "Dido",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:kate-bush",
+   "text": "Kate Bush",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:annie-lennox",
+   "text": "Annie Lennox",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:eurythmics",
+   "text": "Eurythmics",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:pet-shop-boys",
+   "text": "Pet Shop Boys",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:a-ha",
+   "text": "a-ha",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:inxs",
+   "text": "INXS",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:robbie-williams",
+   "text": "Robbie Williams",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:lewis-capaldi",
+   "text": "Lewis Capaldi",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:ellie-goulding",
+   "text": "Ellie Goulding",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:charli-xcx",
+   "text": "Charli XCX",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:halsey",
+   "text": "Halsey",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:camila-cabello",
+   "text": "Camila Cabello",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jason-derulo",
+   "text": "Jason Derulo",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:zayn",
+   "text": "Zayn",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:benson-boone",
+   "text": "Benson Boone",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:tate-mcrae",
+   "text": "Tate McRae",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:rose",
+   "text": "Rosé",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:twenty-one-pilots",
+   "text": "Twenty One Pilots",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:florence-the-machine",
+   "text": "Florence + the Machine",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:vampire-weekend",
+   "text": "Vampire Weekend",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-black-keys",
+   "text": "The Black Keys",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:owl-city",
+   "text": "Owl City",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:gorillaz",
+   "text": "Gorillaz",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:beck",
+   "text": "Beck",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:the-smashing-pumpkins",
+   "text": "The Smashing Pumpkins",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:westlife",
+   "text": "Westlife",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:take-that",
+   "text": "Take That",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bjork",
+   "text": "Björk",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:skrillex",
+   "text": "Skrillex",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:marshmello",
+   "text": "Marshmello",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:diplo",
+   "text": "Diplo",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:tiesto",
+   "text": "Tiësto",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:moby",
+   "text": "Moby",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:celia-cruz",
+   "text": "Celia Cruz",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:rosalia",
+   "text": "Rosalía",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:jennifer-hudson",
+   "text": "Jennifer Hudson",
+   "difficulty": 2
+  },
+  {
+   "id": "music-artists:jason-aldean",
+   "text": "Jason Aldean",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:thomas-rhett",
+   "text": "Thomas Rhett",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:pentatonix",
+   "text": "Pentatonix",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:lil-jon",
+   "text": "Lil Jon",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:mark-ronson",
+   "text": "Mark Ronson",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:paul-anka",
+   "text": "Paul Anka",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:johnny-mathis",
+   "text": "Johnny Mathis",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:harry-connick-jr",
+   "text": "Harry Connick Jr.",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:bobby-mcferrin",
+   "text": "Bobby McFerrin",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:adam-lambert",
+   "text": "Adam Lambert",
+   "difficulty": 3
+  },
+  {
+   "id": "music-artists:maluma",
+   "text": "Maluma",
+   "difficulty": 3
+  }
+ ]
+}

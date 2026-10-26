@@ -1,0 +1,2337 @@
+{
+ "id": "tv-shows",
+ "name": "TV Shows",
+ "emoji": "📺",
+ "description": "Sitcoms, cartoons and binge-watches.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "tv-shows:friends",
+   "text": "Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:seinfeld",
+   "text": "Seinfeld",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-office",
+   "text": "The Office",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:cheers",
+   "text": "Cheers",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:frasier",
+   "text": "Frasier",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-simpsons",
+   "text": "The Simpsons",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:family-guy",
+   "text": "Family Guy",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:south-park",
+   "text": "South Park",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:how-i-met-your-mother",
+   "text": "How I Met Your Mother",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-big-bang-theory",
+   "text": "The Big Bang Theory",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:modern-family",
+   "text": "Modern Family",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:parks-and-recreation",
+   "text": "Parks and Recreation",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:brooklyn-nine-nine",
+   "text": "Brooklyn Nine-Nine",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:full-house",
+   "text": "Full House",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-fresh-prince-of-bel-air",
+   "text": "The Fresh Prince of Bel-Air",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:saved-by-the-bell",
+   "text": "Saved by the Bell",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:family-matters",
+   "text": "Family Matters",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:home-improvement",
+   "text": "Home Improvement",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:everybody-loves-raymond",
+   "text": "Everybody Loves Raymond",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-golden-girls",
+   "text": "The Golden Girls",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:i-love-lucy",
+   "text": "I Love Lucy",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-brady-bunch",
+   "text": "The Brady Bunch",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:happy-days",
+   "text": "Happy Days",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:gilligan-s-island",
+   "text": "Gilligan's Island",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-jeffersons",
+   "text": "The Jeffersons",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:all-in-the-family",
+   "text": "All in the Family",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:m-a-s-h",
+   "text": "M*A*S*H",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:roseanne",
+   "text": "Roseanne",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:growing-pains",
+   "text": "Growing Pains",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:who-s-the-boss",
+   "text": "Who's the Boss?",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:boy-meets-world",
+   "text": "Boy Meets World",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:sister-sister",
+   "text": "Sister, Sister",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:martin",
+   "text": "Martin",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:living-single",
+   "text": "Living Single",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:will-and-grace",
+   "text": "Will & Grace",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:that-70s-show",
+   "text": "That '70s Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:malcolm-in-the-middle",
+   "text": "Malcolm in the Middle",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:scrubs",
+   "text": "Scrubs",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:arrested-development",
+   "text": "Arrested Development",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:30-rock",
+   "text": "30 Rock",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-king-of-queens",
+   "text": "The King of Queens",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:two-and-a-half-men",
+   "text": "Two and a Half Men",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:everybody-hates-chris",
+   "text": "Everybody Hates Chris",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-middle",
+   "text": "The Middle",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-goldbergs",
+   "text": "The Goldbergs",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:black-ish",
+   "text": "Black-ish",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:abbott-elementary",
+   "text": "Abbott Elementary",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:ted-lasso",
+   "text": "Ted Lasso",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:community",
+   "text": "Community",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:new-girl",
+   "text": "New Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:superstore",
+   "text": "Superstore",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:young-sheldon",
+   "text": "Young Sheldon",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:last-man-standing",
+   "text": "Last Man Standing",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:curb-your-enthusiasm",
+   "text": "Curb Your Enthusiasm",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:veep",
+   "text": "Veep",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:silicon-valley",
+   "text": "Silicon Valley",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-good-place",
+   "text": "The Good Place",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fresh-off-the-boat",
+   "text": "Fresh Off the Boat",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:bewitched",
+   "text": "Bewitched",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:i-dream-of-jeannie",
+   "text": "I Dream of Jeannie",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-munsters",
+   "text": "The Munsters",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:leave-it-to-beaver",
+   "text": "Leave It to Beaver",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-andy-griffith-show",
+   "text": "The Andy Griffith Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:laverne-and-shirley",
+   "text": "Laverne & Shirley",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mork-and-mindy",
+   "text": "Mork & Mindy",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:three-s-company",
+   "text": "Three's Company",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:taxi",
+   "text": "Taxi",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:diff-rent-strokes",
+   "text": "Diff'rent Strokes",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:night-court",
+   "text": "Night Court",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:perfect-strangers",
+   "text": "Perfect Strangers",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:alf",
+   "text": "ALF",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mad-about-you",
+   "text": "Mad About You",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-wonder-years",
+   "text": "The Wonder Years",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:family-ties",
+   "text": "Family Ties",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:blossom",
+   "text": "Blossom",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:reba",
+   "text": "Reba",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-beverly-hillbillies",
+   "text": "The Beverly Hillbillies",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:green-acres",
+   "text": "Green Acres",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-honeymooners",
+   "text": "The Honeymooners",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mister-ed",
+   "text": "Mister Ed",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:get-smart",
+   "text": "Get Smart",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:hogan-s-heroes",
+   "text": "Hogan's Heroes",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-partridge-family",
+   "text": "The Partridge Family",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:moonlighting",
+   "text": "Moonlighting",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:blackadder",
+   "text": "Blackadder",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:keeping-up-appearances",
+   "text": "Keeping Up Appearances",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-it-crowd",
+   "text": "The IT Crowd",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:fawlty-towers",
+   "text": "Fawlty Towers",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:absolutely-fabulous",
+   "text": "Absolutely Fabulous",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:mr-bean",
+   "text": "Mr. Bean",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:monty-python-s-flying-circus",
+   "text": "Monty Python's Flying Circus",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:hannah-montana",
+   "text": "Hannah Montana",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:icarly",
+   "text": "iCarly",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:drake-and-josh",
+   "text": "Drake & Josh",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:that-s-so-raven",
+   "text": "That's So Raven",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:lizzie-mcguire",
+   "text": "Lizzie McGuire",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:wizards-of-waverly-place",
+   "text": "Wizards of Waverly Place",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:even-stevens",
+   "text": "Even Stevens",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:kenan-and-kel",
+   "text": "Kenan & Kel",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:zoey-101",
+   "text": "Zoey 101",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:victorious",
+   "text": "Victorious",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:good-luck-charlie",
+   "text": "Good Luck Charlie",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:jessie",
+   "text": "Jessie",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:austin-and-ally",
+   "text": "Austin & Ally",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:sabrina-the-teenage-witch",
+   "text": "Sabrina the Teenage Witch",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:clarissa-explains-it-all",
+   "text": "Clarissa Explains It All",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:big-time-rush",
+   "text": "Big Time Rush",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:henry-danger",
+   "text": "Henry Danger",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:all-that",
+   "text": "All That",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:double-dare",
+   "text": "Double Dare",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:legends-of-the-hidden-temple",
+   "text": "Legends of the Hidden Temple",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:goosebumps",
+   "text": "Goosebumps",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:power-rangers",
+   "text": "Power Rangers",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:sesame-street",
+   "text": "Sesame Street",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:mister-rogers-neighborhood",
+   "text": "Mister Rogers' Neighborhood",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:pee-wee-s-playhouse",
+   "text": "Pee-wee's Playhouse",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:barney-and-friends",
+   "text": "Barney & Friends",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:teletubbies",
+   "text": "Teletubbies",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:blue-s-clues",
+   "text": "Blue's Clues",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:dora-the-explorer",
+   "text": "Dora the Explorer",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:bob-the-builder",
+   "text": "Bob the Builder",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:thomas-and-friends",
+   "text": "Thomas & Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:paw-patrol",
+   "text": "Paw Patrol",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:peppa-pig",
+   "text": "Peppa Pig",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:bluey",
+   "text": "Bluey",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-muppet-show",
+   "text": "The Muppet Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fraggle-rock",
+   "text": "Fraggle Rock",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:reading-rainbow",
+   "text": "Reading Rainbow",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:bill-nye-the-science-guy",
+   "text": "Bill Nye the Science Guy",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:arthur",
+   "text": "Arthur",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:clifford-the-big-red-dog",
+   "text": "Clifford the Big Red Dog",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-magic-school-bus",
+   "text": "The Magic School Bus",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:caillou",
+   "text": "Caillou",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-wiggles",
+   "text": "The Wiggles",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:yo-gabba-gabba",
+   "text": "Yo Gabba Gabba!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:daniel-tiger",
+   "text": "Daniel Tiger",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mickey-mouse-clubhouse",
+   "text": "Mickey Mouse Clubhouse",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:doc-mcstuffins",
+   "text": "Doc McStuffins",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:pj-masks",
+   "text": "PJ Masks",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:cocomelon",
+   "text": "Cocomelon",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:ms-rachel",
+   "text": "Ms. Rachel",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:little-einsteins",
+   "text": "Little Einsteins",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:schoolhouse-rock",
+   "text": "Schoolhouse Rock!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:muppet-babies",
+   "text": "Muppet Babies",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:spongebob-squarepants",
+   "text": "SpongeBob SquarePants",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:scooby-doo",
+   "text": "Scooby-Doo",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-flintstones",
+   "text": "The Flintstones",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-jetsons",
+   "text": "The Jetsons",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:looney-tunes",
+   "text": "Looney Tunes",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:tom-and-jerry",
+   "text": "Tom and Jerry",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:rugrats",
+   "text": "Rugrats",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:hey-arnold",
+   "text": "Hey Arnold!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:doug",
+   "text": "Doug",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:rocko-s-modern-life",
+   "text": "Rocko's Modern Life",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:animaniacs",
+   "text": "Animaniacs",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:pinky-and-the-brain",
+   "text": "Pinky and the Brain",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:tiny-toon-adventures",
+   "text": "Tiny Toon Adventures",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:darkwing-duck",
+   "text": "Darkwing Duck",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:ducktales",
+   "text": "DuckTales",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:teenage-mutant-ninja-turtles",
+   "text": "Teenage Mutant Ninja Turtles",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:he-man",
+   "text": "He-Man",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:she-ra",
+   "text": "She-Ra",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:thundercats",
+   "text": "ThunderCats",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:g-i-joe",
+   "text": "G.I. Joe",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-smurfs",
+   "text": "The Smurfs",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:care-bears",
+   "text": "Care Bears",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:my-little-pony",
+   "text": "My Little Pony",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:strawberry-shortcake",
+   "text": "Strawberry Shortcake",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-powerpuff-girls",
+   "text": "The Powerpuff Girls",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:dexter-s-laboratory",
+   "text": "Dexter's Laboratory",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:johnny-bravo",
+   "text": "Johnny Bravo",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:courage-the-cowardly-dog",
+   "text": "Courage the Cowardly Dog",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:ed-edd-n-eddy",
+   "text": "Ed, Edd n Eddy",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:samurai-jack",
+   "text": "Samurai Jack",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-fairly-oddparents",
+   "text": "The Fairly OddParents",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:jimmy-neutron",
+   "text": "Jimmy Neutron",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:danny-phantom",
+   "text": "Danny Phantom",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:kim-possible",
+   "text": "Kim Possible",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:phineas-and-ferb",
+   "text": "Phineas and Ferb",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:avatar-the-last-airbender",
+   "text": "Avatar: The Last Airbender",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:adventure-time",
+   "text": "Adventure Time",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:regular-show",
+   "text": "Regular Show",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:gravity-falls",
+   "text": "Gravity Falls",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:steven-universe",
+   "text": "Steven Universe",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:teen-titans-go",
+   "text": "Teen Titans Go!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:dragon-ball-z",
+   "text": "Dragon Ball Z",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:sailor-moon",
+   "text": "Sailor Moon",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:naruto",
+   "text": "Naruto",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:one-piece",
+   "text": "One Piece",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:attack-on-titan",
+   "text": "Attack on Titan",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:king-of-the-hill",
+   "text": "King of the Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:futurama",
+   "text": "Futurama",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:bob-s-burgers",
+   "text": "Bob's Burgers",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:rick-and-morty",
+   "text": "Rick and Morty",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:american-dad",
+   "text": "American Dad!",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:archer",
+   "text": "Archer",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:bojack-horseman",
+   "text": "BoJack Horseman",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:daria",
+   "text": "Daria",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:recess",
+   "text": "Recess",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-wild-thornberrys",
+   "text": "The Wild Thornberrys",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:catdog",
+   "text": "CatDog",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:popeye",
+   "text": "Popeye",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:woody-woodpecker",
+   "text": "Woody Woodpecker",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-pink-panther",
+   "text": "The Pink Panther",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:rocky-and-bullwinkle",
+   "text": "Rocky and Bullwinkle",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:speed-racer",
+   "text": "Speed Racer",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:peanuts",
+   "text": "Peanuts",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-proud-family",
+   "text": "The Proud Family",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-amazing-world-of-gumball",
+   "text": "The Amazing World of Gumball",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:invincible",
+   "text": "Invincible",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:breaking-bad",
+   "text": "Breaking Bad",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:game-of-thrones",
+   "text": "Game of Thrones",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-sopranos",
+   "text": "The Sopranos",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-wire",
+   "text": "The Wire",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mad-men",
+   "text": "Mad Men",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:lost",
+   "text": "Lost",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:grey-s-anatomy",
+   "text": "Grey's Anatomy",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:er",
+   "text": "ER",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:house",
+   "text": "House",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:law-and-order",
+   "text": "Law & Order",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:csi",
+   "text": "CSI",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:ncis",
+   "text": "NCIS",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:criminal-minds",
+   "text": "Criminal Minds",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:bones",
+   "text": "Bones",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:castle",
+   "text": "Castle",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-x-files",
+   "text": "The X-Files",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:24",
+   "text": "24",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:prison-break",
+   "text": "Prison Break",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-walking-dead",
+   "text": "The Walking Dead",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:stranger-things",
+   "text": "Stranger Things",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-crown",
+   "text": "The Crown",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:downton-abbey",
+   "text": "Downton Abbey",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:yellowstone",
+   "text": "Yellowstone",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:succession",
+   "text": "Succession",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:this-is-us",
+   "text": "This Is Us",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:friday-night-lights",
+   "text": "Friday Night Lights",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:gilmore-girls",
+   "text": "Gilmore Girls",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:dawson-s-creek",
+   "text": "Dawson's Creek",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:one-tree-hill",
+   "text": "One Tree Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-o-c",
+   "text": "The O.C.",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:gossip-girl",
+   "text": "Gossip Girl",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:beverly-hills-90210",
+   "text": "Beverly Hills, 90210",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:desperate-housewives",
+   "text": "Desperate Housewives",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:ugly-betty",
+   "text": "Ugly Betty",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:glee",
+   "text": "Glee",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:heroes",
+   "text": "Heroes",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:smallville",
+   "text": "Smallville",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:buffy-the-vampire-slayer",
+   "text": "Buffy the Vampire Slayer",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:charmed",
+   "text": "Charmed",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:supernatural",
+   "text": "Supernatural",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-vampire-diaries",
+   "text": "The Vampire Diaries",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:riverdale",
+   "text": "Riverdale",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:pretty-little-liars",
+   "text": "Pretty Little Liars",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:squid-game",
+   "text": "Squid Game",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:money-heist",
+   "text": "Money Heist",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:bridgerton",
+   "text": "Bridgerton",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:wednesday",
+   "text": "Wednesday",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:ozark",
+   "text": "Ozark",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:orange-is-the-new-black",
+   "text": "Orange Is the New Black",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:house-of-cards",
+   "text": "House of Cards",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-handmaid-s-tale",
+   "text": "The Handmaid's Tale",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:westworld",
+   "text": "Westworld",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:black-mirror",
+   "text": "Black Mirror",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-mandalorian",
+   "text": "The Mandalorian",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:wandavision",
+   "text": "WandaVision",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:loki",
+   "text": "Loki",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-boys",
+   "text": "The Boys",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-bear",
+   "text": "The Bear",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:severance",
+   "text": "Severance",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-white-lotus",
+   "text": "The White Lotus",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:house-of-the-dragon",
+   "text": "House of the Dragon",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:cobra-kai",
+   "text": "Cobra Kai",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:outer-banks",
+   "text": "Outer Banks",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:emily-in-paris",
+   "text": "Emily in Paris",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:virgin-river",
+   "text": "Virgin River",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:grace-and-frankie",
+   "text": "Grace and Frankie",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:big-little-lies",
+   "text": "Big Little Lies",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:sherlock",
+   "text": "Sherlock",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:doctor-who",
+   "text": "Doctor Who",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:call-the-midwife",
+   "text": "Call the Midwife",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:peaky-blinders",
+   "text": "Peaky Blinders",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fleabag",
+   "text": "Fleabag",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:luther",
+   "text": "Luther",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:dallas",
+   "text": "Dallas",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:dynasty",
+   "text": "Dynasty",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:knight-rider",
+   "text": "Knight Rider",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-a-team",
+   "text": "The A-Team",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:magnum-p-i",
+   "text": "Magnum, P.I.",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:miami-vice",
+   "text": "Miami Vice",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:macgyver",
+   "text": "MacGyver",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:baywatch",
+   "text": "Baywatch",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:starsky-and-hutch",
+   "text": "Starsky & Hutch",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-dukes-of-hazzard",
+   "text": "The Dukes of Hazzard",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:chips",
+   "text": "CHiPs",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-love-boat",
+   "text": "The Love Boat",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fantasy-island",
+   "text": "Fantasy Island",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:little-house-on-the-prairie",
+   "text": "Little House on the Prairie",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-waltons",
+   "text": "The Waltons",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:bonanza",
+   "text": "Bonanza",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:gunsmoke",
+   "text": "Gunsmoke",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:twin-peaks",
+   "text": "Twin Peaks",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:columbo",
+   "text": "Columbo",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:matlock",
+   "text": "Matlock",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:quantum-leap",
+   "text": "Quantum Leap",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:touched-by-an-angel",
+   "text": "Touched by an Angel",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:walker-texas-ranger",
+   "text": "Walker, Texas Ranger",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-twilight-zone",
+   "text": "The Twilight Zone",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:battlestar-galactica",
+   "text": "Battlestar Galactica",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:lost-in-space",
+   "text": "Lost in Space",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-six-million-dollar-man",
+   "text": "The Six Million Dollar Man",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:alias",
+   "text": "Alias",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:chuck",
+   "text": "Chuck",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:psych",
+   "text": "Psych",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:monk",
+   "text": "Monk",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:suits",
+   "text": "Suits",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:blue-bloods",
+   "text": "Blue Bloods",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:hawaii-five-0",
+   "text": "Hawaii Five-0",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:chicago-fire",
+   "text": "Chicago Fire",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:nypd-blue",
+   "text": "NYPD Blue",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-good-wife",
+   "text": "The Good Wife",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:scandal",
+   "text": "Scandal",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:9-1-1",
+   "text": "9-1-1",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-good-doctor",
+   "text": "The Good Doctor",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:doogie-howser-m-d",
+   "text": "Doogie Howser, M.D.",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:7th-heaven",
+   "text": "7th Heaven",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:xena-warrior-princess",
+   "text": "Xena: Warrior Princess",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:firefly",
+   "text": "Firefly",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:fringe",
+   "text": "Fringe",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:outlander",
+   "text": "Outlander",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:once-upon-a-time",
+   "text": "Once Upon a Time",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:teen-wolf",
+   "text": "Teen Wolf",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-umbrella-academy",
+   "text": "The Umbrella Academy",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:lucifer",
+   "text": "Lucifer",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:arrow",
+   "text": "Arrow",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-flash",
+   "text": "The Flash",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:daredevil",
+   "text": "Daredevil",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:gotham",
+   "text": "Gotham",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:american-horror-story",
+   "text": "American Horror Story",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-haunting-of-hill-house",
+   "text": "The Haunting of Hill House",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-queen-s-gambit",
+   "text": "The Queen's Gambit",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:vikings",
+   "text": "Vikings",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:true-detective",
+   "text": "True Detective",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-morning-show",
+   "text": "The Morning Show",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:shogun",
+   "text": "Shogun",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:reacher",
+   "text": "Reacher",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:jack-ryan",
+   "text": "Jack Ryan",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:perry-mason",
+   "text": "Perry Mason",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:unsolved-mysteries",
+   "text": "Unsolved Mysteries",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:american-idol",
+   "text": "American Idol",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-voice",
+   "text": "The Voice",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:survivor",
+   "text": "Survivor",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-bachelor",
+   "text": "The Bachelor",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-bachelorette",
+   "text": "The Bachelorette",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:big-brother",
+   "text": "Big Brother",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-amazing-race",
+   "text": "The Amazing Race",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:dancing-with-the-stars",
+   "text": "Dancing with the Stars",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:america-s-got-talent",
+   "text": "America's Got Talent",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:jeopardy",
+   "text": "Jeopardy!",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:wheel-of-fortune",
+   "text": "Wheel of Fortune",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-price-is-right",
+   "text": "The Price Is Right",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:family-feud",
+   "text": "Family Feud",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:deal-or-no-deal",
+   "text": "Deal or No Deal",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:shark-tank",
+   "text": "Shark Tank",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:top-chef",
+   "text": "Top Chef",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:masterchef",
+   "text": "MasterChef",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:chopped",
+   "text": "Chopped",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:cake-boss",
+   "text": "Cake Boss",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:kitchen-nightmares",
+   "text": "Kitchen Nightmares",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:queer-eye",
+   "text": "Queer Eye",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:project-runway",
+   "text": "Project Runway",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:america-s-next-top-model",
+   "text": "America's Next Top Model",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:rupaul-s-drag-race",
+   "text": "RuPaul's Drag Race",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:keeping-up-with-the-kardashians",
+   "text": "Keeping Up with the Kardashians",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-real-housewives",
+   "text": "The Real Housewives",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:jersey-shore",
+   "text": "Jersey Shore",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-osbournes",
+   "text": "The Osbournes",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:love-island",
+   "text": "Love Island",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-masked-singer",
+   "text": "The Masked Singer",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-great-british-bake-off",
+   "text": "The Great British Bake Off",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fear-factor",
+   "text": "Fear Factor",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:wipeout",
+   "text": "Wipeout",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:fixer-upper",
+   "text": "Fixer Upper",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:property-brothers",
+   "text": "Property Brothers",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:house-hunters",
+   "text": "House Hunters",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:dirty-jobs",
+   "text": "Dirty Jobs",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mythbusters",
+   "text": "MythBusters",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:deadliest-catch",
+   "text": "Deadliest Catch",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:duck-dynasty",
+   "text": "Duck Dynasty",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:pawn-stars",
+   "text": "Pawn Stars",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:storage-wars",
+   "text": "Storage Wars",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:antiques-roadshow",
+   "text": "Antiques Roadshow",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:cops",
+   "text": "Cops",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:punk-d",
+   "text": "Punk'd",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:candid-camera",
+   "text": "Candid Camera",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:america-s-funniest-home-videos",
+   "text": "America's Funniest Home Videos",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:american-ninja-warrior",
+   "text": "American Ninja Warrior",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:supermarket-sweep",
+   "text": "Supermarket Sweep",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:let-s-make-a-deal",
+   "text": "Let's Make a Deal",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-newlywed-game",
+   "text": "The Newlywed Game",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:match-game",
+   "text": "Match Game",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:hollywood-squares",
+   "text": "Hollywood Squares",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:undercover-boss",
+   "text": "Undercover Boss",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:say-yes-to-the-dress",
+   "text": "Say Yes to the Dress",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:love-is-blind",
+   "text": "Love Is Blind",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:selling-sunset",
+   "text": "Selling Sunset",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-biggest-loser",
+   "text": "The Biggest Loser",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:extreme-makeover-home-edition",
+   "text": "Extreme Makeover: Home Edition",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:trading-spaces",
+   "text": "Trading Spaces",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:what-not-to-wear",
+   "text": "What Not to Wear",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:hoarders",
+   "text": "Hoarders",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:dr-phil",
+   "text": "Dr. Phil",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:judge-judy",
+   "text": "Judge Judy",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-people-s-court",
+   "text": "The People's Court",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:mtv-cribs",
+   "text": "MTV Cribs",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-real-world",
+   "text": "The Real World",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-hills",
+   "text": "The Hills",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:iron-chef",
+   "text": "Iron Chef",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:diners-drive-ins-and-dives",
+   "text": "Diners, Drive-Ins and Dives",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:nailed-it",
+   "text": "Nailed It!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:man-v-food",
+   "text": "Man v. Food",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:top-gear",
+   "text": "Top Gear",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:planet-earth",
+   "text": "Planet Earth",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:cosmos",
+   "text": "Cosmos",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:shark-week",
+   "text": "Shark Week",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:this-old-house",
+   "text": "This Old House",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-joy-of-painting",
+   "text": "The Joy of Painting",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:saturday-night-live",
+   "text": "Saturday Night Live",
+   "difficulty": 1
+  },
+  {
+   "id": "tv-shows:the-tonight-show",
+   "text": "The Tonight Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-late-show",
+   "text": "The Late Show",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-daily-show",
+   "text": "The Daily Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-oprah-winfrey-show",
+   "text": "The Oprah Winfrey Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-ellen-degeneres-show",
+   "text": "The Ellen DeGeneres Show",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-view",
+   "text": "The View",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:good-morning-america",
+   "text": "Good Morning America",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:60-minutes",
+   "text": "60 Minutes",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:jimmy-kimmel-live",
+   "text": "Jimmy Kimmel Live!",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-colbert-report",
+   "text": "The Colbert Report",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:last-week-tonight",
+   "text": "Last Week Tonight",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:whose-line-is-it-anyway",
+   "text": "Whose Line Is It Anyway?",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:mystery-science-theater-3000",
+   "text": "Mystery Science Theater 3000",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:madtv",
+   "text": "MADtv",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:in-living-color",
+   "text": "In Living Color",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:key-and-peele",
+   "text": "Key & Peele",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-carol-burnett-show",
+   "text": "The Carol Burnett Show",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-ed-sullivan-show",
+   "text": "The Ed Sullivan Show",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:american-bandstand",
+   "text": "American Bandstand",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:soul-train",
+   "text": "Soul Train",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:monday-night-football",
+   "text": "Monday Night Football",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:sportscenter",
+   "text": "SportsCenter",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:general-hospital",
+   "text": "General Hospital",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:days-of-our-lives",
+   "text": "Days of Our Lives",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-young-and-the-restless",
+   "text": "The Young and the Restless",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:the-bold-and-the-beautiful",
+   "text": "The Bold and the Beautiful",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-nanny",
+   "text": "The Nanny",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:sanford-and-son",
+   "text": "Sanford and Son",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:good-times",
+   "text": "Good Times",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:murphy-brown",
+   "text": "Murphy Brown",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:ghosts",
+   "text": "Ghosts",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:the-mickey-mouse-club",
+   "text": "The Mickey Mouse Club",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:gabby-s-dollhouse",
+   "text": "Gabby's Dollhouse",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:blippi",
+   "text": "Blippi",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:sofia-the-first",
+   "text": "Sofia the First",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:curious-george",
+   "text": "Curious George",
+   "difficulty": 2
+  },
+  {
+   "id": "tv-shows:wild-kratts",
+   "text": "Wild Kratts",
+   "difficulty": 3
+  },
+  {
+   "id": "tv-shows:married-at-first-sight",
+   "text": "Married at First Sight",
+   "difficulty": 3
+  }
+ ]
+}

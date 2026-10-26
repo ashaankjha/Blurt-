@@ -51,7 +51,7 @@
     "lint": "expo lint",
     "test": "jest",
     "test:coverage": "jest --coverage",
-    "content:validate": "tsx scripts/gen-packs/validate.ts --allow-incomplete",
+    "content:validate": "tsx scripts/gen-packs/validate.ts",
     "format": "prettier --write ."
   },
   "private": true,

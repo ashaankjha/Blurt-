@@ -19,6 +19,7 @@ const MIN_UNIQUE = 10_000;
 
 const allowIncomplete = process.argv.includes('--allow-incomplete');
 const errors: string[] = [];
+const warnings: string[] = [];
 const unique = new Set<string>();
 
 const files = fs.readdirSync(OUT_DIR).filter((f) => f.endsWith('.json') && f !== 'manifest.json');
@@ -43,6 +44,14 @@ for (const f of files) {
   if (`${pack.id}.json` !== f) errors.push(`${f}: id "${pack.id}" does not match filename`);
   if (!known.has(pack.id)) errors.push(`${f}: not listed in scripts/gen-packs/packs.ts`);
   const adult = pack.tags.includes('adult');
+  // Near-duplicates the exact dedupe misses ("Hot Dog" / "Hotdog", "Pancake" / "Pancakes"): warn only.
+  const compact = new Map<string, string>();
+  for (const p of pack.phrases) {
+    const key = normalizePhraseKey(p.text).replace(/ /g, '').replace(/(es|s)$/, '');
+    const prev = compact.get(key);
+    if (prev) warnings.push(`${f}: near-duplicate "${prev}" / "${p.text}"`);
+    else compact.set(key, p.text);
+  }
   for (const p of pack.phrases) {
     const reason = checkRules(p.text, adult);
     if (reason) errors.push(`${f}: "${p.text}" ${reason}`);
@@ -61,6 +70,7 @@ if (!allowIncomplete) {
   if (unique.size < MIN_UNIQUE) errors.push(`only ${unique.size} unique phrases (need ${MIN_UNIQUE}+)`);
 }
 
+if (warnings.length) console.warn(warnings.map((w) => `! ${w}`).join('\n'));
 console.log(`${files.length} pack files (+1 virtual) · ${unique.size} unique phrases`);
 if (errors.length) {
   console.error(errors.map((e) => `✗ ${e}`).join('\n'));

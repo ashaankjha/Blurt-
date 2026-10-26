@@ -1,0 +1,2962 @@
+{
+ "id": "movies",
+ "name": "Movies",
+ "emoji": "🎬",
+ "description": "Blockbusters and classics.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "movies:star-wars",
+   "text": "Star Wars",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:jaws",
+   "text": "Jaws",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:frozen",
+   "text": "Frozen",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:toy-story",
+   "text": "Toy Story",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-lion-king",
+   "text": "The Lion King",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:finding-nemo",
+   "text": "Finding Nemo",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:jurassic-park",
+   "text": "Jurassic Park",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:e-t",
+   "text": "E.T.",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:back-to-the-future",
+   "text": "Back to the Future",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-wizard-of-oz",
+   "text": "The Wizard of Oz",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:shrek",
+   "text": "Shrek",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:home-alone",
+   "text": "Home Alone",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ghostbusters",
+   "text": "Ghostbusters",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:rocky",
+   "text": "Rocky",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:grease",
+   "text": "Grease",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:cars",
+   "text": "Cars",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:up",
+   "text": "Up",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:aladdin",
+   "text": "Aladdin",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:cinderella",
+   "text": "Cinderella",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:snow-white",
+   "text": "Snow White",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:beauty-and-the-beast",
+   "text": "Beauty and the Beast",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-little-mermaid",
+   "text": "The Little Mermaid",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:harry-potter",
+   "text": "Harry Potter",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:spider-man",
+   "text": "Spider-Man",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:batman",
+   "text": "Batman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:superman",
+   "text": "Superman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:iron-man",
+   "text": "Iron Man",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:avatar",
+   "text": "Avatar",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:king-kong",
+   "text": "King Kong",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:godzilla",
+   "text": "Godzilla",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:jumanji",
+   "text": "Jumanji",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:mary-poppins",
+   "text": "Mary Poppins",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:pinocchio",
+   "text": "Pinocchio",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:dumbo",
+   "text": "Dumbo",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:bambi",
+   "text": "Bambi",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:peter-pan",
+   "text": "Peter Pan",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:mulan",
+   "text": "Mulan",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:moana",
+   "text": "Moana",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:coco",
+   "text": "Coco",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:inside-out",
+   "text": "Inside Out",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:monsters-inc",
+   "text": "Monsters, Inc.",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-incredibles",
+   "text": "The Incredibles",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ratatouille",
+   "text": "Ratatouille",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:wall-e",
+   "text": "WALL-E",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:madagascar",
+   "text": "Madagascar",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ice-age",
+   "text": "Ice Age",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:kung-fu-panda",
+   "text": "Kung Fu Panda",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:despicable-me",
+   "text": "Despicable Me",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:minions",
+   "text": "Minions",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:zootopia",
+   "text": "Zootopia",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:encanto",
+   "text": "Encanto",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:tangled",
+   "text": "Tangled",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-godfather",
+   "text": "The Godfather",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:casablanca",
+   "text": "Casablanca",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:gone-with-the-wind",
+   "text": "Gone with the Wind",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-sound-of-music",
+   "text": "The Sound of Music",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:forrest-gump",
+   "text": "Forrest Gump",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-matrix",
+   "text": "The Matrix",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:top-gun",
+   "text": "Top Gun",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:indiana-jones",
+   "text": "Indiana Jones",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:raiders-of-the-lost-ark",
+   "text": "Raiders of the Lost Ark",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:mission-impossible",
+   "text": "Mission: Impossible",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:james-bond",
+   "text": "James Bond",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:men-in-black",
+   "text": "Men in Black",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:independence-day",
+   "text": "Independence Day",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:transformers",
+   "text": "Transformers",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-avengers",
+   "text": "The Avengers",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:black-panther",
+   "text": "Black Panther",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:wonder-woman",
+   "text": "Wonder Woman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:captain-america",
+   "text": "Captain America",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:thor",
+   "text": "Thor",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:guardians-of-the-galaxy",
+   "text": "Guardians of the Galaxy",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ant-man",
+   "text": "Ant-Man",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:doctor-strange",
+   "text": "Doctor Strange",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:captain-marvel",
+   "text": "Captain Marvel",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:aquaman",
+   "text": "Aquaman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:barbie",
+   "text": "Barbie",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:oppenheimer",
+   "text": "Oppenheimer",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:top-gun-maverick",
+   "text": "Top Gun: Maverick",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-dark-knight",
+   "text": "The Dark Knight",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:joker",
+   "text": "Joker",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:deadpool",
+   "text": "Deadpool",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:x-men",
+   "text": "X-Men",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:fantastic-four",
+   "text": "Fantastic Four",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hulk",
+   "text": "Hulk",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:lord-of-the-rings",
+   "text": "Lord of the Rings",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-hobbit",
+   "text": "The Hobbit",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-hunger-games",
+   "text": "The Hunger Games",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:twilight",
+   "text": "Twilight",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:divergent",
+   "text": "Divergent",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-chronicles-of-narnia",
+   "text": "The Chronicles of Narnia",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:pirates-of-the-caribbean",
+   "text": "Pirates of the Caribbean",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:night-at-the-museum",
+   "text": "Night at the Museum",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:mrs-doubtfire",
+   "text": "Mrs. Doubtfire",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ghost",
+   "text": "Ghost",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dirty-dancing",
+   "text": "Dirty Dancing",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:footloose",
+   "text": "Footloose",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:flashdance",
+   "text": "Flashdance",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:saturday-night-fever",
+   "text": "Saturday Night Fever",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-breakfast-club",
+   "text": "The Breakfast Club",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:psycho",
+   "text": "Psycho",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-shining",
+   "text": "The Shining",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:vertigo",
+   "text": "Vertigo",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:citizen-kane",
+   "text": "Citizen Kane",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rear-window",
+   "text": "Rear Window",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-birds",
+   "text": "The Birds",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:north-by-northwest",
+   "text": "North by Northwest",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:singin-in-the-rain",
+   "text": "Singin' in the Rain",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:it-s-a-wonderful-life",
+   "text": "It's a Wonderful Life",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:miracle-on-34th-street",
+   "text": "Miracle on 34th Street",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:white-christmas",
+   "text": "White Christmas",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:ben-hur",
+   "text": "Ben-Hur",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-ten-commandments",
+   "text": "The Ten Commandments",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:lawrence-of-arabia",
+   "text": "Lawrence of Arabia",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:some-like-it-hot",
+   "text": "Some Like It Hot",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:breakfast-at-tiffany-s",
+   "text": "Breakfast at Tiffany's",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:roman-holiday",
+   "text": "Roman Holiday",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:west-side-story",
+   "text": "West Side Story",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:my-fair-lady",
+   "text": "My Fair Lady",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-graduate",
+   "text": "The Graduate",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bonnie-and-clyde",
+   "text": "Bonnie and Clyde",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:planet-of-the-apes",
+   "text": "Planet of the Apes",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:2001-a-space-odyssey",
+   "text": "2001: A Space Odyssey",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dr-strangelove",
+   "text": "Dr. Strangelove",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:willy-wonka",
+   "text": "Willy Wonka",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:chitty-chitty-bang-bang",
+   "text": "Chitty Chitty Bang Bang",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-sting",
+   "text": "The Sting",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:taxi-driver",
+   "text": "Taxi Driver",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-exorcist",
+   "text": "The Exorcist",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:halloween",
+   "text": "Halloween",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:alien",
+   "text": "Alien",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-terminator",
+   "text": "The Terminator",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:close-encounters",
+   "text": "Close Encounters",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:annie",
+   "text": "Annie",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:annie-hall",
+   "text": "Annie Hall",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:star-trek",
+   "text": "Star Trek",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-karate-kid",
+   "text": "The Karate Kid",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-goonies",
+   "text": "The Goonies",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:gremlins",
+   "text": "Gremlins",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:beetlejuice",
+   "text": "Beetlejuice",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:big",
+   "text": "Big",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:splash",
+   "text": "Splash",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:tootsie",
+   "text": "Tootsie",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:ferris-bueller-s-day-off",
+   "text": "Ferris Bueller's Day Off",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:sixteen-candles",
+   "text": "Sixteen Candles",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:pretty-in-pink",
+   "text": "Pretty in Pink",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dead-poets-society",
+   "text": "Dead Poets Society",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:field-of-dreams",
+   "text": "Field of Dreams",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rain-man",
+   "text": "Rain Man",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:when-harry-met-sally",
+   "text": "When Harry Met Sally",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:pretty-woman",
+   "text": "Pretty Woman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:coming-to-america",
+   "text": "Coming to America",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:beverly-hills-cop",
+   "text": "Beverly Hills Cop",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:lethal-weapon",
+   "text": "Lethal Weapon",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:die-hard",
+   "text": "Die Hard",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:predator",
+   "text": "Predator",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:robocop",
+   "text": "RoboCop",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:who-framed-roger-rabbit",
+   "text": "Who Framed Roger Rabbit",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-princess-bride",
+   "text": "The Princess Bride",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:honey-i-shrunk-the-kids",
+   "text": "Honey, I Shrunk the Kids",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:edward-scissorhands",
+   "text": "Edward Scissorhands",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rebel-without-a-cause",
+   "text": "Rebel Without a Cause",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:cleopatra",
+   "text": "Cleopatra",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:spartacus",
+   "text": "Spartacus",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-great-escape",
+   "text": "The Great Escape",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-italian-job",
+   "text": "The Italian Job",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:chinatown",
+   "text": "Chinatown",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:apocalypse-now",
+   "text": "Apocalypse Now",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-blues-brothers",
+   "text": "The Blues Brothers",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:airplane",
+   "text": "Airplane!",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:caddyshack",
+   "text": "Caddyshack",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:animal-house",
+   "text": "Animal House",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:spaceballs",
+   "text": "Spaceballs",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:three-amigos",
+   "text": "Three Amigos",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:planes-trains-and-automobiles",
+   "text": "Planes, Trains and Automobiles",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:uncle-buck",
+   "text": "Uncle Buck",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:national-lampoon-s-vacation",
+   "text": "National Lampoon's Vacation",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:christmas-vacation",
+   "text": "Christmas Vacation",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-empire-strikes-back",
+   "text": "The Empire Strikes Back",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:return-of-the-jedi",
+   "text": "Return of the Jedi",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:tron",
+   "text": "Tron",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:wargames",
+   "text": "WarGames",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:short-circuit",
+   "text": "Short Circuit",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-neverending-story",
+   "text": "The NeverEnding Story",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:labyrinth",
+   "text": "Labyrinth",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:romancing-the-stone",
+   "text": "Romancing the Stone",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:rambo",
+   "text": "Rambo",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:conan-the-barbarian",
+   "text": "Conan the Barbarian",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:blade-runner",
+   "text": "Blade Runner",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:total-recall",
+   "text": "Total Recall",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:young-frankenstein",
+   "text": "Young Frankenstein",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-rocky-horror-picture-show",
+   "text": "The Rocky Horror Picture Show",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:little-shop-of-horrors",
+   "text": "Little Shop of Horrors",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:fiddler-on-the-roof",
+   "text": "Fiddler on the Roof",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-king-and-i",
+   "text": "The King and I",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:on-the-waterfront",
+   "text": "On the Waterfront",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:goldfinger",
+   "text": "Goldfinger",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:groundhog-day",
+   "text": "Groundhog Day",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-mask",
+   "text": "The Mask",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:dumb-and-dumber",
+   "text": "Dumb and Dumber",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ace-ventura",
+   "text": "Ace Ventura",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:pulp-fiction",
+   "text": "Pulp Fiction",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-shawshank-redemption",
+   "text": "The Shawshank Redemption",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:speed",
+   "text": "Speed",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:true-lies",
+   "text": "True Lies",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:apollo-13",
+   "text": "Apollo 13",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:braveheart",
+   "text": "Braveheart",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:casper",
+   "text": "Casper",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:babe",
+   "text": "Babe",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:twister",
+   "text": "Twister",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:space-jam",
+   "text": "Space Jam",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:matilda",
+   "text": "Matilda",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:jerry-maguire",
+   "text": "Jerry Maguire",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-fifth-element",
+   "text": "The Fifth Element",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:good-will-hunting",
+   "text": "Good Will Hunting",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:armageddon",
+   "text": "Armageddon",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-truman-show",
+   "text": "The Truman Show",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:shakespeare-in-love",
+   "text": "Shakespeare in Love",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-parent-trap",
+   "text": "The Parent Trap",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-bug-s-life",
+   "text": "A Bug's Life",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:notting-hill",
+   "text": "Notting Hill",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-sixth-sense",
+   "text": "The Sixth Sense",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:fight-club",
+   "text": "Fight Club",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-blair-witch-project",
+   "text": "The Blair Witch Project",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:stuart-little",
+   "text": "Stuart Little",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-green-mile",
+   "text": "The Green Mile",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:gladiator",
+   "text": "Gladiator",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:cast-away",
+   "text": "Cast Away",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:erin-brockovich",
+   "text": "Erin Brockovich",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:miss-congeniality",
+   "text": "Miss Congeniality",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:meet-the-parents",
+   "text": "Meet the Parents",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:charlie-s-angels",
+   "text": "Charlie's Angels",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:remember-the-titans",
+   "text": "Remember the Titans",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:legally-blonde",
+   "text": "Legally Blonde",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:ocean-s-eleven",
+   "text": "Ocean's Eleven",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:zoolander",
+   "text": "Zoolander",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:spirited-away",
+   "text": "Spirited Away",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:lilo-and-stitch",
+   "text": "Lilo & Stitch",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:my-big-fat-greek-wedding",
+   "text": "My Big Fat Greek Wedding",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:catch-me-if-you-can",
+   "text": "Catch Me If You Can",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:chicago",
+   "text": "Chicago",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:elf",
+   "text": "Elf",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:school-of-rock",
+   "text": "School of Rock",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:freaky-friday",
+   "text": "Freaky Friday",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:love-actually",
+   "text": "Love Actually",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:holes",
+   "text": "Holes",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bad-boys",
+   "text": "Bad Boys",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:mean-girls",
+   "text": "Mean Girls",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-notebook",
+   "text": "The Notebook",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:napoleon-dynamite",
+   "text": "Napoleon Dynamite",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:anchorman",
+   "text": "Anchorman",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-polar-express",
+   "text": "The Polar Express",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:national-treasure",
+   "text": "National Treasure",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:mr-and-mrs-smith",
+   "text": "Mr. & Mrs. Smith",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:wedding-crashers",
+   "text": "Wedding Crashers",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:batman-begins",
+   "text": "Batman Begins",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:happy-feet",
+   "text": "Happy Feet",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-devil-wears-prada",
+   "text": "The Devil Wears Prada",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:little-miss-sunshine",
+   "text": "Little Miss Sunshine",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:casino-royale",
+   "text": "Casino Royale",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:enchanted",
+   "text": "Enchanted",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:juno",
+   "text": "Juno",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hairspray",
+   "text": "Hairspray",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:high-school-musical",
+   "text": "High School Musical",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:mamma-mia",
+   "text": "Mamma Mia!",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:slumdog-millionaire",
+   "text": "Slumdog Millionaire",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:edge-of-tomorrow",
+   "text": "Edge of Tomorrow",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:sister-act",
+   "text": "Sister Act",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-bodyguard",
+   "text": "The Bodyguard",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hook",
+   "text": "Hook",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:jurassic-world",
+   "text": "Jurassic World",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:clueless",
+   "text": "Clueless",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bring-it-on",
+   "text": "Bring It On",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:13-going-on-30",
+   "text": "13 Going on 30",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-princess-diaries",
+   "text": "The Princess Diaries",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bridget-jones-s-diary",
+   "text": "Bridget Jones's Diary",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:sleepless-in-seattle",
+   "text": "Sleepless in Seattle",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:you-ve-got-mail",
+   "text": "You've Got Mail",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hitch",
+   "text": "Hitch",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-proposal",
+   "text": "The Proposal",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:cheaper-by-the-dozen",
+   "text": "Cheaper by the Dozen",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:kindergarten-cop",
+   "text": "Kindergarten Cop",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:jingle-all-the-way",
+   "text": "Jingle All the Way",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-santa-clause",
+   "text": "The Santa Clause",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:a-christmas-story",
+   "text": "A Christmas Story",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:how-the-grinch-stole-christmas",
+   "text": "How the Grinch Stole Christmas",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:a-christmas-carol",
+   "text": "A Christmas Carol",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-holiday",
+   "text": "The Holiday",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:scrooged",
+   "text": "Scrooged",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:wayne-s-world",
+   "text": "Wayne's World",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:billy-madison",
+   "text": "Billy Madison",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:happy-gilmore",
+   "text": "Happy Gilmore",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-waterboy",
+   "text": "The Waterboy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:grown-ups",
+   "text": "Grown Ups",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:50-first-dates",
+   "text": "50 First Dates",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:liar-liar",
+   "text": "Liar Liar",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bruce-almighty",
+   "text": "Bruce Almighty",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-nutty-professor",
+   "text": "The Nutty Professor",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:austin-powers",
+   "text": "Austin Powers",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rush-hour",
+   "text": "Rush Hour",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:step-brothers",
+   "text": "Step Brothers",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dodgeball",
+   "text": "Dodgeball",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:tommy-boy",
+   "text": "Tommy Boy",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:tropic-thunder",
+   "text": "Tropic Thunder",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:talladega-nights",
+   "text": "Talladega Nights",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:inception",
+   "text": "Inception",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:how-to-train-your-dragon",
+   "text": "How to Train Your Dragon",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:black-swan",
+   "text": "Black Swan",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-social-network",
+   "text": "The Social Network",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-king-s-speech",
+   "text": "The King's Speech",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:bridesmaids",
+   "text": "Bridesmaids",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-help",
+   "text": "The Help",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:moneyball",
+   "text": "Moneyball",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:brave",
+   "text": "Brave",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:wreck-it-ralph",
+   "text": "Wreck-It Ralph",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:life-of-pi",
+   "text": "Life of Pi",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:les-miserables",
+   "text": "Les Misérables",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:pitch-perfect",
+   "text": "Pitch Perfect",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:gravity",
+   "text": "Gravity",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-wolf-of-wall-street",
+   "text": "The Wolf of Wall Street",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-lego-movie",
+   "text": "The Lego Movie",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:interstellar",
+   "text": "Interstellar",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:big-hero-6",
+   "text": "Big Hero 6",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:gone-girl",
+   "text": "Gone Girl",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:paddington",
+   "text": "Paddington",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-martian",
+   "text": "The Martian",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:mad-max",
+   "text": "Mad Max",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-force-awakens",
+   "text": "The Force Awakens",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:finding-dory",
+   "text": "Finding Dory",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:la-la-land",
+   "text": "La La Land",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-jungle-book",
+   "text": "The Jungle Book",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:hidden-figures",
+   "text": "Hidden Figures",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:get-out",
+   "text": "Get Out",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-quiet-place",
+   "text": "A Quiet Place",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:crazy-rich-asians",
+   "text": "Crazy Rich Asians",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-star-is-born",
+   "text": "A Star Is Born",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:avengers-endgame",
+   "text": "Avengers: Endgame",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:infinity-war",
+   "text": "Infinity War",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:knives-out",
+   "text": "Knives Out",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:parasite",
+   "text": "Parasite",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dune",
+   "text": "Dune",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:wicked",
+   "text": "Wicked",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:turning-red",
+   "text": "Turning Red",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:elemental",
+   "text": "Elemental",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:luca",
+   "text": "Luca",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:soul",
+   "text": "Soul",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:kpop-demon-hunters",
+   "text": "KPop Demon Hunters",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-greatest-showman",
+   "text": "The Greatest Showman",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:free-guy",
+   "text": "Free Guy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:ready-player-one",
+   "text": "Ready Player One",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:black-widow",
+   "text": "Black Widow",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:venom",
+   "text": "Venom",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:logan",
+   "text": "Logan",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:shazam",
+   "text": "Shazam!",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:justice-league",
+   "text": "Justice League",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:man-of-steel",
+   "text": "Man of Steel",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:jungle-cruise",
+   "text": "Jungle Cruise",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:cruella",
+   "text": "Cruella",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:maleficent",
+   "text": "Maleficent",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bird-box",
+   "text": "Bird Box",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:whiplash",
+   "text": "Whiplash",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-grand-budapest-hotel",
+   "text": "The Grand Budapest Hotel",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:birdman",
+   "text": "Birdman",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:moonlight",
+   "text": "Moonlight",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:argo",
+   "text": "Argo",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:memento",
+   "text": "Memento",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-prestige",
+   "text": "The Prestige",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:arrival",
+   "text": "Arrival",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-revenant",
+   "text": "The Revenant",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-big-short",
+   "text": "The Big Short",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:shutter-island",
+   "text": "Shutter Island",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:django-unchained",
+   "text": "Django Unchained",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-great-gatsby",
+   "text": "The Great Gatsby",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-fault-in-our-stars",
+   "text": "The Fault in Our Stars",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-maze-runner",
+   "text": "The Maze Runner",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:percy-jackson",
+   "text": "Percy Jackson",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-wrinkle-in-time",
+   "text": "A Wrinkle in Time",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:fantastic-beasts",
+   "text": "Fantastic Beasts",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:skyfall",
+   "text": "Skyfall",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-da-vinci-code",
+   "text": "The Da Vinci Code",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-pursuit-of-happyness",
+   "text": "The Pursuit of Happyness",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:i-am-legend",
+   "text": "I Am Legend",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:hancock",
+   "text": "Hancock",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:i-robot",
+   "text": "I, Robot",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:zombieland",
+   "text": "Zombieland",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:world-war-z",
+   "text": "World War Z",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-conjuring",
+   "text": "The Conjuring",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:paranormal-activity",
+   "text": "Paranormal Activity",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-lone-ranger",
+   "text": "The Lone Ranger",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:district-9",
+   "text": "District 9",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:pacific-rim",
+   "text": "Pacific Rim",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:into-the-woods",
+   "text": "Into the Woods",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:little-women",
+   "text": "Little Women",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:pride-and-prejudice",
+   "text": "Pride & Prejudice",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:ford-v-ferrari",
+   "text": "Ford v Ferrari",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:creed",
+   "text": "Creed",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-blind-side",
+   "text": "The Blind Side",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:moulin-rouge",
+   "text": "Moulin Rouge!",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:101-dalmatians",
+   "text": "101 Dalmatians",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:lady-and-the-tramp",
+   "text": "Lady and the Tramp",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:sleeping-beauty",
+   "text": "Sleeping Beauty",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:alice-in-wonderland",
+   "text": "Alice in Wonderland",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:fantasia",
+   "text": "Fantasia",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hercules",
+   "text": "Hercules",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:pocahontas",
+   "text": "Pocahontas",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:tarzan",
+   "text": "Tarzan",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-hunchback-of-notre-dame",
+   "text": "The Hunchback of Notre Dame",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-emperor-s-new-groove",
+   "text": "The Emperor's New Groove",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:chicken-little",
+   "text": "Chicken Little",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bolt",
+   "text": "Bolt",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-princess-and-the-frog",
+   "text": "The Princess and the Frog",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:raya-and-the-last-dragon",
+   "text": "Raya and the Last Dragon",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:monsters-university",
+   "text": "Monsters University",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:shark-tale",
+   "text": "Shark Tale",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bee-movie",
+   "text": "Bee Movie",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:megamind",
+   "text": "Megamind",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:puss-in-boots",
+   "text": "Puss in Boots",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-croods",
+   "text": "The Croods",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:trolls",
+   "text": "Trolls",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-boss-baby",
+   "text": "The Boss Baby",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-secret-life-of-pets",
+   "text": "The Secret Life of Pets",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:sing",
+   "text": "Sing",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hotel-transylvania",
+   "text": "Hotel Transylvania",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rio",
+   "text": "Rio",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:horton-hears-a-who",
+   "text": "Horton Hears a Who!",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-lorax",
+   "text": "The Lorax",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:my-neighbor-totoro",
+   "text": "My Neighbor Totoro",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:howl-s-moving-castle",
+   "text": "Howl's Moving Castle",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:ponyo",
+   "text": "Ponyo",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:chicken-run",
+   "text": "Chicken Run",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:wallace-and-gromit",
+   "text": "Wallace & Gromit",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:fantastic-mr-fox",
+   "text": "Fantastic Mr. Fox",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:james-and-the-giant-peach",
+   "text": "James and the Giant Peach",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:charlotte-s-web",
+   "text": "Charlotte's Web",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-fox-and-the-hound",
+   "text": "The Fox and the Hound",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:robin-hood",
+   "text": "Robin Hood",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-sword-in-the-stone",
+   "text": "The Sword in the Stone",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-aristocats",
+   "text": "The Aristocats",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-rescuers",
+   "text": "The Rescuers",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:winnie-the-pooh",
+   "text": "Winnie the Pooh",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-iron-giant",
+   "text": "The Iron Giant",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-land-before-time",
+   "text": "The Land Before Time",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:an-american-tail",
+   "text": "An American Tail",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-nightmare-before-christmas",
+   "text": "The Nightmare Before Christmas",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:coraline",
+   "text": "Coraline",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hocus-pocus",
+   "text": "Hocus Pocus",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-addams-family",
+   "text": "The Addams Family",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:halloweentown",
+   "text": "Halloweentown",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:free-willy",
+   "text": "Free Willy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:beethoven",
+   "text": "Beethoven",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:homeward-bound",
+   "text": "Homeward Bound",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:air-bud",
+   "text": "Air Bud",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:marley-and-me",
+   "text": "Marley & Me",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:lassie",
+   "text": "Lassie",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:black-beauty",
+   "text": "Black Beauty",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:seabiscuit",
+   "text": "Seabiscuit",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:war-horse",
+   "text": "War Horse",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:peter-rabbit",
+   "text": "Peter Rabbit",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:alvin-and-the-chipmunks",
+   "text": "Alvin and the Chipmunks",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-muppet-movie",
+   "text": "The Muppet Movie",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-witches",
+   "text": "The Witches",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:flubber",
+   "text": "Flubber",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bedknobs-and-broomsticks",
+   "text": "Bedknobs and Broomsticks",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-love-bug",
+   "text": "The Love Bug",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:swiss-family-robinson",
+   "text": "Swiss Family Robinson",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:diary-of-a-wimpy-kid",
+   "text": "Diary of a Wimpy Kid",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:spy-kids",
+   "text": "Spy Kids",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-cat-in-the-hat",
+   "text": "The Cat in the Hat",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:dr-dolittle",
+   "text": "Dr. Dolittle",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:george-of-the-jungle",
+   "text": "George of the Jungle",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:inspector-gadget",
+   "text": "Inspector Gadget",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:richie-rich",
+   "text": "Richie Rich",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-sandlot",
+   "text": "The Sandlot",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-mighty-ducks",
+   "text": "The Mighty Ducks",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:cool-runnings",
+   "text": "Cool Runnings",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-league-of-their-own",
+   "text": "A League of Their Own",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:rudy",
+   "text": "Rudy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bridge-to-terabithia",
+   "text": "Bridge to Terabithia",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-outsiders",
+   "text": "The Outsiders",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:hoosiers",
+   "text": "Hoosiers",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:major-league",
+   "text": "Major League",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:miracle",
+   "text": "Miracle",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:chariots-of-fire",
+   "text": "Chariots of Fire",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:raging-bull",
+   "text": "Raging Bull",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:million-dollar-baby",
+   "text": "Million Dollar Baby",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:white-men-can-t-jump",
+   "text": "White Men Can't Jump",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:bend-it-like-beckham",
+   "text": "Bend It Like Beckham",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:goodfellas",
+   "text": "Goodfellas",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:scarface",
+   "text": "Scarface",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:casino",
+   "text": "Casino",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-departed",
+   "text": "The Departed",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-usual-suspects",
+   "text": "The Usual Suspects",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:reservoir-dogs",
+   "text": "Reservoir Dogs",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:fargo",
+   "text": "Fargo",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:no-country-for-old-men",
+   "text": "No Country for Old Men",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-big-lebowski",
+   "text": "The Big Lebowski",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:o-brother-where-art-thou",
+   "text": "O Brother, Where Art Thou?",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:minority-report",
+   "text": "Minority Report",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:war-of-the-worlds",
+   "text": "War of the Worlds",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:lincoln",
+   "text": "Lincoln",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:a-few-good-men",
+   "text": "A Few Good Men",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-last-samurai",
+   "text": "The Last Samurai",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:risky-business",
+   "text": "Risky Business",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:interview-with-the-vampire",
+   "text": "Interview with the Vampire",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:unforgiven",
+   "text": "Unforgiven",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-silence-of-the-lambs",
+   "text": "The Silence of the Lambs",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:dances-with-wolves",
+   "text": "Dances with Wolves",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:driving-miss-daisy",
+   "text": "Driving Miss Daisy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:amadeus",
+   "text": "Amadeus",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:gandhi",
+   "text": "Gandhi",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:kramer-vs-kramer",
+   "text": "Kramer vs. Kramer",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:a-beautiful-mind",
+   "text": "A Beautiful Mind",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-fellowship-of-the-ring",
+   "text": "The Fellowship of the Ring",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-phantom-menace",
+   "text": "The Phantom Menace",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:rogue-one",
+   "text": "Rogue One",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:bill-and-ted-s-excellent-adventure",
+   "text": "Bill & Ted's Excellent Adventure",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:runaway-bride",
+   "text": "Runaway Bride",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:eat-pray-love",
+   "text": "Eat Pray Love",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:what-s-eating-gilbert-grape",
+   "text": "What's Eating Gilbert Grape",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:true-grit",
+   "text": "True Grit",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:high-noon",
+   "text": "High Noon",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:tombstone",
+   "text": "Tombstone",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:blazing-saddles",
+   "text": "Blazing Saddles",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:city-slickers",
+   "text": "City Slickers",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:rango",
+   "text": "Rango",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-magnificent-seven",
+   "text": "The Magnificent Seven",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:scream",
+   "text": "Scream",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:friday-the-13th",
+   "text": "Friday the 13th",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:a-nightmare-on-elm-street",
+   "text": "A Nightmare on Elm Street",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:poltergeist",
+   "text": "Poltergeist",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:child-s-play",
+   "text": "Child's Play",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:carrie",
+   "text": "Carrie",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-ring",
+   "text": "The Ring",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:signs",
+   "text": "Signs",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:arachnophobia",
+   "text": "Arachnophobia",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:tremors",
+   "text": "Tremors",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:anaconda",
+   "text": "Anaconda",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:snakes-on-a-plane",
+   "text": "Snakes on a Plane",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:sharknado",
+   "text": "Sharknado",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:cloverfield",
+   "text": "Cloverfield",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:night-of-the-living-dead",
+   "text": "Night of the Living Dead",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:shaun-of-the-dead",
+   "text": "Shaun of the Dead",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-fly",
+   "text": "The Fly",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:frankenstein",
+   "text": "Frankenstein",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:dracula",
+   "text": "Dracula",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:the-invisible-man",
+   "text": "The Invisible Man",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:contact",
+   "text": "Contact",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:galaxy-quest",
+   "text": "Galaxy Quest",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:mars-attacks",
+   "text": "Mars Attacks!",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-mummy",
+   "text": "The Mummy",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:watchmen",
+   "text": "Watchmen",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:blade",
+   "text": "Blade",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:enter-the-dragon",
+   "text": "Enter the Dragon",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:crouching-tiger-hidden-dragon",
+   "text": "Crouching Tiger, Hidden Dragon",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-bourne-identity",
+   "text": "The Bourne Identity",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-fast-and-the-furious",
+   "text": "The Fast and the Furious",
+   "difficulty": 1
+  },
+  {
+   "id": "movies:john-wick",
+   "text": "John Wick",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:taken",
+   "text": "Taken",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:point-break",
+   "text": "Point Break",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:con-air",
+   "text": "Con Air",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:face-off",
+   "text": "Face/Off",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:air-force-one",
+   "text": "Air Force One",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:deep-impact",
+   "text": "Deep Impact",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-day-after-tomorrow",
+   "text": "The Day After Tomorrow",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:300",
+   "text": "300",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:troy",
+   "text": "Troy",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:kingsman",
+   "text": "Kingsman",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:patch-adams",
+   "text": "Patch Adams",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:hot-fuzz",
+   "text": "Hot Fuzz",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:billy-elliot",
+   "text": "Billy Elliot",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:amelie",
+   "text": "Amélie",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:pan-s-labyrinth",
+   "text": "Pan's Labyrinth",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-color-purple",
+   "text": "The Color Purple",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:malcolm-x",
+   "text": "Malcolm X",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:walk-the-line",
+   "text": "Walk the Line",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:cats",
+   "text": "Cats",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:step-up",
+   "text": "Step Up",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:this-is-spinal-tap",
+   "text": "This Is Spinal Tap",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:almost-famous",
+   "text": "Almost Famous",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:thelma-and-louise",
+   "text": "Thelma & Louise",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:fried-green-tomatoes",
+   "text": "Fried Green Tomatoes",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:steel-magnolias",
+   "text": "Steel Magnolias",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:the-birdcage",
+   "text": "The Birdcage",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:four-weddings-and-a-funeral",
+   "text": "Four Weddings and a Funeral",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:a-walk-to-remember",
+   "text": "A Walk to Remember",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:p-s-i-love-you",
+   "text": "P.S. I Love You",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:sense-and-sensibility",
+   "text": "Sense and Sensibility",
+   "difficulty": 3
+  },
+  {
+   "id": "movies:romeo-juliet",
+   "text": "Romeo + Juliet",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:the-wedding-singer",
+   "text": "The Wedding Singer",
+   "difficulty": 2
+  },
+  {
+   "id": "movies:clash-of-the-titans",
+   "text": "Clash of the Titans",
+   "difficulty": 3
+  }
+ ]
+}

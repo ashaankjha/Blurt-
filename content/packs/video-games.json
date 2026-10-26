@@ -1,0 +1,1782 @@
+{
+ "id": "video-games",
+ "name": "Video Games",
+ "emoji": "🎮",
+ "description": "Games, characters and gaming lingo.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "video-games:super-mario-bros",
+   "text": "Super Mario Bros.",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:mario-kart",
+   "text": "Mario Kart",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:tetris",
+   "text": "Tetris",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:pac-man",
+   "text": "Pac-Man",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:minecraft",
+   "text": "Minecraft",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:fortnite",
+   "text": "Fortnite",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:pokemon",
+   "text": "Pokémon",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:the-legend-of-zelda",
+   "text": "The Legend of Zelda",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:sonic-the-hedgehog",
+   "text": "Sonic the Hedgehog",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:donkey-kong",
+   "text": "Donkey Kong",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:space-invaders",
+   "text": "Space Invaders",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:call-of-duty",
+   "text": "Call of Duty",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:halo",
+   "text": "Halo",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:street-fighter",
+   "text": "Street Fighter",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mortal-kombat",
+   "text": "Mortal Kombat",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:the-sims",
+   "text": "The Sims",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:simcity",
+   "text": "SimCity",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:angry-birds",
+   "text": "Angry Birds",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:candy-crush",
+   "text": "Candy Crush",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:animal-crossing",
+   "text": "Animal Crossing",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:among-us",
+   "text": "Among Us",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:roblox",
+   "text": "Roblox",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:frogger",
+   "text": "Frogger",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:galaga",
+   "text": "Galaga",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:asteroids",
+   "text": "Asteroids",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:centipede",
+   "text": "Centipede",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pong",
+   "text": "Pong",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:q-bert",
+   "text": "Q*bert",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:dig-dug",
+   "text": "Dig Dug",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:duck-hunt",
+   "text": "Duck Hunt",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:punch-out",
+   "text": "Punch-Out!!",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:metroid",
+   "text": "Metroid",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:star-fox",
+   "text": "Star Fox",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:super-smash-bros",
+   "text": "Super Smash Bros.",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:mario-party",
+   "text": "Mario Party",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:wii-sports",
+   "text": "Wii Sports",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:wii-fit",
+   "text": "Wii Fit",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:just-dance",
+   "text": "Just Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:dance-dance-revolution",
+   "text": "Dance Dance Revolution",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:guitar-hero",
+   "text": "Guitar Hero",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:rock-band",
+   "text": "Rock Band",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:crash-bandicoot",
+   "text": "Crash Bandicoot",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:spyro-the-dragon",
+   "text": "Spyro the Dragon",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:tomb-raider",
+   "text": "Tomb Raider",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:resident-evil",
+   "text": "Resident Evil",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:silent-hill",
+   "text": "Silent Hill",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:final-fantasy",
+   "text": "Final Fantasy",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:kingdom-hearts",
+   "text": "Kingdom Hearts",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:metal-gear-solid",
+   "text": "Metal Gear Solid",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:doom",
+   "text": "Doom",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:half-life",
+   "text": "Half-Life",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:portal",
+   "text": "Portal",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:bioshock",
+   "text": "BioShock",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:fallout",
+   "text": "Fallout",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:skyrim",
+   "text": "Skyrim",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:world-of-warcraft",
+   "text": "World of Warcraft",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:starcraft",
+   "text": "StarCraft",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:diablo",
+   "text": "Diablo",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:overwatch",
+   "text": "Overwatch",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:league-of-legends",
+   "text": "League of Legends",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:counter-strike",
+   "text": "Counter-Strike",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:valorant",
+   "text": "Valorant",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:apex-legends",
+   "text": "Apex Legends",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:rocket-league",
+   "text": "Rocket League",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:fifa",
+   "text": "FIFA",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:madden",
+   "text": "Madden",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:nba-2k",
+   "text": "NBA 2K",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:tony-hawk-s-pro-skater",
+   "text": "Tony Hawk's Pro Skater",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:need-for-speed",
+   "text": "Need for Speed",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gran-turismo",
+   "text": "Gran Turismo",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:assassin-s-creed",
+   "text": "Assassin's Creed",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:red-dead-redemption",
+   "text": "Red Dead Redemption",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:the-last-of-us",
+   "text": "The Last of Us",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:god-of-war",
+   "text": "God of War",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:uncharted",
+   "text": "Uncharted",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mass-effect",
+   "text": "Mass Effect",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:the-witcher",
+   "text": "The Witcher",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:elden-ring",
+   "text": "Elden Ring",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:dark-souls",
+   "text": "Dark Souls",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:cuphead",
+   "text": "Cuphead",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:hollow-knight",
+   "text": "Hollow Knight",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:stardew-valley",
+   "text": "Stardew Valley",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:terraria",
+   "text": "Terraria",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:undertale",
+   "text": "Undertale",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:five-nights-at-freddy-s",
+   "text": "Five Nights at Freddy's",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:fall-guys",
+   "text": "Fall Guys",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:genshin-impact",
+   "text": "Genshin Impact",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:clash-of-clans",
+   "text": "Clash of Clans",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:clash-royale",
+   "text": "Clash Royale",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pokemon-go",
+   "text": "Pokémon Go",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:fruit-ninja",
+   "text": "Fruit Ninja",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:temple-run",
+   "text": "Temple Run",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:subway-surfers",
+   "text": "Subway Surfers",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:flappy-bird",
+   "text": "Flappy Bird",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:doodle-jump",
+   "text": "Doodle Jump",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:cut-the-rope",
+   "text": "Cut the Rope",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:plants-vs-zombies",
+   "text": "Plants vs. Zombies",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:words-with-friends",
+   "text": "Words with Friends",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:wordle",
+   "text": "Wordle",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:farmville",
+   "text": "FarmVille",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:bejeweled",
+   "text": "Bejeweled",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:solitaire",
+   "text": "Solitaire",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:minesweeper",
+   "text": "Minesweeper",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:the-oregon-trail",
+   "text": "The Oregon Trail",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:carmen-sandiego",
+   "text": "Carmen Sandiego",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:myst",
+   "text": "Myst",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:lemmings",
+   "text": "Lemmings",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:prince-of-persia",
+   "text": "Prince of Persia",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pitfall",
+   "text": "Pitfall!",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:paperboy",
+   "text": "Paperboy",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:ms-pac-man",
+   "text": "Ms. Pac-Man",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mega-man",
+   "text": "Mega Man",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:castlevania",
+   "text": "Castlevania",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:contra",
+   "text": "Contra",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:double-dragon",
+   "text": "Double Dragon",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:bomberman",
+   "text": "Bomberman",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:earthworm-jim",
+   "text": "Earthworm Jim",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:banjo-kazooie",
+   "text": "Banjo-Kazooie",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:super-mario-64",
+   "text": "Super Mario 64",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:super-mario-galaxy",
+   "text": "Super Mario Galaxy",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:super-mario-odyssey",
+   "text": "Super Mario Odyssey",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:breath-of-the-wild",
+   "text": "Breath of the Wild",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:tears-of-the-kingdom",
+   "text": "Tears of the Kingdom",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:ocarina-of-time",
+   "text": "Ocarina of Time",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:luigi-s-mansion",
+   "text": "Luigi's Mansion",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:yoshi-s-island",
+   "text": "Yoshi's Island",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pikmin",
+   "text": "Pikmin",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:splatoon",
+   "text": "Splatoon",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:brain-age",
+   "text": "Brain Age",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:nintendogs",
+   "text": "Nintendogs",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:rollercoaster-tycoon",
+   "text": "RollerCoaster Tycoon",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:age-of-empires",
+   "text": "Age of Empires",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:civilization",
+   "text": "Civilization",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:gears-of-war",
+   "text": "Gears of War",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:destiny",
+   "text": "Destiny",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:borderlands",
+   "text": "Borderlands",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:left-4-dead",
+   "text": "Left 4 Dead",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:lego-star-wars",
+   "text": "Lego Star Wars",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:skylanders",
+   "text": "Skylanders",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:hogwarts-legacy",
+   "text": "Hogwarts Legacy",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:baldur-s-gate",
+   "text": "Baldur's Gate",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:hades",
+   "text": "Hades",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:untitled-goose-game",
+   "text": "Untitled Goose Game",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:goat-simulator",
+   "text": "Goat Simulator",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:geometry-dash",
+   "text": "Geometry Dash",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:club-penguin",
+   "text": "Club Penguin",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:neopets",
+   "text": "Neopets",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:runescape",
+   "text": "RuneScape",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:kirby",
+   "text": "Kirby",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:excitebike",
+   "text": "Excitebike",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:mario",
+   "text": "Mario",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:luigi",
+   "text": "Luigi",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:princess-peach",
+   "text": "Princess Peach",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:bowser",
+   "text": "Bowser",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:yoshi",
+   "text": "Yoshi",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:toad",
+   "text": "Toad",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:wario",
+   "text": "Wario",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:waluigi",
+   "text": "Waluigi",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:diddy-kong",
+   "text": "Diddy Kong",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:link",
+   "text": "Link",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:princess-zelda",
+   "text": "Princess Zelda",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:ganondorf",
+   "text": "Ganondorf",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pikachu",
+   "text": "Pikachu",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:charizard",
+   "text": "Charizard",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mewtwo",
+   "text": "Mewtwo",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:jigglypuff",
+   "text": "Jigglypuff",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:bulbasaur",
+   "text": "Bulbasaur",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:squirtle",
+   "text": "Squirtle",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:charmander",
+   "text": "Charmander",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:eevee",
+   "text": "Eevee",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:snorlax",
+   "text": "Snorlax",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:ash-ketchum",
+   "text": "Ash Ketchum",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:team-rocket",
+   "text": "Team Rocket",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:tails",
+   "text": "Tails",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:knuckles",
+   "text": "Knuckles",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:dr-robotnik",
+   "text": "Dr. Robotnik",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:lara-croft",
+   "text": "Lara Croft",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:master-chief",
+   "text": "Master Chief",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:kratos",
+   "text": "Kratos",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:samus",
+   "text": "Samus",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:creeper",
+   "text": "Creeper",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:enderman",
+   "text": "Enderman",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:solid-snake",
+   "text": "Solid Snake",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:cloud-strife",
+   "text": "Cloud Strife",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:chun-li",
+   "text": "Chun-Li",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:sub-zero",
+   "text": "Sub-Zero",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:freddy-fazbear",
+   "text": "Freddy Fazbear",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:fox-mccloud",
+   "text": "Fox McCloud",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:captain-falcon",
+   "text": "Captain Falcon",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:isabelle",
+   "text": "Isabelle",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:tom-nook",
+   "text": "Tom Nook",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:professor-oak",
+   "text": "Professor Oak",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:geralt",
+   "text": "Geralt",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:gordon-freeman",
+   "text": "Gordon Freeman",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:koopa-troopa",
+   "text": "Koopa Troopa",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:goomba",
+   "text": "Goomba",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:boo",
+   "text": "Boo",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:shy-guy",
+   "text": "Shy Guy",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:chain-chomp",
+   "text": "Chain Chomp",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:piranha-plant",
+   "text": "Piranha Plant",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:navi",
+   "text": "Navi",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:mii",
+   "text": "Mii",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:king-dedede",
+   "text": "King Dedede",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:crewmate",
+   "text": "Crewmate",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:impostor",
+   "text": "Impostor",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:nintendo",
+   "text": "Nintendo",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:playstation",
+   "text": "PlayStation",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:xbox",
+   "text": "Xbox",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:game-boy",
+   "text": "Game Boy",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:nintendo-switch",
+   "text": "Nintendo Switch",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:wii",
+   "text": "Wii",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:nintendo-64",
+   "text": "Nintendo 64",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:super-nintendo",
+   "text": "Super Nintendo",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:atari",
+   "text": "Atari",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:sega-genesis",
+   "text": "Sega Genesis",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:dreamcast",
+   "text": "Dreamcast",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:gamecube",
+   "text": "GameCube",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:nintendo-ds",
+   "text": "Nintendo DS",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:psp",
+   "text": "PSP",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:game-boy-advance",
+   "text": "Game Boy Advance",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:game-boy-color",
+   "text": "Game Boy Color",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:virtual-boy",
+   "text": "Virtual Boy",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:steam-deck",
+   "text": "Steam Deck",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:vr-headset",
+   "text": "VR Headset",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:arcade",
+   "text": "Arcade",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:joystick",
+   "text": "Joystick",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:controller",
+   "text": "Controller",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:d-pad",
+   "text": "D-Pad",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:game-cartridge",
+   "text": "Game Cartridge",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:memory-card",
+   "text": "Memory Card",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:wii-remote",
+   "text": "Wii Remote",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:joy-con",
+   "text": "Joy-Con",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gaming-chair",
+   "text": "Gaming Chair",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gaming-headset",
+   "text": "Gaming Headset",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:power-glove",
+   "text": "Power Glove",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:light-gun",
+   "text": "Light Gun",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:analog-stick",
+   "text": "Analog Stick",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:start-button",
+   "text": "Start Button",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:pause-button",
+   "text": "Pause Button",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:arcade-cabinet",
+   "text": "Arcade Cabinet",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:claw-machine",
+   "text": "Claw Machine",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:pinball",
+   "text": "Pinball",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:skee-ball",
+   "text": "Skee-Ball",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:air-hockey",
+   "text": "Air Hockey",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:twitch",
+   "text": "Twitch",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:discord",
+   "text": "Discord",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:steam",
+   "text": "Steam",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gamestop",
+   "text": "GameStop",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mushroom-kingdom",
+   "text": "Mushroom Kingdom",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:hyrule",
+   "text": "Hyrule",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:rainbow-road",
+   "text": "Rainbow Road",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:boss-fight",
+   "text": "Boss Fight",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:power-up",
+   "text": "Power-Up",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:extra-life",
+   "text": "Extra Life",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:game-over",
+   "text": "Game Over",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:high-score",
+   "text": "High Score",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:level-up",
+   "text": "Level Up",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:respawn",
+   "text": "Respawn",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:checkpoint",
+   "text": "Checkpoint",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:save-point",
+   "text": "Save Point",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:side-quest",
+   "text": "Side Quest",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:easter-egg",
+   "text": "Easter Egg",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:cheat-code",
+   "text": "Cheat Code",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:konami-code",
+   "text": "Konami Code",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:speedrun",
+   "text": "Speedrun",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:noob",
+   "text": "Noob",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:rage-quit",
+   "text": "Rage Quit",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:button-mashing",
+   "text": "Button Mashing",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:split-screen",
+   "text": "Split Screen",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:multiplayer",
+   "text": "Multiplayer",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:co-op",
+   "text": "Co-op",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:final-boss",
+   "text": "Final Boss",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:mini-game",
+   "text": "Mini-Game",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:loot-box",
+   "text": "Loot Box",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:health-bar",
+   "text": "Health Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:hit-points",
+   "text": "Hit Points",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:mana",
+   "text": "Mana",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:experience-points",
+   "text": "Experience Points",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:skill-tree",
+   "text": "Skill Tree",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:open-world",
+   "text": "Open World",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:sandbox-game",
+   "text": "Sandbox Game",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:battle-royale",
+   "text": "Battle Royale",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:first-person-shooter",
+   "text": "First-Person Shooter",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:platformer",
+   "text": "Platformer",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:side-scroller",
+   "text": "Side-Scroller",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:tutorial",
+   "text": "Tutorial",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:cutscene",
+   "text": "Cutscene",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:loading-screen",
+   "text": "Loading Screen",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:lag",
+   "text": "Lag",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:glitch",
+   "text": "Glitch",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:dlc",
+   "text": "DLC",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:early-access",
+   "text": "Early Access",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:microtransaction",
+   "text": "Microtransaction",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:skins",
+   "text": "Skins",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:emote",
+   "text": "Emote",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:victory-royale",
+   "text": "Victory Royale",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:headshot",
+   "text": "Headshot",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:spawn-camping",
+   "text": "Spawn Camping",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:leaderboard",
+   "text": "Leaderboard",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:achievement-unlocked",
+   "text": "Achievement Unlocked",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gamertag",
+   "text": "Gamertag",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:player-two",
+   "text": "Player Two",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:insert-coin",
+   "text": "Insert Coin",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:press-start",
+   "text": "Press Start",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:hidden-level",
+   "text": "Hidden Level",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:warp-pipe",
+   "text": "Warp Pipe",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:warp-zone",
+   "text": "Warp Zone",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:blue-shell",
+   "text": "Blue Shell",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:fire-flower",
+   "text": "Fire Flower",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:1-up",
+   "text": "1-Up",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:question-block",
+   "text": "Question Block",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:poke-ball",
+   "text": "Poké Ball",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:gym-leader",
+   "text": "Gym Leader",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pokedex",
+   "text": "Pokédex",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gotta-catch-em-all",
+   "text": "Gotta Catch 'Em All",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:hadouken",
+   "text": "Hadouken",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:combo-move",
+   "text": "Combo Move",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:npc",
+   "text": "NPC",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:esports",
+   "text": "Esports",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:streamer",
+   "text": "Streamer",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:let-s-play",
+   "text": "Let's Play",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:lan-party",
+   "text": "LAN Party",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:couch-co-op",
+   "text": "Couch Co-op",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:pixel-art",
+   "text": "Pixel Art",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:8-bit",
+   "text": "8-Bit",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:retro-gaming",
+   "text": "Retro Gaming",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:motion-controls",
+   "text": "Motion Controls",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:virtual-reality",
+   "text": "Virtual Reality",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:easy-mode",
+   "text": "Easy Mode",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:hard-mode",
+   "text": "Hard Mode",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:god-mode",
+   "text": "God Mode",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:crafting-table",
+   "text": "Crafting Table",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:diamond-sword",
+   "text": "Diamond Sword",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:redstone",
+   "text": "Redstone",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:creative-mode",
+   "text": "Creative Mode",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:survival-mode",
+   "text": "Survival Mode",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:battle-pass",
+   "text": "Battle Pass",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:free-to-play",
+   "text": "Free-to-Play",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:pay-to-win",
+   "text": "Pay-to-Win",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:grinding",
+   "text": "Grinding",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:gg",
+   "text": "GG",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:afk",
+   "text": "AFK",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:tryhard",
+   "text": "Tryhard",
+   "difficulty": 3
+  },
+  {
+   "id": "video-games:gamer",
+   "text": "Gamer",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:video-game",
+   "text": "Video Game",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:mobile-game",
+   "text": "Mobile Game",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:online-gaming",
+   "text": "Online Gaming",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:player-one",
+   "text": "Player One",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:bonus-round",
+   "text": "Bonus Round",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:time-trial",
+   "text": "Time Trial",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:stealth-mode",
+   "text": "Stealth Mode",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:inventory",
+   "text": "Inventory",
+   "difficulty": 2
+  },
+  {
+   "id": "video-games:treasure-chest",
+   "text": "Treasure Chest",
+   "difficulty": 1
+  },
+  {
+   "id": "video-games:game-night",
+   "text": "Game Night",
+   "difficulty": 1
+  }
+ ]
+}

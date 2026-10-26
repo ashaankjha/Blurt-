@@ -8,13 +8,13 @@
 | jobs | 362 | 0 | 0 | 330 | ok |
 | places | 476 | 0 | 0 | 440 | ok |
 | verbs-actions | 522 | 0 | 0 | 440 | ok |
-| movies | - | - | - | 550 | missing source |
-| tv-shows | - | - | - | 440 | missing source |
-| music-artists | - | - | - | 440 | missing source |
-| song-titles | - | - | - | 330 | missing source |
-| video-games | - | - | - | 330 | missing source |
-| internet-memes | - | - | - | 330 | missing source |
-| celebrities | - | - | - | 440 | missing source |
+| movies | 590 | 0 | 0 | 550 | ok |
+| tv-shows | 465 | 0 | 0 | 440 | ok |
+| music-artists | 474 | 0 | 0 | 440 | ok |
+| song-titles | 366 | 0 | 0 | 330 | ok |
+| video-games | 354 | 0 | 0 | 330 | ok |
+| internet-memes | 360 | 0 | 0 | 330 | ok |
+| celebrities | 463 | 0 | 0 | 440 | ok |
 | science | 407 | 0 | 0 | 330 | ok |
 | history | 370 | 0 | 0 | 330 | ok |
 | geography | 360 | 0 | 0 | 330 | ok |

@@ -66,6 +66,83 @@
   "phraseCount": 522
  },
  {
+  "id": "movies",
+  "name": "Movies",
+  "emoji": "🎬",
+  "description": "Blockbusters and classics.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 590
+ },
+ {
+  "id": "tv-shows",
+  "name": "TV Shows",
+  "emoji": "📺",
+  "description": "Sitcoms, cartoons and binge-watches.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 465
+ },
+ {
+  "id": "music-artists",
+  "name": "Music Artists",
+  "emoji": "🎤",
+  "description": "Singers and bands everyone knows.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 474
+ },
+ {
+  "id": "song-titles",
+  "name": "Songs (Title Only)",
+  "emoji": "🎶",
+  "description": "Name that tune, no singing allowed.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 366
+ },
+ {
+  "id": "video-games",
+  "name": "Video Games",
+  "emoji": "🎮",
+  "description": "Games, characters and gaming lingo.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 354
+ },
+ {
+  "id": "internet-memes",
+  "name": "Internet & Memes",
+  "emoji": "📱",
+  "description": "Online life and viral moments.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 360
+ },
+ {
+  "id": "celebrities",
+  "name": "Celebrities",
+  "emoji": "🌟",
+  "description": "Famous faces, very famous only.",
+  "tags": [
+   "family"
+  ],
+  "version": 1,
+  "phraseCount": 463
+ },
+ {
   "id": "science",
   "name": "Science",
   "emoji": "🔬",

@@ -1,0 +1,1812 @@
+{
+ "id": "internet-memes",
+ "name": "Internet & Memes",
+ "emoji": "📱",
+ "description": "Online life and viral moments.",
+ "tags": [
+  "family"
+ ],
+ "version": 1,
+ "phrases": [
+  {
+   "id": "internet-memes:google",
+   "text": "Google",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:youtube",
+   "text": "YouTube",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:facebook",
+   "text": "Facebook",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:instagram",
+   "text": "Instagram",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:tiktok",
+   "text": "TikTok",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:twitter",
+   "text": "Twitter",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:snapchat",
+   "text": "Snapchat",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:pinterest",
+   "text": "Pinterest",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:reddit",
+   "text": "Reddit",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:linkedin",
+   "text": "LinkedIn",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:wikipedia",
+   "text": "Wikipedia",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:netflix",
+   "text": "Netflix",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:spotify",
+   "text": "Spotify",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:ebay",
+   "text": "eBay",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:craigslist",
+   "text": "Craigslist",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:whatsapp",
+   "text": "WhatsApp",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:zoom",
+   "text": "Zoom",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:facetime",
+   "text": "FaceTime",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:skype",
+   "text": "Skype",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:uber",
+   "text": "Uber",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:venmo",
+   "text": "Venmo",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:paypal",
+   "text": "PayPal",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:etsy",
+   "text": "Etsy",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:yelp",
+   "text": "Yelp",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:tumblr",
+   "text": "Tumblr",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:myspace",
+   "text": "MySpace",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:aol",
+   "text": "AOL",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:yahoo",
+   "text": "Yahoo!",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:gmail",
+   "text": "Gmail",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:siri",
+   "text": "Siri",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:alexa",
+   "text": "Alexa",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:chatgpt",
+   "text": "ChatGPT",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:vine",
+   "text": "Vine",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bereal",
+   "text": "BeReal",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:duolingo",
+   "text": "Duolingo",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:google-maps",
+   "text": "Google Maps",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:waze",
+   "text": "Waze",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:airbnb",
+   "text": "Airbnb",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:doordash",
+   "text": "DoorDash",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:napster",
+   "text": "Napster",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:limewire",
+   "text": "LimeWire",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:hotmail",
+   "text": "Hotmail",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:aol-instant-messenger",
+   "text": "AOL Instant Messenger",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:ask-jeeves",
+   "text": "Ask Jeeves",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:google-translate",
+   "text": "Google Translate",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:google-earth",
+   "text": "Google Earth",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:street-view",
+   "text": "Street View",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:photoshop",
+   "text": "Photoshop",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:ms-paint",
+   "text": "MS Paint",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:clippy",
+   "text": "Clippy",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:dropbox",
+   "text": "Dropbox",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:telegram",
+   "text": "Telegram",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:pandora",
+   "text": "Pandora",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:soundcloud",
+   "text": "SoundCloud",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:wi-fi",
+   "text": "Wi-Fi",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:bluetooth",
+   "text": "Bluetooth",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:world-wide-web",
+   "text": "World Wide Web",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:search-engine",
+   "text": "Search Engine",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:social-media",
+   "text": "Social Media",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:smartphone",
+   "text": "Smartphone",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:smartwatch",
+   "text": "Smartwatch",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:webcam",
+   "text": "Webcam",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:router",
+   "text": "Router",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hotspot",
+   "text": "Hotspot",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:smart-speaker",
+   "text": "Smart Speaker",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:ai-chatbot",
+   "text": "AI Chatbot",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:dogecoin",
+   "text": "Dogecoin",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bitcoin",
+   "text": "Bitcoin",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:crypto",
+   "text": "Crypto",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:nft",
+   "text": "NFT",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:blockchain",
+   "text": "Blockchain",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:selfie",
+   "text": "Selfie",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:hashtag",
+   "text": "Hashtag",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:emoji",
+   "text": "Emoji",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:gif",
+   "text": "GIF",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:meme",
+   "text": "Meme",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:viral-video",
+   "text": "Viral Video",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:going-viral",
+   "text": "Going Viral",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:influencer",
+   "text": "Influencer",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:followers",
+   "text": "Followers",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:like-button",
+   "text": "Like Button",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:unfollow",
+   "text": "Unfollow",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:unfriend",
+   "text": "Unfriend",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:retweet",
+   "text": "Retweet",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:repost",
+   "text": "Repost",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:comment-section",
+   "text": "Comment Section",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:slide-into-the-dms",
+   "text": "Slide into the DMs",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:direct-message",
+   "text": "Direct Message",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:group-chat",
+   "text": "Group Chat",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:read-receipt",
+   "text": "Read Receipt",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:typing-bubble",
+   "text": "Typing Bubble",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:left-on-read",
+   "text": "Left on Read",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:ghosting",
+   "text": "Ghosting",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:profile-picture",
+   "text": "Profile Picture",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:livestream",
+   "text": "Livestream",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:going-live",
+   "text": "Going Live",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:reels",
+   "text": "Reels",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:photo-filter",
+   "text": "Photo Filter",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:dog-filter",
+   "text": "Dog Filter",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:selfie-stick",
+   "text": "Selfie Stick",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:ring-light",
+   "text": "Ring Light",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:unboxing-video",
+   "text": "Unboxing Video",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:reaction-video",
+   "text": "Reaction Video",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:mukbang",
+   "text": "Mukbang",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:asmr",
+   "text": "ASMR",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:vlog",
+   "text": "Vlog",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:podcast",
+   "text": "Podcast",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:subscribe-button",
+   "text": "Subscribe Button",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:smash-that-like-button",
+   "text": "Smash That Like Button",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:clickbait",
+   "text": "Clickbait",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:thumbnail",
+   "text": "Thumbnail",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:the-algorithm",
+   "text": "The Algorithm",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:for-you-page",
+   "text": "For You Page",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:trending",
+   "text": "Trending",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:doomscrolling",
+   "text": "Doomscrolling",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:screen-time",
+   "text": "Screen Time",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:notification",
+   "text": "Notification",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:push-notification",
+   "text": "Push Notification",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:dark-mode",
+   "text": "Dark Mode",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:airplane-mode",
+   "text": "Airplane Mode",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:low-battery",
+   "text": "Low Battery",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:wi-fi-password",
+   "text": "Wi-Fi Password",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:password-reset",
+   "text": "Password Reset",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:two-factor-authentication",
+   "text": "Two-Factor Authentication",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:captcha",
+   "text": "Captcha",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:pop-up-ad",
+   "text": "Pop-up Ad",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:terms-and-conditions",
+   "text": "Terms and Conditions",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:spam-folder",
+   "text": "Spam Folder",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:spam-email",
+   "text": "Spam Email",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:reply-all",
+   "text": "Reply All",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:autocorrect",
+   "text": "Autocorrect",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:all-caps",
+   "text": "All Caps",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:caps-lock",
+   "text": "Caps Lock",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:copy-and-paste",
+   "text": "Copy and Paste",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:screenshot",
+   "text": "Screenshot",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:screen-recording",
+   "text": "Screen Recording",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:crying-laughing-emoji",
+   "text": "Crying Laughing Emoji",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:fire-emoji",
+   "text": "Fire Emoji",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:skull-emoji",
+   "text": "Skull Emoji",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:poop-emoji",
+   "text": "Poop Emoji",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:facepalm",
+   "text": "Facepalm",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:shrug-emoji",
+   "text": "Shrug Emoji",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:content-creator",
+   "text": "Content Creator",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:youtuber",
+   "text": "YouTuber",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:tiktoker",
+   "text": "TikToker",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:podcaster",
+   "text": "Podcaster",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:blogger",
+   "text": "Blogger",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:username",
+   "text": "Username",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:password",
+   "text": "Password",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:log-out",
+   "text": "Log Out",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:sign-up",
+   "text": "Sign Up",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:verified-checkmark",
+   "text": "Verified Checkmark",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:unsubscribe",
+   "text": "Unsubscribe",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:inbox",
+   "text": "Inbox",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:ctrl-alt-delete",
+   "text": "Ctrl+Alt+Delete",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:software-update",
+   "text": "Software Update",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:phone-addiction",
+   "text": "Phone Addiction",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:digital-detox",
+   "text": "Digital Detox",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:online-shopping",
+   "text": "Online Shopping",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:add-to-cart",
+   "text": "Add to Cart",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:free-shipping",
+   "text": "Free Shipping",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:tracking-number",
+   "text": "Tracking Number",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:five-star-review",
+   "text": "Five-Star Review",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:video-call",
+   "text": "Video Call",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:zoom-meeting",
+   "text": "Zoom Meeting",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:you-re-on-mute",
+   "text": "You're on Mute",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:virtual-background",
+   "text": "Virtual Background",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:work-from-home",
+   "text": "Work from Home",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:email",
+   "text": "Email",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:text-message",
+   "text": "Text Message",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:voicemail",
+   "text": "Voicemail",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:voice-memo",
+   "text": "Voice Memo",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:google-it",
+   "text": "Google It",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:fact-check",
+   "text": "Fact Check",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hot-take",
+   "text": "Hot Take",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:sponsored-post",
+   "text": "Sponsored Post",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:link-in-bio",
+   "text": "Link in Bio",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:duck-face",
+   "text": "Duck Face",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:swipe-up",
+   "text": "Swipe Up",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:double-tap",
+   "text": "Double Tap",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:tag-a-friend",
+   "text": "Tag a Friend",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:follow-back",
+   "text": "Follow Back",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:meme-page",
+   "text": "Meme Page",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:tiktok-dance",
+   "text": "TikTok Dance",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:lip-sync",
+   "text": "Lip Sync",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:green-screen",
+   "text": "Green Screen",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:auto-tune",
+   "text": "Auto-Tune",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:face-swap",
+   "text": "Face Swap",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:deepfake",
+   "text": "Deepfake",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:text-to-speech",
+   "text": "Text-to-Speech",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:bitmoji",
+   "text": "Bitmoji",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:phishing",
+   "text": "Phishing",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hacker",
+   "text": "Hacker",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:firewall",
+   "text": "Firewall",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:computer-virus",
+   "text": "Computer Virus",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:malware",
+   "text": "Malware",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:blue-screen-of-death",
+   "text": "Blue Screen of Death",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:error-404",
+   "text": "Error 404",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:page-not-found",
+   "text": "Page Not Found",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:buffering",
+   "text": "Buffering",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:spinning-wheel",
+   "text": "Spinning Wheel",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:incognito-mode",
+   "text": "Incognito Mode",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:browser-history",
+   "text": "Browser History",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bookmark",
+   "text": "Bookmark",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:search-bar",
+   "text": "Search Bar",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:pop-up-blocker",
+   "text": "Pop-up Blocker",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:cyberspace",
+   "text": "Cyberspace",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:surfing-the-web",
+   "text": "Surfing the Web",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:download",
+   "text": "Download",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:upload",
+   "text": "Upload",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:streaming",
+   "text": "Streaming",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:internet-troll",
+   "text": "Internet Troll",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:keyboard-warrior",
+   "text": "Keyboard Warrior",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:lurker",
+   "text": "Lurker",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:spoiler-alert",
+   "text": "Spoiler Alert",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:life-hack",
+   "text": "Life Hack",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:binge-watch",
+   "text": "Binge-Watch",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:fandom",
+   "text": "Fandom",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:fan-fiction",
+   "text": "Fan Fiction",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:emoticon",
+   "text": "Emoticon",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:catfish",
+   "text": "Catfish",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:photobomb",
+   "text": "Photobomb",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:humblebrag",
+   "text": "Humblebrag",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:lol",
+   "text": "LOL",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:omg",
+   "text": "OMG",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:brb",
+   "text": "BRB",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:bff",
+   "text": "BFF",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:fomo",
+   "text": "FOMO",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:yolo",
+   "text": "YOLO",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:throwback-thursday",
+   "text": "Throwback Thursday",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:fyi",
+   "text": "FYI",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:imho",
+   "text": "IMHO",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:tl-dr",
+   "text": "TL;DR",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:smh",
+   "text": "SMH",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:icymi",
+   "text": "ICYMI",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:irl",
+   "text": "IRL",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:rizz",
+   "text": "Rizz",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:no-cap",
+   "text": "No Cap",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bussin",
+   "text": "Bussin'",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:slay",
+   "text": "Slay",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:sus",
+   "text": "Sus",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:lit",
+   "text": "Lit",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:salty",
+   "text": "Salty",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:stan",
+   "text": "Stan",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:vibe-check",
+   "text": "Vibe Check",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:main-character-energy",
+   "text": "Main Character Energy",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:it-s-giving",
+   "text": "It's Giving",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:understood-the-assignment",
+   "text": "Understood the Assignment",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:living-rent-free",
+   "text": "Living Rent Free",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:touch-grass",
+   "text": "Touch Grass",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:delulu",
+   "text": "Delulu",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:glow-up",
+   "text": "Glow Up",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bestie",
+   "text": "Bestie",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hits-different",
+   "text": "Hits Different",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:lowkey",
+   "text": "Lowkey",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:spill-the-tea",
+   "text": "Spill the Tea",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:throw-shade",
+   "text": "Throw Shade",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:clapback",
+   "text": "Clapback",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:gen-z",
+   "text": "Gen Z",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:millennial",
+   "text": "Millennial",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:gen-alpha",
+   "text": "Gen Alpha",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:ipad-kid",
+   "text": "iPad Kid",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:skibidi",
+   "text": "Skibidi",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:brain-rot",
+   "text": "Brain Rot",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:chef-s-kiss",
+   "text": "Chef's Kiss",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:mic-drop",
+   "text": "Mic Drop",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:adulting",
+   "text": "Adulting",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bae",
+   "text": "Bae",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:squad-goals",
+   "text": "Squad Goals",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:on-fleek",
+   "text": "On Fleek",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:yeet",
+   "text": "Yeet",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:oof",
+   "text": "Oof",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bruh",
+   "text": "Bruh",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:cringe",
+   "text": "Cringe",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:shook",
+   "text": "Shook",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:six-seven",
+   "text": "Six Seven",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:very-demure",
+   "text": "Very Demure",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:brat-summer",
+   "text": "Brat Summer",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:girl-dinner",
+   "text": "Girl Dinner",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:emotional-damage",
+   "text": "Emotional Damage",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:plot-twist",
+   "text": "Plot Twist",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:epic-fail",
+   "text": "Epic Fail",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:awkward-silence",
+   "text": "Awkward Silence",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:ship-it",
+   "text": "Ship It",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:rickroll",
+   "text": "Rickroll",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:grumpy-cat",
+   "text": "Grumpy Cat",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:doge",
+   "text": "Doge",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:nyan-cat",
+   "text": "Nyan Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:keyboard-cat",
+   "text": "Keyboard Cat",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:dancing-baby",
+   "text": "Dancing Baby",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:planking",
+   "text": "Planking",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:the-floor-is-lava",
+   "text": "The Floor Is Lava",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:ice-bucket-challenge",
+   "text": "Ice Bucket Challenge",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:mannequin-challenge",
+   "text": "Mannequin Challenge",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:harlem-shake",
+   "text": "Harlem Shake",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:dabbing",
+   "text": "Dabbing",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:the-floss",
+   "text": "The Floss",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:distracted-boyfriend",
+   "text": "Distracted Boyfriend",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:this-is-fine",
+   "text": "This Is Fine",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:success-kid",
+   "text": "Success Kid",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:trollface",
+   "text": "Trollface",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:rage-comics",
+   "text": "Rage Comics",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:leeroy-jenkins",
+   "text": "Leeroy Jenkins",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:charlie-bit-my-finger",
+   "text": "Charlie Bit My Finger",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:double-rainbow",
+   "text": "Double Rainbow",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:sneezing-panda",
+   "text": "Sneezing Panda",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:dramatic-chipmunk",
+   "text": "Dramatic Chipmunk",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:numa-numa",
+   "text": "Numa Numa",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:salt-bae",
+   "text": "Salt Bae",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:evil-kermit",
+   "text": "Evil Kermit",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:woman-yelling-at-a-cat",
+   "text": "Woman Yelling at a Cat",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hide-the-pain-harold",
+   "text": "Hide the Pain Harold",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:surprised-pikachu",
+   "text": "Surprised Pikachu",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:is-this-a-pigeon",
+   "text": "Is This a Pigeon?",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:expanding-brain",
+   "text": "Expanding Brain",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:change-my-mind",
+   "text": "Change My Mind",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:stonks",
+   "text": "Stonks",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:big-chungus",
+   "text": "Big Chungus",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:baby-yoda",
+   "text": "Baby Yoda",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:lolcats",
+   "text": "Lolcats",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:i-can-has-cheezburger",
+   "text": "I Can Has Cheezburger?",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:cat-videos",
+   "text": "Cat Videos",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:doggo",
+   "text": "Doggo",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:floof",
+   "text": "Floof",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:yanny-or-laurel",
+   "text": "Yanny or Laurel",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:the-dress",
+   "text": "The Dress",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:hamster-dance",
+   "text": "Hamster Dance",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:peanut-butter-jelly-time",
+   "text": "Peanut Butter Jelly Time",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:what-does-the-fox-say",
+   "text": "What Does the Fox Say?",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:bottle-flip-challenge",
+   "text": "Bottle Flip Challenge",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:running-man-challenge",
+   "text": "Running Man Challenge",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:haul-video",
+   "text": "Haul Video",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:get-ready-with-me",
+   "text": "Get Ready with Me",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:prank-video",
+   "text": "Prank Video",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:fail-compilation",
+   "text": "Fail Compilation",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:lo-fi-beats",
+   "text": "Lo-fi Beats",
+   "difficulty": 3
+  },
+  {
+   "id": "internet-memes:skibidi-toilet",
+   "text": "Skibidi Toilet",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:moo-deng",
+   "text": "Moo Deng",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:labubu",
+   "text": "Labubu",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:wholesome-meme",
+   "text": "Wholesome Meme",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:dad-joke",
+   "text": "Dad Joke",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:family-group-chat",
+   "text": "Family Group Chat",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:internet-famous",
+   "text": "Internet Famous",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:fifteen-minutes-of-fame",
+   "text": "Fifteen Minutes of Fame",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:breaking-the-internet",
+   "text": "Breaking the Internet",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:viral-challenge",
+   "text": "Viral Challenge",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:hashtag-challenge",
+   "text": "Hashtag Challenge",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:online-quiz",
+   "text": "Online Quiz",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:personality-test",
+   "text": "Personality Test",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:like-and-subscribe",
+   "text": "Like and Subscribe",
+   "difficulty": 1
+  },
+  {
+   "id": "internet-memes:first-comment",
+   "text": "First Comment",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:dislike-button",
+   "text": "Dislike Button",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:wikipedia-rabbit-hole",
+   "text": "Wikipedia Rabbit Hole",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:late-night-scrolling",
+   "text": "Late Night Scrolling",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:before-and-after",
+   "text": "Before and After",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:day-in-the-life",
+   "text": "Day in the Life",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:photo-dump",
+   "text": "Photo Dump",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:throwback-photo",
+   "text": "Throwback Photo",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:overshare",
+   "text": "Overshare",
+   "difficulty": 2
+  },
+  {
+   "id": "internet-memes:internet-outage",
+   "text": "Internet Outage",
+   "difficulty": 2
+  }
+ ]
+}
