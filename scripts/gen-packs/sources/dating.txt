@@ -1,0 +1,387 @@
+# Dating (18+): apps, first dates, relationship lingo. Flirty PG-13, never explicit.
+# Batch 1: apps and online
+Dating App | 1
+Swipe Right | 1
+Swipe Left | 1
+It's A Match | 1
+Super Like | 2
+Tinder | 1
+Bumble | 2
+Hinge | 2
+Dating Profile | 1
+Profile Picture | 1
+Bio | 2
+Fish Pic | 2
+Gym Selfie | 1
+Mirror Selfie | 1
+Group Photo Guessing Game | 2
+Height Requirement | 2
+Six Feet Tall | 1
+Catfish | 1
+Catfished | 1
+Fake Profile | 1
+Bot Account | 2
+Old Photos | 1
+Filters | 1
+Opening Line | 1
+Pickup Line | 1
+Cheesy Pickup Line | 1
+Wyd | 2
+U Up | 1
+Late-Night Text | 1
+Good Morning Text | 1
+Heart Emoji | 1
+Winky Face | 1
+Fire Emoji | 2
+Flirty Emoji | 2
+Sliding Into DMs | 1
+Story Reply | 2
+Soft Launch | 2
+Hard Launch | 2
+Relationship Status | 1
+Facebook Official | 1
+It's Complicated | 1
+Instagram Couple | 2
+Couple Selfie | 1
+Unmatched | 2
+Ghosting | 1
+Ghosted | 1
+Breadcrumbing | 2
+Benching | 3
+Love Bombing | 2
+Slow Fade | 2
+Swipe Fatigue | 2
+App Burnout | 2
+Deleting The Apps | 1
+Redownloading The Apps | 2
+Premium Subscription | 2
+Who Liked You | 2
+Online Dating | 1
+Long Paragraph Text | 2
+Typing Bubble | 1
+Read Receipts | 1
+Response Time | 2
+Waiting Three Days | 2
+Playing It Cool | 1
+Playing Hard To Get | 1
+Stalking Their Instagram | 1
+Deep Dive Into Their Profile | 2
+Mutual Friends | 1
+Video Call Date | 2
+FaceTime Date | 2
+Voice Memo | 2
+Phone Call Anxiety | 2
+Number Exchange | 2
+What's Your Sign | 1
+Astrology Compatibility | 2
+Love Language | 1
+Red Flag | 1
+Green Flag | 1
+Beige Flag | 2
+Ick | 1
+Getting The Ick | 1
+Dealbreaker | 1
+Out Of Your League | 1
+Punching Above Your Weight | 2
+# Batch 2: first dates
+First Date | 1
+Blind Date | 1
+Double Date | 1
+Coffee Date | 1
+Dinner Date | 1
+Drinks Date | 1
+Movie Date | 1
+Picnic Date | 1
+Mini Golf Date | 2
+Bowling Date | 2
+Museum Date | 2
+Hiking Date | 2
+Cooking Class Date | 2
+Speed Dating | 1
+Setup By Friends | 2
+Set Up By Mom | 2
+Butterflies | 1
+First Date Nerves | 1
+First Date Outfit | 1
+Outfit Change | 2
+Getting Ready | 2
+Spritz Of Cologne | 2
+Perfume | 1
+Fresh Haircut | 2
+Breath Mint | 1
+Running Late | 1
+Arriving Early | 2
+Looks Nothing Like Their Photos | 2
+Awkward Hug | 1
+Pulling Out A Chair | 1
+Holding The Door | 1
+Chivalry | 2
+Gentleman | 2
+Splitting The Check | 1
+Reaching For The Check | 2
+Going Dutch | 2
+Fake Emergency Call | 1
+Rescue Text | 1
+Bathroom Escape | 2
+Date Went Long | 2
+Second Date | 1
+Third Date | 2
+Walking Them Home | 1
+Doorstep Goodbye | 2
+Goodnight Kiss | 1
+First Kiss | 1
+Kiss On The Cheek | 1
+Peck | 1
+Smooch | 1
+Making Out | 2
+Lip Balm | 2
+Hand Holding | 1
+Footsie | 1
+Arm Around The Shoulder | 1
+The Yawn Move | 1
+Eye Contact | 1
+Bedroom Eyes | 2
+Flirting | 1
+Playful Banter | 2
+Teasing | 1
+Compliment | 1
+Hair Flip | 1
+Wink | 1
+Blushing | 1
+Lingering Look | 2
+Chemistry | 1
+Spark | 1
+Sparks Fly | 1
+Love At First Sight | 1
+Instant Connection | 2
+Vibe | 1
+No Spark | 1
+Friendly Vibes | 2
+Let's Just Be Friends | 1
+Mixed Signals | 1
+Reading The Signs | 2
+Hard To Read | 2
+Overthinking | 1
+Is This A Date | 1
+Did We Just Kiss | 2
+Text Me When You're Home | 1
+Had A Great Time | 1
+Post-Date Text | 2
+Debrief With Friends | 2
+Screenshot To The Group Chat | 2
+Group Chat Analysis | 2
+# Batch 3: relationship lingo
+Situationship | 1
+Talking Stage | 1
+Just Talking | 2
+Seeing Each Other | 1
+Exclusive | 1
+Defining The Relationship | 2
+DTR Talk | 3
+What Are We | 1
+Official | 1
+Boyfriend | 1
+Girlfriend | 1
+Partner | 1
+Significant Other | 1
+Better Half | 1
+Bae | 1
+Babe | 1
+Boo | 1
+Sweetheart | 1
+Honey | 1
+Pet Names | 1
+Baby Talk | 2
+Inside Joke | 1
+Our Song | 1
+Couple's Costume | 1
+Matching Outfits | 1
+Couple Goals | 1
+Power Couple | 1
+Celebrity Couple Name | 2
+Lovebirds | 1
+Honeymoon Phase | 1
+Puppy Love | 1
+Head Over Heels | 1
+Crush | 1
+Secret Crush | 1
+Celebrity Crush | 1
+Workplace Romance | 2
+Office Romance | 1
+Friends To Lovers | 1
+Enemies To Lovers | 2
+Rom-Com | 1
+Meet Cute | 2
+Grand Gesture | 1
+Boombox Over The Head | 2
+Running Through The Airport | 1
+Love Letter | 1
+Love Song | 1
+Serenade | 2
+Mixtape For A Crush | 2
+Flowers | 1
+Dozen Roses | 1
+Box Of Chocolates | 1
+Valentine's Day | 1
+Valentine's Card | 1
+Cupid | 1
+Candlelit Dinner | 1
+Romantic Getaway | 1
+Weekend Away | 2
+Bed And Breakfast | 2
+Sunset Walk | 1
+Walk On The Beach | 1
+Stargazing | 1
+Slow Dancing | 1
+Netflix And Chill | 1
+Cuddling | 1
+Spooning | 1
+Big Spoon | 1
+Little Spoon | 1
+Cuddle Season | 2
+Cuffing Season | 2
+Morning Breath Kiss | 2
+Stealing The Covers | 1
+Hogging The Blanket | 1
+Leaving A Toothbrush | 2
+Drawer At Their Place | 2
+Wearing Their Hoodie | 1
+Boyfriend Jeans | 2
+Meeting The Friends | 1
+Meeting The Family | 1
+Holidays With The Family | 2
+First Fight | 1
+Making Up | 1
+Make-Up Kiss | 2
+Silent Treatment | 1
+I'm Fine | 1
+We Need To Talk | 1
+Couples Therapy | 2
+Moving In Together | 1
+Splitting Rent | 2
+Joint Bank Account | 2
+Adopting A Dog Together | 2
+Anniversary | 1
+Monthiversary | 2
+Forgetting The Anniversary | 2
+Saying I Love You | 1
+Love You Too | 1
+Love You More | 1
+No You Hang Up | 1
+Long-Distance Relationship | 1
+Jealous Partner | 2
+Clingy | 1
+Needy | 2
+Overprotective | 2
+High Maintenance | 1
+Low Maintenance | 1
+Commitment Issues | 1
+Commitment-Phobe | 2
+Player | 1
+Heartbreaker | 1
+Smooth Talker | 1
+Hopeless Romantic | 1
+Wingman Duty | 2
+Matchmaker | 1
+Love Guru | 2
+Dating Coach | 2
+Relationship Advice | 2
+# Batch 4: endings, exes and big steps
+Breakup | 1
+Dumped | 1
+Getting Dumped | 1
+It's Not You It's Me | 1
+Taking A Break | 1
+We Were On A Break | 1
+On Again Off Again | 1
+Conscious Uncoupling | 3
+Mutual Breakup | 2
+Breakup Song | 1
+Breakup Haircut | 2
+Rebound | 1
+Revenge Body | 2
+Glow Up | 1
+Ice Cream And Tears | 2
+Heartbroken | 1
+Broken Heart | 1
+Heartache | 1
+Moving On | 1
+Unfollowing Your Ex | 1
+Blocking Your Ex | 1
+Ex Texting You | 1
+Drunk Texting Your Ex | 1
+Getting Back Together | 1
+Ex Files | 2
+The One That Got Away | 1
+Exes Being Friends | 2
+Returning Their Stuff | 2
+Box Of Their Stuff | 2
+Custody Of The Dog | 2
+Single Life | 1
+Single And Ready To Mingle | 1
+Forever Alone | 1
+Cat Lady | 1
+Eligible Bachelor | 2
+Bachelor Pad | 1
+Galentine's Day | 2
+Self-Love | 1
+Dating Yourself | 2
+Table For One | 1
+Engagement | 1
+Engagement Ring | 1
+Down On One Knee | 1
+Popping The Question | 1
+Will You Marry Me | 1
+She Said Yes | 1
+Proposal | 1
+Surprise Proposal | 1
+Asking For Permission | 2
+Fiance | 1
+Engagement Photos | 2
+Wedding Bells | 1
+Wedding Planning | 1
+Save The Date | 1
+Cold Feet | 1
+Runaway Bride | 1
+Walking Down The Aisle | 1
+Exchanging Vows | 1
+You May Kiss The Bride | 1
+Just Married | 1
+Honeymoon | 1
+Newlyweds | 1
+Happily Ever After | 1
+Soulmate | 1
+The One | 1
+Twin Flame | 2
+Meant To Be | 1
+Better Together | 2
+Love Triangle | 1
+Secret Admirer | 1
+Mystery Date | 2
+Dating Show | 1
+Rose Ceremony | 2
+Final Rose | 2
+Love Island | 2
+Dating Reality Show | 2
+Thirst Trap | 2
+Rizz | 1
+Unspoken Rizz | 2
+Smooth Operator | 2
+Shooting Your Shot | 1
+Missed Connection | 2
+Hit On | 2
+Getting Their Number | 1
+Fake Number | 1
+Friend Of A Friend | 2
+Hot Neighbor | 1
+Barista Crush | 2
+Gym Crush | 1
+Work Wife | 2
+Work Husband | 2
+Age Gap | 2
+Wandering Eye | 2
+Checking Them Out | 1
+Caught Checking Them Out | 2
+Hickey | 2
+Kiss And Tell | 1
+Spill The Tea | 1

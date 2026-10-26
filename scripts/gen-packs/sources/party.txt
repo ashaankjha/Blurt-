@@ -1,0 +1,402 @@
+# Party (18+): drinking games, hangovers, nightlife. Cheeky PG-13, never explicit, no drugs, no real people.
+# Batch 1: drinks and the bar
+Hangover | 1
+Tipsy | 1
+Beer Pong | 1
+Flip Cup | 2
+Kings Cup | 2
+Quarters | 3
+Never Have I Ever | 1
+Truth Or Dare | 1
+Spin The Bottle | 1
+Seven Minutes In Heaven | 2
+Drinking Game | 1
+Power Hour | 3
+Keg Stand | 2
+Shotgunning A Beer | 2
+Jello Shots | 1
+Tequila Shot | 1
+Lime And Salt | 2
+Shot Glass | 1
+Red Solo Cup | 1
+Beer Bong | 2
+Keg | 1
+Pint | 1
+Beer Goggles | 1
+Wine Mom | 1
+Boxed Wine | 1
+Wine Tasting | 2
+Champagne Toast | 1
+Popping Champagne | 1
+Prosecco | 2
+Mimosa | 1
+Bottomless Brunch | 1
+Bloody Mary | 1
+Margarita | 1
+Pina Colada | 1
+Mojito | 1
+Cosmopolitan | 2
+Martini | 1
+Shaken Not Stirred | 2
+Old Fashioned | 2
+Long Island Iced Tea | 2
+Sangria | 1
+Spiked Punch | 2
+Jungle Juice | 2
+Frozen Margarita | 2
+Fishbowl Drink | 2
+Hard Seltzer | 2
+Light Beer | 1
+Craft Beer | 2
+IPA | 2
+Happy Hour | 1
+Last Call | 1
+Open Bar | 1
+Bar Tab | 1
+Bartender | 1
+Mixologist | 2
+Bouncer | 1
+VIP Section | 1
+Bottle Service | 2
+Velvet Rope | 2
+Guest List | 1
+Cover Charge | 2
+Fake ID | 1
+ID Check | 2
+Coat Check | 2
+Wristband | 1
+Hand Stamp | 2
+Dive Bar | 1
+Sports Bar | 1
+Rooftop Bar | 2
+Speakeasy | 2
+Tiki Bar | 2
+Karaoke Bar | 1
+Wine Bar | 2
+Pub Crawl | 1
+Bar Hopping | 1
+Brewery Tour | 2
+Bar Stool | 1
+Beer Belly | 1
+Beer Garden | 2
+Oktoberfest | 1
+Toast | 1
+Cheers | 1
+Bottoms Up | 1
+Chug | 1
+Pregame | 1
+Nightcap | 2
+One More Drink | 1
+Round Of Shots | 1
+Buying A Round | 2
+Drinks On Me | 1
+Designated Driver | 1
+Water Between Drinks | 2
+Lightweight | 1
+Liquid Courage | 1
+Party Animal | 1
+Social Butterfly | 2
+Wingman | 1
+Wing Woman | 2
+Third Wheel | 1
+# Batch 2: going out and nightlife
+Nightclub | 1
+Dance Floor | 1
+DJ Booth | 1
+Bass Drop | 2
+Strobe Lights | 1
+Disco Ball | 1
+Fog Machine | 2
+Foam Party | 2
+Silent Disco | 2
+Rave | 1
+Glow Stick | 1
+Mosh Pit | 2
+Crowd Surfing | 2
+Music Festival | 1
+Festival Wristband | 2
+Port-A-Potty Line | 2
+Bathroom Line | 1
+Dance-Off | 1
+Twerking | 1
+Body Roll | 2
+Drunk Dancing | 1
+Dad Dancing | 1
+Conga Line | 1
+Limbo | 1
+Slow Dance | 1
+Air Guitar | 1
+Karaoke | 1
+Power Ballad | 2
+Duet | 2
+Hogging The Mic | 2
+Request A Song | 2
+Aux Cord | 2
+Party Playlist | 1
+Girls' Night Out | 1
+Boys' Night Out | 1
+Night On The Town | 1
+Ladies' Night | 1
+Bachelor Party | 1
+Bachelorette Party | 1
+Stag Do | 2
+Hen Party | 2
+Sash And Tiara | 2
+Birthday Shots | 1
+Twenty-First Birthday | 1
+Thirtieth Birthday | 2
+Surprise Party | 1
+House Party | 1
+Frat Party | 1
+Toga Party | 1
+Costume Party | 1
+Theme Party | 1
+Pool Party | 1
+Block Party | 1
+Rooftop Party | 1
+Office Party | 1
+Holiday Party | 1
+Ugly Sweater Party | 1
+Halloween Party | 1
+New Year's Eve | 1
+Midnight Kiss | 1
+Countdown | 1
+Ball Drop | 1
+Super Bowl Party | 1
+Tailgating | 1
+Housewarming | 1
+Dinner Party | 1
+Cocktail Party | 1
+Wine And Cheese Night | 2
+Game Night | 1
+Murder Mystery Party | 2
+Escape Room | 1
+Bowling Night | 2
+Trivia Night | 1
+Open Mic Night | 2
+Comedy Club | 1
+Casino Night | 1
+Vegas Trip | 1
+What Happens In Vegas | 1
+Spring Break | 1
+Girls' Trip | 1
+Cruise Ship | 1
+Booze Cruise | 1
+All-Inclusive Resort | 2
+Swim-Up Bar | 2
+Sunburn | 1
+Party Bus | 1
+Limo | 1
+Uber Home | 1
+Surge Pricing | 2
+Ride Share | 2
+Walk Of Shame | 1
+Stumbling Home | 1
+Late-Night Pizza | 1
+Drunk Food | 1
+Kebab At 3 AM | 2
+Drive-Thru Run | 1
+Cheesy Fries | 2
+Diner At 2 AM | 2
+After-Party | 1
+After-After-Party | 2
+# Batch 3: party people
+Life Of The Party | 1
+Party Pooper | 1
+Party Crasher | 1
+Plus One | 1
+Party Host | 1
+Lampshade On Head | 2
+The Drunk Friend | 1
+Mom Friend | 1
+Designated Photographer | 2
+Selfie Queen | 2
+Wallflower | 1
+Early Leaver | 2
+Irish Goodbye | 2
+French Exit | 3
+The Ex At The Party | 2
+Crying In The Bathroom | 1
+Bathroom Friends | 2
+Drunk Texter | 1
+Sleepy Drunk | 2
+Happy Drunk | 1
+Emotional Drunk | 2
+Sloppy | 2
+Smashed | 2
+Wasted | 1
+Hammered | 1
+Buzzed | 1
+Sober | 1
+Sober Curious | 2
+Dry January | 1
+Mocktail | 1
+Club Soda | 2
+Teetotaler | 3
+Bar Fly | 3
+Karaoke Diva | 1
+Dancing Queen | 1
+DJ | 1
+Hype Man | 1
+Party Planner | 1
+Beer Pong Champion | 2
+Neighbor Complaining | 2
+Noise Complaint | 1
+Cops Show Up | 2
+Party Foul | 1
+Spilled Drink | 1
+Broken Glass | 1
+Red Wine Stain | 1
+Lost Phone | 1
+Lost Shoe | 1
+Lost Keys | 1
+Lost Voice | 1
+Ruined Outfit | 2
+Torn Dress | 2
+Heels In Hand | 2
+Blisters | 1
+Sore Feet | 1
+Ringing Ears | 2
+Glitter Everywhere | 1
+Bar Bathroom | 2
+Line For The Ladies | 2
+Phone At One Percent | 2
+Group Chat | 1
+Group Photo | 1
+Blurry Photos | 1
+Embarrassing Video | 1
+Tagged Photo | 2
+Instagram Story | 1
+Snap Story | 2
+FOMO | 1
+YOLO | 1
+Send It | 2
+Turn Up | 1
+Lit | 1
+Rager | 2
+Banger | 2
+Vibe Check | 1
+Main Character Energy | 2
+# Batch 4: the morning after
+Morning After | 1
+Hangover Cure | 1
+Greasy Breakfast | 1
+Hair Of The Dog | 2
+Pounding Headache | 1
+Aspirin | 1
+Electrolytes | 2
+Coconut Water | 2
+Pedialyte | 2
+Sunglasses Indoors | 1
+Blackout Curtains | 1
+Room Spinning | 1
+One Foot On The Floor | 2
+Never Drinking Again | 1
+Regret | 1
+Beer Fear | 2
+Hangxiety | 2
+Piecing Together The Night | 2
+Checking Bank Account | 1
+Bar Tab Shock | 2
+Who Ordered Pizza | 2
+Couch Surfer | 2
+Sleeping On The Couch | 1
+Sleeping In Your Clothes | 1
+Makeup Still On | 1
+Mascara Smudge | 2
+Bed Head | 1
+Morning Breath | 1
+Hangover Brunch | 1
+Recovery Day | 1
+Netflix And Recover | 2
+Sunday Scaries | 1
+Sick Day | 1
+Two-Day Hangover | 2
+Undo Send | 2
+Drunk Texts | 1
+Drunk Dial | 1
+Drunk Shopping | 1
+Drunk Tattoo | 2
+Drunk History | 2
+Drunk Selfie | 2
+Spontaneous Haircut | 3
+Hiccup Attack | 2
+Slurred Speech | 1
+Beer Breath | 1
+Wine Teeth | 1
+Wine Drunk | 1
+Tequila Mistake | 2
+Rosé All Day | 2
+Day Drinking | 1
+Boozy Brunch | 2
+Wine O'Clock | 1
+It's Five O'Clock Somewhere | 1
+Liquid Lunch | 2
+Night Owl | 1
+Sunrise Walk Home | 2
+Last One Standing | 1
+Closing Time | 1
+Kicked Out | 2
+Cut Off | 1
+Party's Over | 1
+# Batch 5: party games and extras
+Drunk Jenga | 2
+Would You Rather | 1
+Most Likely To | 1
+Two Truths And A Lie | 1
+Hot Seat | 2
+Charades | 1
+Cards Against Humanity | 2
+Drunk Charades | 2
+Ring Of Fire | 3
+Ride The Bus | 3
+Rage Cage | 3
+Giant Jenga | 1
+Beer Olympics | 2
+Shot Roulette | 2
+Shotski | 2
+Wine Pong | 2
+Drink Every Time | 2
+Party Dice | 2
+Dare | 1
+Kiss Marry Avoid | 2
+Mistletoe | 1
+Party Hats | 1
+Confetti Cannon | 1
+Streamers | 1
+Balloon Arch | 2
+Neon Sign | 2
+Disco Outfit | 2
+Sequins | 1
+Little Black Dress | 1
+Club Outfit | 2
+Party Shirt | 2
+Going-Out Top | 2
+Stilettos | 1
+Tuxedo | 1
+Bow Tie | 1
+Glow In The Dark | 2
+Black Light | 2
+Hot Tub | 1
+Bonfire | 1
+Beach Party | 1
+Luau | 1
+Fiesta | 1
+Mardi Gras | 1
+Beads | 2
+St. Patrick's Day | 1
+Green Beer | 1
+Cinco De Mayo | 1
+Bar Mitzvah | 2
+Wedding Reception | 1
+Wedding Crasher | 1
+Best Man Speech | 1
+Maid Of Honor | 1
+Garter Toss | 2
+Bouquet Toss | 1
+Chicken Dance | 1
+Twist And Shout | 2
+Sing-Along | 1
+Shouting Lyrics | 1
+Wrong Lyrics | 1
+Belting It Out | 2
