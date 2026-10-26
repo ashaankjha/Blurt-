@@ -7,10 +7,12 @@ import { AccessibilityInfo, Alert } from 'react-native';
 
 import Caught from '../app/caught';
 import Home from '../app/index';
+import Packs from '../app/packs';
 import Scoreboard from '../app/scoreboard';
 import Settings from '../app/settings';
 import Setup from '../app/setup';
 import Win from '../app/win';
+import { PACK_MANIFEST } from '../content/packs';
 import { createGame, reduce, type GameSettings, type GameState } from './engine';
 import { useGame } from './store/game';
 import { REVIEW_PROMPT_DELAY_MS, reviewPrompt } from './store/review';
@@ -180,6 +182,37 @@ describe('Accessibility (F11): Home, Setup and Settings', () => {
     await fireEvent.press(screen.getByRole('button', { name: /Reset phrase history/ }));
     expect(announce).toHaveBeenCalledWith('Phrase history cleared.');
     jest.restoreAllMocks();
+  });
+});
+
+describe('Pack Picker: every pack free, After Dark gated (PRD 9 Content)', () => {
+  const adultIds = PACK_MANIFEST.filter((p) => p.tags.includes('adult')).map((p) => p.id);
+  const bundledIds = PACK_MANIFEST.map((p) => p.id);
+
+  beforeEach(() => {
+    useSettings.getState().resetAll();
+    useGame.getState().setPacks([]);
+  });
+
+  it('hides After Dark packs and their filter until the 18+ toggle is on', async () => {
+    expect(adultIds.length).toBeGreaterThan(0);
+    await render(<Packs />);
+    expect(screen.queryByTestId('packs-tag-adult')).toBeNull();
+    await fireEvent.press(screen.getByTestId('packs-select-all'));
+    const picked = useGame.getState().draft.packIds;
+    // Every non-adult bundled pack (plus Everything Mix) is selectable with one tap: no locks.
+    for (const id of bundledIds.filter((i) => !adultIds.includes(i))) expect(picked).toContain(id);
+    for (const id of adultIds) expect(picked).not.toContain(id);
+    expect(screen.queryByText(/purchase|unlock|buy|\$\d/i)).toBeNull();
+  });
+
+  it('shows them once After Dark is on', async () => {
+    useSettings.getState().set('afterDarkEnabled', true);
+    await render(<Packs />);
+    expect(screen.getByTestId('packs-tag-adult')).toBeTruthy();
+    await fireEvent.press(screen.getByTestId('packs-select-all'));
+    const picked = useGame.getState().draft.packIds;
+    for (const id of bundledIds) expect(picked).toContain(id);
   });
 });
 
