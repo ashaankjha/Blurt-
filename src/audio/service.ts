@@ -9,11 +9,24 @@
  *   moment plays instantly without keeping 39 native players alive (each Android player is an
  *   ExoPlayer with its own thread and decoder).
  *
+ * On web, expo-audio plays from an <audio> element per player. An element created from a plain
+ * asset URL can go back to the server on replay (seek to 0 + play), which breaks the "no network
+ * during play" rule. So on web, preload() puts every sound (not only the buzzers) into
+ * expo-audio's in-memory blob cache and then re-points each idle player at its cached copy
+ * (`replace`). Native players read from the app binary, so native keeps the buzzer-only warm-up.
+ *
  * Every public method is safe to call at any time (before preload, after a native failure) and
  * never throws: errors and promise rejections are swallowed.
  */
-import { createAudioPlayer, preload as preloadSource, setAudioModeAsync, type AudioPlayer } from 'expo-audio';
+import {
+  createAudioPlayer,
+  getPreloadedSources,
+  preload as preloadSource,
+  setAudioModeAsync,
+  type AudioPlayer,
+} from 'expo-audio';
 import * as Haptics from 'expo-haptics';
+import { Platform } from 'react-native';
 
 import { BUZZER_ASSETS, SFX_ASSETS, TICK_ASSETS, type SfxKind, type SoundAsset, type TickKind } from './catalog';
 import {
@@ -45,6 +58,13 @@ export interface AudioServiceOptions {
   buzzerSlots?: number;
   /** Upper bound on how long preload() waits for the native preload cache. */
   preloadTimeoutMs?: number;
+  /**
+   * Preload every sound (ticks and sfx too) and, once cached, re-point idle players at the cached
+   * copy. Defaults to true on web only (see the file comment); native keeps the buzzer-only warm-up.
+   */
+  preloadAllSounds?: boolean;
+  /** How long the full preload keeps waiting for the cache in the background (web). */
+  cacheWaitMs?: number;
 }
 
 interface AudioSettings {
@@ -88,7 +108,10 @@ function restart(player: AudioPlayer, volume: number) {
 
 class Pool {
   private next = 0;
-  constructor(readonly players: AudioPlayer[]) {}
+  constructor(
+    readonly players: AudioPlayer[],
+    readonly source: SoundAsset['source'],
+  ) {}
   play(volume: number) {
     if (!this.players.length) return;
     const player = this.players[this.next];
@@ -116,6 +139,8 @@ export function createAudioService(options: AudioServiceOptions = {}): AudioServ
   const buzzerSlots = Math.max(1, options.buzzerSlots ?? 2);
   const preloadTimeoutMs = options.preloadTimeoutMs ?? 4000;
   const catalog = options.catalog ?? DEFAULT_CATALOG;
+  const preloadAllSounds = options.preloadAllSounds ?? Platform.OS === 'web';
+  const cacheWaitMs = options.cacheWaitMs ?? 20_000;
   const buzzerList = catalog.buzzers;
   const buzzerById = new Map(buzzerList.map((b) => [b.id, b]));
   const findBuzzer = (id: string) => buzzerById.get(id);
@@ -159,7 +184,10 @@ export function createAudioService(options: AudioServiceOptions = {}): AudioServ
     const created: AudioPlayer[] = [];
     try {
       const pool = (asset: SoundAsset, size: number) =>
-        new Pool(Array.from({ length: size }, () => newPlayer(asset, created)));
+        new Pool(
+          Array.from({ length: size }, () => newPlayer(asset, created)),
+          asset.source,
+        );
       const ticks = { tick: pool(catalog.ticks.tick, tickPoolSize), tock: pool(catalog.ticks.tock, tickPoolSize) };
       const sfx = {
         gotIt: pool(catalog.sfx.gotIt, SFX_POOL_SIZE.gotIt),
@@ -261,6 +289,50 @@ export function createAudioService(options: AudioServiceOptions = {}): AudioServ
     scheduleTick();
   }
 
+  /** Every distinct sound source in the catalog. */
+  function allSources(): SoundAsset['source'][] {
+    const all = [...Object.values(catalog.ticks), ...Object.values(catalog.sfx), ...buzzerList].map((a) => a.source);
+    return [...new Set(all)];
+  }
+
+  /** Resolves once expo-audio reports at least `count` cached sources, or after `maxMs`. */
+  async function waitForCache(count: number, maxMs: number): Promise<void> {
+    const started = Date.now();
+    for (;;) {
+      let cached = 0;
+      try {
+        cached = (await Promise.resolve(getPreloadedSources())).length;
+      } catch {
+        return;
+      }
+      if (cached >= count || Date.now() - started >= maxMs) return;
+      await new Promise((resolve) => setTimeout(resolve, 50));
+    }
+  }
+
+  /**
+   * Re-create each idle player's source so it picks up expo-audio's cached copy (on web,
+   * `replace` builds a new <audio> element from the blob URL). Players that are playing are left
+   * alone so nothing restarts mid-sound.
+   */
+  function repointPlayers() {
+    const p = players;
+    if (!p) return;
+    const refresh = (player: AudioPlayer, source: SoundAsset['source']) =>
+      safely(() => {
+        if (player.playing) return;
+        player.replace(source);
+        player.volume = settings.volume;
+      });
+    for (const pool of [...Object.values(p.ticks), ...Object.values(p.sfx)]) {
+      for (const player of pool.players) refresh(player, pool.source);
+    }
+    for (const slot of p.buzzers) {
+      const asset = slot.id ? findBuzzer(slot.id) : undefined;
+      if (asset) refresh(slot.player, asset.source);
+    }
+  }
+
   function stopAllSound() {
     for (const p of players?.all ?? []) safely(() => p.pause());
   }
@@ -272,16 +344,26 @@ export function createAudioService(options: AudioServiceOptions = {}): AudioServ
           try {
             ensurePlayers();
             applyAudioMode();
-            // Warm expo-audio's source cache so buzzer swaps (replace) are near-instant.
-            const warm = Promise.allSettled(
-              buzzerList.map((b) => {
+            // Warm expo-audio's source cache so buzzer swaps (replace) are near-instant. On web,
+            // warm every sound and then move the players onto the cached copies.
+            const sources = preloadAllSounds ? allSources() : buzzerList.map((b) => b.source);
+            const settled = Promise.allSettled(
+              sources.map((source) => {
                 try {
-                  return Promise.resolve(preloadSource(b.source));
+                  return Promise.resolve(preloadSource(source));
                 } catch (e) {
                   return Promise.reject(e);
                 }
               }),
             );
+            // Web's preload() returns before the fetch finishes, so wait on the cache itself. This
+            // keeps going in the background past the timeout below, so a slow load still re-points.
+            const warm = preloadAllSounds
+              ? settled
+                  .then(() => waitForCache(sources.length, cacheWaitMs))
+                  .then(repointPlayers)
+                  .catch(ignore)
+              : settled;
             let timer: ReturnType<typeof setTimeout> | undefined;
             const timeout = new Promise<void>((resolve) => {
               timer = setTimeout(resolve, preloadTimeoutMs);

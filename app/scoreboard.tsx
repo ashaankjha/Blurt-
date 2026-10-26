@@ -1,6 +1,8 @@
-import { Alert, Platform, View } from 'react-native';
+import { useEffect } from 'react';
+import { AccessibilityInfo, Alert, Platform, View } from 'react-native';
 import { useShallow } from 'zustand/react/shallow';
 
+import { suddenDeath } from '../src/engine';
 import { useGame } from '../src/store/game';
 import { AppText, Button, Card, Screen, ScoreRow, useTheme } from '../src/ui';
 
@@ -16,12 +18,28 @@ function confirm(title: string, message: string, yes: string, onYes: () => void)
   ]);
 }
 
+/** "A", "A and B", "A, B and C". */
+function joinNames(names: string[]): string {
+  return names.length <= 1 ? (names[0] ?? '') : `${names.slice(0, -1).join(', ')} and ${names[names.length - 1]}`;
+}
+
 export default function Scoreboard() {
   const { colors, spacing } = useTheme();
   const game = useGame((s) => s.game);
   const { nextRound, undoLastPoint, quitGame } = useGame(
     useShallow((s) => ({ nextRound: s.nextRound, undoLastPoint: s.undoLastPoint, quitGame: s.quitGame })),
   );
+
+  const tie = game ? suddenDeath(game) : null;
+  const tiedNames =
+    tie && game ? joinNames(game.settings.teams.filter((t) => tie.teamIds.includes(t.id)).map((t) => t.name)) : '';
+  const tieMessage = tie
+    ? `${tiedNames} are tied at ${tie.score}. Keep playing: the first team to pull ahead wins.`
+    : '';
+
+  useEffect(() => {
+    if (tieMessage) AccessibilityInfo.announceForAccessibility?.(`Tied! Sudden death. ${tieMessage}`);
+  }, [tieMessage]);
 
   if (!game) return null;
 
@@ -40,6 +58,19 @@ export default function Scoreboard() {
             After round {game.round} · first to {targetScore} wins
           </AppText>
         </View>
+
+        {tie ? (
+          <Card color={colors.danger} testID="scoreboard-sudden-death">
+            <View style={{ gap: spacing.xs }}>
+              <AppText variant="heading" align="center" accessibilityRole="header">
+                🔥 Tied! Sudden death
+              </AppText>
+              <AppText variant="body" align="center">
+                {tieMessage}
+              </AppText>
+            </View>
+          </Card>
+        ) : null}
 
         <Card>
           <View style={{ gap: spacing.sm }}>
@@ -60,7 +91,7 @@ export default function Scoreboard() {
         </Card>
 
         <Button
-          label="Next Round"
+          label={tie ? 'Sudden Death Round' : 'Next Round'}
           icon="🔥"
           size="xl"
           variant="primary"

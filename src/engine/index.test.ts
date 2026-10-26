@@ -1,11 +1,19 @@
 import * as engine from './index';
-import { createGame, fuseProgress, fuseRemainingMs, holderLabel, mulberry32, reduce } from './index';
+import { createGame, fuseProgress, fuseRemainingMs, holderLabel, mulberry32, reduce, suddenDeath } from './index';
 import { makeDeps, makeSettings, makeTeams } from './testHelpers';
 import type { GameState } from './types';
 
 describe('public API', () => {
   it('keeps the agreed exports', () => {
-    for (const name of ['createGame', 'reduce', 'fuseProgress', 'fuseRemainingMs', 'holderLabel', 'mulberry32']) {
+    for (const name of [
+      'createGame',
+      'reduce',
+      'fuseProgress',
+      'fuseRemainingMs',
+      'holderLabel',
+      'mulberry32',
+      'suddenDeath',
+    ]) {
       expect(typeof (engine as Record<string, unknown>)[name]).toBe('function');
     }
   });
@@ -104,5 +112,57 @@ describe('holderLabel', () => {
 
   it('returns an empty string for an out-of-range holder', () => {
     expect(holderLabel({ ...createGame(makeSettings()), holderTeamIndex: 9 })).toBe('');
+  });
+});
+
+describe('suddenDeath', () => {
+  /** Play rounds, catching the given team each time, then show the scoreboard. */
+  function play(teams: number, target: number, caught: string[]): GameState {
+    const deps = makeDeps();
+    let s = reduce(
+      createGame(makeSettings({ teams: makeTeams(teams), targetScore: target })),
+      { type: 'START_ROUND' },
+      deps,
+    );
+    for (const [i, team] of caught.entries()) {
+      if (i > 0) s = reduce(s, { type: 'NEXT_ROUND' }, deps);
+      // Pass the phone until the caught team holds it, then let the fuse blow.
+      while (s.settings.teams[s.holderTeamIndex].id !== team) {
+        deps.advance(400);
+        s = reduce(s, { type: 'GOT_IT' }, deps);
+      }
+      deps.advance(80_000);
+      s = reduce(s, { type: 'TICK', now: deps.now() }, deps);
+      expect(s.phase).toBe('caught');
+      s = reduce(s, { type: 'SHOW_SCOREBOARD' }, deps);
+    }
+    return s;
+  }
+
+  it('is null below the target and when one team leads alone', () => {
+    expect(suddenDeath(play(3, 3, ['red']))).toBeNull(); // 0/1/1, below target
+    const won = play(2, 1, ['red']);
+    expect(won.phase).toBe('won');
+    expect(suddenDeath(won)).toBeNull();
+  });
+
+  it('reports the tied leaders at or above the target, and play goes on', () => {
+    // 3 teams, target 1: red caught -> blue 1, green 1: tied at the target, no winner.
+    const tied = play(3, 1, ['red']);
+    expect(tied.phase).toBe('scoreboard');
+    expect(suddenDeath(tied)).toEqual({ teamIds: ['blue', 'green'], score: 1 });
+    // Catching a non-leader keeps the tie (blue 2, green 2).
+    const stillTied = play(3, 1, ['red', 'red']);
+    expect(suddenDeath(stillTied)).toEqual({ teamIds: ['blue', 'green'], score: 2 });
+    // Catching a leader breaks it: green 2, blue 1 -> green wins.
+    const broken = play(3, 1, ['red', 'blue']);
+    expect(broken.phase).toBe('won');
+    expect(broken.winnerTeamId).toBe('green');
+    expect(suddenDeath(broken)).toBeNull();
+  });
+
+  it('handles 4 teams with three leaders', () => {
+    const s = play(4, 1, ['red']);
+    expect(suddenDeath(s)).toEqual({ teamIds: ['blue', 'green', 'gold'], score: 1 });
   });
 });

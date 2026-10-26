@@ -22,6 +22,29 @@ import {
 
 const dark = palette.dark;
 
+/**
+ * Chill mode only: the visible fuse. It polls progress on its own, so only this bar re-renders
+ * five times a second, not the whole Round screen. Hidden mode never mounts it (nothing reads time).
+ */
+function ChillFuse() {
+  const [progress, setProgress] = useState(() => {
+    const g = useGame.getState().game;
+    return g ? fuseProgress(g, Date.now()) : 0;
+  });
+  useEffect(() => {
+    const id = setInterval(() => {
+      const g = useGame.getState().game;
+      if (g) setProgress(fuseProgress(g, Date.now()));
+    }, 200);
+    return () => clearInterval(id);
+  }, []);
+  return (
+    <View style={{ paddingTop: spacing.sm }} testID="round-fuse">
+      <FuseBar progress={progress} />
+    </View>
+  );
+}
+
 export default function Round() {
   // PRD: keep the screen awake during rounds.
   useKeepAwake('blurt-round', { suppressDeactivateWarnings: true });
@@ -42,20 +65,9 @@ export default function Round() {
   const [confirmQuit, setConfirmQuit] = useState(false);
   const pausedByMenu = useRef(false);
   const lastAdvance = useRef(0);
-  const [progress, setProgress] = useState(0);
 
   const showFuse = game?.settings.showFuse ?? false;
   const paused = game?.phase === 'paused';
-
-  // Chill mode only: poll fuse progress for the visible FuseBar. Hidden mode never reads time.
-  useEffect(() => {
-    if (!showFuse) return;
-    const id = setInterval(() => {
-      const g = useGame.getState().game;
-      if (g) setProgress(fuseProgress(g, Date.now()));
-    }, 200);
-    return () => clearInterval(id);
-  }, [showFuse]);
 
   // Backgrounding the app (or a phone call) pauses the fuse: handled once, app-wide, by
   // installGameLifecycle in app/_layout.tsx. The phrase is hidden below while paused.
@@ -131,11 +143,7 @@ export default function Round() {
         />
       </View>
 
-      {showFuse ? (
-        <View style={{ paddingTop: spacing.sm }} accessibilityLabel="Fuse" testID="round-fuse">
-          <FuseBar progress={progress} />
-        </View>
-      ) : null}
+      {showFuse ? <ChillFuse /> : null}
 
       {/* The phrase, huge and centered. Hidden while paused. */}
       <View style={{ flex: 1, justifyContent: 'center', paddingVertical: spacing.lg }}>

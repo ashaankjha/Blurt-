@@ -31,6 +31,7 @@ export function AppText({
       accessible={decorative ? false : undefined}
       importantForAccessibility={decorative ? 'no-hide-descendants' : undefined}
       accessibilityElementsHidden={decorative || undefined}
+      aria-hidden={decorative || undefined}
       numberOfLines={numberOfLines}
       allowFontScaling
       maxFontSizeMultiplier={maxFontSizeMultiplier ?? v.maxScale}

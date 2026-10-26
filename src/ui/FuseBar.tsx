@@ -9,6 +9,7 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated';
 
+import { ariaProps } from './a11y';
 import { chunkyShadow, fuseColors, radii } from './tokens';
 import { useTheme } from './theme';
 import type { FuseBarProps } from './types';
@@ -56,6 +57,7 @@ export function FuseBar({ progress, testID }: FuseBarProps) {
       accessibilityRole="progressbar"
       accessibilityLabel="Fuse"
       accessibilityValue={{ min: 0, max: 100, now: pct, text: `${pct}% of the fuse left` }}
+      {...ariaProps(null, { min: 0, max: 100, now: pct, text: `${pct}% of the fuse left` })}
       style={{ flexDirection: 'row', alignItems: 'center', minHeight: 44 }}
     >
       <Text allowFontScaling={false} style={{ fontSize: 32, lineHeight: 40, marginRight: -4, zIndex: 1 }}>

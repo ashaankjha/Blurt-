@@ -45,4 +45,19 @@ export function holderLabel(state: GameState): string {
   return currentPlayer(state, team) ?? team.name;
 }
 
+/**
+ * Sudden death: two or more teams share the top score at or above the target, so nobody has won
+ * yet and play goes on until one team leads alone (only possible with 3-4 teams, where every
+ * team but the caught one scores). Returns the tied teams and their score, or null.
+ */
+export function suddenDeath(state: GameState): { teamIds: string[]; score: number } | null {
+  if (state.phase === 'won') return null;
+  const { teams, targetScore } = state.settings;
+  if (teams.length === 0) return null;
+  const score = Math.max(...teams.map((t) => state.scores[t.id] ?? 0));
+  if (score < targetScore) return null;
+  const teamIds = teams.filter((t) => (state.scores[t.id] ?? 0) === score).map((t) => t.id);
+  return teamIds.length > 1 ? { teamIds, score } : null;
+}
+
 const clamp01 = (x: number): number => Math.min(1, Math.max(0, x));

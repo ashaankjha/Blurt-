@@ -79,6 +79,80 @@ describe('preload', () => {
     expect(done).toHaveBeenCalled();
     (ExpoAudio.preload as jest.Mock).mockImplementation(() => Promise.resolve());
   });
+
+  it('native (default in Jest): warms only the buzzers and never re-points players', async () => {
+    await svc.preload();
+    const warmed = (ExpoAudio.preload as jest.Mock).mock.calls.map((c) => c[0]);
+    expect(warmed).toEqual(catalog.buzzers.map((b) => b.source));
+    await jest.advanceTimersByTimeAsync(1000);
+    for (const p of audioMock.players) expect(p.replace).not.toHaveBeenCalled();
+  });
+});
+
+describe('preload on web (preloadAllSounds)', () => {
+  const distinct = 2 + 4 + catalog.buzzers.length;
+
+  afterEach(() => {
+    (ExpoAudio.getPreloadedSources as jest.Mock).mockImplementation(() => Promise.resolve([]));
+  });
+
+  it('warms every sound, then re-points every idle player at its cached copy', async () => {
+    // Web's getPreloadedSources is synchronous; the cache fills after a short delay.
+    let cached: string[] = [];
+    (ExpoAudio.getPreloadedSources as jest.Mock).mockImplementation(() => cached);
+    setTimeout(() => {
+      cached = Array.from({ length: distinct }, (_, i) => `blob:${i}`);
+    }, 200);
+    const s = createAudioService({ catalog, rng: seeded(2), preloadAllSounds: true });
+    const done = s.preload();
+    // Nothing re-pointed before the cache is ready.
+    await jest.advanceTimersByTimeAsync(100);
+    for (const p of audioMock.players) expect(p.replace).not.toHaveBeenCalled();
+    await jest.advanceTimersByTimeAsync(300);
+    await done;
+
+    const warmed = new Set((ExpoAudio.preload as jest.Mock).mock.calls.map((c) => c[0]));
+    expect(warmed).toEqual(new Set([1, 2, 11, 12, 13, 14, ...catalog.buzzers.map((b) => b.source)]));
+    expect(audioMock.players).toHaveLength(15);
+    for (const p of audioMock.players) {
+      expect(p.replace).toHaveBeenCalledTimes(1);
+      // Same sound as before, so the player now reads the cached copy of its own file.
+      expect(p.replace).toHaveBeenCalledWith(p.source);
+    }
+    // Still plays the right sounds afterwards.
+    s.configure(ON);
+    s.playSfx('gotIt');
+    s.playSfx('point');
+    expect(audioMock.played).toEqual([11, 13]);
+  });
+
+  it('keeps re-pointing in the background when the cache is slower than the preload timeout', async () => {
+    let cached: string[] = [];
+    (ExpoAudio.getPreloadedSources as jest.Mock).mockImplementation(() => cached);
+    const s = createAudioService({ catalog, preloadAllSounds: true, preloadTimeoutMs: 500 });
+    const done = jest.fn();
+    void s.preload().then(done);
+    await jest.advanceTimersByTimeAsync(600);
+    expect(done).toHaveBeenCalled();
+    expect(audioMock.players.some((p) => p.replace.mock.calls.length > 0)).toBe(false);
+    cached = Array.from({ length: distinct }, (_, i) => `blob:${i}`);
+    await jest.advanceTimersByTimeAsync(100);
+    expect(audioMock.players.every((p) => p.replace.mock.calls.length === 1)).toBe(true);
+  });
+
+  it('leaves a playing player alone and never throws if the cache query fails', async () => {
+    (ExpoAudio.getPreloadedSources as jest.Mock).mockImplementation(() => {
+      throw new Error('boom');
+    });
+    const s = createAudioService({ catalog, preloadAllSounds: true });
+    s.configure(ON);
+    s.playSfx('win'); // the only win player is now playing
+    await expect(s.preload()).resolves.toBeUndefined();
+    const win = audioMock.players.find((p) => p.source === 14);
+    expect(win?.replace).not.toHaveBeenCalled();
+    // The query failed, so it gave up waiting and re-pointed the idle players anyway.
+    expect(audioMock.players.filter((p) => p.replace.mock.calls.length === 1)).toHaveLength(14);
+  });
 });
 
 describe('safety', () => {

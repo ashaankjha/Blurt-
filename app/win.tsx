@@ -1,8 +1,10 @@
+import { useEffect } from 'react';
 import { View } from 'react-native';
 import { useShallow } from 'zustand/react/shallow';
 
 import type { GameState } from '../src/engine/types';
 import { useGame } from '../src/store/game';
+import { REVIEW_PROMPT_DELAY_MS, reviewPrompt } from '../src/store/review';
 import { AppText, Button, Card, Confetti, Screen, ScoreRow, useTheme } from '../src/ui';
 
 interface StatLine {
@@ -48,6 +50,15 @@ export default function Win() {
     useShallow((s) => ({ playAgain: s.playAgain, quitGame: s.quitGame, undoLastPoint: s.undoLastPoint })),
   );
 
+  const won = game?.phase === 'won';
+
+  // In-app review (PRD 11): only here, at most once per 3 completed games; never on web.
+  useEffect(() => {
+    if (!won) return;
+    const timer = setTimeout(() => void reviewPrompt.maybeRequestReview(), REVIEW_PROMPT_DELAY_MS);
+    return () => clearTimeout(timer);
+  }, [won]);
+
   if (!game) return null;
 
   const { teams, targetScore } = game.settings;
@@ -60,7 +71,7 @@ export default function Win() {
       <Confetti active />
       <View style={{ gap: spacing.lg, paddingVertical: spacing.lg }}>
         <View style={{ alignItems: 'center', gap: spacing.xs }}>
-          <AppText variant="display" align="center">
+          <AppText variant="display" align="center" decorative>
             🏆
           </AppText>
           <AppText variant="display" align="center" accessibilityRole="header" testID="win-headline">

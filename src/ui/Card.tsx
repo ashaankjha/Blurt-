@@ -77,6 +77,7 @@ export function Chip({ label, selected, onPress, icon, color, disabled, accessib
         accessible
         accessibilityLabel={accessibilityLabel ?? label}
         accessibilityState={disabled ? { disabled: true } : undefined}
+        aria-disabled={disabled ? true : undefined}
         style={{
           opacity: disabled ? 0.45 : 1,
           alignSelf: 'flex-start',

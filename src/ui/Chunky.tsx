@@ -10,6 +10,7 @@ import {
 } from 'react-native';
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
+import { ariaProps } from './a11y';
 import { chunkyShadow, motion } from './tokens';
 import { useTheme } from './theme';
 
@@ -115,6 +116,7 @@ export function ChunkyPressable({
       accessibilityHint={accessibilityHint}
       accessibilityState={{ ...accessibilityState, disabled: !!disabled }}
       accessibilityValue={accessibilityValue}
+      {...ariaProps({ ...accessibilityState, disabled: !!disabled }, accessibilityValue)}
       style={[{ opacity: disabled && dimDisabled ? 0.45 : 1 }, stretch ? { flexGrow: 1 } : null, style]}
     >
       <View style={{ paddingBottom: depth, flexGrow: stretch ? 1 : undefined }}>

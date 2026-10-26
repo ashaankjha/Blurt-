@@ -27,6 +27,10 @@ Owned paths: `src/store/game*`, glue in `app/`, `e2e/`. No frozen contract chang
 - **playAgain** runs `createGame(game.settings)` with a new drawer and then START_ROUND. **quitGame** stops the loop and ticking, drops the drawer, and sets `game: null`.
 - **Lifecycle.** `app/_layout.tsx` calls `installGameLifecycle` once, and it is the only AppState listener (I removed the one on Round). AppState `background`/`inactive`, or Android `blur`, pauses a playing round: the fuse freezes and Round hides the phrase. It never auto-resumes. Audio settings are applied at install and again whenever sound, volume, haptics or silent-mode changes. `audioService.preload()` runs in an effect, off the first-render path.
 
+## In-app review prompt (added by QA, agent H)
+
+`review.ts`: `reviewPrompt` (and `createReviewPrompt(deps)` for tests) over `expo-store-review`. The store's `onGameCompleted` dep (default `reviewPrompt.recordCompletedGame`) fires once per game, the first time it reaches `won` (an undo and a second win in the same game counts once). `app/win.tsx` calls `reviewPrompt.maybeRequestReview()` 2.5 s after mount. It asks when at least 3 games were completed since the last request (games 3, 6, 9, ...), never on web, only if `isAvailableAsync()` is true, and never throws; the module is loaded lazily so a build without the native module cannot crash. The counter persists in kv under `blurt.review.v1` (not part of settings, so Reset all settings leaves it). Tests: `review.test.ts`, `game.test.ts`, `src/appScreens.test.tsx`. Device check: the sheet only appears in a store/TestFlight-installed or internal-test build on iOS and from a Play-installed build on Android; the OS decides whether to show it.
+
 ## app/ glue changes
 
 - `_layout.tsx` installs the lifecycle, preloads audio, and on web prefetches the code-split in-game routes at launch (see Known gaps).
@@ -58,9 +62,9 @@ E2E: see `e2e/README.md`. The web Playwright run of Quick Play to Win passes and
 
 ## Known gaps / notes
 
-- **3-4 team games can tie.** Every non-caught team scores, so after a catch at least two teams share the lead. The engine only declares a winner with a single leader at or above the target, so the game goes on until one team pulls ahead. This is correct per the engine, but the scoreboard has no "tie, keep playing" hint.
-- **Web only, audio.** expo-audio's `<audio>` elements re-request `sfx-got-it.wav` and `sfx-point.wav` during play (HTTP 304 online, a silent failure offline). The web E2E tolerates and reports this, and `STRICT_NETWORK=1` makes it fail. Fix in `src/audio`: preload every sound into expo-audio's cache on web, not only the buzzers. Native builds read sounds from the binary.
+- **3-4 team games can tie.** Every non-caught team scores, so after a catch at least two teams share the lead. The engine only declares a winner with a single leader at or above the target, so the game goes on until one team pulls ahead. This is correct per the engine. QA (agent H) added `suddenDeath(state)` to `src/engine/index.ts`: the Scoreboard shows a "Tied! Sudden death" banner naming the tied teams and relabels Next Round as "Sudden Death Round", Caught adds a sudden-death line (and now crowns the leaders, not the caught team), and How to Play mentions it. Tests: `src/engine/index.test.ts`, `src/appScreens.test.tsx`.
+- **Web only, audio (fixed by QA, agent H).** expo-audio's `<audio>` elements used to re-request `sfx-got-it.wav` and `sfx-point.wav` during play. `src/audio` now preloads every sound into expo-audio's blob cache on web and re-points the players at it, and `STRICT_NETWORK=1 node e2e/web/quick-play-to-win.mjs` passes.
 - **Web only, routes.** expo-router code-splits routes on web by default. `_layout.tsx` prefetches round, caught, scoreboard and win at launch. A cleaner fix is `['expo-router', { asyncRoutes: false }]` in `app.config.ts`, which belongs to the orchestrator.
 - **Metro cache across worktrees.** `expo export` served a stale Phase 0 `app/` from the shared Metro cache even with `EXPO_ROUTER_APP_ROOT` set. The E2E script uses `--clear`.
-- **iOS Maestro and Stepper.** The design-system Stepper row is one accessible element, so XCUITest may hide its `-dec`/`-inc` buttons and the flows that change the target could fail on iOS. Android is unaffected. Details are in `e2e/README.md`.
+- **iOS Maestro and Stepper (fixed by QA, agent H).** The Stepper's adjustable element is now the label only; `-dec`, `-inc` and `-value` sit outside it, so XCUITest can see them. Details are in `e2e/README.md`.
 - Round keeps its own 300 ms button debounce on top of the engine's, so the design-system `debounceMs` prop isn't needed there.

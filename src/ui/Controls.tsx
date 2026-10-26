@@ -3,6 +3,7 @@ import { Pressable, Text, View, type AccessibilityActionEvent } from 'react-nati
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
 import { AppText } from './AppText';
+import { ariaProps } from './a11y';
 import { ChunkyPressable } from './Chunky';
 import { shade } from './color';
 import { stepValue } from './rangeMath';
@@ -48,8 +49,13 @@ function StepButton({
 }
 
 /**
- * Label + [−] value [+]. Clamps to [min, max]; the buttons disable at the ends. For screen
- * readers the whole row is one "adjustable" element (swipe up/down to change).
+ * Label + [−] value [+]. Clamps to [min, max]; the buttons disable at the ends.
+ *
+ * Accessibility: the label is one "adjustable" element (`testID`) that announces the value and
+ * takes increment/decrement actions (VoiceOver/TalkBack swipe up/down). The −/+ buttons
+ * (`${testID}-dec` / `-inc`) and the value (`${testID}-value`) stay separate accessible elements,
+ * like a native UIStepper, so Voice Control, Switch Control and UI automation (XCUITest/Maestro,
+ * which hides the children of an accessible element) can reach them.
  */
 export function Stepper({ label, value, min, max, step = 1, onChange, format, testID }: StepperProps) {
   const { colors } = useTheme();
@@ -61,17 +67,18 @@ export function Stepper({ label, value, min, max, step = 1, onChange, format, te
     if (e.nativeEvent.actionName === 'decrement' && dec !== value) onChange(dec);
   };
   return (
-    <View
-      testID={testID}
-      accessible
-      accessibilityRole="adjustable"
-      accessibilityLabel={label}
-      accessibilityValue={{ min, max, now: value, text }}
-      accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
-      onAccessibilityAction={onAction}
-      style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm, flexWrap: 'wrap' }}
-    >
-      <View style={{ flex: 1, minWidth: 120 }}>
+    <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm, flexWrap: 'wrap' }}>
+      <View
+        testID={testID}
+        accessible
+        accessibilityRole="adjustable"
+        accessibilityLabel={label}
+        accessibilityValue={{ min, max, now: value, text }}
+        {...ariaProps(null, { min, max, now: value, text })}
+        accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
+        onAccessibilityAction={onAction}
+        style={{ flex: 1, minWidth: 120, minHeight: minTouch, justifyContent: 'center' }}
+      >
         <AppText variant="label">{label}</AppText>
       </View>
       <View style={{ flexDirection: 'row', alignItems: 'center', gap: spacing.sm }}>
@@ -118,6 +125,7 @@ export function Segmented<T>({ label, options, value, onChange, disabled, testID
         accessibilityRole="radiogroup"
         accessibilityLabel={label}
         accessibilityState={{ disabled: !!disabled }}
+        aria-disabled={!!disabled}
         style={{
           opacity: disabled ? 0.45 : 1,
           flexDirection: 'row',
@@ -199,6 +207,7 @@ export function ToggleRow({ label, description, value, onChange, disabled, testI
       accessibilityLabel={label}
       accessibilityHint={description}
       accessibilityState={{ checked: value, disabled: !!disabled }}
+      {...ariaProps({ checked: value, disabled: !!disabled })}
       style={{
         flexDirection: 'row',
         alignItems: 'center',

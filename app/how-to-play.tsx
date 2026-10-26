@@ -36,12 +36,12 @@ const STEPS: Step[] = [
     art: '💣💥',
     bg: '#D9478F',
     title: "Don't get caught",
-    body: `A hidden fuse ticks faster and faster. Whoever holds the phone when it blows gives every other team a point. First to ${DEFAULTS.targetScore} wins!`,
+    body: `A hidden fuse ticks faster and faster. Whoever holds the phone when it blows gives every other team a point. First to ${DEFAULTS.targetScore} wins! Tied at the top? Sudden death: play on until one team pulls ahead.`,
   },
 ];
 
 export default function HowToPlay() {
-  const { colors, spacing, radii } = useTheme();
+  const { colors, spacing, radii, reduceMotion } = useTheme();
   const [page, setPage] = useState(0);
   const [width, setWidth] = useState(0);
   const scroller = useRef<ScrollViewInstance>(null);
@@ -60,7 +60,7 @@ export default function HowToPlay() {
     setTimeout(() => {
       if (scrollingTo.current === i) scrollingTo.current = null;
     }, 800);
-    scroller.current?.scrollTo({ x: i * width, animated: true });
+    scroller.current?.scrollTo({ x: i * width, animated: !reduceMotion });
   };
 
   const onScroll = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
@@ -113,8 +113,9 @@ export default function HowToPlay() {
                   accessible={false}
                   importantForAccessibility="no-hide-descendants"
                   accessibilityElementsHidden
+                  aria-hidden
                 >
-                  <AppText variant="display" align="center">
+                  <AppText variant="display" align="center" decorative>
                     {step.art}
                   </AppText>
                 </View>

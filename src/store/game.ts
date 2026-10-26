@@ -26,6 +26,7 @@ import {
   shuffleSeats as shuffleTeamSeats,
 } from './gameDraft';
 import type { GameStore } from './gameTypes';
+import { reviewPrompt } from './review';
 import { useSettings } from './settings';
 import type { SettingsStore } from './settingsTypes';
 
@@ -45,6 +46,8 @@ export interface GameStoreDeps {
   settings: Pick<StoreApi<SettingsStore>, 'getState'>;
   /** Fuse loop period, ms. Default FUSE_TICK_MS. */
   tickMs: number;
+  /** Called once per game, the first time it is won. Default: counts it for the review prompt. */
+  onGameCompleted: () => void;
 }
 
 export type GameStoreInstance = UseBoundStore<StoreApi<GameStore>>;
@@ -61,6 +64,7 @@ export function createGameStore(overrides: Partial<GameStoreDeps> = {}): GameSto
     audio: audioService,
     settings: useSettings,
     tickMs: FUSE_TICK_MS,
+    onGameCompleted: () => reviewPrompt.recordCompletedGame(),
     ...overrides,
   };
   const { audio } = deps;
@@ -68,6 +72,8 @@ export function createGameStore(overrides: Partial<GameStoreDeps> = {}): GameSto
   /** Draw function for the current game (one drawer per game, so no repeats within a game). */
   let drawer: (() => Phrase) | null = null;
   let loop: ReturnType<typeof setInterval> | null = null;
+  /** Whether the current game already counted as completed (undo + a second win counts once). */
+  let completedCounted = false;
 
   const engineDeps: EngineDeps = {
     now: () => deps.now(),
@@ -139,8 +145,17 @@ export function createGameStore(overrides: Partial<GameStoreDeps> = {}): GameSto
         return;
       }
       if (action === 'SHOW_SCOREBOARD' && prev?.phase === 'caught') {
-        if (next.phase === 'won') audio.playSfx('win');
-        else if (next.phase === 'scoreboard') audio.playSfx('point');
+        if (next.phase === 'won') {
+          audio.playSfx('win');
+          if (!completedCounted) {
+            completedCounted = true;
+            try {
+              deps.onGameCompleted();
+            } catch (e) {
+              warn('onGameCompleted failed', e);
+            }
+          }
+        } else if (next.phase === 'scoreboard') audio.playSfx('point');
       }
     };
 
@@ -192,6 +207,7 @@ export function createGameStore(overrides: Partial<GameStoreDeps> = {}): GameSto
       // Leaving an old game: silence it before the new round starts its own loop.
       stopLoop();
       audio.stopTicking();
+      completedCounted = false;
       setGame(started, 'NEW_GAME');
       return true;
     };

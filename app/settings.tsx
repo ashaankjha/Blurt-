@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
-import { useMemo, useState } from 'react';
-import { Alert, Platform, ScrollView, View } from 'react-native';
+import { useEffect, useMemo, useState } from 'react';
+import { AccessibilityInfo, Alert, Platform, ScrollView, View } from 'react-native';
 
 import { audioService } from '../src/audio';
 import { APP_NAME, APP_VERSION, LIMITS, SHIP_AFTER_DARK } from '../src/config';
@@ -48,6 +48,11 @@ export default function Settings() {
   const buzzers = useMemo(() => [{ id: 'random', name: 'Random' }, ...audioService.listBuzzers()], []);
   const [notice, setNotice] = useState<string | null>(null);
   const r = s.defaultRules;
+
+  // The confirmation appears below the buttons; screen readers would not notice it otherwise.
+  useEffect(() => {
+    if (notice) AccessibilityInfo.announceForAccessibility?.(notice);
+  }, [notice]);
 
   const pickBuzzer = (id: string) => {
     s.set('buzzerId', id);
@@ -97,6 +102,7 @@ export default function Settings() {
               options={VOLUMES}
               value={s.volume}
               onChange={(v) => s.set('volume', v)}
+              disabled={!s.soundEnabled}
               testID="settings-volume"
             />
             <ToggleRow
