@@ -27,6 +27,10 @@ Owned paths: `src/store/game*`, glue in `app/`, `e2e/`. No frozen contract chang
 - **playAgain** runs `createGame(game.settings)` with a new drawer and then START_ROUND. **quitGame** stops the loop and ticking, drops the drawer, and sets `game: null`.
 - **Lifecycle.** `app/_layout.tsx` calls `installGameLifecycle` once, and it is the only AppState listener (I removed the one on Round). AppState `background`/`inactive`, or Android `blur`, pauses a playing round: the fuse freezes and Round hides the phrase. It never auto-resumes. Audio settings are applied at install and again whenever sound, volume, haptics or silent-mode changes. `audioService.preload()` runs in an effect, off the first-render path.
 
+## In-app review prompt (added by QA, agent H)
+
+`review.ts`: `reviewPrompt` (and `createReviewPrompt(deps)` for tests) over `expo-store-review`. The store's `onGameCompleted` dep (default `reviewPrompt.recordCompletedGame`) fires once per game, the first time it reaches `won` (an undo and a second win in the same game counts once). `app/win.tsx` calls `reviewPrompt.maybeRequestReview()` 2.5 s after mount. It asks when at least 3 games were completed since the last request (games 3, 6, 9, ...), never on web, only if `isAvailableAsync()` is true, and never throws; the module is loaded lazily so a build without the native module cannot crash. The counter persists in kv under `blurt.review.v1` (not part of settings, so Reset all settings leaves it). Tests: `review.test.ts`, `game.test.ts`, `src/appScreens.test.tsx`. Device check: the sheet only appears in a store/TestFlight-installed or internal-test build on iOS and from a Play-installed build on Android; the OS decides whether to show it.
+
 ## app/ glue changes
 
 - `_layout.tsx` installs the lifecycle, preloads audio, and on web prefetches the code-split in-game routes at launch (see Known gaps).

@@ -2,12 +2,14 @@
  * Screen tests for app/ routes. They live in src/ because Expo Router turns every file under app/
  * (tests included) into a route.
  */
-import { render, screen } from '@testing-library/react-native';
+import { act, render, screen } from '@testing-library/react-native';
 
 import Caught from '../app/caught';
 import Scoreboard from '../app/scoreboard';
+import Win from '../app/win';
 import { createGame, reduce, type GameSettings, type GameState } from './engine';
 import { useGame } from './store/game';
+import { REVIEW_PROMPT_DELAY_MS, reviewPrompt } from './store/review';
 import { TEAM_COLORS } from './ui';
 
 const teams = (n: number) =>
@@ -98,5 +100,30 @@ describe('Caught', () => {
     useGame.setState({ game: gameAfter(2, 7, [0], 'caught') });
     await render(<Caught />);
     expect(screen.queryByTestId('caught-sudden-death')).toBeNull();
+  });
+});
+
+describe('Win: review prompt', () => {
+  beforeEach(() => jest.useFakeTimers());
+  afterEach(() => jest.useRealTimers());
+
+  it('asks the review prompt after the confetti, and not if the screen is left first', async () => {
+    const ask = jest.spyOn(reviewPrompt, 'maybeRequestReview').mockResolvedValue(false);
+    const game = gameAfter(2, 1, [0], 'scoreboard');
+    expect(game.phase).toBe('won');
+    useGame.setState({ game });
+    const view = await render(<Win />);
+    expect(screen.getByText('Team Orange wins!')).toBeTruthy();
+    expect(ask).not.toHaveBeenCalled();
+    await act(() => jest.advanceTimersByTime(REVIEW_PROMPT_DELAY_MS));
+    expect(ask).toHaveBeenCalledTimes(1);
+    await view.unmount();
+
+    ask.mockClear();
+    const again = await render(<Win />);
+    await again.unmount();
+    jest.advanceTimersByTime(REVIEW_PROMPT_DELAY_MS * 2);
+    expect(ask).not.toHaveBeenCalled();
+    ask.mockRestore();
   });
 });

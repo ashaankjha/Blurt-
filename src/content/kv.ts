@@ -88,4 +88,6 @@ export const KV_KEYS = {
   seenPrefix: 'blurt.seen.v1.',
   customPacks: 'blurt.custom.v1',
   mixCount: 'blurt.mixcount.v1',
+  /** Completed-games counter for the in-app review prompt (src/store/review.ts). */
+  review: 'blurt.review.v1',
 } as const;

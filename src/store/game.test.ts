@@ -53,6 +53,7 @@ function setup(opts: { fuseMs?: number; target?: number; extra?: Partial<GameSto
     content,
     audio,
     settings,
+    onGameCompleted: jest.fn(),
     ...opts.extra,
   });
   return {
@@ -341,6 +342,46 @@ describe('scoring', () => {
     expect(g.roundLog).toEqual([]);
     expect(h.content.createDrawer).toHaveBeenCalledTimes(2);
     expect(h.content.createDrawer).toHaveBeenLastCalledWith(['movies', 'animals'], expect.any(Function));
+  });
+
+  it('counts each completed game once for the review prompt (undo + win again is still one game)', () => {
+    const onGameCompleted = jest.fn();
+    const h = make({ target: 1, fuseMs: 5_000, extra: { onGameCompleted } });
+    h.store.getState().quickPlay();
+    burnFuse(h);
+    h.store.getState().showScoreboard();
+    expect(h.game().phase).toBe('won');
+    expect(onGameCompleted).toHaveBeenCalledTimes(1);
+    // Undo from the win screen, play on, win again: same game.
+    h.store.getState().undoLastPoint();
+    h.store.getState().nextRound();
+    burnFuse(h);
+    h.store.getState().showScoreboard();
+    expect(h.game().phase).toBe('won');
+    expect(onGameCompleted).toHaveBeenCalledTimes(1);
+    // Play Again is a new game.
+    h.store.getState().playAgain();
+    burnFuse(h);
+    h.store.getState().showScoreboard();
+    expect(onGameCompleted).toHaveBeenCalledTimes(2);
+  });
+
+  it('a throwing completion hook never breaks the win', () => {
+    const warn = jest.spyOn(console, 'warn').mockImplementation(() => {});
+    const h = make({
+      target: 1,
+      fuseMs: 5_000,
+      extra: {
+        onGameCompleted: () => {
+          throw new Error('kv down');
+        },
+      },
+    });
+    h.store.getState().quickPlay();
+    burnFuse(h);
+    h.store.getState().showScoreboard();
+    expect(h.game().phase).toBe('won');
+    warn.mockRestore();
   });
 
   it('quitGame clears the game and silences the fuse', () => {
