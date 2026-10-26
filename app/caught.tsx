@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { AccessibilityInfo, Animated, Platform, StyleSheet, View } from 'react-native';
 
 import { useGame } from '../src/store/game';
-import { AppText, Button, Card, palette, Screen, ScoreRow, spacing, useTheme } from '../src/ui';
+import { AppText, Button, Card, findTeamColor, palette, Screen, ScoreRow, spacing, useTheme } from '../src/ui';
 
 const dark = palette.dark;
 
@@ -39,7 +39,11 @@ export default function Caught() {
   const target = game.settings.targetScore;
 
   return (
-    <Screen scheme="dark" tint={caughtTeam?.color} testID="caught-screen">
+    <Screen
+      scheme="dark"
+      tint={caughtTeam ? (findTeamColor(caughtTeam.color)?.deep ?? caughtTeam.color) : undefined}
+      testID="caught-screen"
+    >
       <StatusBar style="light" />
       <View style={{ flex: 1, justifyContent: 'center', gap: spacing.lg }}>
         <View style={{ alignItems: 'center', gap: spacing.sm }}>

@@ -140,7 +140,7 @@ export default function Settings() {
         <Card>
           <View style={{ gap: spacing.md }}>
             <AppText variant="caption" color={colors.textMuted}>
-              Used for every new Custom Game. Quick Play always uses the standard rules.
+              Used for Quick Play and every new Custom Game.
             </AppText>
             <Stepper
               label="Points to win"
