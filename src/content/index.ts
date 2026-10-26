@@ -1,52 +1,34 @@
 /**
- * ContentService. Phase 0 STUB with a tiny in-memory pack set: Agent B replaces it with the real
- * loader over content/packs, keeping the exported names.
+ * Content runtime: bundled pack loader, Everything Mix, persisted no-repeat history and custom
+ * packs. See src/content/HANDOFF.md.
  */
-import type { Pack, PackMeta, Phrase } from '../../content/schema';
-import type { ContentService } from './types';
+import { PACK_LOADERS, PACK_MANIFEST } from '../../content/packs';
+import { EVERYTHING_MIX_ID } from '../config';
+import { createCustomPackService } from './custom';
+import { kv } from './kv';
+import { createContentService } from './service';
+import type { ContentService, CustomPackService } from './types';
 
 export * from './types';
+export { createContentService, EVERYTHING_MIX_META, type ContentServiceDeps } from './service';
+export {
+  createCustomPackService,
+  decodePack,
+  encodePack,
+  InvalidPackCodeError,
+  rekeyPack,
+  type CustomPackServiceOptions,
+} from './custom';
+export { createMemoryKV, kv, type KV, type MemoryKV } from './kv';
 
-const STUB_PACKS: Pack[] = [
-  {
-    id: 'food-drink',
-    name: 'Food & Drink',
-    emoji: '🍕',
-    description: 'Snacks, dishes and drinks.',
-    tags: ['family'],
-    version: 1,
-    phrases: ['Pizza', 'Hot Dog', 'Pancakes', 'Lemonade', 'French Fries'].map((text) => ({
-      id: `food-drink:${text.toLowerCase().replace(/\s+/g, '-')}`,
-      text,
-      difficulty: 1 as const,
-    })),
-  },
-  {
-    id: 'animals',
-    name: 'Animals',
-    emoji: '🦒',
-    description: 'Creatures great and small.',
-    tags: ['family', 'kids'],
-    version: 1,
-    phrases: ['Giraffe', 'Penguin', 'Kangaroo', 'Octopus', 'Golden Retriever'].map((text) => ({
-      id: `animals:${text.toLowerCase().replace(/\s+/g, '-')}`,
-      text,
-      difficulty: 1 as const,
-    })),
-  },
-];
+export const customPackService: CustomPackService = createCustomPackService({
+  kv,
+  reservedIds: () => [EVERYTHING_MIX_ID, ...PACK_MANIFEST.map((m) => m.id)],
+});
 
-const toMeta = ({ phrases, ...meta }: Pack): PackMeta => ({ ...meta, phraseCount: phrases.length });
-
-export const contentService: ContentService = {
-  listPacks: () => STUB_PACKS.map(toMeta),
-  getPack: (id) => STUB_PACKS.find((p) => p.id === id),
-  createDrawer: (packIds, rng = Math.random) => {
-    const pool: Phrase[] = STUB_PACKS.filter((p) => packIds.includes(p.id)).flatMap((p) => p.phrases);
-    if (pool.length === 0) throw new Error('No phrases in selected packs');
-    return () => pool[Math.floor(rng() * pool.length)];
-  },
-  markSeen: () => {},
-  resetHistory: () => {},
-  seenCount: () => 0,
-};
+export const contentService: ContentService = createContentService({
+  manifest: PACK_MANIFEST,
+  loaders: PACK_LOADERS,
+  kv,
+  customPacks: customPackService,
+});
