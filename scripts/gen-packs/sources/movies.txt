@@ -1,0 +1,604 @@
+# Movies: very well-known film titles from all eras.
+# Format: Title | difficulty (1 easy, 2 medium, 3 hard)
+
+# Batch 1: biggest family and blockbuster titles
+Star Wars | 1
+Jaws | 1
+Frozen | 1
+Toy Story | 1
+The Lion King | 1
+Finding Nemo | 1
+Jurassic Park | 1
+E.T. | 1
+Back to the Future | 1
+The Wizard of Oz | 1
+Shrek | 1
+Home Alone | 1
+Ghostbusters | 1
+Rocky | 1
+Grease | 1
+Cars | 1
+Up | 1
+Aladdin | 1
+Cinderella | 1
+Snow White | 1
+Beauty and the Beast | 1
+The Little Mermaid | 1
+Harry Potter | 1
+Spider-Man | 1
+Batman | 1
+Superman | 1
+Iron Man | 1
+Avatar | 1
+King Kong | 1
+Godzilla | 1
+Jumanji | 1
+Mary Poppins | 1
+Pinocchio | 1
+Dumbo | 1
+Bambi | 1
+Peter Pan | 1
+Mulan | 1
+Moana | 1
+Coco | 1
+Inside Out | 1
+Monsters, Inc. | 1
+The Incredibles | 1
+Ratatouille | 1
+WALL-E | 1
+Madagascar | 1
+Ice Age | 1
+Kung Fu Panda | 1
+Despicable Me | 1
+Minions | 1
+Zootopia | 1
+Encanto | 1
+Tangled | 1
+The Godfather | 2
+Casablanca | 2
+Gone with the Wind | 2
+The Sound of Music | 1
+Forrest Gump | 1
+The Matrix | 1
+Top Gun | 1
+Indiana Jones | 1
+Raiders of the Lost Ark | 2
+Mission: Impossible | 1
+James Bond | 1
+Men in Black | 1
+Independence Day | 1
+Transformers | 1
+The Avengers | 1
+Black Panther | 1
+Wonder Woman | 1
+Captain America | 1
+Thor | 1
+Guardians of the Galaxy | 1
+Ant-Man | 2
+Doctor Strange | 2
+Captain Marvel | 2
+Aquaman | 1
+Barbie | 1
+Oppenheimer | 2
+Top Gun: Maverick | 2
+The Dark Knight | 1
+Joker | 1
+Deadpool | 1
+X-Men | 1
+Fantastic Four | 2
+Hulk | 1
+Lord of the Rings | 1
+The Hobbit | 1
+The Hunger Games | 1
+Twilight | 1
+Divergent | 3
+The Chronicles of Narnia | 2
+Pirates of the Caribbean | 1
+Night at the Museum | 1
+Mrs. Doubtfire | 1
+Ghost | 2
+Dirty Dancing | 1
+Footloose | 2
+Flashdance | 2
+Saturday Night Fever | 2
+The Breakfast Club | 2
+
+# Batch 2: classics through the 80s
+Psycho | 2
+The Shining | 2
+Vertigo | 3
+Citizen Kane | 2
+Rear Window | 3
+The Birds | 2
+North by Northwest | 3
+Singin' in the Rain | 2
+It's a Wonderful Life | 2
+Miracle on 34th Street | 2
+White Christmas | 2
+Ben-Hur | 2
+The Ten Commandments | 2
+Lawrence of Arabia | 3
+Some Like It Hot | 3
+Breakfast at Tiffany's | 2
+Roman Holiday | 3
+West Side Story | 2
+My Fair Lady | 2
+The Graduate | 2
+Bonnie and Clyde | 2
+Planet of the Apes | 1
+2001: A Space Odyssey | 2
+Dr. Strangelove | 3
+Willy Wonka | 1
+Chitty Chitty Bang Bang | 2
+The Sting | 3
+Taxi Driver | 2
+The Exorcist | 2
+Halloween | 1
+Alien | 1
+The Terminator | 1
+Close Encounters | 3
+Annie | 1
+Annie Hall | 3
+Star Trek | 1
+The Karate Kid | 1
+The Goonies | 1
+Gremlins | 1
+Beetlejuice | 1
+Big | 2
+Splash | 2
+Tootsie | 3
+Ferris Bueller's Day Off | 2
+Sixteen Candles | 2
+Pretty in Pink | 2
+Dead Poets Society | 2
+Field of Dreams | 2
+Rain Man | 2
+When Harry Met Sally | 2
+Pretty Woman | 1
+Coming to America | 2
+Beverly Hills Cop | 2
+Lethal Weapon | 2
+Die Hard | 1
+Predator | 2
+RoboCop | 2
+Who Framed Roger Rabbit | 2
+The Princess Bride | 2
+Honey, I Shrunk the Kids | 2
+Edward Scissorhands | 2
+Rebel Without a Cause | 3
+Cleopatra | 2
+Spartacus | 3
+The Great Escape | 3
+The Italian Job | 3
+Chinatown | 3
+Apocalypse Now | 3
+The Blues Brothers | 2
+Airplane! | 2
+Caddyshack | 3
+Animal House | 3
+Spaceballs | 2
+Three Amigos | 3
+Planes, Trains and Automobiles | 3
+Uncle Buck | 3
+National Lampoon's Vacation | 3
+Christmas Vacation | 2
+The Empire Strikes Back | 2
+Return of the Jedi | 2
+Tron | 2
+WarGames | 3
+Short Circuit | 3
+The NeverEnding Story | 2
+Labyrinth | 2
+Romancing the Stone | 3
+Rambo | 2
+Conan the Barbarian | 3
+Blade Runner | 2
+Total Recall | 3
+Young Frankenstein | 2
+The Rocky Horror Picture Show | 2
+Little Shop of Horrors | 2
+Fiddler on the Roof | 2
+The King and I | 3
+On the Waterfront | 3
+Goldfinger | 2
+
+# Batch 3: the 90s and 2000s
+Groundhog Day | 1
+The Mask | 1
+Dumb and Dumber | 1
+Ace Ventura | 1
+Pulp Fiction | 2
+The Shawshank Redemption | 2
+Speed | 2
+True Lies | 3
+Apollo 13 | 2
+Braveheart | 2
+Casper | 1
+Babe | 2
+Twister | 2
+Space Jam | 1
+Matilda | 1
+Jerry Maguire | 2
+The Fifth Element | 3
+Good Will Hunting | 2
+Armageddon | 2
+The Truman Show | 2
+Shakespeare in Love | 3
+The Parent Trap | 2
+A Bug's Life | 1
+Notting Hill | 2
+The Sixth Sense | 2
+Fight Club | 2
+The Blair Witch Project | 2
+Stuart Little | 1
+The Green Mile | 2
+Gladiator | 1
+Cast Away | 2
+Erin Brockovich | 3
+Miss Congeniality | 2
+Meet the Parents | 2
+Charlie's Angels | 2
+Remember the Titans | 2
+Legally Blonde | 1
+Ocean's Eleven | 2
+Zoolander | 2
+Spirited Away | 2
+Lilo & Stitch | 1
+My Big Fat Greek Wedding | 2
+Catch Me If You Can | 2
+Chicago | 2
+Elf | 1
+School of Rock | 1
+Freaky Friday | 1
+Love Actually | 2
+Holes | 2
+Bad Boys | 2
+Mean Girls | 1
+The Notebook | 1
+Napoleon Dynamite | 2
+Anchorman | 2
+The Polar Express | 1
+National Treasure | 2
+Mr. & Mrs. Smith | 2
+Wedding Crashers | 2
+Batman Begins | 2
+Happy Feet | 1
+The Devil Wears Prada | 2
+Little Miss Sunshine | 2
+Casino Royale | 2
+Enchanted | 2
+Juno | 2
+Hairspray | 2
+High School Musical | 1
+Mamma Mia! | 1
+Slumdog Millionaire | 2
+Edge of Tomorrow | 3
+Sister Act | 2
+The Bodyguard | 2
+Hook | 2
+Jurassic World | 1
+Clueless | 2
+Bring It On | 2
+13 Going on 30 | 2
+The Princess Diaries | 2
+Bridget Jones's Diary | 2
+Sleepless in Seattle | 2
+You've Got Mail | 2
+Hitch | 2
+The Proposal | 2
+Cheaper by the Dozen | 2
+Kindergarten Cop | 2
+Jingle All the Way | 2
+The Santa Clause | 1
+A Christmas Story | 2
+How the Grinch Stole Christmas | 1
+A Christmas Carol | 2
+The Holiday | 3
+Scrooged | 3
+Wayne's World | 2
+Billy Madison | 3
+Happy Gilmore | 2
+The Waterboy | 2
+Grown Ups | 2
+50 First Dates | 2
+Liar Liar | 2
+Bruce Almighty | 2
+The Nutty Professor | 2
+Austin Powers | 2
+Rush Hour | 2
+Step Brothers | 2
+Dodgeball | 2
+Tommy Boy | 3
+Tropic Thunder | 3
+Talladega Nights | 3
+
+# Batch 4: modern hits
+Inception | 2
+How to Train Your Dragon | 1
+Black Swan | 2
+The Social Network | 2
+The King's Speech | 3
+Bridesmaids | 2
+The Help | 2
+Moneyball | 3
+Brave | 1
+Wreck-It Ralph | 1
+Life of Pi | 2
+Les Misérables | 2
+Pitch Perfect | 2
+Gravity | 2
+The Wolf of Wall Street | 2
+The Lego Movie | 1
+Interstellar | 2
+Big Hero 6 | 1
+Gone Girl | 2
+Paddington | 1
+The Martian | 2
+Mad Max | 2
+The Force Awakens | 2
+Finding Dory | 1
+La La Land | 1
+The Jungle Book | 1
+Hidden Figures | 2
+Get Out | 2
+A Quiet Place | 2
+Crazy Rich Asians | 2
+A Star Is Born | 2
+Avengers: Endgame | 1
+Infinity War | 2
+Knives Out | 2
+Parasite | 2
+Dune | 2
+Wicked | 1
+Turning Red | 2
+Elemental | 2
+Luca | 2
+Soul | 2
+KPop Demon Hunters | 2
+The Greatest Showman | 1
+Free Guy | 2
+Ready Player One | 2
+Black Widow | 2
+Venom | 2
+Logan | 3
+Shazam! | 2
+Justice League | 2
+Man of Steel | 2
+Jungle Cruise | 3
+Cruella | 2
+Maleficent | 2
+Bird Box | 3
+Whiplash | 3
+The Grand Budapest Hotel | 3
+Birdman | 3
+Moonlight | 3
+Argo | 3
+Memento | 3
+The Prestige | 3
+Arrival | 3
+The Revenant | 3
+The Big Short | 3
+Shutter Island | 3
+Django Unchained | 3
+The Great Gatsby | 2
+The Fault in Our Stars | 2
+The Maze Runner | 2
+Percy Jackson | 2
+A Wrinkle in Time | 2
+Fantastic Beasts | 2
+Skyfall | 2
+The Da Vinci Code | 2
+The Pursuit of Happyness | 2
+I Am Legend | 3
+Hancock | 3
+I, Robot | 3
+Zombieland | 2
+World War Z | 2
+The Conjuring | 2
+Paranormal Activity | 3
+The Lone Ranger | 2
+District 9 | 3
+Pacific Rim | 3
+Into the Woods | 2
+Little Women | 2
+Pride & Prejudice | 2
+Ford v Ferrari | 3
+Creed | 2
+The Blind Side | 2
+Moulin Rouge! | 2
+
+# Batch 5: animation and family favorites
+101 Dalmatians | 1
+Lady and the Tramp | 1
+Sleeping Beauty | 1
+Alice in Wonderland | 1
+Fantasia | 2
+Hercules | 1
+Pocahontas | 2
+Tarzan | 1
+The Hunchback of Notre Dame | 2
+The Emperor's New Groove | 2
+Chicken Little | 2
+Bolt | 2
+The Princess and the Frog | 2
+Raya and the Last Dragon | 3
+Monsters University | 2
+Shark Tale | 2
+Bee Movie | 2
+Megamind | 2
+Puss in Boots | 2
+The Croods | 2
+Trolls | 1
+The Boss Baby | 1
+The Secret Life of Pets | 2
+Sing | 2
+Hotel Transylvania | 2
+Rio | 2
+Horton Hears a Who! | 2
+The Lorax | 2
+My Neighbor Totoro | 2
+Howl's Moving Castle | 3
+Ponyo | 3
+Chicken Run | 2
+Wallace & Gromit | 2
+Fantastic Mr. Fox | 2
+James and the Giant Peach | 2
+Charlotte's Web | 1
+The Fox and the Hound | 2
+Robin Hood | 2
+The Sword in the Stone | 2
+The Aristocats | 2
+The Rescuers | 3
+Winnie the Pooh | 1
+The Iron Giant | 2
+The Land Before Time | 2
+An American Tail | 3
+The Nightmare Before Christmas | 2
+Coraline | 2
+Hocus Pocus | 1
+The Addams Family | 1
+Halloweentown | 2
+Free Willy | 2
+Beethoven | 2
+Homeward Bound | 2
+Air Bud | 2
+Marley & Me | 2
+Lassie | 2
+Black Beauty | 2
+Seabiscuit | 3
+War Horse | 3
+Peter Rabbit | 2
+Alvin and the Chipmunks | 2
+The Muppet Movie | 2
+The Witches | 3
+Flubber | 2
+Bedknobs and Broomsticks | 3
+The Love Bug | 3
+Swiss Family Robinson | 3
+Diary of a Wimpy Kid | 2
+Spy Kids | 2
+The Cat in the Hat | 1
+Dr. Dolittle | 2
+George of the Jungle | 2
+Inspector Gadget | 2
+Richie Rich | 3
+The Sandlot | 2
+The Mighty Ducks | 2
+Cool Runnings | 2
+A League of Their Own | 2
+Rudy | 2
+Bridge to Terabithia | 2
+The Outsiders | 2
+Hoosiers | 3
+Major League | 3
+Miracle | 3
+Chariots of Fire | 3
+Raging Bull | 3
+Million Dollar Baby | 3
+White Men Can't Jump | 2
+Bend It Like Beckham | 2
+
+# Batch 6: drama, comedy, horror, sci-fi and westerns
+Goodfellas | 2
+Scarface | 2
+Casino | 3
+The Departed | 2
+The Usual Suspects | 3
+Reservoir Dogs | 3
+Fargo | 3
+No Country for Old Men | 3
+The Big Lebowski | 2
+O Brother, Where Art Thou? | 3
+Minority Report | 3
+War of the Worlds | 2
+Lincoln | 3
+A Few Good Men | 2
+The Last Samurai | 3
+Risky Business | 3
+Interview with the Vampire | 3
+Unforgiven | 3
+The Silence of the Lambs | 2
+Dances with Wolves | 2
+Driving Miss Daisy | 2
+Amadeus | 3
+Gandhi | 3
+Kramer vs. Kramer | 3
+A Beautiful Mind | 2
+The Fellowship of the Ring | 3
+The Phantom Menace | 3
+Rogue One | 3
+Bill & Ted's Excellent Adventure | 3
+Runaway Bride | 3
+Eat Pray Love | 3
+What's Eating Gilbert Grape | 3
+True Grit | 3
+High Noon | 3
+Tombstone | 3
+Blazing Saddles | 3
+City Slickers | 3
+Rango | 3
+The Magnificent Seven | 3
+Scream | 1
+Friday the 13th | 2
+A Nightmare on Elm Street | 2
+Poltergeist | 2
+Child's Play | 3
+Carrie | 2
+The Ring | 2
+Signs | 3
+Arachnophobia | 3
+Tremors | 3
+Anaconda | 2
+Snakes on a Plane | 2
+Sharknado | 2
+Cloverfield | 3
+Night of the Living Dead | 3
+Shaun of the Dead | 3
+The Fly | 3
+Frankenstein | 1
+Dracula | 1
+The Invisible Man | 2
+Contact | 3
+Galaxy Quest | 3
+Mars Attacks! | 3
+The Mummy | 2
+Watchmen | 3
+Blade | 3
+Enter the Dragon | 3
+Crouching Tiger, Hidden Dragon | 3
+The Bourne Identity | 2
+The Fast and the Furious | 1
+John Wick | 2
+Taken | 2
+Point Break | 3
+Con Air | 3
+Face/Off | 3
+Air Force One | 2
+Deep Impact | 3
+The Day After Tomorrow | 3
+300 | 2
+Troy | 3
+Kingsman | 3
+Patch Adams | 3
+Hot Fuzz | 3
+Billy Elliot | 3
+Amélie | 3
+Pan's Labyrinth | 3
+The Color Purple | 2
+Malcolm X | 3
+Walk the Line | 3
+Cats | 2
+Step Up | 2
+This Is Spinal Tap | 3
+Almost Famous | 3
+Thelma & Louise | 2
+Fried Green Tomatoes | 3
+Steel Magnolias | 3
+The Birdcage | 3
+Four Weddings and a Funeral | 3
+A Walk to Remember | 2
+P.S. I Love You | 2
+Sense and Sensibility | 3
+Romeo + Juliet | 2
+The Wedding Singer | 2
+Clash of the Titans | 3

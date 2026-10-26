@@ -1,0 +1,490 @@
+# Music Artists: very famous solo artists and bands across genres and decades.
+# Format: Name | difficulty (1 easy, 2 medium, 3 hard)
+
+# Batch 1: pop superstars
+Taylor Swift | 1
+Beyoncé | 1
+Madonna | 1
+Michael Jackson | 1
+Lady Gaga | 1
+Britney Spears | 1
+Justin Bieber | 1
+Rihanna | 1
+Ariana Grande | 1
+Katy Perry | 1
+Adele | 1
+Ed Sheeran | 1
+Bruno Mars | 1
+Billie Eilish | 1
+Harry Styles | 1
+Dua Lipa | 2
+Olivia Rodrigo | 2
+Selena Gomez | 1
+Miley Cyrus | 1
+Demi Lovato | 2
+Shakira | 1
+Jennifer Lopez | 1
+Christina Aguilera | 2
+Mariah Carey | 1
+Whitney Houston | 1
+Celine Dion | 1
+Cher | 1
+Janet Jackson | 2
+Prince | 1
+Elton John | 1
+Billy Joel | 1
+Stevie Wonder | 1
+Lionel Richie | 2
+Cyndi Lauper | 2
+Kylie Minogue | 2
+Pink | 2
+Kelly Clarkson | 1
+Carrie Underwood | 2
+Justin Timberlake | 1
+Usher | 2
+Shawn Mendes | 2
+Charlie Puth | 3
+Sam Smith | 2
+Lizzo | 2
+Doja Cat | 2
+Sabrina Carpenter | 2
+Chappell Roan | 2
+SZA | 2
+The Weeknd | 1
+Post Malone | 2
+Lana Del Rey | 2
+Lorde | 2
+Sia | 2
+Meghan Trainor | 2
+Fergie | 2
+Gwen Stefani | 2
+Avril Lavigne | 2
+Alicia Keys | 1
+Norah Jones | 3
+John Legend | 2
+Sheryl Crow | 3
+Alanis Morissette | 2
+Shania Twain | 2
+Jessica Simpson | 3
+Hilary Duff | 2
+Jonas Brothers | 1
+NSYNC | 1
+Backstreet Boys | 1
+Spice Girls | 1
+Destiny's Child | 1
+One Direction | 1
+New Kids on the Block | 2
+Boyz II Men | 2
+TLC | 2
+Hanson | 2
+Fifth Harmony | 3
+Black Eyed Peas | 1
+Maroon 5 | 1
+OneRepublic | 2
+Imagine Dragons | 1
+Coldplay | 1
+The Chainsmokers | 2
+Calvin Harris | 2
+David Guetta | 2
+Daft Punk | 2
+Pitbull | 1
+Flo Rida | 2
+Kesha | 2
+Carly Rae Jepsen | 2
+Psy | 2
+BTS | 1
+Blackpink | 1
+Bad Bunny | 1
+J Balvin | 2
+Karol G | 2
+Daddy Yankee | 2
+Ricky Martin | 1
+Enrique Iglesias | 2
+Marc Anthony | 2
+Gloria Estefan | 2
+Luis Fonsi | 2
+
+# Batch 2: rock and classic rock
+The Beatles | 1
+The Rolling Stones | 1
+Queen | 1
+Led Zeppelin | 1
+Pink Floyd | 1
+The Who | 2
+AC/DC | 1
+Aerosmith | 1
+Guns N' Roses | 1
+Metallica | 1
+Nirvana | 1
+Pearl Jam | 2
+Foo Fighters | 1
+Red Hot Chili Peppers | 1
+U2 | 1
+The Eagles | 2
+Fleetwood Mac | 1
+Bon Jovi | 1
+Def Leppard | 2
+Journey | 2
+Kiss | 1
+Van Halen | 2
+Bruce Springsteen | 1
+Tom Petty | 2
+Bob Dylan | 1
+Jimi Hendrix | 1
+Janis Joplin | 2
+The Doors | 2
+The Beach Boys | 1
+Elvis Presley | 1
+Chuck Berry | 2
+Buddy Holly | 2
+Little Richard | 2
+Jerry Lee Lewis | 3
+Johnny Cash | 1
+Roy Orbison | 3
+The Kinks | 3
+The Police | 2
+Sting | 2
+The Clash | 3
+Ramones | 2
+Green Day | 1
+Blink-182 | 2
+Linkin Park | 1
+Weezer | 2
+The Killers | 2
+Fall Out Boy | 2
+Panic! at the Disco | 2
+My Chemical Romance | 2
+Paramore | 2
+Arctic Monkeys | 2
+The Strokes | 3
+The White Stripes | 2
+Kings of Leon | 2
+Radiohead | 2
+Oasis | 1
+Muse | 3
+Nickelback | 1
+Matchbox Twenty | 2
+Goo Goo Dolls | 2
+Third Eye Blind | 3
+Smash Mouth | 2
+Hootie & the Blowfish | 2
+Dave Matthews Band | 2
+Counting Crows | 3
+Barenaked Ladies | 3
+No Doubt | 2
+The Cranberries | 2
+Soundgarden | 3
+Stone Temple Pilots | 3
+Alice in Chains | 3
+Rage Against the Machine | 2
+System of a Down | 3
+Limp Bizkit | 2
+Evanescence | 2
+Slipknot | 3
+Ozzy Osbourne | 1
+Black Sabbath | 2
+Iron Maiden | 2
+Judas Priest | 3
+Mötley Crüe | 2
+Scorpions | 3
+Lynyrd Skynyrd | 2
+ZZ Top | 2
+Creedence Clearwater Revival | 2
+Santana | 2
+Steely Dan | 3
+REO Speedwagon | 3
+Foreigner | 3
+Toto | 3
+Talking Heads | 3
+Blondie | 2
+The Go-Go's | 2
+Duran Duran | 2
+Depeche Mode | 3
+The Cure | 2
+Tears for Fears | 3
+Wham! | 2
+George Michael | 2
+Boy George | 3
+Billy Idol | 2
+Phil Collins | 2
+Genesis | 3
+Peter Gabriel | 3
+David Bowie | 1
+Rod Stewart | 2
+Freddie Mercury | 1
+Mick Jagger | 2
+Paul McCartney | 1
+John Lennon | 1
+Ringo Starr | 2
+George Harrison | 3
+Eric Clapton | 2
+Keith Richards | 3
+Bono | 2
+Dave Grohl | 3
+Grateful Dead | 2
+The Mamas & the Papas | 3
+Bob Seger | 3
+John Mellencamp | 3
+Bryan Adams | 2
+Bonnie Tyler | 3
+Meat Loaf | 2
+Huey Lewis | 3
+Hall & Oates | 2
+Air Supply | 3
+Kenny Loggins | 3
+Alice Cooper | 2
+Nine Inch Nails | 3
+The Doobie Brothers | 3
+Steve Miller Band | 3
+
+# Batch 3: hip hop, R&B, soul and funk
+Eminem | 1
+Drake | 1
+Jay-Z | 1
+Kendrick Lamar | 1
+Snoop Dogg | 1
+Dr. Dre | 1
+Tupac | 1
+The Notorious B.I.G. | 2
+50 Cent | 2
+Nicki Minaj | 1
+Cardi B | 1
+Missy Elliott | 2
+Lil Wayne | 2
+Megan Thee Stallion | 2
+Run-DMC | 2
+Beastie Boys | 2
+Public Enemy | 3
+LL Cool J | 2
+Ice Cube | 2
+Ice-T | 3
+Queen Latifah | 2
+MC Hammer | 1
+Vanilla Ice | 2
+Salt-N-Pepa | 2
+OutKast | 2
+Wu-Tang Clan | 2
+Nelly | 2
+Ludacris | 2
+Pharrell Williams | 2
+Busta Rhymes | 3
+Lauryn Hill | 2
+The Fugees | 3
+Mary J. Blige | 2
+Childish Gambino | 3
+Chance the Rapper | 3
+J. Cole | 2
+Macklemore | 2
+Wiz Khalifa | 2
+Tyler, the Creator | 3
+Akon | 2
+T-Pain | 2
+Sean Paul | 2
+Shaggy | 2
+Bob Marley | 1
+Lil Nas X | 2
+Ne-Yo | 3
+Brandy | 3
+Toni Braxton | 3
+Luther Vandross | 2
+Frank Ocean | 3
+Sade | 3
+Erykah Badu | 3
+Chaka Khan | 3
+Patti LaBelle | 3
+Gladys Knight | 3
+Barry White | 2
+Tina Turner | 1
+Aretha Franklin | 1
+Diana Ross | 2
+The Supremes | 2
+The Temptations | 2
+The Jackson 5 | 1
+Marvin Gaye | 2
+Otis Redding | 3
+Ray Charles | 2
+James Brown | 2
+Sam Cooke | 3
+Etta James | 3
+Nina Simone | 3
+Smokey Robinson | 3
+Al Green | 3
+Earth, Wind & Fire | 2
+Kool & the Gang | 2
+Bee Gees | 1
+ABBA | 1
+Donna Summer | 2
+Gloria Gaynor | 3
+Village People | 2
+The Four Tops | 3
+The Righteous Brothers | 3
+The Everly Brothers | 3
+Sly and the Family Stone | 3
+Lenny Kravitz | 2
+Seal | 3
+Amy Winehouse | 2
+
+# Batch 4: country, folk and singer-songwriters
+Garth Brooks | 1
+Dolly Parton | 1
+Willie Nelson | 1
+Reba McEntire | 2
+Kenny Rogers | 2
+George Strait | 2
+Tim McGraw | 2
+Faith Hill | 2
+Blake Shelton | 2
+Luke Bryan | 2
+Keith Urban | 2
+Kenny Chesney | 2
+Toby Keith | 3
+Brad Paisley | 3
+Alan Jackson | 3
+Luke Combs | 2
+Chris Stapleton | 2
+Zach Bryan | 3
+Kacey Musgraves | 3
+Miranda Lambert | 2
+Rascal Flatts | 2
+Florida Georgia Line | 3
+The Chicks | 3
+Patsy Cline | 2
+Loretta Lynn | 2
+Hank Williams | 2
+Merle Haggard | 3
+Waylon Jennings | 3
+Glen Campbell | 3
+John Denver | 2
+Billy Ray Cyrus | 2
+Brooks & Dunn | 3
+Simon & Garfunkel | 2
+Paul Simon | 3
+Neil Diamond | 2
+Barry Manilow | 2
+Neil Young | 2
+Crosby, Stills & Nash | 3
+Joni Mitchell | 3
+Carole King | 3
+James Taylor | 3
+Cat Stevens | 3
+Van Morrison | 3
+Joe Cocker | 3
+Bonnie Raitt | 3
+Melissa Etheridge | 3
+Tracy Chapman | 3
+Sarah McLachlan | 3
+Jack Johnson | 3
+John Mayer | 2
+Jason Mraz | 3
+Stevie Nicks | 2
+Joan Jett | 3
+Pat Benatar | 3
+The Carpenters | 2
+Sonny & Cher | 2
+Olivia Newton-John | 2
+The Osmonds | 3
+Donny Osmond | 3
+The Monkees | 2
+Jimmy Buffett | 2
+Mumford & Sons | 2
+The Lumineers | 3
+Hozier | 3
+Noah Kahan | 3
+
+# Batch 5: crooners, jazz, classical and novelty
+Louis Armstrong | 1
+Frank Sinatra | 1
+Dean Martin | 2
+Bing Crosby | 2
+Nat King Cole | 2
+Ella Fitzgerald | 2
+Billie Holiday | 3
+Duke Ellington | 3
+Miles Davis | 3
+Tony Bennett | 2
+Michael Bublé | 2
+Josh Groban | 2
+Andrea Bocelli | 2
+Luciano Pavarotti | 2
+Mozart | 1
+Bach | 2
+Chopin | 3
+Tchaikovsky | 3
+Vivaldi | 3
+Yo-Yo Ma | 2
+Kenny G | 2
+Yanni | 3
+Enya | 2
+Liberace | 3
+Weird Al Yankovic | 1
+Barbra Streisand | 2
+Bette Midler | 3
+Liza Minnelli | 3
+Sammy Davis Jr. | 3
+Harry Belafonte | 3
+Chubby Checker | 3
+Frankie Valli | 3
+John Williams | 3
+Hans Zimmer | 3
+Andrew Lloyd Webber | 3
+
+# Batch 6: more pop, alternative and global acts
+Rick Astley | 2
+Michael Bolton | 3
+Paula Abdul | 2
+Ace of Base | 3
+Aqua | 3
+Savage Garden | 3
+Mandy Moore | 2
+Nelly Furtado | 3
+Jewel | 3
+Dido | 3
+Kate Bush | 3
+Annie Lennox | 3
+Eurythmics | 3
+Pet Shop Boys | 3
+a-ha | 2
+INXS | 3
+Robbie Williams | 2
+Lewis Capaldi | 3
+Ellie Goulding | 3
+Charli XCX | 2
+Halsey | 2
+Camila Cabello | 2
+Jason Derulo | 2
+Zayn | 3
+Benson Boone | 3
+Tate McRae | 3
+Rosé | 3
+Twenty One Pilots | 2
+Florence + the Machine | 3
+Vampire Weekend | 3
+The Black Keys | 3
+Owl City | 3
+Gorillaz | 2
+Beck | 3
+The Smashing Pumpkins | 3
+Westlife | 3
+Take That | 3
+Björk | 3
+Skrillex | 3
+Marshmello | 2
+Diplo | 3
+Tiësto | 3
+Moby | 3
+Celia Cruz | 3
+Rosalía | 3
+
+# Batch 7: reviewer top-up
+Jennifer Hudson | 2
+Jason Aldean | 3
+Thomas Rhett | 3
+Pentatonix | 3
+Lil Jon | 3
+Mark Ronson | 3
+Paul Anka | 3
+Johnny Mathis | 3
+Harry Connick Jr. | 3
+Bobby McFerrin | 3
+Adam Lambert | 3
+Maluma | 3

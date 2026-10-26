@@ -1,0 +1,479 @@
+# TV Shows: widely known series, animated and live action, all eras.
+# Format: Title | difficulty (1 easy, 2 medium, 3 hard)
+
+# Batch 1: sitcoms
+Friends | 1
+Seinfeld | 1
+The Office | 1
+Cheers | 2
+Frasier | 2
+The Simpsons | 1
+Family Guy | 1
+South Park | 1
+How I Met Your Mother | 2
+The Big Bang Theory | 1
+Modern Family | 1
+Parks and Recreation | 2
+Brooklyn Nine-Nine | 2
+Full House | 1
+The Fresh Prince of Bel-Air | 1
+Saved by the Bell | 1
+Family Matters | 2
+Home Improvement | 2
+Everybody Loves Raymond | 2
+The Golden Girls | 1
+I Love Lucy | 1
+The Brady Bunch | 1
+Happy Days | 2
+Gilligan's Island | 2
+The Jeffersons | 2
+All in the Family | 2
+M*A*S*H | 2
+Roseanne | 2
+Growing Pains | 3
+Who's the Boss? | 3
+Boy Meets World | 2
+Sister, Sister | 3
+Martin | 3
+Living Single | 3
+Will & Grace | 2
+That '70s Show | 2
+Malcolm in the Middle | 2
+Scrubs | 2
+Arrested Development | 2
+30 Rock | 2
+The King of Queens | 3
+Two and a Half Men | 2
+Everybody Hates Chris | 2
+The Middle | 2
+The Goldbergs | 2
+Black-ish | 2
+Abbott Elementary | 2
+Ted Lasso | 1
+Community | 2
+New Girl | 2
+Superstore | 3
+Young Sheldon | 2
+Last Man Standing | 3
+Curb Your Enthusiasm | 3
+Veep | 3
+Silicon Valley | 3
+The Good Place | 2
+Fresh Off the Boat | 3
+Bewitched | 2
+I Dream of Jeannie | 2
+The Munsters | 2
+Leave It to Beaver | 2
+The Andy Griffith Show | 2
+Laverne & Shirley | 2
+Mork & Mindy | 2
+Three's Company | 2
+Taxi | 3
+Diff'rent Strokes | 3
+Night Court | 3
+Perfect Strangers | 3
+ALF | 2
+Mad About You | 3
+The Wonder Years | 2
+Family Ties | 3
+Blossom | 3
+Reba | 3
+The Beverly Hillbillies | 2
+Green Acres | 3
+The Honeymooners | 2
+Mister Ed | 3
+Get Smart | 3
+Hogan's Heroes | 3
+The Partridge Family | 3
+Moonlighting | 3
+Blackadder | 3
+Keeping Up Appearances | 3
+The IT Crowd | 3
+Fawlty Towers | 3
+Absolutely Fabulous | 3
+Mr. Bean | 1
+Monty Python's Flying Circus | 3
+
+# Batch 2: kids and teen live action
+Hannah Montana | 1
+iCarly | 1
+Drake & Josh | 1
+That's So Raven | 1
+Lizzie McGuire | 2
+Wizards of Waverly Place | 2
+Even Stevens | 3
+Kenan & Kel | 2
+Zoey 101 | 2
+Victorious | 2
+Good Luck Charlie | 2
+Jessie | 3
+Austin & Ally | 3
+Sabrina the Teenage Witch | 2
+Clarissa Explains It All | 2
+Big Time Rush | 2
+Henry Danger | 2
+All That | 3
+Double Dare | 2
+Legends of the Hidden Temple | 3
+Goosebumps | 2
+Power Rangers | 1
+Sesame Street | 1
+Mister Rogers' Neighborhood | 2
+Pee-wee's Playhouse | 3
+Barney & Friends | 2
+Teletubbies | 1
+Blue's Clues | 1
+Dora the Explorer | 1
+Bob the Builder | 1
+Thomas & Friends | 1
+Paw Patrol | 1
+Peppa Pig | 1
+Bluey | 1
+The Muppet Show | 2
+Fraggle Rock | 3
+Reading Rainbow | 2
+Bill Nye the Science Guy | 2
+Arthur | 1
+Clifford the Big Red Dog | 2
+The Magic School Bus | 2
+Caillou | 2
+The Wiggles | 2
+Yo Gabba Gabba! | 2
+Daniel Tiger | 2
+Mickey Mouse Clubhouse | 2
+Doc McStuffins | 2
+PJ Masks | 2
+Cocomelon | 1
+Ms. Rachel | 2
+Little Einsteins | 3
+Schoolhouse Rock! | 2
+Muppet Babies | 2
+
+# Batch 3: cartoons
+SpongeBob SquarePants | 1
+Scooby-Doo | 1
+The Flintstones | 1
+The Jetsons | 1
+Looney Tunes | 1
+Tom and Jerry | 1
+Rugrats | 1
+Hey Arnold! | 2
+Doug | 2
+Rocko's Modern Life | 3
+Animaniacs | 2
+Pinky and the Brain | 2
+Tiny Toon Adventures | 3
+Darkwing Duck | 3
+DuckTales | 2
+Teenage Mutant Ninja Turtles | 1
+He-Man | 2
+She-Ra | 3
+ThunderCats | 3
+G.I. Joe | 2
+The Smurfs | 1
+Care Bears | 2
+My Little Pony | 1
+Strawberry Shortcake | 2
+The Powerpuff Girls | 1
+Dexter's Laboratory | 2
+Johnny Bravo | 2
+Courage the Cowardly Dog | 3
+Ed, Edd n Eddy | 3
+Samurai Jack | 3
+The Fairly OddParents | 2
+Jimmy Neutron | 2
+Danny Phantom | 2
+Kim Possible | 2
+Phineas and Ferb | 1
+Avatar: The Last Airbender | 2
+Adventure Time | 2
+Regular Show | 3
+Gravity Falls | 2
+Steven Universe | 3
+Teen Titans Go! | 2
+Dragon Ball Z | 2
+Sailor Moon | 2
+Naruto | 2
+One Piece | 3
+Attack on Titan | 3
+King of the Hill | 2
+Futurama | 1
+Bob's Burgers | 2
+Rick and Morty | 2
+American Dad! | 3
+Archer | 3
+BoJack Horseman | 3
+Daria | 3
+Recess | 2
+The Wild Thornberrys | 2
+CatDog | 2
+Popeye | 1
+Woody Woodpecker | 2
+The Pink Panther | 2
+Rocky and Bullwinkle | 2
+Speed Racer | 2
+Peanuts | 1
+The Proud Family | 2
+The Amazing World of Gumball | 3
+Invincible | 3
+
+# Batch 4: dramas and genre series
+Breaking Bad | 1
+Game of Thrones | 1
+The Sopranos | 2
+The Wire | 2
+Mad Men | 2
+Lost | 1
+Grey's Anatomy | 1
+ER | 2
+House | 2
+Law & Order | 1
+CSI | 1
+NCIS | 1
+Criminal Minds | 2
+Bones | 2
+Castle | 3
+The X-Files | 1
+24 | 2
+Prison Break | 2
+The Walking Dead | 1
+Stranger Things | 1
+The Crown | 1
+Downton Abbey | 2
+Yellowstone | 2
+Succession | 2
+This Is Us | 2
+Friday Night Lights | 2
+Gilmore Girls | 1
+Dawson's Creek | 2
+One Tree Hill | 2
+The O.C. | 2
+Gossip Girl | 1
+Beverly Hills, 90210 | 2
+Desperate Housewives | 2
+Ugly Betty | 2
+Glee | 1
+Heroes | 2
+Smallville | 2
+Buffy the Vampire Slayer | 2
+Charmed | 2
+Supernatural | 2
+The Vampire Diaries | 2
+Riverdale | 2
+Pretty Little Liars | 2
+Squid Game | 1
+Money Heist | 2
+Bridgerton | 1
+Wednesday | 1
+Ozark | 2
+Orange Is the New Black | 2
+House of Cards | 2
+The Handmaid's Tale | 2
+Westworld | 2
+Black Mirror | 2
+The Mandalorian | 1
+WandaVision | 2
+Loki | 2
+The Boys | 2
+The Bear | 2
+Severance | 2
+The White Lotus | 2
+House of the Dragon | 2
+Cobra Kai | 2
+Outer Banks | 2
+Emily in Paris | 2
+Virgin River | 3
+Grace and Frankie | 3
+Big Little Lies | 3
+Sherlock | 1
+Doctor Who | 1
+Call the Midwife | 3
+Peaky Blinders | 2
+Fleabag | 3
+Luther | 3
+Dallas | 2
+Dynasty | 3
+Knight Rider | 2
+The A-Team | 2
+Magnum, P.I. | 2
+Miami Vice | 2
+MacGyver | 2
+Baywatch | 1
+Starsky & Hutch | 3
+The Dukes of Hazzard | 2
+CHiPs | 3
+The Love Boat | 2
+Fantasy Island | 2
+Little House on the Prairie | 2
+The Waltons | 3
+Bonanza | 2
+Gunsmoke | 3
+Twin Peaks | 3
+Columbo | 2
+Matlock | 3
+Quantum Leap | 3
+Touched by an Angel | 3
+Walker, Texas Ranger | 2
+The Twilight Zone | 1
+Battlestar Galactica | 3
+Lost in Space | 2
+The Six Million Dollar Man | 2
+Alias | 3
+Chuck | 3
+Psych | 3
+Monk | 2
+Suits | 2
+Blue Bloods | 3
+Hawaii Five-0 | 2
+Chicago Fire | 3
+NYPD Blue | 3
+The Good Wife | 3
+Scandal | 3
+9-1-1 | 2
+The Good Doctor | 2
+Doogie Howser, M.D. | 2
+7th Heaven | 2
+Xena: Warrior Princess | 2
+Firefly | 3
+Fringe | 3
+Outlander | 2
+Once Upon a Time | 2
+Teen Wolf | 2
+The Umbrella Academy | 2
+Lucifer | 3
+Arrow | 3
+The Flash | 2
+Daredevil | 3
+Gotham | 3
+American Horror Story | 2
+The Haunting of Hill House | 3
+The Queen's Gambit | 2
+Vikings | 2
+True Detective | 3
+The Morning Show | 3
+Shogun | 3
+Reacher | 3
+Jack Ryan | 3
+Perry Mason | 3
+Unsolved Mysteries | 3
+
+# Batch 5: reality, game shows, talk and variety
+American Idol | 1
+The Voice | 1
+Survivor | 1
+The Bachelor | 1
+The Bachelorette | 2
+Big Brother | 2
+The Amazing Race | 2
+Dancing with the Stars | 1
+America's Got Talent | 1
+Jeopardy! | 1
+Wheel of Fortune | 1
+The Price Is Right | 1
+Family Feud | 1
+Deal or No Deal | 2
+Shark Tank | 1
+Top Chef | 2
+MasterChef | 2
+Chopped | 2
+Cake Boss | 2
+Kitchen Nightmares | 2
+Queer Eye | 2
+Project Runway | 2
+America's Next Top Model | 2
+RuPaul's Drag Race | 2
+Keeping Up with the Kardashians | 2
+The Real Housewives | 2
+Jersey Shore | 2
+The Osbournes | 3
+Love Island | 2
+The Masked Singer | 2
+The Great British Bake Off | 2
+Fear Factor | 2
+Wipeout | 2
+Fixer Upper | 2
+Property Brothers | 2
+House Hunters | 3
+Dirty Jobs | 2
+MythBusters | 2
+Deadliest Catch | 2
+Duck Dynasty | 2
+Pawn Stars | 2
+Storage Wars | 3
+Antiques Roadshow | 3
+Cops | 2
+Punk'd | 2
+Candid Camera | 3
+America's Funniest Home Videos | 2
+American Ninja Warrior | 2
+Supermarket Sweep | 3
+Let's Make a Deal | 3
+The Newlywed Game | 3
+Match Game | 3
+Hollywood Squares | 3
+Undercover Boss | 3
+Say Yes to the Dress | 2
+Love Is Blind | 2
+Selling Sunset | 3
+The Biggest Loser | 2
+Extreme Makeover: Home Edition | 3
+Trading Spaces | 3
+What Not to Wear | 3
+Hoarders | 2
+Dr. Phil | 2
+Judge Judy | 1
+The People's Court | 3
+MTV Cribs | 2
+The Real World | 3
+The Hills | 3
+Iron Chef | 2
+Diners, Drive-Ins and Dives | 2
+Nailed It! | 2
+Man v. Food | 3
+Top Gear | 2
+Planet Earth | 2
+Cosmos | 3
+Shark Week | 1
+This Old House | 3
+The Joy of Painting | 2
+Saturday Night Live | 1
+The Tonight Show | 2
+The Late Show | 3
+The Daily Show | 2
+The Oprah Winfrey Show | 2
+The Ellen DeGeneres Show | 2
+The View | 2
+Good Morning America | 2
+60 Minutes | 2
+Jimmy Kimmel Live! | 2
+The Colbert Report | 3
+Last Week Tonight | 3
+Whose Line Is It Anyway? | 2
+Mystery Science Theater 3000 | 3
+MADtv | 3
+In Living Color | 3
+Key & Peele | 3
+The Carol Burnett Show | 3
+The Ed Sullivan Show | 3
+American Bandstand | 3
+Soul Train | 2
+Monday Night Football | 2
+SportsCenter | 2
+
+# Batch 6: reviewer top-up (soaps, classic sitcoms, preschool)
+General Hospital | 2
+Days of Our Lives | 2
+The Young and the Restless | 2
+The Bold and the Beautiful | 3
+The Nanny | 2
+Sanford and Son | 3
+Good Times | 3
+Murphy Brown | 3
+Ghosts | 3
+The Mickey Mouse Club | 2
+Gabby's Dollhouse | 2
+Blippi | 2
+Sofia the First | 2
+Curious George | 2
+Wild Kratts | 3
+Married at First Sight | 3

@@ -1,0 +1,370 @@
+# Internet & Memes: online life, apps, slang and well-known evergreen memes.
+# Format: Phrase | difficulty (1 easy, 2 medium, 3 hard)
+
+# Batch 1: apps, sites and services
+Google | 1
+YouTube | 1
+Facebook | 1
+Instagram | 1
+TikTok | 1
+Twitter | 1
+Snapchat | 1
+Pinterest | 2
+Reddit | 2
+LinkedIn | 2
+Wikipedia | 1
+Netflix | 1
+Spotify | 1
+eBay | 2
+Craigslist | 2
+WhatsApp | 1
+Zoom | 1
+FaceTime | 1
+Skype | 2
+Uber | 1
+Venmo | 2
+PayPal | 2
+Etsy | 2
+Yelp | 2
+Tumblr | 2
+MySpace | 2
+AOL | 2
+Yahoo! | 2
+Gmail | 1
+Siri | 1
+Alexa | 1
+ChatGPT | 1
+Vine | 2
+BeReal | 3
+Duolingo | 1
+Google Maps | 1
+Waze | 3
+Airbnb | 2
+DoorDash | 2
+Napster | 3
+LimeWire | 3
+Hotmail | 2
+AOL Instant Messenger | 3
+Ask Jeeves | 3
+Google Translate | 2
+Google Earth | 2
+Street View | 2
+Photoshop | 2
+MS Paint | 2
+Clippy | 3
+Dropbox | 3
+Telegram | 3
+Pandora | 3
+SoundCloud | 3
+Wi-Fi | 1
+Bluetooth | 1
+World Wide Web | 1
+Search Engine | 1
+Social Media | 1
+Smartphone | 1
+Smartwatch | 2
+Webcam | 1
+Router | 2
+Hotspot | 2
+Smart Speaker | 2
+AI Chatbot | 2
+Dogecoin | 2
+Bitcoin | 1
+Crypto | 2
+NFT | 2
+Blockchain | 2
+
+# Batch 2: social media life
+Selfie | 1
+Hashtag | 1
+Emoji | 1
+GIF | 1
+Meme | 1
+Viral Video | 1
+Going Viral | 1
+Influencer | 1
+Followers | 1
+Like Button | 1
+Unfollow | 2
+Unfriend | 2
+Retweet | 2
+Repost | 2
+Comment Section | 1
+Slide into the DMs | 2
+Direct Message | 1
+Group Chat | 1
+Read Receipt | 2
+Typing Bubble | 2
+Left on Read | 2
+Ghosting | 2
+Profile Picture | 1
+Livestream | 1
+Going Live | 2
+Reels | 2
+Photo Filter | 1
+Dog Filter | 2
+Selfie Stick | 1
+Ring Light | 2
+Unboxing Video | 2
+Reaction Video | 2
+Mukbang | 3
+ASMR | 2
+Vlog | 2
+Podcast | 1
+Subscribe Button | 2
+Smash That Like Button | 2
+Clickbait | 2
+Thumbnail | 2
+The Algorithm | 2
+For You Page | 2
+Trending | 1
+Doomscrolling | 2
+Screen Time | 1
+Notification | 1
+Push Notification | 2
+Dark Mode | 1
+Airplane Mode | 1
+Low Battery | 1
+Wi-Fi Password | 1
+Password Reset | 2
+Two-Factor Authentication | 3
+Captcha | 2
+Pop-up Ad | 2
+Terms and Conditions | 2
+Spam Folder | 2
+Spam Email | 1
+Reply All | 2
+Autocorrect | 1
+All Caps | 2
+Caps Lock | 2
+Copy and Paste | 1
+Screenshot | 1
+Screen Recording | 2
+Crying Laughing Emoji | 2
+Fire Emoji | 2
+Skull Emoji | 3
+Poop Emoji | 1
+Facepalm | 1
+Shrug Emoji | 2
+Content Creator | 1
+YouTuber | 1
+TikToker | 2
+Podcaster | 2
+Blogger | 2
+Username | 1
+Password | 1
+Log Out | 1
+Sign Up | 1
+Verified Checkmark | 2
+Unsubscribe | 2
+Inbox | 1
+Ctrl+Alt+Delete | 2
+Software Update | 1
+Phone Addiction | 2
+Digital Detox | 2
+Online Shopping | 1
+Add to Cart | 1
+Free Shipping | 1
+Tracking Number | 2
+Five-Star Review | 2
+Video Call | 1
+Zoom Meeting | 1
+You're on Mute | 1
+Virtual Background | 2
+Work from Home | 1
+Email | 1
+Text Message | 1
+Voicemail | 1
+Voice Memo | 2
+Google It | 1
+Fact Check | 2
+Hot Take | 2
+Sponsored Post | 2
+Link in Bio | 2
+Duck Face | 2
+Swipe Up | 2
+Double Tap | 2
+Tag a Friend | 2
+Follow Back | 2
+Meme Page | 2
+TikTok Dance | 1
+Lip Sync | 2
+Green Screen | 2
+Auto-Tune | 2
+Face Swap | 2
+Deepfake | 3
+Text-to-Speech | 3
+Bitmoji | 3
+Phishing | 2
+Hacker | 1
+Firewall | 2
+Computer Virus | 1
+Malware | 2
+Blue Screen of Death | 2
+Error 404 | 2
+Page Not Found | 2
+Buffering | 1
+Spinning Wheel | 2
+Incognito Mode | 2
+Browser History | 2
+Bookmark | 2
+Search Bar | 1
+Pop-up Blocker | 3
+Cyberspace | 3
+Surfing the Web | 2
+Download | 1
+Upload | 1
+Streaming | 1
+Internet Troll | 1
+Keyboard Warrior | 2
+Lurker | 3
+Spoiler Alert | 1
+Life Hack | 1
+Binge-Watch | 1
+Fandom | 2
+Fan Fiction | 2
+Emoticon | 2
+Catfish | 2
+Photobomb | 1
+Humblebrag | 3
+
+# Batch 3: online slang
+LOL | 1
+OMG | 1
+BRB | 1
+BFF | 1
+FOMO | 2
+YOLO | 1
+Throwback Thursday | 1
+FYI | 2
+IMHO | 3
+TL;DR | 2
+SMH | 2
+ICYMI | 3
+IRL | 2
+Rizz | 2
+No Cap | 2
+Bussin' | 3
+Slay | 2
+Sus | 1
+Lit | 2
+Salty | 2
+Stan | 2
+Vibe Check | 2
+Main Character Energy | 2
+It's Giving | 3
+Understood the Assignment | 3
+Living Rent Free | 3
+Touch Grass | 2
+Delulu | 3
+Glow Up | 2
+Bestie | 2
+Hits Different | 3
+Lowkey | 2
+Spill the Tea | 2
+Throw Shade | 2
+Clapback | 3
+Gen Z | 2
+Millennial | 2
+Gen Alpha | 2
+iPad Kid | 2
+Skibidi | 2
+Brain Rot | 2
+Chef's Kiss | 2
+Mic Drop | 1
+Adulting | 2
+Bae | 2
+Squad Goals | 2
+On Fleek | 2
+Yeet | 2
+Oof | 2
+Bruh | 1
+Cringe | 1
+Shook | 3
+Six Seven | 3
+Very Demure | 3
+Brat Summer | 3
+Girl Dinner | 3
+Emotional Damage | 2
+Plot Twist | 1
+Epic Fail | 1
+Awkward Silence | 2
+Ship It | 3
+
+# Batch 4: evergreen memes and viral moments
+Rickroll | 1
+Grumpy Cat | 1
+Doge | 2
+Nyan Cat | 2
+Keyboard Cat | 3
+Dancing Baby | 3
+Planking | 2
+The Floor Is Lava | 1
+Ice Bucket Challenge | 1
+Mannequin Challenge | 2
+Harlem Shake | 2
+Dabbing | 2
+The Floss | 2
+Distracted Boyfriend | 2
+This Is Fine | 2
+Success Kid | 3
+Trollface | 3
+Rage Comics | 3
+Leeroy Jenkins | 3
+Charlie Bit My Finger | 2
+Double Rainbow | 2
+Sneezing Panda | 3
+Dramatic Chipmunk | 3
+Numa Numa | 3
+Salt Bae | 2
+Evil Kermit | 3
+Woman Yelling at a Cat | 2
+Hide the Pain Harold | 3
+Surprised Pikachu | 2
+Is This a Pigeon? | 3
+Expanding Brain | 3
+Change My Mind | 3
+Stonks | 2
+Big Chungus | 3
+Baby Yoda | 1
+Lolcats | 2
+I Can Has Cheezburger? | 3
+Cat Videos | 1
+Doggo | 2
+Floof | 3
+Yanny or Laurel | 2
+The Dress | 2
+Hamster Dance | 3
+Peanut Butter Jelly Time | 2
+What Does the Fox Say? | 2
+Bottle Flip Challenge | 2
+Running Man Challenge | 2
+Haul Video | 2
+Get Ready with Me | 2
+Prank Video | 2
+Fail Compilation | 2
+Lo-fi Beats | 3
+Skibidi Toilet | 2
+Moo Deng | 2
+Labubu | 2
+Wholesome Meme | 2
+Dad Joke | 1
+Family Group Chat | 2
+Internet Famous | 2
+Fifteen Minutes of Fame | 2
+Breaking the Internet | 2
+Viral Challenge | 1
+Hashtag Challenge | 2
+Online Quiz | 2
+Personality Test | 2
+Like and Subscribe | 1
+First Comment | 2
+Dislike Button | 2
+Wikipedia Rabbit Hole | 2
+Late Night Scrolling | 2
+Before and After | 2
+Day in the Life | 2
+Photo Dump | 2
+Throwback Photo | 2
+Overshare | 2
+Internet Outage | 2
