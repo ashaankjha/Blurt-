@@ -37,7 +37,7 @@ A release build (`eas build --profile preview`) runs the same flows without Metr
 
 Notes and known risks (the flows were written by reading the screens; they have not been run on a device yet):
 
-- **iOS steppers.** The design-system `Stepper` makes its whole row one accessible "adjustable" element. XCUITest (and so Maestro on iOS) hides the children of an accessible element, so `settings-target-dec` / `setup-target-dec` may not be found on iOS. Android is unaffected. If it bites, `src/ui` can expose the +/- buttons to automation (e.g. keep the row `accessible` only when a screen reader is on), or the flows can tap by coordinates.
+- **Steppers.** The design-system `Stepper` exposes `<id>-dec`, `<id>-inc` and `<id>-value` as their own accessible elements, outside the adjustable `<id>` element (the label, which takes VoiceOver/TalkBack increment/decrement). XCUITest hides the children of an accessible element, so this layout keeps the buttons reachable by Maestro on iOS. `src/ui/components.test.tsx` checks that no Stepper control sits inside an accessible element.
 - The fuse-range swipes in `setup-custom-game.yaml` are `optional`: if the slider thumbs don't move, the round still ends within 75 s.
 - Native alerts: button text is matched case-insensitively (`(?i)reset`) because Android renders buttons in caps.
 
@@ -58,10 +58,10 @@ What it does:
 
 The only use of the `window.__blurt` hooks: shortening the fuse to 2-3 s (the UI floor is 15 s) and reading state for assertions. Every catch comes from the real store fuse loop; no phase is faked.
 
-Options: `BLURT_WEB_DIR=<dir>` reuses an existing E2E export (skips step 1); `HEADED=1` shows the browser; `KEEP_EXPORT=1` keeps the temporary export; `STRICT_NETWORK=1` also fails on the tolerated audio re-reads below.
+Options: `BLURT_WEB_DIR=<dir>` reuses an existing E2E export (skips step 1); `HEADED=1` shows the browser; `KEEP_EXPORT=1` keeps the temporary export; `STRICT_NETWORK=1` also fails on any re-read of a bundled sound file (see below); CI and QA run with it.
 
 ### Network check
 
-During play the page is offline, the static server must log zero hits, and the page must not try any request, with one tolerated, documented exception on web: expo-audio's `<audio>` elements re-read a bundled sound file they were created with at launch (same origin, `/assets/.../*.wav`, resource type `media`; online Chromium revalidates them with HTTP 304, offline they fail silently and play continues), plus `blob:` URLs (in memory). Native builds read sounds from the app binary, so this is web-only. It would go away if `src/audio` preloaded every sound (not only the buzzers) into expo-audio's cache on web.
+During play the page is offline, the static server must log zero hits, and the page must not try any network request. `blob:` (and `data:`) URLs are in memory and always allowed: on web, `src/audio` preloads every sound (ticks, sfx and buzzers) into expo-audio's blob cache at launch and then re-points each player at its cached copy, so replays never go back to the server. Without `STRICT_NETWORK=1` the script still tolerates (and reports) an `<audio>` element re-reading a bundled `/assets/.../*.wav|m4a` file, which is what happened before that fix; with it, any such request fails the run. Native builds read sounds from the app binary.
 
 One web-only fix is already in place: the root layout prefetches the code-split in-game routes (`round`, `caught`, `scoreboard`, `win`) at launch, because expo-router splits routes on web by default (`asyncRoutes`). Setting `['expo-router', { asyncRoutes: false }]` in `app.config.ts` would make that unnecessary.

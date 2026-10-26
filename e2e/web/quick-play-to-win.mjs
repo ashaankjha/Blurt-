@@ -255,16 +255,16 @@ try {
   log(`played ${rounds} caught round(s) to the win`);
 
   // Network check. The page is offline during play, the static server must log zero hits, and
-  // the page must not even try a request, with one documented exception (unless STRICT_NETWORK=1):
-  // on web only, expo-audio's <audio> elements re-read a bundled sound file they were created with
-  // at launch (same origin, under /assets/, resource type "media"). Online, Chromium revalidates
-  // them (HTTP 304); offline they fail silently and the game is unaffected (audio never throws).
-  // blob: URLs are in-memory. Native builds read sounds from the app binary, so this is web-only.
-  // Fix belongs in src/audio (preload every sound into the blob cache on web): see e2e/README.md.
+  // the page must not even try a network request. blob: URLs are in-memory (src/audio preloads
+  // every sound into expo-audio's blob cache on web), so they are never network.
+  // Without STRICT_NETWORK=1, one legacy exception is tolerated and reported: an <audio> element
+  // re-reading a bundled sound file (same origin, under /assets/, resource type "media"). The
+  // full web preload in src/audio removed those; STRICT_NETWORK=1 fails on any.
   const origin = new URL(server.url).origin;
   const bundledSound = (r) =>
     r.type === 'media' && r.method === 'GET' && r.url.startsWith(`${origin}/assets/`) && /\.(wav|m4a)$/.test(r.url);
-  const allowed = (r) => !process.env.STRICT_NETWORK && (r.url.startsWith('blob:') || bundledSound(r));
+  const inMemory = (r) => r.url.startsWith('blob:') || r.url.startsWith('data:');
+  const allowed = (r) => inMemory(r) || (!process.env.STRICT_NETWORK && bundledSound(r));
   const offending = requests.filter((r) => !allowed(r));
   const tolerated = requests.filter(allowed);
   assert(serverHits.length === 0, `server saw no request during play, got:\n  ${serverHits.join('\n  ')}`);
@@ -272,9 +272,8 @@ try {
     offending.length === 0,
     `no network requests during play, got:\n  ${offending.map((r) => `${r.type} ${r.method} ${r.url}`).join('\n  ')}`,
   );
-  log(
-    `network: 0 requests during play (offline; ${tolerated.length} in-page audio re-reads of bundled sounds tolerated)`,
-  );
+  const reReads = tolerated.filter((r) => !inMemory(r)).length;
+  log(`network: 0 requests during play (offline; ${reReads} audio re-reads of bundled sounds tolerated)`);
   // Offline, Chromium logs "Failed to load resource" for the tolerated audio re-reads above.
   const toleratedUrls = new Set(tolerated.map((r) => r.url));
   const realErrors = errors.filter((e) => !(/Failed to load resource/.test(e.text) && toleratedUrls.has(e.url)));
