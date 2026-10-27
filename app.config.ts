@@ -42,5 +42,9 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     ['expo-audio', { microphonePermission: false, recordAudioAndroid: false, enableBackgroundPlayback: false }],
     ['expo-splash-screen', { image: './assets/splash-icon.png', imageWidth: 200, backgroundColor: '#FF4F64' }],
   ],
-  experiments: { typedRoutes: true },
+  experiments: {
+    typedRoutes: true,
+    // Web only: serve from a subpath (GitHub Pages uses /<repo>). Empty for native and local web.
+    baseUrl: process.env.EXPO_BASE_URL ?? '',
+  },
 });
